@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: cover.aux
+A level-1 auxiliary file: contents.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: biblio.aux
+The style file: plainnat.bst
+Database file #1: main.bib
+Warning--I didn't find a database entry for "patterson:risc"
+Warning--I didn't find a database entry for "rad83"
+Warning--I didn't find a database entry for "ellis:bulldog"
+Warning--I didn't find a database entry for "pet87"
+Warning--I didn't find a database entry for "coutant:precision-compilers"
+Warning--I didn't find a database entry for "gib86"
+Warning--I didn't find a database entry for "thornton:cdc6600"
+Warning--I didn't find a database entry for "magenheimer:precision"
+Warning--I didn't find a database entry for "byte:i860"
+Warning--I didn't find a database entry for "colwell:vliw"
+Warning--empty booktitle in Zehr2001
+You've used 61 entries,
+            2773 wiz_defined-function locations,
+            1179 strings with 26995 characters,
+and the built_in function-call counts, 41546 in all, are:
+= -- 3784
+> -- 3298
+< -- 18
++ -- 1104
+- -- 1041
+* -- 4222
+:= -- 6685
+add.period$ -- 344
+call.type$ -- 61
+change.case$ -- 530
+chr.to.int$ -- 59
+cite$ -- 123
+duplicate$ -- 1277
+empty$ -- 2517
+format.name$ -- 1126
+if$ -- 8361
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 61
+newline$ -- 473
+num.names$ -- 244
+pop$ -- 787
+preamble$ -- 1
+purify$ -- 469
+quote$ -- 0
+skip$ -- 1056
+stack$ -- 0
+substring$ -- 1681
+swap$ -- 128
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 671
+warning$ -- 1
+while$ -- 297
+width$ -- 0
+write$ -- 1121
+(There were 11 warnings)

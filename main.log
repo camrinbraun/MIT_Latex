@@ -1,0 +1,1028 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  6 SEP 2015 13:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(./mitthesis.cls
+Document Class: mitthesis 1999/10/20
+\vithesis=\count79
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+)
+Thesis document copyright MIT unless otherwise (manually) specified
+\@titlesupervisor=\box26
+\@abstractsupervisor=\box27
+\c@savepage=\count89
+) (./lgrind.sty
+Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
+\lc@unt=\count90
+\ln@xt=\count91
+\LGnuminterval=\count92
+\LGindent=\skip43
+\LGsloppy=\skip44
+\procbox=\box28
+\ls@far=\box29
+\tb@x=\box30
+\TBw@d=\dimen103
+\@ts=\dimen104
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)<<t1.cmap>>)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
+
+\files=all
+Including all files.
+(./main.aux (./cover.aux) (./contents.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./biblio.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+\openout2 = `cover.aux'.
+
+ (./cover.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
+<<oms.cmap>>
+[1
+
+
+
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
+
+] (./abstract.tex) [3
+
+] [4
+
+]) [5]
+\openout2 = `contents.aux'.
+
+ (./contents.tex [6
+
+
+
+] (./main.toc<<ot1.cmap>><<oml.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+Overfull \hbox (1.66795pt too wide) in paragraph at lines 12--12
+ [] []\T1/cmr/bx/n/12 Identifying ref-er-ence genes with sta-ble ex-pres-sion f
+rom high through- 
+ []
+
+[7])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [8] (./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [9
+
+] [10
+
+] (./main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+) [11]
+\openout2 = `chap1.aux'.
+
+ (./chap1.tex [12
+
+
+
+]
+Chapter 1.
+
+Package natbib Warning: Citation `patterson:risc' on page 13 undefined on input
+ line 21.
+
+
+Package natbib Warning: Citation `rad83' on page 13 undefined on input line 21.
+
+
+
+Package natbib Warning: Citation `ellis:bulldog' on page 13 undefined on input 
+line 29.
+
+
+Package natbib Warning: Citation `pet87' on page 13 undefined on input line 29.
+
+
+
+Package natbib Warning: Citation `coutant:precision-compilers' on page 13 undef
+ined on input line 29.
+
+
+Package natbib Warning: Citation `gib86' on page 13 undefined on input line 33.
+
+
+[13]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 65.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 65.
+
+
+LaTeX Warning: Reference `exponent-format' on page 14 undefined on input line 6
+5.
+
+
+LaTeX Warning: Reference `mantissa-format' on page 14 undefined on input line 6
+5.
+
+
+LaTeX Warning: Reference `unnorm-math' on page 14 undefined on input line 66.
+
+
+Package natbib Warning: Citation `thornton:cdc6600' on page 14 undefined on inp
+ut line 81.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 81.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+
+LaTeX Warning: Reference `opt:be' on page 15 undefined on input line 120.
+
+[15]
+
+LaTeX Warning: Reference `range-tracking' on page 16 undefined on input line 14
+9.
+
+[16]
+
+Package natbib Warning: Citation `magenheimer:precision' on page 17 undefined o
+n input line 193.
+
+[17]
+
+Package natbib Warning: Citation `byte:i860' on page 18 undefined on input line
+ 203.
+
+
+Package natbib Warning: Citation `ellis:bulldog' on page 18 undefined on input 
+line 216.
+
+
+Package natbib Warning: Citation `colwell:vliw' on page 18 undefined on input l
+ine 216.
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [18]
+
+Package natbib Warning: Citation `gib86' on page 19 undefined on input line 237
+.
+
+) [19]
+\openout2 = `chap2.aux'.
+
+ (./chap2.tex [20
+
+
+
+]
+Chapter 2.
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]) [35]
+[36]
+\openout2 = `chap3.aux'.
+
+ (./chap3.tex
+Chapter 3.
+[37
+
+
+
+] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51])
+[52]
+\openout2 = `biblio.aux'.
+
+ (./biblio.tex (./main.bbl
+Underfull \hbox (badness 1448) in paragraph at lines 10--20
+[]\T1/cmr/m/n/12 Andrew E Allen, Julie Laroche, Uma Ma-h-eswari, Markus Lom-mer
+, Nico-las
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 10--20
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=24924
+47&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 23--32
+[]\T1/cmr/m/n/12 Stephen F Altschul, Thomas L Mad-den, Ale-jan-dro A Schäf-fer,
+ Jinghui
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 23--32
+\T1/cmr/m/n/12 Zhang, Zheng Zhang, Webb Miller, and David J Lip-man.  Gapped
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 23--32
+\T1/cmr/m/n/12 BLAST and PSI-BLAST: a new gen-er-a-tion of pro-tein database se
+arch
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 23--32
+\T1/cmr/m/n/12 pro-grams.  \T1/cmr/m/it/12 Nu-cleic Acids Re-search\T1/cmr/m/n/
+12 , 25(17):3389--3402, Septem-ber 1997.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--32
+\T1/cmr/m/n/12 ISSN 0305-1048, 1362-4962.  doi: 10.1093/nar/25.17.3389.  URL
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 35--44
+[]\T1/cmr/m/n/12 Janine Antonov, Dar-lene R Gold-stein, An-drea Oberli, Anna Ba
+ltzer, Marco
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 35--44
+\T1/cmr/m/n/12 Pirotta, Achim Fleis-chmann, Hans J Al-ter-matt, and Rolf Jaggi.
+  Re-li-
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 35--44
+\T1/cmr/m/n/12 time PCR de-pend on short am-pli-cons and a proper nor-mal-iza-t
+ion.  \T1/cmr/m/it/12 Lab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--71
+\T1/cmr/m/n/12 URL \T1/cmtt/m/n/12 http://www.sciencemag.org/content/306/5693/7
+9.abstract
+ []
+
+[53
+
+
+
+]
+Overfull \hbox (50.57564pt too wide) in paragraph at lines 96--106
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2008.005
+71.x/abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 108--117
+\T1/cmr/m/n/12 (prym-ne-sio-phyceae): nitrogen-metabolism genes and their ex-pr
+es-sion in re-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 108--117
+\T1/cmr/m/n/12 sponse to ex-ter-nal ni-tro-gen sources.  \T1/cmr/m/it/12 Jour-n
+al of Phy-col-ogy\T1/cmr/m/n/12 , 46(2):266--277,
+ []
+
+
+Overfull \hbox (50.57564pt too wide) in paragraph at lines 108--117
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2010.008
+09.x/abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 119--128
+[]\T1/cmr/m/n/12 Philip E. Cald-well, Mag-dalena Walkiewicz, and Michael Stern.
+  Ras ac-tiv-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 119--128
+\T1/cmr/m/n/12 vel-op-men-tal rate via ecdysone re-lease.  \T1/cmr/m/it/12 Cur-
+rent Bi-ol-ogy\T1/cmr/m/n/12 , 15(20):1785--1795,
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 119--128
+\T1/cmr/m/n/12 Oc-to-ber 2005.  ISSN 0960-9822.  doi: 10.1016/j.cub.2005.09.011
+.  URL
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 139--146
+[]\T1/cmr/m/n/12 Jeffrey S Coker and Eric Davies.  Se-lec-tion of can-di-date h
+ouse-keep-
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 139--146
+\T1/cmr/m/n/12 ing con-trols in tomato plants us-ing EST data.  \T1/cmr/m/it/12
+ BioTech-niques\T1/cmr/m/n/12 , 35(4):
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 139--146
+\T1/cmr/m/n/12 740--742, 744, 746 pas-sim, Oc-to-ber 2003.  ISSN 0736-6205.  UR
+L
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 149--156
+\T1/cmr/m/n/12 Wolf-Rüdiger Scheible.  Genome-wide iden-ti-fi-ca-tion and test-
+ing of su-pe-
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 149--156
+\T1/cmr/m/n/12 rior ref-er-ence genes for tran-script nor-mal-iza-tion in Ara-b
+idop-sis.  \T1/cmr/m/it/12 Plant
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 149--156
+\T1/cmr/m/it/12 Phys-i-ol-ogy\T1/cmr/m/n/12 , 139(1):5 --17, 2005.  doi: 10.110
+4/pp.105.063743.  URL
+ []
+
+[54]
+Underfull \hbox (badness 1354) in paragraph at lines 177--188
+\T1/cmr/m/n/12 de Vries, Ate G. J. van der Zee, Ger-ard J. te Meer-man, and Arj
+a ter
+ []
+
+
+Overfull \hbox (195.47638pt too wide) in paragraph at lines 177--188
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=19763
+90&tool=pmcentrez&rendertype=abstract
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 177--188
+\T1/cmtt/m/n/12 UR - http://dx.plos.org/10.1371/journal.pone.0000898,http://dx.
+plos.org/10.1371/journal.pone.0000898\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 190--198
+[]\T1/cmr/m/n/12 Patrik D'haeseleer.  How does gene ex-pres-sion clus-ter-ing w
+ork?  \T1/cmr/m/it/12 Na-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 190--198
+\T1/cmr/m/it/12 ture biotech-nol-ogy\T1/cmr/m/n/12 , 23(12):1499--501, De-cem-b
+er 2005.  ISSN 1087-0156.
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 214--225
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=33155
+73&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 228--236
+[]\T1/cmr/m/n/12 Thomas Flatt, Kyung-Jin Min, Ce-cilia D'Alterio, Eu-ge-nia Vil
+la-Cuesta,
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 228--236
+\T1/cmr/m/n/12 John Cum-bers, Ruth Lehmann, D. Leanne Jones, and Marc Tatar.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--236
+\T1/cmr/m/n/12 <i>Drosophila</i> germ-line mod-u-la-tion of in-sulin sig-nal-in
+g and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--236
+\T1/cmr/m/n/12 lifes-pan.  \T1/cmr/m/it/12 Pro-ceed-ings of the Na-tional Acade
+my of Sci-ences\T1/cmr/m/n/12 , 105
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 228--236
+\T1/cmr/m/n/12 (17):6368 --6373, April 2008.  doi: 10.1073/pnas.0709128105.  UR
+L
+ []
+
+[55]
+Underfull \hbox (badness 1688) in paragraph at lines 256--265
+\T1/cmr/m/n/12 i-mum us-ing real-time PCR.  \T1/cmr/m/it/12 Eu-ro-pean jour-nal
+ of pro-tis-tol-ogy\T1/cmr/m/n/12 , 48(3):199--
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 276--285
+[]\T1/cmr/m/n/12 Adam B Kustka, An-drew E Allen, and François M. M Morel.  Se-
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 276--285
+\T1/cmr/m/n/12 quence anal-y-sis and tran-scrip-tional reg-u-la-tion of iron ac
+-qui-si-tion genes
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 276--285
+\T1/cmr/m/n/12 in two ma-rine di-atoms.  \T1/cmr/m/it/12 Jour-nal of Phy-col-og
+y\T1/cmr/m/n/12 , 43(4):715--729, Au-gust
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 276--285
+\T1/cmr/m/n/12 2007.  ISSN 1529-8817.  doi: 10.1111/j.1529-8817.2007.00359.x.  
+URL
+ []
+
+
+Overfull \hbox (130.83104pt too wide) in paragraph at lines 276--285
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com.libproxy.mit.edu/doi/10.1111/j.1
+529-8817.2007.00359.x/full\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 288--296
+[]\T1/cmr/m/n/12 Dave Lanoix, Andrée-Anne La-casse, Joey St-Pierre, Sean C. Tay
+-lor, Maude
+ []
+
+[56]
+Underfull \hbox (badness 1005) in paragraph at lines 342--350
+\T1/cmr/m/n/12 1729--1743, 2006.  ISSN 00243590.  doi: 10.4319/lo.2006.51.4.172
+9.  URL
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 353--363
+\T1/cmr/m/n/12 Joël Nar-geot, Ming Lei, De-nis Es-cande, and So-phie De-molombe
+.  Spe-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 353--363
+\T1/cmr/m/n/12 cific pat-tern of ionic chan-nel gene ex-pres-sion as-so-ci-ated
+ with pace-maker
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 353--363
+\T1/cmr/m/n/12 ac-tiv-ity in the mouse heart.  \T1/cmr/m/it/12 Jour-nal of Phys
+-i-ol-ogy\T1/cmr/m/n/12 , 562(1):223--234, Jan-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 353--363
+\T1/cmr/m/n/12 uary 2005.  ISSN 1469-7793.  doi: 10.1113/jphys-iol.2004.074047.
+  URL
+ []
+
+
+Overfull \hbox (25.88167pt too wide) in paragraph at lines 353--363
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2004.074047
+/abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 374--384
+[]\T1/cmr/m/n/12 Patrick J McGinn and François M. M Morel.  Ex-pres-sion and re
+g-u-
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 374--384
+\T1/cmr/m/n/12 la-tion of car-bonic an-hy-drases in the ma-rine di-atom <i>Thal
+assiosira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--384
+\T1/cmr/m/n/12 pseudo-nana</i> and in nat-u-ral phy-to-plank-ton as-sem-blages 
+from
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 374--384
+\T1/cmr/m/n/12 Great Bay, New Jer-sey.  \T1/cmr/m/it/12 Phys-i-olo-gia Plan-tar
+um\T1/cmr/m/n/12 , 133(1):78--91, May
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 374--384
+\T1/cmr/m/n/12 2008a.  ISSN 1399-3054.  doi: 10.1111/j.1399-3054.2007.01039.x. 
+ URL
+ []
+
+
+Overfull \hbox (155.52501pt too wide) in paragraph at lines 374--384
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com.libproxy.mit.edu/doi/10.1111/j.1
+399-3054.2007.01039.x/abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 386--393
+[]\T1/cmr/m/n/12 Patrick J. McGinn and François M.M. Morel.  Ex-pres-sion and i
+n-hi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--393
+\T1/cmr/m/n/12 bi-tion of the car-boxy-lat-ing and de-car-boxy-lat-ing en-zymes
+ in pho-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--393
+\T1/cmr/m/n/12 syn-thetic C4 path-way of ma-rine di-atoms.  \T1/cmr/m/it/12 Pla
+nt Phys-i-ol-ogy\T1/cmr/m/n/12 , 146
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 386--393
+\T1/cmr/m/n/12 (1):300 --309, Jan-uary 2008b.  doi: 10.1104/pp.107.110569.  URL
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 397--410
+[]\T1/cmr/m/n/12 Thomas Mock, Manoj Pra-tim Samanta, Vaughn Iver-son, Chris Ber
+thi-aume,
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 397--410
+\T1/cmr/m/n/12 durant, Kathryn Rich-mond, Matthew Rode-sch, Toivo Kallas, Ed-wa
+rd L.
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 397--410
+\T1/cmr/m/n/12 nana iden-ti-fies genes in-volved in sil-i-con bio-pro-cesses.  
+\T1/cmr/m/it/12 Pro-ceed-ings of the
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 397--410
+\T1/cmr/m/it/12 Na-tional Academy of Sci-ences of the United States of Amer-ica
+\T1/cmr/m/n/12 , 105(5):
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--410
+\T1/cmr/m/n/12 URL \T1/cmtt/m/n/12 http://www.pnas.org/content/105/5/1579.abstr
+act
+ []
+
+
+Overfull \hbox (470.37312pt too wide) in paragraph at lines 397--410
+\T1/cmtt/m/n/12 http://www.pnas.org/content/105/5/1579.long http://www.pubmedce
+ntral.nih.gov/articlerender.fcgi?artid=2234187&tool=pmcentrez&rendertype=abstra
+ct\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 412--420
+[]\T1/cmr/m/n/12 J Keith Moore.  Up-per ocean ecosys-tem dy-nam-ics and iron cy
+-cling in
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 412--420
+\T1/cmr/m/n/12 a global three-dimensional model.  \T1/cmr/m/it/12 Global Bio-ge
+o-chem-i-cal Cy-cles\T1/cmr/m/n/12 , 18(4):
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 412--420
+\T1/cmr/m/n/12 1--21, 2004.  ISSN 0886-6236.  doi: 10.1029/2004GB002220.  URL
+ []
+
+[57]
+Underfull \hbox (badness 2980) in paragraph at lines 422--429
+\T1/cmr/m/n/12 based ap-proaches to un-der-stand-ing phos-pho-rus de-pri-va-tio
+n re-sponses and
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 422--429
+\T1/cmr/m/n/12 PSR1 con-trol in <i>Chlamydomonas rein-hardtii</i>.  \T1/cmr/m/i
+t/12 Eu-kary-otic Cell\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 422--429
+\T1/cmr/m/n/12 5(1):26 --44, Jan-uary 2006.  doi: 10.1128/EC.5.1.26-44.2006.  U
+RL
+ []
+
+
+Overfull \hbox (152.26193pt too wide) in paragraph at lines 432--443
+\T1/cmtt/m/n/12 http://dx.doi.org/10.1371/journal.pone.0009688,http://dx.doi.or
+g/10.1371/journal.pone.0009688
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 432--443
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=28373
+91&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 445--453
+[]\T1/cmr/m/n/12 Nathalie Nicot, Jean-François Haus-man, Lu-cien Hoff-mann, and
+ Danièle Ev-
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 445--453
+\T1/cmr/m/n/12 ers.  House-keep-ing gene se-lec-tion for real-time RT-PCR nor-m
+al-iza-tion in
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 445--453
+\T1/cmr/m/n/12 potato dur-ing bi-otic and abi-otic stress.  \T1/cmr/m/it/12 Jou
+r-nal of Ex-per-i-men-tal Botany\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 445--453
+\T1/cmr/m/n/12 56(421):2907 --2914, Novem-ber 2005.  doi: 10.1093/jxb/eri285.  
+URL
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 455--461
+[]\T1/cmr/m/n/12 Haewon Park, Patrick J. McGinn, and Fra-nois M. M. Morel.  Ex-
+pres-sion
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 455--461
+\T1/cmr/m/n/12 of cad-mium car-bonic an-hy-drase of di-atoms in sea-wa-ter.  \T
+1/cmr/m/it/12 Aquatic Mi-cro-
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 455--461
+\T1/cmr/m/it/12 bial Ecol-ogy\T1/cmr/m/n/12 , 51(2):183--193, May 2008.  doi: 1
+0.3354/ame01192.  URL
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 472--482
+[]\T1/cmr/m/n/12 Michael W. Pfaffl, Ales Ti-chopad, Chris-tian Prgomet, and Tan
+ja P. Neu-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 472--482
+\T1/cmr/m/n/12 vians.  De-ter-mi-na-tion of sta-ble house-keep-ing genes, dif-f
+er-en-tially reg-u-lated
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 472--482
+\T1/cmr/m/n/12 tar-get genes and sam-ple in-tegrity: Best-Keeper â€“ Excel-base
+d tool us-
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 472--482
+\T1/cmr/m/n/12 ing pair-wise cor-re-la-tions.  \T1/cmr/m/it/12 Biotech-nol-ogy 
+Let-ters\T1/cmr/m/n/12 , 26(6):509--515, March
+ []
+
+
+Overfull \hbox (13.53468pt too wide) in paragraph at lines 472--482
+\T1/cmtt/m/n/12 http://www.springerlink.com.libproxy.mit.edu/content/g673275070
+4887n8/\T1/cmr/m/n/12 . 
+ []
+
+[58]
+Underfull \hbox (badness 3189) in paragraph at lines 569--577
+[]\T1/cmr/m/n/12 Mak A. Saito, Tyler J. Goepfert, and Ja-son T. Ritt.  Some tho
+ughts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--577
+\T1/cmr/m/n/12 on the con-cept of col-im-i-ta-tion: Three def-i-ni-tions and th
+e im-por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--577
+\T1/cmr/m/n/12 tance of bioavail-abil-ity.  \T1/cmr/m/it/12 Lim-nol-ogy and Oce
+anog-ra-phy\T1/cmr/m/n/12 , 53(1):276--
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 569--577
+\T1/cmr/m/n/12 290, 2008.  ISSN 00243590.  doi: 10.4319/lo.2008.53.1.0276.  URL
+
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 579--586
+[]\T1/cmr/m/n/12 Thomas D Schmittgen and Ken-neth J Li-vak.  An-a-lyz-ing real-
+time PCR
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 579--586
+\T1/cmr/m/n/12 data by the com-par-a-tive CT method.  \T1/cmr/m/it/12 Na-ture P
+ro-to-cols\T1/cmr/m/n/12 , 3(6):1101--
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 579--586
+\T1/cmr/m/n/12 1108, June 2008.  ISSN 1754-2189.  doi: 10.1038/nprot.2008.73.  
+URL
+ []
+
+[59]
+Underfull \hbox (badness 2486) in paragraph at lines 622--632
+[]\T1/cmr/m/n/12 Jo Van-des-om-pele, Katleen De Preter, Filip Pat-tyn, Bruce Po
+ppe, Na-dine
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 622--632
+\T1/cmr/m/n/12 Van Roy, Anne De Paepe, and Frank Spele-man.  Ac-cu-rate nor-mal
+-iza-
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 622--632
+\T1/cmr/m/n/12 tion of real-time quan-ti-ta-tive RT-PCR data by ge-o-met-ric av
+-er-ag-ing of
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 622--632
+\T1/cmr/m/n/12 mul-ti-ple in-ter-nal con-trol genes.  \T1/cmr/m/it/12 Genome bi
+-ol-ogy\T1/cmr/m/n/12 , 3(7):research0034, June
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 622--632
+\T1/cmr/m/n/12 2002.  ISSN 1465-6914.  doi: 10.1186/gb-2002-3-7-research0034.  
+URL
+ []
+
+
+Overfull \hbox (192.56596pt too wide) in paragraph at lines 622--632
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=12623
+9&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 635--646
+[]\T1/cmr/m/n/12 LeAnn P. Whit-ney, Jeremy J. Lins, Mar-garet P Hughes, Mark L 
+Wells,
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 635--646
+\T1/cmr/m/n/12 P. Dreux Chap-pell, and Bethany D. Jenk-ins.  Char-ac-ter-i-za-t
+ion of pu-
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 635--646
+\T1/cmr/m/n/12 ta-tive iron re-spon-sive genes as species-specific in-di-ca-tor
+s of iron stress
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 635--646
+\T1/cmr/m/n/12 in tha-las-siosiroid di-atoms.  \T1/cmr/m/it/12 Fron-tiers in mi
+-cro-bi-ol-ogy\T1/cmr/m/n/12 , 2(November):234,
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 635--646
+\T1/cmr/m/n/12 Jan-uary 2011.  ISSN 1664-302X.  doi: 10.3389/fmicb.2011.00234. 
+ URL
+ []
+
+
+Overfull \hbox (102.874pt too wide) in paragraph at lines 635--646
+\T1/cmtt/m/n/12 http://www.frontiersin.org/Aquatic_Microbiology/10.3389/fmicb.2
+011.00234/pdf/abstract
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 635--646
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=32236
+15&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 649--659
+\T1/cmr/m/n/12 sequencing-based tran-scrip-tional pro-fil-ing with-out repli-ca
+tes.  \T1/cmr/m/it/12 BMC bioin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--659
+\T1/cmr/m/n/12 2105-11-564.  URL \T1/cmtt/m/n/12 http://www.biomedcentral.com/1
+471-2105/11/564
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 649--659
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=30981
+01&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 662--671
+[]\T1/cmr/m/n/12 Louie L. Wurch, Erin M. Bertrand, Mak A. Saito, Ben-jamin A. S
+.
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 662--671
+\T1/cmr/m/n/12 Van Mooy, and Sonya T. Dyhrman.  Pro-teome changes driven by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--671
+\T1/cmr/m/n/12 phos-pho-rus de-fi-ciency and re-cov-ery in the brown tide-formi
+ng alga
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--671
+\T1/cmr/m/n/12 <i>Aureococcus anophag-ef-fer-ens</i>.  \T1/cmr/m/it/12 PloS one
+\T1/cmr/m/n/12 , 6(12):e28949, Jan-
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 662--671
+\T1/cmr/m/n/12 uary 2011.  ISSN 1932-6203.  doi: 10.1371/jour-nal.pone.0028949.
+  URL
+ []
+
+
+Overfull \hbox (198.73946pt too wide) in paragraph at lines 662--671
+\T1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=32375
+63&tool=pmcentrez&rendertype=abstract\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 673--680
+[]\T1/cmr/m/n/12 K. Y. Ye-ung, D. R. Haynor, and W. L. Ruzzo.  Val-i-dat-ing cl
+us-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--680
+\T1/cmr/m/n/12 ter-ing for gene ex-pres-sion data.  \T1/cmr/m/it/12 Bioin-for-m
+at-ics\T1/cmr/m/n/12 , 17(4):309 --
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--680
+\T1/cmr/m/n/12 318, April 2001.  doi: 10.1093/bioin-for-mat-ics/17.4.309.  URL
+ []
+
+[60]
+Underfull \hbox (badness 4569) in paragraph at lines 688--695
+\T1/cmr/m/n/12 mi-croR-NAs in <i>Chlamydomonas</i>.  \T1/cmr/m/it/12 Plant Jour
+-nal\T1/cmr/m/n/12 , 58(1):157--164,
+ []
+
+
+Overfull \hbox (50.57564pt too wide) in paragraph at lines 688--695
+\T1/cmtt/m/n/12 http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2008.037
+58.x/abstract\T1/cmr/m/n/12 . 
+ []
+
+)) [61]
+
+Package natbib Warning: There were undefined citations.
+
+(./main.aux (./cover.aux) (./contents.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./biblio.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1374 strings out of 493747
+ 16695 string characters out of 3143546
+ 69313 words of memory out of 3000000
+ 4595 multiletter control sequences out of 15000+200000
+ 17957 words of font info for 40 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 28i,8n,32p,2551b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
+ve/2010/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive
+/2010/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2
+010/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
+0/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2010/
+texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2010/te
+xmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2010/texm
+f-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2010/texmf-
+dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2010/texmf-di
+st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2010/texmf-dist/f
+onts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2010/texmf-dist/fon
+ts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2010/texmf-dist/fonts
+/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (61 pages, 465322 bytes).
+PDF statistics:
+ 301 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

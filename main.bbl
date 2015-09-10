@@ -1,0 +1,696 @@
+\begin{thebibliography}{61}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allen et~al.(2008)Allen, Laroche, Maheswari, Lommer, Schauer, Lopez,
+  Finazzi, Fernie, and Bowler]{Allen2008}
+Andrew~E Allen, Julie Laroche, Uma Maheswari, Markus Lommer, Nicolas Schauer,
+  Pascal~J Lopez, Giovanni Finazzi, Alisdair~R Fernie, and Chris Bowler.
+\newblock {Whole-cell response of the pennate diatom <i>Phaeodactylum
+  tricornutum</i> to iron starvation.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 105\penalty0 (30):\penalty0 10438--43, July 2008.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.0711370105}.
+\newblock URL \url{http://www.pnas.org/content/105/30/10438
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2492447\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Altschul et~al.(1997)Altschul, Madden, Sch\"{a}ffer, Zhang, Zhang,
+  Miller, and Lipman]{Altschul1997}
+Stephen~F Altschul, Thomas~L Madden, Alejandro~A Sch\"{a}ffer, Jinghui Zhang,
+  Zheng Zhang, Webb Miller, and David~J Lipman.
+\newblock {Gapped BLAST and PSI-BLAST: a new generation of protein database
+  search programs}.
+\newblock \emph{Nucleic Acids Research}, 25\penalty0 (17):\penalty0 3389--3402,
+  September 1997.
+\newblock ISSN 0305-1048, 1362-4962.
+\newblock \doi{10.1093/nar/25.17.3389}.
+\newblock URL \url{http://nar.oxfordjournals.org/content/25/17/3389}.
+
+\bibitem[Antonov et~al.(2005)Antonov, Goldstein, Oberli, Baltzer, Pirotta,
+  Fleischmann, Altermatt, and Jaggi]{Antonov2005}
+Janine Antonov, Darlene~R Goldstein, Andrea Oberli, Anna Baltzer, Marco
+  Pirotta, Achim Fleischmann, Hans~J Altermatt, and Rolf Jaggi.
+\newblock {Reliable gene expression measurements from degraded RNA by
+  quantitative real-time PCR depend on short amplicons and a proper
+  normalization}.
+\newblock \emph{Laboratory Investigation}, 85\penalty0 (8):\penalty0
+  1040--1050, June 2005.
+\newblock ISSN 0023-6837.
+\newblock URL \url{http://dx.doi.org/10.1038/labinvest.3700303}.
+
+\bibitem[Armbrust et~al.(2004)Armbrust, Berges, Bowler, Green, Martinez,
+  Putnam, Zhou, Allen, Apt, Bechner, Brzezinski, Chaal, Chiovitti, Davis,
+  Demarest, Detter, Glavina, Goodstein, Hadi, Hellsten, Hildebrand, Jenkins,
+  Jurka, Kapitonov, Kr\"{o}ger, Lau, Lane, Larimer, Lippmeier, Lucas, Medina,
+  Montsant, Obornik, Parker, Palenik, Pazour, Richardson, Rynearson, Saito,
+  Schwartz, Thamatrakoln, Valentin, Vardi, Wilkerson, and
+  Rokhsar]{Armbrust2004}
+E.~Virginia Armbrust, John~A. Berges, Chris Bowler, Beverley~R. Green, Diego
+  Martinez, Nicholas~H. Putnam, Shiguo Zhou, Andrew~E. Allen, Kirk~E. Apt,
+  Michael Bechner, Mark~A. Brzezinski, Balbir~K. Chaal, Anthony Chiovitti,
+  Aubrey~K. Davis, Mark~S. Demarest, J.~Chris Detter, Tijana Glavina, David
+  Goodstein, Masood~Z. Hadi, Uffe Hellsten, Mark Hildebrand, Bethany~D.
+  Jenkins, Jerzy Jurka, Vladimir~V. Kapitonov, Nils Kr\"{o}ger, Winnie W.~Y.
+  Lau, Todd~W. Lane, Frank~W. Larimer, J.~Casey Lippmeier, Susan Lucas,
+  M\'{o}nica Medina, Anton Montsant, Miroslav Obornik, Micaela~Schnitzler
+  Parker, Brian Palenik, Gregory~J. Pazour, Paul~M. Richardson, Tatiana~A.
+  Rynearson, Mak~A. Saito, David~C. Schwartz, Kimberlee Thamatrakoln, Klaus
+  Valentin, Assaf Vardi, Frances~P. Wilkerson, and Daniel~S. Rokhsar.
+\newblock {The genome of the diatom <i>Thalassiosira pseudonana</i>: ecology,
+  evolution, and metabolism.}
+\newblock \emph{Science (New York, N.Y.)}, 306\penalty0 (5693):\penalty0
+  79--86, October 2004.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.1101156}.
+\newblock URL \url{http://www.sciencemag.org/content/306/5693/79.abstract
+  http://www.ncbi.nlm.nih.gov/pubmed/15459382}.
+
+\bibitem[Avonce et~al.(2004)Avonce, Leyman, Mascorro-Gallardo, {Van Dijck},
+  Thevelein, and Iturriaga]{Avonce2004}
+Nelson Avonce, Barbara Leyman, Jos\'{e}~O. Mascorro-Gallardo, Patrick {Van
+  Dijck}, Johan~M. Thevelein, and Gabriel Iturriaga.
+\newblock {The <i>Arabidopsis</i> trehalose-6-P synthase AtTPS1 gene is a
+  regulator of glucose, abscisic acid, and stress signaling}.
+\newblock \emph{Plant Physiology}, 136\penalty0 (3):\penalty0 3649 --3659,
+  November 2004.
+\newblock \doi{10.1104/pp.104.052084}.
+\newblock URL \url{http://www.plantphysiol.org/content/136/3/3649.abstract}.
+
+\bibitem[Bender et~al.(2012)Bender, Parker, and Armbrust]{Bender2012}
+Sara~J. Bender, Micaela~S. Parker, and E.~Virginia Armbrust.
+\newblock {Coupled effects of light and nitrogen source on the urea cycle and
+  nitrogen metabolism over a diel cycle in the marine diatom <i>Thalassiosira
+  pseudonana</i>}.
+\newblock \emph{Protist}, 163\penalty0 (2):\penalty0 232--251, March 2012.
+\newblock ISSN 1434-4610.
+\newblock \doi{10.1016/j.protis.2011.07.008}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1434461011000630}.
+
+\bibitem[Berg et~al.(2008)Berg, Shrager, Gl\"{o}ckner, Arrigo, and
+  Grossman]{Berg2008}
+Gry~Mine Berg, Jeff Shrager, Gernot Gl\"{o}ckner, Kevin~R Arrigo, and Arthur~R
+  Grossman.
+\newblock {Understanding nitrogen limitation in Aureococcus anophagefferens
+  (Pelagophyceae) through cDNA and qRT-PCR analysis}.
+\newblock \emph{Journal of Phycology}, 44\penalty0 (5):\penalty0 1235--1249,
+  October 2008.
+\newblock ISSN 1529-8817.
+\newblock \doi{10.1111/j.1529-8817.2008.00571.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2008.00571.x/abstract}.
+
+\bibitem[Bruhn et~al.(2010)Bruhn, LaRoche, and Richardson]{Bruhn2010}
+Annette Bruhn, Julie LaRoche, and Katherine Richardson.
+\newblock {Emiliania huxleyi (prymnesiophyceae): nitrogen-metabolism genes and
+  their expression in response to external nitrogen sources}.
+\newblock \emph{Journal of Phycology}, 46\penalty0 (2):\penalty0 266--277,
+  April 2010.
+\newblock ISSN 1529-8817.
+\newblock \doi{10.1111/j.1529-8817.2010.00809.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2010.00809.x/abstract}.
+
+\bibitem[Caldwell et~al.(2005)Caldwell, Walkiewicz, and Stern]{Caldwell2005}
+Philip~E. Caldwell, Magdalena Walkiewicz, and Michael Stern.
+\newblock {Ras activity in the <i>Drosophila</i> prothoracic gland regulates
+  body size and developmental rate via ecdysone release}.
+\newblock \emph{Current Biology}, 15\penalty0 (20):\penalty0 1785--1795,
+  October 2005.
+\newblock ISSN 0960-9822.
+\newblock \doi{10.1016/j.cub.2005.09.011}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S096098220501033X}.
+
+\bibitem[Carvalho and Lettieri(2011)]{Carvalho2011}
+Raquel~N Carvalho and Teresa Lettieri.
+\newblock {Proteomic analysis of the marine diatom <i>Thalassiosira
+  pseudonana</i> upon exposure to benzo(a)pyrene}.
+\newblock \emph{BMC Genomics}, 12\penalty0 (1):\penalty0 159, March 2011.
+\newblock ISSN 1471-2164.
+\newblock \doi{10.1186/1471-2164-12-159}.
+\newblock URL \url{http://www.biomedcentral.com/1471-2164/12/159}.
+
+\bibitem[Coker and Davies(2003)]{Coker2003}
+Jeffrey~S Coker and Eric Davies.
+\newblock {Selection of candidate housekeeping controls in tomato plants using
+  EST data}.
+\newblock \emph{BioTechniques}, 35\penalty0 (4):\penalty0 740--742, 744, 746
+  passim, October 2003.
+\newblock ISSN 0736-6205.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/14579739}.
+
+\bibitem[Czechowski et~al.(2005)Czechowski, Stitt, Altmann, Udvardi, and
+  Scheible]{Czechowski2005}
+Tomasz Czechowski, Mark Stitt, Thomas Altmann, Michael~K. Udvardi, and
+  Wolf-R\"{u}diger Scheible.
+\newblock {Genome-wide identification and testing of superior reference genes
+  for transcript normalization in Arabidopsis}.
+\newblock \emph{Plant Physiology}, 139\penalty0 (1):\penalty0 5 --17, 2005.
+\newblock \doi{10.1104/pp.105.063743}.
+\newblock URL \url{http://www.plantphysiol.org/content/139/1/5.abstract}.
+
+\bibitem[Davis and Palenik(2008)]{Davis2008}
+Aubrey~K. Davis and Brian Palenik.
+\newblock {Characterization of a modular, cell-surface, protein and
+  identification of a new gene family in the diatom <i>Thalassiosira
+  pseudonana</i>}.
+\newblock \emph{Protist}, 159\penalty0 (2):\penalty0 195--207, April 2008.
+\newblock ISSN 1434-4610.
+\newblock \doi{10.1016/j.protis.2007.09.006}.
+
+\bibitem[Davis et~al.(2006)Davis, Hildebrand, and Palenik]{Davis2006}
+Aubrey~K. Davis, Mark Hildebrand, and Brian Palenik.
+\newblock {Gene expression induced by copper stress in diatom <i>Thalassiosira
+  pseudonana</i>}.
+\newblock \emph{Eukaryotic Cell}, 5\penalty0 (7):\penalty0 1157 --1168, July
+  2006.
+\newblock \doi{10.1128/EC.00042-06}.
+\newblock URL \url{http://ec.asm.org/content/5/7/1157.abstract}.
+
+\bibitem[de~Jonge et~al.(2007)de~Jonge, Fehrmann, de~Bont, Hofstra, Gerbens,
+  Kamps, de~Vries, van~der Zee, te~Meerman, and ter Elst]{DeJonge2007a}
+Hendrik J.~M. de~Jonge, Rudolf S.~N. Fehrmann, Eveline S. J.~M. de~Bont, Robert
+  M.~W. Hofstra, Frans Gerbens, Willem~A. Kamps, Elisabeth G.~E. de~Vries, Ate
+  G.~J. van~der Zee, Gerard~J. te~Meerman, and Arja ter Elst.
+\newblock {Evidence based selection of housekeeping genes.}
+\newblock \emph{PloS one}, 2\penalty0 (9):\penalty0 e898, January 2007.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0000898}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1976390\&tool=pmcentrez\&rendertype=abstract
+  UR -
+  http://dx.plos.org/10.1371/journal.pone.0000898,http://dx.plos.org/10.1371/journal.pone.0000898}.
+
+\bibitem[D'haeseleer(2005)]{Dhaeseleer2005}
+Patrik D'haeseleer.
+\newblock {How does gene expression clustering work?}
+\newblock \emph{Nature biotechnology}, 23\penalty0 (12):\penalty0 1499--501,
+  December 2005.
+\newblock ISSN 1087-0156.
+\newblock \doi{10.1038/nbt1205-1499}.
+\newblock URL \url{http://dx.doi.org/10.1038/nbt1205-1499
+  http://www.ncbi.nlm.nih.gov/pubmed/16333293}.
+
+\bibitem[Dheda et~al.(2005)Dheda, Huggett, Chang, Kim, Bustin, Johnson, Rook,
+  and Zumla]{Dheda2005}
+K~Dheda, J~F Huggett, J~S Chang, L~U Kim, S~A Bustin, M~A Johnson, G~A~W Rook,
+  and A~Zumla.
+\newblock {The implications of using an inappropriate reference gene for
+  real-time reverse transcription PCR data normalization}.
+\newblock \emph{Analytical Biochemistry}, 344\penalty0 (1):\penalty0 141--143,
+  September 2005.
+\newblock ISSN 0003-2697.
+\newblock \doi{10.1016/j.ab.2005.05.022}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16054107}.
+
+\bibitem[Dyhrman et~al.(2012)Dyhrman, Jenkins, Rynearson, Saito, Mercier,
+  Alexander, Whitney, Drzewianowski, Bulygin, Bertrand, Wu, Benitez-Nelson, and
+  Heithoff]{Dyhrman2012}
+Sonya~T Dyhrman, Bethany~D Jenkins, Tatiana~A Rynearson, Mak~A Saito, Melissa~L
+  Mercier, Harriet Alexander, Leann~P Whitney, Andrea Drzewianowski, Vladimir~V
+  Bulygin, Erin~M Bertrand, Zhijin Wu, Claudia Benitez-Nelson, and Abigail
+  Heithoff.
+\newblock {The transcriptome and proteome of the diatom <i>Thalassiosira
+  pseudonana</i> reveal a diverse phosphorus stress response.}
+\newblock \emph{PloS one}, 7\penalty0 (3):\penalty0 e33768, January 2012.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0033768}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3315573\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Flatt et~al.(2008)Flatt, Min, D'Alterio, Villa-Cuesta, Cumbers,
+  Lehmann, Jones, and Tatar]{Flatt2008}
+Thomas Flatt, Kyung-Jin Min, Cecilia D'Alterio, Eugenia Villa-Cuesta, John
+  Cumbers, Ruth Lehmann, D.~Leanne Jones, and Marc Tatar.
+\newblock {<i>Drosophila</i> germ-line modulation of insulin signaling and
+  lifespan}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 105\penalty0
+  (17):\penalty0 6368 --6373, April 2008.
+\newblock \doi{10.1073/pnas.0709128105}.
+\newblock URL \url{http://www.pnas.org/content/105/17/6368.abstract}.
+
+\bibitem[Gerstein and Jansen(2000)]{Gerstein2000}
+Mark Gerstein and Ronald Jansen.
+\newblock {The current excitement in bioinformatics—analysis of whole-genome
+  expression data: how does it relate to protein structure and function?}
+\newblock \emph{Current Opinion in Structural Biology}, 10\penalty0
+  (5):\penalty0 574--584, October 2000.
+\newblock ISSN 0959-440X.
+\newblock \doi{10.1016/S0959-440X(00)00134-2}.
+
+\bibitem[Gibbons and Roth(2002)]{Gibbons2002}
+Francis~D. Gibbons and Frederick~P. Roth.
+\newblock {Judging the quality of gene expression-based clustering methods
+  using gene annotation}.
+\newblock \emph{Genome Research}, 12\penalty0 (10):\penalty0 1574--1581,
+  October 2002.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.397002}.
+
+\bibitem[Guo and Ki(2012)]{Guo2012}
+Ruoyu Guo and Jang-Seu Ki.
+\newblock {Evaluation and validation of internal control genes for studying
+  gene expression in the dinoflagellate Prorocentrum minimum using real-time
+  PCR.}
+\newblock \emph{European journal of protistology}, 48\penalty0 (3):\penalty0
+  199--206, August 2012.
+\newblock ISSN 1618-0429.
+\newblock \doi{10.1016/j.ejop.2011.11.001}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.ejop.2011.11.001}.
+
+\bibitem[Hartigan and Wong(1979)]{Hartigan1979}
+J.~A. Hartigan and M.~A. Wong.
+\newblock {Algorithm AS 136: A <i>k</i>-means clustering algorithm}.
+\newblock \emph{Journal of the Royal Statistical Society. Series C (Applied
+  Statistics)}, 28\penalty0 (1):\penalty0 100--108, January 1979.
+\newblock ISSN 0035-9254.
+\newblock \doi{10.2307/2346830}.
+\newblock URL \url{http://www.jstor.org/stable/2346830}.
+
+\bibitem[Kustka et~al.(2007)Kustka, Allen, and Morel]{Kustka2007}
+Adam~B Kustka, Andrew~E Allen, and Fran\c{c}ois M.~M Morel.
+\newblock {Sequence analysis and transcriptional regulation of iron acquisition
+  genes in two marine diatoms}.
+\newblock \emph{Journal of Phycology}, 43\penalty0 (4):\penalty0 715--729,
+  August 2007.
+\newblock ISSN 1529-8817.
+\newblock \doi{10.1111/j.1529-8817.2007.00359.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com.libproxy.mit.edu/doi/10.1111/j.1529-8817.2007.00359.x/full}.
+
+\bibitem[Lanoix et~al.(2012)Lanoix, Lacasse, St-Pierre, Taylor,
+  Ethier-Chiasson, Lafond, and Vaillancourt]{Lanoix2012a}
+Dave Lanoix, Andr\'{e}e-Anne Lacasse, Joey St-Pierre, Sean~C. Taylor, Maude
+  Ethier-Chiasson, Julie Lafond, and Cathy Vaillancourt.
+\newblock {Quantitative PCR pitfalls: the case of the human placenta.}
+\newblock \emph{Molecular biotechnology}, 52\penalty0 (3):\penalty0 234--43,
+  November 2012.
+\newblock ISSN 1559-0305.
+\newblock \doi{10.1007/s12033-012-9539-2}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/22528553}.
+
+\bibitem[Lee et~al.(2009)Lee, Morse, and Lo]{Lee2009}
+Fred Wang-Fat Lee, David Morse, and Samuel Chun-Lap Lo.
+\newblock {Identification of two plastid proteins in the dinoflagellate
+  <i>Alexandrium affine</i> that are substantially down-regulated by
+  nitrogen-depletion}.
+\newblock \emph{Journal of Proteom Research}, 8\penalty0 (11):\penalty0
+  5080--5092, 2009.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/pr900475f}.
+\newblock URL \url{http://dx.doi.org/10.1021/pr900475f}.
+
+\bibitem[Leggat et~al.(2011)Leggat, Yellowlees, and Medina]{Leggat2011}
+William Leggat, David Yellowlees, and Monica Medina.
+\newblock {Recent progress in <i>Symbiodinium </i>transcriptomics}.
+\newblock \emph{Journal of Experimental Marine Biology and Ecology},
+  408\penalty0 (1–2):\penalty0 120--125, November 2011.
+\newblock ISSN 0022-0981.
+\newblock \doi{10.1016/j.jembe.2011.07.032}.
+
+\bibitem[Lin et~al.(2009)Lin, Sandh, Zhang, Cheng, Perkins, Carpenter, and
+  Bergman]{Lin2009}
+Senjie Lin, Gustaf Sandh, Huan Zhang, Jiujun Cheng, Keri Perkins, Edward~J.
+  Carpenter, and Birgitta Bergman.
+\newblock {Two flavodoxin genes in Trichodesmium (Oscillatoriales,
+  Cyanophyceae): Remarkable sequence divergence and possible functional
+  diversification}.
+\newblock \emph{Journal of Experimental Marine Biology and Ecology},
+  371\penalty0 (1):\penalty0 93--101, March 2009.
+\newblock ISSN 0022-0981.
+\newblock \doi{10.1016/j.jembe.2009.01.010}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0022098109000380}.
+
+\bibitem[Livak and Schmittgen(2001)]{Livak2001}
+Kenneth~J. Livak and Thomas~D. Schmittgen.
+\newblock {Analysis of relative gene expression using real-time quantitative
+  PCR and the 2−$\Delta$$\Delta$CT method}.
+\newblock \emph{Methods}, 25\penalty0 (4):\penalty0 402--408, December 2001.
+\newblock ISSN 1046-2023.
+\newblock \doi{10.1006/meth.2001.1262}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1046202301912629}.
+
+\bibitem[Maldonado et~al.(2006)Maldonado, Allen, Chong, Lin, Leus, Karpenko,
+  and Harris]{Maldonado2006}
+Maria~T. Maldonado, Andrew~E. Allen, Joanne~S. Chong, Kevin Lin, Dan Leus,
+  Nataliya Karpenko, and Shannon~L. Harris.
+\newblock {Copper-dependent iron transport in coastal and oceanic diatoms}.
+\newblock \emph{Limnology and Oceanography}, 51\penalty0 (4):\penalty0
+  1729--1743, 2006.
+\newblock ISSN 00243590.
+\newblock \doi{10.4319/lo.2006.51.4.1729}.
+\newblock URL \url{http://www.www.aslo.org/lo/toc/vol\_51/issue\_4/1729.html}.
+
+\bibitem[Marionneau et~al.(2005)Marionneau, Couette, Liu, Li, Mangoni, Nargeot,
+  Lei, Escande, and Demolombe]{Marionneau2005}
+C\'{e}line Marionneau, Brigitte Couette, Jie Liu, Huiyu Li, Matteo~E Mangoni,
+  Jo\"{e}l Nargeot, Ming Lei, Denis Escande, and Sophie Demolombe.
+\newblock {Specific pattern of ionic channel gene expression associated with
+  pacemaker activity in the mouse heart}.
+\newblock \emph{Journal of Physiology}, 562\penalty0 (1):\penalty0 223--234,
+  January 2005.
+\newblock ISSN 1469-7793.
+\newblock \doi{10.1113/jphysiol.2004.074047}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2004.074047/abstract}.
+
+\bibitem[McDonald et~al.(2010)McDonald, Plant, and Worden]{McDonald2010}
+Sarah~M. McDonald, Joshua~N. Plant, and Alexandra~Z. Worden.
+\newblock {The mixed lineage nature of nitrogen transport and assimilation in
+  marine eukaryotic phytoplankton: a case study of <i>Micromonas</i>}.
+\newblock \emph{Molecular Biology and Evolution}, 27\penalty0 (10):\penalty0
+  2268 --2283, October 2010.
+\newblock \doi{10.1093/molbev/msq113}.
+\newblock URL \url{http://mbe.oxfordjournals.org/content/27/10/2268.abstract}.
+
+\bibitem[McGinn and Morel(2008{\natexlab{a}})]{McGinn2008}
+Patrick~J McGinn and Fran\c{c}ois M.~M Morel.
+\newblock {Expression and regulation of carbonic anhydrases in the marine
+  diatom <i>Thalassiosira pseudonana</i> and in natural phytoplankton
+  assemblages from Great Bay, New Jersey}.
+\newblock \emph{Physiologia Plantarum}, 133\penalty0 (1):\penalty0 78--91, May
+  2008{\natexlab{a}}.
+\newblock ISSN 1399-3054.
+\newblock \doi{10.1111/j.1399-3054.2007.01039.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com.libproxy.mit.edu/doi/10.1111/j.1399-3054.2007.01039.x/abstract}.
+
+\bibitem[McGinn and Morel(2008{\natexlab{b}})]{McGinn2008a}
+Patrick~J. McGinn and Fran\c{c}ois~M.M. Morel.
+\newblock {Expression and inhibition of the carboxylating and decarboxylating
+  enzymes in photosynthetic C4 pathway of marine diatoms}.
+\newblock \emph{Plant Physiology}, 146\penalty0 (1):\penalty0 300 --309,
+  January 2008{\natexlab{b}}.
+\newblock \doi{10.1104/pp.107.110569}.
+\newblock URL \url{http://www.plantphysiol.org/content/146/1/300.abstract}.
+
+\bibitem[Mock et~al.(2008)Mock, Samanta, Iverson, Berthiaume, Robison,
+  Holtermann, Durkin, Bondurant, Richmond, Rodesch, Kallas, Huttlin, Cerrina,
+  Sussman, and Armbrust]{Mock2008}
+Thomas Mock, Manoj~Pratim Samanta, Vaughn Iverson, Chris Berthiaume, Matthew
+  Robison, Karie Holtermann, Colleen Durkin, Sandra~Splinter Bondurant, Kathryn
+  Richmond, Matthew Rodesch, Toivo Kallas, Edward~L. Huttlin, Francesco
+  Cerrina, Michael~R. Sussman, and E.~Virginia Armbrust.
+\newblock {Whole-genome expression profiling of the marine diatom Thalassiosira
+  pseudonana identifies genes involved in silicon bioprocesses.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 105\penalty0 (5):\penalty0 1579--84, February 2008.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.0707946105}.
+\newblock URL \url{http://www.pnas.org/content/105/5/1579.abstract
+  http://www.pnas.org/content/105/5/1579.long
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2234187\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Moore(2004)]{Moore2004}
+J~Keith Moore.
+\newblock {Upper ocean ecosystem dynamics and iron cycling in a global
+  three-dimensional model}.
+\newblock \emph{Global Biogeochemical Cycles}, 18\penalty0 (4):\penalty0 1--21,
+  2004.
+\newblock ISSN 0886-6236.
+\newblock \doi{10.1029/2004GB002220}.
+\newblock URL \url{http://www.agu.org/pubs/crossref/2004/2004GB002220.shtml}.
+
+\bibitem[Moseley et~al.(2006)Moseley, Chang, and Grossman]{Moseley2006}
+Jeffrey~L. Moseley, Chiung-Wen Chang, and Arthur~R. Grossman.
+\newblock {Genome-based approaches to understanding phosphorus deprivation
+  responses and PSR1 control in <i>Chlamydomonas reinhardtii</i>}.
+\newblock \emph{Eukaryotic Cell}, 5\penalty0 (1):\penalty0 26 --44, January
+  2006.
+\newblock \doi{10.1128/EC.5.1.26-44.2006}.
+\newblock URL \url{http://ec.asm.org/content/5/1/26.abstract}.
+
+\bibitem[Moustafa et~al.(2010)Moustafa, Evans, Kulis, Hackett, Erdner,
+  Anderson, and Bhattacharya]{Moustafa2010}
+Ahmed Moustafa, Andrew~N. Evans, David~M. Kulis, Jeremiah~D. Hackett, Deana~L.
+  Erdner, Donald~M. Anderson, and Debashish Bhattacharya.
+\newblock {Transcriptome profiling of a toxic dinoflagellate reveals a
+  gene-rich protist and a potential impact on gene expression due to bacterial
+  presence.}
+\newblock \emph{PloS one}, 5\penalty0 (3):\penalty0 e9688, January 2010.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0009688}.
+\newblock URL \url{UR -
+  http://dx.doi.org/10.1371/journal.pone.0009688,http://dx.doi.org/10.1371/journal.pone.0009688
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2837391\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Nicot et~al.(2005)Nicot, Hausman, Hoffmann, and Evers]{Nicot2005}
+Nathalie Nicot, Jean-Fran\c{c}ois Hausman, Lucien Hoffmann, and Dani\`{e}le
+  Evers.
+\newblock {Housekeeping gene selection for real-time RT-PCR normalization in
+  potato during biotic and abiotic stress}.
+\newblock \emph{Journal of Experimental Botany}, 56\penalty0 (421):\penalty0
+  2907 --2914, November 2005.
+\newblock \doi{10.1093/jxb/eri285}.
+\newblock URL \url{http://jxb.oxfordjournals.org/content/56/421/2907.abstract}.
+
+\bibitem[Park et~al.(2008)Park, McGinn, and Morel]{Park2008}
+Haewon Park, Patrick~J. McGinn, and Franois M.~M. Morel.
+\newblock {Expression of cadmium carbonic anhydrase of diatoms in seawater}.
+\newblock \emph{Aquatic Microbial Ecology}, 51\penalty0 (2):\penalty0 183--193,
+  May 2008.
+\newblock \doi{10.3354/ame01192}.
+\newblock URL \url{http://www.int-res.com/abstracts/ame/v51/n2/p183-193/}.
+
+\bibitem[Pfaffl(2001)]{Pfaffl2001}
+Michael~W. Pfaffl.
+\newblock {A new mathematical model for relative quantification in real-time
+  RT–PCR}.
+\newblock \emph{Nucleic Acids Research}, 29\penalty0 (9):\penalty0 e45, May
+  2001.
+\newblock ISSN 0305-1048.
+
+\bibitem[Pfaffl et~al.(2004)Pfaffl, Tichopad, Prgomet, and
+  Neuvians]{Pfaffl2004}
+Michael~W. Pfaffl, Ales Tichopad, Christian Prgomet, and Tanja~P. Neuvians.
+\newblock {Determination of stable housekeeping genes, differentially regulated
+  target genes and sample integrity: BestKeeper – Excel-based tool using
+  pair-wise correlations}.
+\newblock \emph{Biotechnology Letters}, 26\penalty0 (6):\penalty0 509--515,
+  March 2004.
+\newblock ISSN 0141-5492.
+\newblock \doi{10.1023/B:BILE.0000019559.84305.47}.
+\newblock URL
+  \url{http://www.springerlink.com.libproxy.mit.edu/content/g6732750704887n8/}.
+
+\bibitem[Quackenbush(2001)]{Quackenbush2001}
+John Quackenbush.
+\newblock {Computational analysis of microarray data}.
+\newblock \emph{Nature Reviews Genetics}, 2\penalty0 (6):\penalty0 418--427,
+  June 2001.
+\newblock ISSN 1471-0056.
+\newblock \doi{10.1038/35076576}.
+\newblock URL \url{http://dx.doi.org/10.1038/35076576}.
+
+\bibitem[Radonic et~al.(2004)Radonic, Thulke, Mackay, Landt, Siegert, and
+  Nitsche]{Radonic2004}
+Aleksandar Radonic, Stefanie Thulke, Ian~M Mackay, Olfert Landt, Wolfgang
+  Siegert, and Andreas Nitsche.
+\newblock {Guideline to reference gene selection for quantitative real-time
+  PCR}.
+\newblock \emph{Biochemical and Biophysical Research Communications},
+  313\penalty0 (4):\penalty0 856--862, January 2004.
+\newblock ISSN 0006291X.
+\newblock \doi{10.1016/j.bbrc.2003.11.177}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0006291X03025646}.
+
+\bibitem[Richier et~al.(2010)Richier, Fiorini, Kerros, von Dassow, and
+  Gattuso]{Richier2010}
+Sophie Richier, Sarah Fiorini, Marie-Emmanuelle Kerros, Peter von Dassow, and
+  Jean-Pierre Gattuso.
+\newblock {Response of the calcifying coccolithophore Emiliania huxleyi to low
+  pH/high pCO2: from physiology to molecular level}.
+\newblock \emph{Marine Biology}, 158\penalty0 (3):\penalty0 551--560, November
+  2010.
+\newblock ISSN 0025-3162, 1432-1793.
+\newblock \doi{10.1007/s00227-010-1580-8}.
+\newblock URL \url{http://www.springerlink.com/content/l183m3673k745632/}.
+
+\bibitem[Rosic et~al.(2010{\natexlab{a}})Rosic, Pernice, Dove, Dunn, and
+  Hoegh-Guldberg]{Rosic2010a}
+Nedeljka~N. Rosic, Mathieu Pernice, Sophie Dove, Simon Dunn, and Ove
+  Hoegh-Guldberg.
+\newblock {Gene expression profiles of cytosolic heat shock proteins Hsp70 and
+  Hsp90 from symbiotic dinoflagellates in response to thermal stress: possible
+  implications for coral bleaching}.
+\newblock \emph{Cell Stress and Chaperones}, 16\penalty0 (1):\penalty0 69--80,
+  September 2010{\natexlab{a}}.
+\newblock ISSN 1355-8145, 1466-1268.
+\newblock \doi{10.1007/s12192-010-0222-x}.
+\newblock URL \url{http://www.springerlink.com/content/x00x7r24l8396386/}.
+
+\bibitem[Rosic et~al.(2010{\natexlab{b}})Rosic, Pernice, Rodriguez-Lanetty, and
+  Hoegh-Guldberg]{Rosic2010}
+Nedeljka~N. Rosic, Mathieu Pernice, Mauricio Rodriguez-Lanetty, and Ove
+  Hoegh-Guldberg.
+\newblock {Validation of housekeeping genes for gene expression studies in
+  <i>Symbiodinium</i> exposed to thermal and light stress}.
+\newblock \emph{Marine Biotechnology}, 13\penalty0 (3):\penalty0 355--365, July
+  2010{\natexlab{b}}.
+\newblock ISSN 1436-2228, 1436-2236.
+\newblock \doi{10.1007/s10126-010-9308-9}.
+\newblock URL \url{http://www.springerlink.com/content/g8171496u72523x3/}.
+
+\bibitem[Saeed et~al.(2003)Saeed, Sharov, White, Li, Liang, Bhagabati,
+  Braisted, Klapa, Currier, Thiagarajan, Sturn, Snuffin, Rezantsev, Popov,
+  Ryltsov, Kostukovich, Borisovsky, Liu, Vinsavich, Trush, and
+  Quackenbush]{Saeed2003}
+A~I Saeed, V~Sharov, J~White, J~Li, W~Liang, N~Bhagabati, J~Braisted, M~Klapa,
+  T~Currier, M~Thiagarajan, A~Sturn, M~Snuffin, A~Rezantsev, D~Popov,
+  A~Ryltsov, E~Kostukovich, I~Borisovsky, Z~Liu, A~Vinsavich, V~Trush, and
+  J~Quackenbush.
+\newblock {TM4: a free, open-source system for microarray data management and
+  analysis}.
+\newblock \emph{BioTechniques}, 34\penalty0 (2):\penalty0 374--378, February
+  2003.
+\newblock ISSN 0736-6205.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/12613259}.
+
+\bibitem[Saeed et~al.(2006)Saeed, Bhagabati, Braisted, Liang, Sharov, Howe, Li,
+  Thiagarajan, White, and Quackenbush]{Saeed2006}
+Alexander~I Saeed, Nirmal~K Bhagabati, John~C Braisted, Wei Liang, Vasily
+  Sharov, Eleanor~A Howe, Jianwei Li, Mathangi Thiagarajan, Joseph~A White, and
+  John Quackenbush.
+\newblock {TM4 microarray software suite}.
+\newblock \emph{Methods in Enzymology}, 411:\penalty0 134--193, 2006.
+\newblock ISSN 0076-6879.
+\newblock \doi{10.1016/S0076-6879(06)11009-5}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16939790}.
+
+\bibitem[Saito et~al.(2008)Saito, Goepfert, and Ritt]{Saito2008}
+Mak~A. Saito, Tyler~J. Goepfert, and Jason~T. Ritt.
+\newblock {Some thoughts on the concept of colimitation: Three definitions and
+  the importance of bioavailability}.
+\newblock \emph{Limnology and Oceanography}, 53\penalty0 (1):\penalty0
+  276--290, 2008.
+\newblock ISSN 00243590.
+\newblock \doi{10.4319/lo.2008.53.1.0276}.
+\newblock URL \url{http://ww.w.aslo.org/lo/toc/vol\_53/issue\_1/0276.html}.
+
+\bibitem[Schmittgen and Livak(2008)]{Schmittgen2008}
+Thomas~D Schmittgen and Kenneth~J Livak.
+\newblock {Analyzing real-time PCR data by the comparative CT method}.
+\newblock \emph{Nature Protocols}, 3\penalty0 (6):\penalty0 1101--1108, June
+  2008.
+\newblock ISSN 1754-2189.
+\newblock \doi{10.1038/nprot.2008.73}.
+\newblock URL \url{http://dx.doi.org/10.1038/nprot.2008.73}.
+
+\bibitem[Siaut et~al.(2007)Siaut, Heijde, Mangogna, Montsant, Coesel, Allen,
+  Manfredonia, Falciatore, and Bowler]{Siaut2007}
+Magali Siaut, Marc Heijde, Manuela Mangogna, Anton Montsant, Sacha Coesel,
+  Andrew Allen, Alessandro Manfredonia, Angela Falciatore, and Chris Bowler.
+\newblock {Molecular toolbox for studying diatom biology in <i>Phaeodactylum
+  tricornutum</i>}.
+\newblock \emph{Gene}, 406\penalty0 (1-2):\penalty0 23--35, December 2007.
+\newblock ISSN 03781119.
+\newblock \doi{10.1016/j.gene.2007.05.022}.
+
+\bibitem[Stuart et~al.(2009)Stuart, Dupont, Johnson, Paulsen, and
+  Palenik]{Stuart2009}
+Rhona~K. Stuart, Chris~L. Dupont, D.~Aaron Johnson, Ian~T. Paulsen, and Brian
+  Palenik.
+\newblock {Coastal strains of marine <i>Synechococcus</i> species exhibit
+  increased tolerance to copper shock and a distinctive transcriptional
+  response relative to those of open-ocean strains}.
+\newblock \emph{Applied and Environmental Microbiology}, 75\penalty0
+  (15):\penalty0 5047 --5057, August 2009.
+\newblock \doi{10.1128/AEM.00271-09}.
+\newblock URL \url{http://aem.asm.org/content/75/15/5047.abstract}.
+
+\bibitem[Tavazoie et~al.(1999)Tavazoie, Hughes, Campbell, Cho, and
+  Church]{Tavazoie1999}
+Saeed Tavazoie, Jason~D. Hughes, Michael~J. Campbell, Raymond~J. Cho, and
+  George~M. Church.
+\newblock {Systematic determination of genetic network architecture}.
+\newblock \emph{Nature Genetics}, 22\penalty0 (3):\penalty0 281--285, July
+  1999.
+\newblock ISSN 1061-4036.
+\newblock \doi{10.1038/10343}.
+\newblock URL \url{http://dx.doi.org/10.1038/10343}.
+
+\bibitem[Vandesompele et~al.(2002)Vandesompele, {De Preter}, Pattyn, Poppe,
+  {Van Roy}, {De Paepe}, and Speleman]{Vandesompele2002}
+Jo~Vandesompele, Katleen {De Preter}, Filip Pattyn, Bruce Poppe, Nadine {Van
+  Roy}, Anne {De Paepe}, and Frank Speleman.
+\newblock {Accurate normalization of real-time quantitative RT-PCR data by
+  geometric averaging of multiple internal control genes.}
+\newblock \emph{Genome biology}, 3\penalty0 (7):\penalty0 research0034, June
+  2002.
+\newblock ISSN 1465-6914.
+\newblock \doi{10.1186/gb-2002-3-7-research0034}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=126239\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Whitney et~al.(2011)Whitney, Lins, Hughes, Wells, Chappell, and
+  Jenkins]{Whitney2011a}
+LeAnn~P. Whitney, Jeremy~J. Lins, Margaret~P Hughes, Mark~L Wells, P.~Dreux
+  Chappell, and Bethany~D. Jenkins.
+\newblock {Characterization of putative iron responsive genes as
+  species-specific indicators of iron stress in thalassiosiroid diatoms.}
+\newblock \emph{Frontiers in microbiology}, 2\penalty0 (November):\penalty0
+  234, January 2011.
+\newblock ISSN 1664-302X.
+\newblock \doi{10.3389/fmicb.2011.00234}.
+\newblock URL
+  \url{http://www.frontiersin.org/Aquatic\_Microbiology/10.3389/fmicb.2011.00234/pdf/abstract
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3223615\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Wu et~al.(2010)Wu, Jenkins, Rynearson, Dyhrman, Saito, Mercier, and
+  Whitney]{Wu2010}
+Zhijin Wu, Bethany~D Jenkins, Tatiana~A Rynearson, Sonya~T Dyhrman, Mak~A
+  Saito, Melissa Mercier, and LeAnn~P Whitney.
+\newblock {Empirical bayes analysis of sequencing-based transcriptional
+  profiling without replicates.}
+\newblock \emph{BMC bioinformatics}, 11\penalty0 (1):\penalty0 564, January
+  2010.
+\newblock ISSN 1471-2105.
+\newblock \doi{10.1186/1471-2105-11-564}.
+\newblock URL \url{http://www.biomedcentral.com/1471-2105/11/564
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3098101\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Wurch et~al.(2011)Wurch, Bertrand, Saito, {Van Mooy}, and
+  Dyhrman]{Wurch2011}
+Louie~L. Wurch, Erin~M. Bertrand, Mak~A. Saito, Benjamin A.~S. {Van Mooy}, and
+  Sonya~T. Dyhrman.
+\newblock {Proteome changes driven by phosphorus deficiency and recovery in the
+  brown tide-forming alga <i>Aureococcus anophagefferens</i>.}
+\newblock \emph{PloS one}, 6\penalty0 (12):\penalty0 e28949, January 2011.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0028949}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3237563\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Yeung et~al.(2001)Yeung, Haynor, and Ruzzo]{Yeung2001}
+K.~Y. Yeung, D.~R. Haynor, and W.~L. Ruzzo.
+\newblock {Validating clustering for gene expression data}.
+\newblock \emph{Bioinformatics}, 17\penalty0 (4):\penalty0 309 --318, April
+  2001.
+\newblock \doi{10.1093/bioinformatics/17.4.309}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/17/4/309.abstract}.
+
+\bibitem[Zehr and Turner(2001)]{Zehr2001}
+J~Zehr and P~Turner.
+\newblock {Nitrogen fixation: Nitrogenase genes and gene expression}.
+\newblock volume~30, pages 271--286. Elsevier, 2001.
+\newblock ISBN 978-0-12-521530-5.
+
+\bibitem[Zhao et~al.(2009)Zhao, Wang, Bai, and Qi]{Zhao2009}
+Tao Zhao, Wei Wang, Xue Bai, and Yijun Qi.
+\newblock {Gene silencing by artificial microRNAs in <i>Chlamydomonas</i>}.
+\newblock \emph{Plant Journal}, 58\penalty0 (1):\penalty0 157--164, April 2009.
+\newblock ISSN 1365-313X.
+\newblock \doi{10.1111/j.1365-313X.2008.03758.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2008.03758.x/abstract}.
+
+\end{thebibliography}

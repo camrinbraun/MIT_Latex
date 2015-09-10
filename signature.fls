@@ -1,0 +1,6 @@
+PWD /Users/harrietalexander/Dropbox (MIT)/MIT_Thesis/Latex
+INPUT /usr/local/texlive/2010/texmf.cnf
+INPUT /usr/local/texlive/2010/texmf/web2c/texmf.cnf
+INPUT /usr/local/texlive/2010/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT signature.tex
+OUTPUT signature.log
