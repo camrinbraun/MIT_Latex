@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{58}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -234,15 +234,6 @@ Thomas Flatt, Kyung-Jin Min, Cecilia D'Alterio, Eugenia Villa-Cuesta, John
 \newblock \doi{10.1073/pnas.0709128105}.
 \newblock URL \url{http://www.pnas.org/content/105/17/6368.abstract}.
 
-\bibitem[Gerstein and Jansen(2000)]{Gerstein2000}
-Mark Gerstein and Ronald Jansen.
-\newblock {The current excitement in bioinformatics—analysis of whole-genome
-  expression data: how does it relate to protein structure and function?}
-\newblock \emph{Current Opinion in Structural Biology}, 10\penalty0
-  (5):\penalty0 574--584, October 2000.
-\newblock ISSN 0959-440X.
-\newblock \doi{10.1016/S0959-440X(00)00134-2}.
-
 \bibitem[Gibbons and Roth(2002)]{Gibbons2002}
 Francis~D. Gibbons and Frederick~P. Roth.
 \newblock {Judging the quality of gene expression-based clustering methods
@@ -263,7 +254,7 @@ Ruoyu Guo and Jang-Seu Ki.
 \newblock \doi{10.1016/j.ejop.2011.11.001}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.ejop.2011.11.001}.
 
-\bibitem[Hartigan and Wong(1979)]{Hartigan1979}
+\bibitem[Hartigan and Wong(1979)]{hartigan1979}
 J.~A. Hartigan and M.~A. Wong.
 \newblock {Algorithm AS 136: A <i>k</i>-means clustering algorithm}.
 \newblock \emph{Journal of the Royal Statistical Society. Series C (Applied
@@ -480,15 +471,6 @@ Michael~W. Pfaffl, Ales Tichopad, Christian Prgomet, and Tanja~P. Neuvians.
 \newblock URL
   \url{http://www.springerlink.com.libproxy.mit.edu/content/g6732750704887n8/}.
 
-\bibitem[Quackenbush(2001)]{Quackenbush2001}
-John Quackenbush.
-\newblock {Computational analysis of microarray data}.
-\newblock \emph{Nature Reviews Genetics}, 2\penalty0 (6):\penalty0 418--427,
-  June 2001.
-\newblock ISSN 1471-0056.
-\newblock \doi{10.1038/35076576}.
-\newblock URL \url{http://dx.doi.org/10.1038/35076576}.
-
 \bibitem[Radonic et~al.(2004)Radonic, Thulke, Mackay, Landt, Siegert, and
   Nitsche]{Radonic2004}
 Aleksandar Radonic, Stefanie Thulke, Ian~M Mackay, Olfert Landt, Wolfgang
@@ -606,17 +588,6 @@ Rhona~K. Stuart, Chris~L. Dupont, D.~Aaron Johnson, Ian~T. Paulsen, and Brian
 \newblock \doi{10.1128/AEM.00271-09}.
 \newblock URL \url{http://aem.asm.org/content/75/15/5047.abstract}.
 
-\bibitem[Tavazoie et~al.(1999)Tavazoie, Hughes, Campbell, Cho, and
-  Church]{Tavazoie1999}
-Saeed Tavazoie, Jason~D. Hughes, Michael~J. Campbell, Raymond~J. Cho, and
-  George~M. Church.
-\newblock {Systematic determination of genetic network architecture}.
-\newblock \emph{Nature Genetics}, 22\penalty0 (3):\penalty0 281--285, July
-  1999.
-\newblock ISSN 1061-4036.
-\newblock \doi{10.1038/10343}.
-\newblock URL \url{http://dx.doi.org/10.1038/10343}.
-
 \bibitem[Vandesompele et~al.(2002)Vandesompele, {De Preter}, Pattyn, Poppe,
   {Van Roy}, {De Paepe}, and Speleman]{Vandesompele2002}
 Jo~Vandesompele, Katleen {De Preter}, Filip Pattyn, Bruce Poppe, Nadine {Van
@@ -645,7 +616,7 @@ LeAnn~P. Whitney, Jeremy~J. Lins, Margaret~P Hughes, Mark~L Wells, P.~Dreux
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3223615\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Wu et~al.(2010)Wu, Jenkins, Rynearson, Dyhrman, Saito, Mercier, and
-  Whitney]{Wu2010}
+  Whitney]{wu2010}
 Zhijin Wu, Bethany~D Jenkins, Tatiana~A Rynearson, Sonya~T Dyhrman, Mak~A
   Saito, Melissa Mercier, and LeAnn~P Whitney.
 \newblock {Empirical bayes analysis of sequencing-based transcriptional

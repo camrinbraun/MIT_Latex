@@ -1,10 +1,35 @@
-This is BibTeX, Version 0.99d (TeX Live 2010)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: contents.aux
 A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
+Case mismatch error between cite keys Hartigan1979 and hartigan1979
+---line 24 of file chap2.aux
+ : \citation{Hartigan1979
+ :                       ,Tavazoie1999,Gerstein2000,Quackenbush2001,Dhaeseleer2005}
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Wu2010 and wu2010
+---line 25 of file chap2.aux
+ : \citation{Wu2010
+ :                 }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Wu2010 and wu2010
+---line 36 of file chap2.aux
+ : \citation{Wu2010
+ :                 }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Hartigan1979 and hartigan1979
+---line 37 of file chap2.aux
+ : \citation{Hartigan1979
+ :                       }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Hartigan1979 and hartigan1979
+---line 56 of file chap2.aux
+ : \citation{Hartigan1979
+ :                       }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: chap3.aux
 A level-1 auxiliary file: biblio.aux
 The style file: plainnat.bst
@@ -20,45 +45,45 @@ Warning--I didn't find a database entry for "magenheimer:precision"
 Warning--I didn't find a database entry for "byte:i860"
 Warning--I didn't find a database entry for "colwell:vliw"
 Warning--empty booktitle in Zehr2001
-You've used 61 entries,
+You've used 58 entries,
             2773 wiz_defined-function locations,
-            1179 strings with 26995 characters,
-and the built_in function-call counts, 41546 in all, are:
-= -- 3784
-> -- 3298
-< -- 18
-+ -- 1104
-- -- 1041
-* -- 4222
-:= -- 6685
-add.period$ -- 344
-call.type$ -- 61
-change.case$ -- 530
-chr.to.int$ -- 59
-cite$ -- 123
-duplicate$ -- 1277
-empty$ -- 2517
-format.name$ -- 1126
-if$ -- 8361
+            1148 strings with 26246 characters,
+and the built_in function-call counts, 39978 in all, are:
+= -- 3626
+> -- 3219
+< -- 16
++ -- 1077
+- -- 1017
+* -- 4077
+:= -- 6439
+add.period$ -- 327
+call.type$ -- 58
+change.case$ -- 513
+chr.to.int$ -- 56
+cite$ -- 117
+duplicate$ -- 1216
+empty$ -- 2396
+format.name$ -- 1097
+if$ -- 8037
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 61
-newline$ -- 473
-num.names$ -- 244
-pop$ -- 787
+missing$ -- 58
+newline$ -- 450
+num.names$ -- 232
+pop$ -- 766
 preamble$ -- 1
-purify$ -- 469
+purify$ -- 455
 quote$ -- 0
-skip$ -- 1056
+skip$ -- 1013
 stack$ -- 0
-substring$ -- 1681
-swap$ -- 128
+substring$ -- 1600
+swap$ -- 122
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 671
+type$ -- 638
 warning$ -- 1
-while$ -- 297
+while$ -- 282
 width$ -- 0
-write$ -- 1121
-(There were 11 warnings)
+write$ -- 1066
+(There were 5 error messages)
