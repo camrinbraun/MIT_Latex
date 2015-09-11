@@ -33,7 +33,7 @@
 \usepackage[T1]{fontenc}
 \pagestyle{plain}
 \usepackage[authoryear,round,semicolon]{natbib}
-\usepackage{graphicx}
+\usepackage{graphicx, pdflscape}
 
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.
@@ -56,8 +56,8 @@ process all files:}
 \include{chap1}
 \include{chap2}
 \include{chap3}
-%%\appendix
-%%\include{appa}
+\appendix
+\include{appa}
 %%\include{appb}
 \include{biblio}
 \end{document}
