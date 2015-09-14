@@ -6,64 +6,58 @@ A level-1 auxiliary file: contents.aux
 A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
 A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
 A level-1 auxiliary file: appa.aux
 A level-1 auxiliary file: biblio.aux
 The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 10096 items from 5000.
 Database file #1: main.bib
-Warning--I didn't find a database entry for "patterson:risc"
-Warning--I didn't find a database entry for "rad83"
-Warning--I didn't find a database entry for "ellis:bulldog"
-Warning--I didn't find a database entry for "pet87"
-Warning--I didn't find a database entry for "coutant:precision-compilers"
-Warning--I didn't find a database entry for "gib86"
-Warning--I didn't find a database entry for "thornton:cdc6600"
-Warning--I didn't find a database entry for "magenheimer:precision"
-Warning--I didn't find a database entry for "byte:i860"
-Warning--I didn't find a database entry for "colwell:vliw"
+Warning--I didn't find a database entry for "Marchetti2012"
+Warning--I didn't find a database entry for "Robinson2010"
 Warning--empty year in Andrews
 Warning--can't use both author and editor fields in Guillard1975
 Warning--empty journal in Menden-deuer2014
 Warning--there's a number but no volume in Menden-deuer2014
 Warning--empty booktitle in Zehr2001
-You've used 139 entries,
+You've used 180 entries,
             2773 wiz_defined-function locations,
-            1671 strings with 45128 characters,
-and the built_in function-call counts, 90509 in all, are:
-= -- 7775
-> -- 7584
-< -- 48
-+ -- 2544
-- -- 2403
-* -- 9094
-:= -- 14470
-add.period$ -- 548
-call.type$ -- 139
-change.case$ -- 1216
-chr.to.int$ -- 137
-cite$ -- 283
-duplicate$ -- 2877
-empty$ -- 5589
-format.name$ -- 2592
-if$ -- 18094
+            1947 strings with 58486 characters,
+and the built_in function-call counts, 123320 in all, are:
+= -- 10417
+> -- 10959
+< -- 55
++ -- 3671
+- -- 3489
+* -- 12527
+:= -- 19849
+add.period$ -- 708
+call.type$ -- 180
+change.case$ -- 1700
+chr.to.int$ -- 178
+cite$ -- 365
+duplicate$ -- 3729
+empty$ -- 7228
+format.name$ -- 3727
+if$ -- 24528
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 140
-newline$ -- 833
-num.names$ -- 556
-pop$ -- 2072
+missing$ -- 182
+newline$ -- 1075
+num.names$ -- 720
+pop$ -- 2934
 preamble$ -- 1
-purify$ -- 1079
+purify$ -- 1523
 quote$ -- 0
-skip$ -- 2404
+skip$ -- 3234
 stack$ -- 0
-substring$ -- 3489
-swap$ -- 273
+substring$ -- 4484
+swap$ -- 345
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1519
+type$ -- 1965
 warning$ -- 5
-while$ -- 668
+while$ -- 860
 width$ -- 0
-write$ -- 2071
-(There were 15 warnings)
+write$ -- 2676
+(There were 7 warnings)
