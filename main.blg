@@ -1,36 +1,12 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2010)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: contents.aux
 A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
-Case mismatch error between cite keys Hartigan1979 and hartigan1979
----line 24 of file chap2.aux
- : \citation{Hartigan1979
- :                       ,Tavazoie1999,Gerstein2000,Quackenbush2001,Dhaeseleer2005}
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Wu2010 and wu2010
----line 25 of file chap2.aux
- : \citation{Wu2010
- :                 }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Wu2010 and wu2010
----line 36 of file chap2.aux
- : \citation{Wu2010
- :                 }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Hartigan1979 and hartigan1979
----line 37 of file chap2.aux
- : \citation{Hartigan1979
- :                       }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Hartigan1979 and hartigan1979
----line 56 of file chap2.aux
- : \citation{Hartigan1979
- :                       }
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: appa.aux
 A level-1 auxiliary file: biblio.aux
 The style file: plainnat.bst
 Database file #1: main.bib
@@ -44,46 +20,50 @@ Warning--I didn't find a database entry for "thornton:cdc6600"
 Warning--I didn't find a database entry for "magenheimer:precision"
 Warning--I didn't find a database entry for "byte:i860"
 Warning--I didn't find a database entry for "colwell:vliw"
+Warning--empty year in Andrews
+Warning--can't use both author and editor fields in Guillard1975
+Warning--empty journal in Menden-deuer2014
+Warning--there's a number but no volume in Menden-deuer2014
 Warning--empty booktitle in Zehr2001
-You've used 58 entries,
+You've used 139 entries,
             2773 wiz_defined-function locations,
-            1148 strings with 26246 characters,
-and the built_in function-call counts, 39978 in all, are:
-= -- 3626
-> -- 3219
-< -- 16
-+ -- 1077
-- -- 1017
-* -- 4077
-:= -- 6439
-add.period$ -- 327
-call.type$ -- 58
-change.case$ -- 513
-chr.to.int$ -- 56
-cite$ -- 117
-duplicate$ -- 1216
-empty$ -- 2396
-format.name$ -- 1097
-if$ -- 8037
+            1671 strings with 45128 characters,
+and the built_in function-call counts, 90509 in all, are:
+= -- 7775
+> -- 7584
+< -- 48
++ -- 2544
+- -- 2403
+* -- 9094
+:= -- 14470
+add.period$ -- 548
+call.type$ -- 139
+change.case$ -- 1216
+chr.to.int$ -- 137
+cite$ -- 283
+duplicate$ -- 2877
+empty$ -- 5589
+format.name$ -- 2592
+if$ -- 18094
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 58
-newline$ -- 450
-num.names$ -- 232
-pop$ -- 766
+missing$ -- 140
+newline$ -- 833
+num.names$ -- 556
+pop$ -- 2072
 preamble$ -- 1
-purify$ -- 455
+purify$ -- 1079
 quote$ -- 0
-skip$ -- 1013
+skip$ -- 2404
 stack$ -- 0
-substring$ -- 1600
-swap$ -- 122
+substring$ -- 3489
+swap$ -- 273
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 638
-warning$ -- 1
-while$ -- 282
+type$ -- 1519
+warning$ -- 5
+while$ -- 668
 width$ -- 0
-write$ -- 1066
-(There were 5 error messages)
+write$ -- 2071
+(There were 15 warnings)

@@ -1,9 +1,25 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces Expression patterns of putative reference genes}}{37}
-\contentsline {figure}{\numberline {2-2}{\ignorespaces Average deviation from the mean level of expression for putative reference genes}}{38}
-\contentsline {figure}{\numberline {2-3}{\ignorespaces Comparison of putative reference genes identified through literature, $k$-means clustering, and ASC analysis}}{39}
+\contentsline {figure}{\numberline {2-1}{\ignorespaces Expression patterns of putative reference genes}}{37}{figure.caption.6}
+\contentsline {figure}{\numberline {2-2}{\ignorespaces Average deviation from the mean level of expression for putative reference genes}}{38}{figure.caption.7}
+\contentsline {figure}{\numberline {2-3}{\ignorespaces Comparison of putative reference genes identified through literature, $k$-means clustering, and ASC analysis}}{39}{figure.caption.8}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces Taxonomic classification of reads across five field samples}}{52}{figure.caption.9}
+\contentsline {figure}{\numberline {3-2}{\ignorespaces Quantitative metabolic fingerprint across Narragansett Bay \textit {in situ} samples}}{55}{figure.caption.10}
+\contentsline {figure}{\numberline {3-3}{\ignorespaces Modulation of nitrogen and phosphorus pathways in the field}}{58}{figure.caption.11}
+\contentsline {figure}{\numberline {3-4}{\ignorespaces Functional composition of resource-responsive gene set}}{61}{figure.caption.12}
+\contentsline {figure}{\numberline {3-5}{\ignorespaces Evolution of resource-responsive (RR) gene partitioning over time in Narragansett Bay}}{64}{figure.caption.13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A-1}{\ignorespaces Distribution of normalized tag counts across treatments}}{58}
-\contentsline {figure}{\numberline {A-2}{\ignorespaces $K$-means clustering of normalized genes}}{59}
+\contentsline {figure}{\numberline {A-1}{\ignorespaces Distribution of normalized tag counts across treatments}}{68}{figure.caption.14}
+\contentsline {figure}{\numberline {A-2}{\ignorespaces $K$-means clustering of normalized genes}}{69}{figure.caption.15}
+\contentsline {figure}{\numberline {A-3}{\ignorespaces Cell counts in Narragansett Bay during the spring of 2012}}{70}{figure.caption.16}
+\contentsline {figure}{\numberline {A-4}{\ignorespaces Comparison of KEGG module content between \textit {Skeletonema} spp. and \textit {T. rotula} }}{71}{figure.caption.17}
+\contentsline {figure}{\numberline {A-5}{\ignorespaces Hierarchical clustering of QMF signatures across species and samples}}{72}{figure.caption.18}
+\contentsline {figure}{\numberline {A-6}{\ignorespaces Expression of stable reference genes in the field}}{73}{figure.caption.19}
+\contentsline {figure}{\numberline {A-7}{\ignorespaces Functional compoosition of the reference transcriptome and resource-responsive gene sets}}{74}{figure.caption.20}
+\contentsline {figure}{\numberline {A-8}{\ignorespaces Relative expression of nitrate reducatses across incubation experiments}}{75}{figure.caption.21}
+\contentsline {figure}{\numberline {A-9}{\ignorespaces Gene cluster analysis of nutrient-responsive genes}}{76}{figure.caption.22}
+\contentsline {figure}{\numberline {A-10}{\ignorespaces Conceptual schemiatic of $STD_N$ plotted against $STD_P$}}{77}{figure.caption.23}
+\contentsline {figure}{\numberline {A-11}{\ignorespaces Evolution of niche space indexing over for significantly down-regualted genes}}{78}{figure.caption.24}
+\contentsline {figure}{\numberline {A-12}{\ignorespaces The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs}}{79}{figure.caption.25}
+\contentsline {figure}{\numberline {A-13}{\ignorespaces The impact of stable gene selction of quadrant localization}}{80}{figure.caption.26}

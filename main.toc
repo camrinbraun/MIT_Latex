@@ -1,30 +1,40 @@
-\contentsline {chapter}{\numberline {1}Introduction}{13}
-\contentsline {section}{\numberline {1.1}}{13}
-\contentsline {section}{\numberline {1.2}Description of micro-optimization}{14}
-\contentsline {subsection}{\numberline {1.2.1}Post Multiply Normalization}{15}
-\contentsline {subsection}{\numberline {1.2.2}Block Exponent}{15}
-\contentsline {section}{\numberline {1.3}Integer optimizations}{16}
-\contentsline {subsection}{\numberline {1.3.1}Conversion to fixed point}{16}
-\contentsline {subsection}{\numberline {1.3.2}Small Constant Multiplications}{17}
-\contentsline {section}{\numberline {1.4}Other optimizations}{18}
-\contentsline {subsection}{\numberline {1.4.1}Low-level parallelism}{18}
-\contentsline {subsection}{\numberline {1.4.2}Pipeline optimizations}{19}
-\contentsline {chapter}{\numberline {2}Identifying reference genes with stable expression from high throughput sequence data}{21}
-\contentsline {section}{\numberline {2.1}Abstract}{21}
-\contentsline {section}{\numberline {2.2}Introduction}{22}
-\contentsline {section}{\numberline {2.3}Materials and Methods}{24}
-\contentsline {subsection}{\numberline {2.3.1}Culturing and Transcriptome Data Collection}{24}
-\contentsline {subsection}{\numberline {2.3.2}Reference gene identification}{25}
-\contentsline {section}{\numberline {2.4}Results}{27}
-\contentsline {section}{\numberline {2.5}Discussion}{31}
-\contentsline {section}{\numberline {2.6}Acknowledgements}{35}
-\contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{41}
-\contentsline {section}{\numberline {3.1}Abstract}{41}
-\contentsline {section}{\numberline {3.2}Introduction}{42}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{44}
-\contentsline {subsection}{\numberline {3.3.1}Culturing and Transcriptome Data Collection}{44}
-\contentsline {subsection}{\numberline {3.3.2}Reference gene identification}{45}
-\contentsline {section}{\numberline {3.4}Results}{47}
-\contentsline {section}{\numberline {3.5}Discussion}{51}
-\contentsline {section}{\numberline {3.6}Acknowledgements}{55}
-\contentsline {chapter}{\numberline {A}Supplemental Figures}{57}
+\contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}
+\contentsline {section}{\numberline {1.1}}{13}{section.1.1}
+\contentsline {section}{\numberline {1.2}Description of micro-optimization}{14}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Post Multiply Normalization}{15}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Block Exponent}{15}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Integer optimizations}{16}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Conversion to fixed point}{16}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Small Constant Multiplications}{17}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Other optimizations}{18}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Low-level parallelism}{18}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Pipeline optimizations}{19}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {2}Identifying reference genes with stable expression from high throughput sequence data}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Abstract}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{22}{section.2.2}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{25}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Culturing and Transcriptome Data Collection}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Reference gene identification}{25}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Results}{27}{section.2.4}
+\contentsline {section}{\numberline {2.5}Discussion}{31}{section.2.5}
+\contentsline {section}{\numberline {2.6}Figues}{36}{section.2.6}
+\contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{41}{chapter.3}
+\contentsline {section}{\numberline {3.1}Abstract}{41}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{42}{section.3.2}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{45}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Experimental set up and sample collection}{45}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}RNA extraction and sequencing}{46}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Transcriptome and genome mapping}{46}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Transcriptome clustering}{48}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Identification of stable and nutrient-responsive genes}{48}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Normalization of metatranscriptome data}{49}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{51}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Samples and sequencing}{51}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{53}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{56}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{59}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {A}Supplemental Information}{67}{appendix.A}
+\contentsline {section}{\numberline {A.1}Appendix for Chapter 2}{67}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Supplemental Figures}{67}{subsection.A.1.1}
+\contentsline {section}{\numberline {A.2}Appendix for Chapter 3}{70}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Supplemental Figures}{70}{subsection.A.2.1}

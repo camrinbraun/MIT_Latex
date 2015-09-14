@@ -1,20 +1,25 @@
-\chapter{Supplemental Figures}
+\chapter{Supplemental Information}
 
-\begin{figure}
+\section{Appendix for Chapter 2}
+
+\subsection{Supplemental Figures}
+%Supplemental Figure 1: Histogram of TPM distribution
+\begin{figure}[h!]
   \centering
     \includegraphics[width=1\textwidth]{Images/C2_FigureS1_v6.pdf}
-    \caption[Distribution of normalized tag counts across treatments]{Histogram analysis of the distribution of normalized tag counts (tpm) for each gene across each of the four treatments (Replete, P-limited, Fe-limited, and co-limited). The abundance of normalized tag counts (tpm) was assessed, tallying the total number of genes with a given tag count. Only tag counts less than 20 are depicted to aid the visualization of the inflection in the data at 2.5 tpm.}
+    \caption[Distribution of normalized tag counts across treatments]{Histogram analysis of the distribution of normalized tag counts (TPM) for each gene across each of the four treatments (Replete, P-limited, Fe-limited, and co-limited). The abundance of normalized tag counts (TPM) was assessed, tallying the total number of genes with a given tag count. Only tag counts less than 20 are depicted to aid the visualization of the inflection in the data at 2.5 TPM.}
   \label{fig:a1f1}
 \end{figure}
 
+%Supplemental Figure 2: K-means clusters (all)
 \begin{landscape}
    \null         %%<---- this is needed
    \vfill        %%<-----here
-    
+   \centering 
     \begin{figure}
     \centering
         \includegraphics[width=1\textwidth]{Images/C2_FigureS2_v6.pdf}
-        \caption[$K$-means clustering of normalized genes]{$K$-means clustering of normalized genes. The 7380 genes that passed the 2.5 tpm cutoff were clustered into 15 clusters using the $k$-means algorithm under the Pearson correlation coefficient. Tag counts normalized to total library size (in tpm) for each gene are plotted relative to the mean (indicated by the color of the line) for each of the four treatments: Replete (Rep), P-limited (P-lim), Fe-limited (Fe-lim), and co-limited (Co-lim).}
+        \caption[$K$-means clustering of normalized genes]{$K$-means clustering of normalized genes. The 7380 genes that passed the 2.5 TPM cutoff were clustered into 15 clusters using the $k$-means algorithm under the Pearson correlation coefficient. Tag counts normalized to total library size (in TPM) for each gene are plotted relative to the mean (indicated by the color of the line) for each of the four treatments: Replete (Rep), P-limited (P-lim), Fe-limited (Fe-lim), and co-limited (Co-lim).}
     \label{fig:a1f2} 
     \end{figure}
     \vfill        %%<----- and here
@@ -22,3 +27,111 @@
 
 \clearpage
 \newpage
+
+
+\section{Appendix for Chapter 3}
+\subsection{Supplemental Figures}
+
+%Supplemental Figure 1: Cell counts in NB 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure1_CellCounts.png}
+    \caption[Cell counts in Narragansett Bay during the spring of 2012]{Abundance estimation from cell counts of \textit{Skeletonema} spp. and \textit{T. rotula} across the five sample points during the spring of 2012. }
+  \label{fig:a3f1}
+\end{figure}
+
+
+%Supplemental Figure 2: KEGG linear correlation
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure2_KEGGModuleGeneContent2.png}
+    \caption[Comparison of KEGG module content between \textit{Skeletonema} spp. and \textit{T. rotula} ]{Total number of genes assigned to each KEGG module for \textit{Skeletonema} spp. and \textit{T. rotula}.}
+  \label{fig:a3f2}
+\end{figure}
+
+
+%Supplemental Figure 3: Hierarchical clustering of S and T across time
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure3_Dendrogram.pdf}
+    \caption[Hierarchical clustering of QMF signatures across species and samples]{Dendrogram depicting hierarchical clustering of samples based on relative expression of KEGG modules (Figure 2) across the five samples S1-S5 for \textit{Skeletonema} spp. and \textit{T. rotula}.}
+  \label{fig:a3f3}
+\end{figure}
+
+%Supplemental Figure 4: Stable gene expression across time
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure4_StableGenePlot_wActin.pdf}
+    \caption[Expression of stable reference genes in the field]{Expression of stable reference genes identified based on literature and statistical parsing in nutrient amendment incubation. (A) The expression in tags per million ($TPM$) of stable reference genes identified in \textit{T. rotula} (dashed line) and \textit{Skeletonema} spp.  (solid lines) based on homology (e-value < 1e-5) to a known reference genes in \textit{T. pseudonana}, ACT1 (Thaps\_25772), in nutrient incubations. (B) Also shown are reference genes identified in the incubation experiments, using statistical analysis of sequence counts \citep{Alexander2012, Wu2010}, and nutrient incubations }
+  \label{fig:a3f4}
+\end{figure}
+
+%Supplemental Figure 5: RR gene composition
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure5_RR_All_Genes_Pie.pdf}
+    \caption[Functional compoosition of the reference transcriptome and resource-responsive gene sets]{Functional composition of the reference transcriptome and resource-responsive (RR) gene subset for \textit{T. rotula} and \textit{Skeletonema} spp. (A) RR gene sets were identified through cross comparison of like-nutrient incubations (i.e. +N vs. -N and +P vs. -P), using ASC (fold change = 2, post-$p > 0.95$). The relative functional categorization of the reference transcriptomes and RR gene set for \textit{T. rotula} and \textit{Skeletonema} spp. based on KEGG ontology as assigned by KAAS is depicted at the module-level.}
+  \label{fig:a3f5}
+\end{figure}
+
+%Supplemental Figure 6: Expression of nitrate reductase
+
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure6_SGNC_NitrateReductase.pdf}
+    \caption[Relative expression of nitrate reducatses across incubation experiments]{The relative expression in stable gene normalized counts ($SGNC$) of the assimilatory nitrate reductase gene cluster across the incubation experiment treatments. Significance of regulation between the treatments is denoted by the color of the line; organisms are denoted by the shapes of the marker.}
+  \label{fig:a3f6}
+\end{figure}
+
+%Supplemental Figure 7: Cluster Analysis
+
+
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure7_ClusterAnalysis_v5.pdf}
+    \caption[Gene cluster analysis of nutrient-responsive genes]{Gene cluster known nutrient-responsive genes in \textit{T. pseudonana}: (A) assimilatory nitrate reductase and (B) sodium-phosphate cotransporter and novel resource-responsive (RR) gene families: (C) RR1 and (D) RR2. Transcripts from the transcriptomes of \textit{T. rotula} and \textit{Skeletonema} spp. were clustered based upon relative homology with available diatom genomes: \textit{F. cylindrus}, \textit{P. tricornitum}, \textit{P. multiseries}, and \textit{T. pseudonana}. Symbols indicate different species, while color indicates regulation in the field incubation experiments. Two nodes within a gene cluster are connected by an edge if they share a homologous protein (reciprocal BLAST hit with a minimum of 1e-5 score and minimum 20\% identity). Gene clusters are visualized using an edge-weighted spring-embedded model based on e-value, meaning that genes that are closer together are more similar. The width of the line correlates to the magnitude of the e-value, with lower e-values represented by thicker lines and higher e-values represented by thinner lines.}
+  \label{fig:a3f7}
+\end{figure}
+
+%Supplemental Figure 8: Conceptual schematic of STD niche space
+
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure8_Schematic_Quadrants.pdf}
+    \caption[Conceptual schemiatic of $STD_N$ plotted against $STD_P$]{A conceptual schematic of $STD_N$ plotted against $STD_P$ hypothesized regions of N:P > Redfield physiology and N:P < Redfield physiology highlighted.}
+  \label{fig:a3f8}
+\end{figure}
+
+
+%Supplemental Figure 9: NISP Dn genes
+\begin{landscape}
+   \centering
+   \null         %%<---- this is needed
+   \vfill        %%<-----here
+
+	\begin{figure}
+  	\centering
+    	\includegraphics[width=1.3\textwidth]{Images/C3_SFigure9_NISP_DNGenes.png}
+    	\caption[Evolution of niche space indexing over for significantly down-regualted genes]{Evolution of niche space indexing over time in Narragansett Bay for \textit{T. rotula} and \textit{Skeletonema} spp.. The stable gene normalized field signal from genes identified as significantly (2-fold change, post$-p > 0.95$) down-regulated in -P vs +P for Skeletonema spp. (yellow) and \textit{T. rotula} (orange) and in -N vs +N for for \textit{Skeletonema} spp. (cyan) and \textit{T. rotula} (dark blue) was proportionalized relative to the expression for those genes in nutrient incubations, yielding the $STD_N$ and $STD_P$. These data are plotted for Sample 1 through Sample 5.}
+  	\label{fig:a3f9}
+	\end{figure}
+    \vfill        %%<----- and here
+\end{landscape}
+
+%Supplemental Figure 10: Percentage of RR genes by quadrant
+
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf}
+    \caption[The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs]{The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp.. The total number of genes falling into the N:P > Redfield quadrant ($STD_P > C$; $STD_N < C$, for $0.25 < C < 0.75$) and the N:P < Redfield quadrant ($STD_P$ < C; $STD_N > C$, for $0.25 < C < 0.75$). The value of C was varied over 10 different values and the average percentages of genes falling into each of the quadrants is depicted above based on the size of the circle at the median $STD_N$ and $STD_P$ for the genes in the quadrant. Similarity of data between species by quadrant was assessed using an analysis of variance (ANOVA) with a generalized linear model. The results from a post hoc Tukey test show the divergence of species across time ($p < 0.05$).}
+  \label{fig:a3f10}
+\end{figure}
+
+%Supplemental Figure 11: Quadrant localization with varying stable reference genes
+
+\begin{figure}[p!]
+  \centering
+    \includegraphics[width=1\textwidth]{Images/C3_SFigure11_Quadrant.pdf}
+    \caption[The impact of stable gene selction of quadrant localization]{The impact of stable gene selection on the quadrant localization of the resource responsive gene sets. The posterior probability cutoff used in the selection of stable genes was varied from 0.1 to 0.5 for a fold change of 1.25. The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp. across the five sample points and five posterior probability values is depicted.}
+  \label{fig:a3f11}
+\end{figure}

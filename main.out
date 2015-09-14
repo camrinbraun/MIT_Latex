@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Description of micro-optimization}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Post Multiply Normalization}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Block Exponent}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.3}{Integer optimizations}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.3.1}{Conversion to fixed point}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.2}{Small Constant Multiplications}{section.1.3}% 8
+\BOOKMARK [1][-]{section.1.4}{Other optimizations}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.4.1}{Low-level parallelism}{section.1.4}% 10
+\BOOKMARK [2][-]{subsection.1.4.2}{Pipeline optimizations}{section.1.4}% 11
+\BOOKMARK [0][-]{chapter.2}{Identifying reference genes with stable expression from high throughput sequence data}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Abstract}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Introduction}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Materials and Methods}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Culturing and Transcriptome Data Collection}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Reference gene identification}{section.2.3}% 17
+\BOOKMARK [1][-]{section.2.4}{Results}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.5}{Discussion}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.6}{Figues}{chapter.2}% 20
+\BOOKMARK [0][-]{chapter.3}{Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{}% 21
+\BOOKMARK [1][-]{section.3.1}{Abstract}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.2}{Introduction}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.3}{Materials and Methods}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.1}{Experimental set up and sample collection}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.2}{RNA extraction and sequencing}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.3}{Transcriptome and genome mapping}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.4}{Transcriptome clustering}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.5}{Identification of stable and nutrient-responsive genes}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.6}{Normalization of metatranscriptome data}{section.3.3}% 30
+\BOOKMARK [1][-]{section.3.4}{Results and Discussion}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.4.1}{Samples and sequencing}{section.3.4}% 32
+\BOOKMARK [2][-]{subsection.3.4.2}{Temporal plasticity in expressed metabolic capacity}{section.3.4}% 33
+\BOOKMARK [2][-]{subsection.3.4.3}{Species-specific resource utilization underpins physiological ecology}{section.3.4}% 34
+\BOOKMARK [2][-]{subsection.3.4.4}{Identification and modulation of resource responsive genes in situ highlights species-specific differences}{section.3.4}% 35
+\BOOKMARK [0][-]{appendix.A}{Supplemental Information}{}% 36
+\BOOKMARK [1][-]{section.A.1}{Appendix for Chapter 2}{appendix.A}% 37
+\BOOKMARK [2][-]{subsection.A.1.1}{Supplemental Figures}{section.A.1}% 38
+\BOOKMARK [1][-]{section.A.2}{Appendix for Chapter 3}{appendix.A}% 39
+\BOOKMARK [2][-]{subsection.A.2.1}{Supplemental Figures}{section.A.2}% 40
