@@ -1,5 +1,11 @@
 \chapter{Supplemental Information}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%_________________CHAPTERTWO_________________%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Appendix for Chapter 2}
 
 \subsection{Supplemental Figures}
@@ -27,6 +33,12 @@
 
 \clearpage
 \newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%_________________CHAPTERTHREE_________________%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \section{Appendix for Chapter 3}
@@ -138,8 +150,39 @@
 
 
 
+\subsection{Supplemental Tables}
 
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[h!]
+\centering
+\caption[The total number of paired end reads after quality control and trimming and the percentage of reads mapping]{The total number of paired end reads after quality control and trimming and the percentage of reads mapping to the \textit{T. pseudonana} genome, \textit{T. rotula} transcriptome, and \textit{S. costatum} transcriptome.}
+\label{my-label}
 
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{.5pt}}m{#1}}
+
+\begin{tabular}{|C{2cm}|C{2.5cm}|C{2.5cm}|C{2.5cm}|C{2.5cm}|}
+\hline
+\multirow{2}{*}{Sample} & \multirow{2}{*}{\parbox{2.5cm}{Total library size (paired end reads)}} & \multicolumn{3}{c|}{Mapped representation in library} \\ \cline{3-5} 
+                        &                                                              & \textit{T. pseudonana}      & \textit{T. rotula}      & \textit{S. costatum}     \\ \hline
+S1                      & 89455034                                                     & 2.98\%             & 17.50\%        & 33.50\%         \\ \hline
+S2                      & 64888267                                                     & 0.41\%             & 11.70\%        & 54.90\%         \\ \hline
+S3                      & 103250243                                                    & 0.39\%             & 7.30\%         & 9.00\%          \\ \hline
+S4                      & 45370867                                                     & 0.68\%             & 8.80\%         & 8.30\%          \\ \hline
+S5                      & 55061692                                                     & 0.88\%             & 10.40\%        & 11.20\%         \\ \hline
+Ambient Control         & 51508197                                                     & 0.27\%             & 13.40\%        & 8.00\%          \\ \hline
++N                      & 58626239                                                     & 0.43\%             & 6.10\%         & 5.30\%          \\ \hline
+-N                      & 44561851                                                     & 0.41\%             & 8.70\%         & 8.30\%          \\ \hline
++P                      & 51130364                                                     & 0.29\%             & 8.50\%         & 8.00\%          \\ \hline
+-P                      & 58834022                                                     & 0.40\%             & 6.60\%         & 6.50\%          \\ \hline
+\end{tabular}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%_________________CHAPTERFOUR_________________%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
