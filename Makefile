@@ -1,4 +1,4 @@
-all: main.pdf main.tex chap1.tex chap2.tex chap3.tex main.bib appa.tex
+all: main.pdf main.tex chap1.tex chap2.tex chap3.tex chap4.tex chap5.tex chap6.tex main.bib appa.tex
 
 clean: 
 	rm -rf *aux
@@ -9,7 +9,7 @@ clean:
 	sed -e 's/<\/i>/}/g' tmp > tmp2
 	mv tmp2 main.bib
 
-main.pdf: main.tex main.bib chap1.tex chap2.tex chap3.tex chap4.tex appa.tex
+main.pdf: main.tex main.bib chap1.tex chap2.tex chap3.tex chap4.tex chap5.tex chap6.tex appa.tex
 	pdflatex main.tex
 	bibtex main
 	bibtex main

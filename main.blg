@@ -7,6 +7,8 @@ A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
 A level-1 auxiliary file: chap3.aux
 A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: chap6.aux
 A level-1 auxiliary file: appa.aux
 A level-1 auxiliary file: biblio.aux
 The style file: plainnat.bst
@@ -21,7 +23,7 @@ Warning--there's a number but no volume in Menden-deuer2014
 Warning--empty booktitle in Zehr2001
 You've used 180 entries,
             2773 wiz_defined-function locations,
-            1947 strings with 58486 characters,
+            1949 strings with 58504 characters,
 and the built_in function-call counts, 123320 in all, are:
 = -- 10417
 > -- 10959

@@ -1,13 +1,15 @@
 \chapter{Supplemental Information}
 
+\raggedbottom
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%_________________CHAPTERTWO_________________%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\clearpage
 \section{Appendix for Chapter 2}
-
 \subsection{Supplemental Figures}
 %Supplemental Figure 1: Histogram of TPM distribution
 \begin{figure}[h!]
@@ -152,12 +154,12 @@
 
 \subsection{Supplemental Tables}
 
-% Please add the following required packages to your document preamble:
-% \usepackage{multirow}
+%Supplemental Table 1: library stats
+
 \begin{table}[h!]
 \centering
 \caption[The total number of paired end reads after quality control and trimming and the percentage of reads mapping]{The total number of paired end reads after quality control and trimming and the percentage of reads mapping to the \textit{T. pseudonana} genome, \textit{T. rotula} transcriptome, and \textit{S. costatum} transcriptome.}
-\label{my-label}
+\label{tab:a3t1}
 
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{.5pt}}m{#1}}
 
@@ -178,6 +180,48 @@ Ambient Control         & 51508197                                              
 \end{tabular}
 \end{table}
 
+%Supplememntal Table 2: nutrient concentrations used in incubations
+
+\begin{table}[h!]
+\centering
+\caption[Nutrient concentrations used in nutrient amendment incubations. ]{Nutrient concentrations used in nutrient amendment incubations.}
+\label{tab:a3t2}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+                                    & \multicolumn{5}{c|}{\textbf{Treatment}}                                                                                              \\ \cline{2-6} 
+\multirow{-2}{*}{\textbf{Nutrient}} & Ambient Control          & + P                      & + N                      & - P                      & - N                      \\ \hline
+Nitrate                             & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & 10 $\mu M$                    & 10 $\mu M$                    & \cellcolor[HTML]{C0C0C0} \\ \hline
+Phosphate                           & \cellcolor[HTML]{C0C0C0} & 3 $\mu M$                     & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & 3 $\mu M$                     \\ \hline
+Silica                             & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & 68 $\mu M$                    & 68 $\mu M$                    \\ \hline
+Iron                                & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & 4.6 $\mu M$                   & 4.6 $\mu M$                   \\ \hline
+Vitamins                            & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & f/5                      & f/5                      \\ \hline
+\end{tabular}
+\end{table}
+
+
+%Supplememntal Table 3: nutrient concentrations used in incubations
+
+\begin{table}[h!]
+\centering
+\caption[Mapping statistics for \textit{T. rotula} and \textit{S. costatum} transcriptomes]{Total number of contigs in the \textit{T. rotula} and \textit{S. costatum} transcriptomes and the number of genes in each of the differentially regulated and stable groupings.}
+\label{tab:a3t3}
+\begin{tabular}{|l|l|l|}
+\hline
+                                                                       & \textit{\textbf{T. rotula}} & \textit{\textbf{S. costatum}} \\ \hline
+Number of contigs in transcriptome                                     & 22362                       & 27665                         \\ \hline
+Pass 2 TPM cutoff                                                      & 4318                        & 20921                         \\ \hline
+Up in -P vs +P                                                         & 249                         & 4754                          \\ \hline
+Down in -P vs +P                                                       & 335                         & 52                            \\ \hline
+Up in -N vs +N                                                         & 196                         & 9                             \\ \hline
+Down in -N vs +N                                                       & 49                          & 1631                          \\ \hline
+All differentially regulated (2 fold change, post-$p > 0.95$) & 775                         & 5136                          \\ \hline
+Stable genes (1.25 fold change, post-$p < 0.1$)                  & 1                           & 4                             \\ \hline
+\end{tabular}
+\end{table}
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%_________________CHAPTERFOUR_________________%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -185,6 +229,7 @@ Ambient Control         & 51508197                                              
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+\clearpage
 
 \section{Appendix for Chapter 4}
 \subsection{Supplemental Figures}
@@ -255,4 +300,27 @@ Ambient Control         & 51508197                                              
   \label{fig:a4f7}
 \end{figure}
 
+\clearpage
+
+\subsection{Supplemental Tables}
+
+% Supplemental table with nutrient concentrations post treatment run for E and C
+\begin{table}[h!]
+\centering
+\caption[Mapping statistics for \textit{T. rotula} and \textit{S. costatum} transcriptomes]{Total number of contigs in the \textit{T. rotula} and \textit{S. costatum} transcriptomes and the number of genes in each of the differentially regulated and stable groupings.}
+\label{tab:a4t1}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{.5pt}}m{#1}}
+\begin{tabular}{ccccc}
+
+    
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{Treatment}}} & \multicolumn{1}{c|}{\multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}c@{}}Time post \\ inoculation (hours)\end{tabular}}}} & \multicolumn{1}{c|}{\multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}c@{}}NO2 + NO3 \\ ($\mu M$)\end{tabular}}}} & \multicolumn{1}{c|}{\multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}c@{}}PO4 \\ ($\mu M$)\end{tabular}}}} & \multicolumn{1}{c|}{\multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}c@{}}Si\\ ($\mu M$)\end{tabular}}}} \\
+
+\multicolumn{1}{|c|}{}                                    & \multicolumn{1}{c|}{}                                                        & \multicolumn{1}{c|}{}                                                                                    & \multicolumn{1}{c|}{}                                                                              & \multicolumn{1}{c|}{}                                                                            \\ \hline
+\multicolumn{1}{|c|}{\textbf{C} (control no addition) *}  & \multicolumn{1}{c|}{168}                                                     & \multicolumn{1}{c|}{$0.12 \pm 0.03$}                                                                         & \multicolumn{1}{c|}{$0.12 \pm 0.02$}                                                                   & \multicolumn{1}{c|}{$1.91 \pm 0.2$}                                                                  \\ \hline
+\multicolumn{1}{|c|}{\textbf{E} (+ 10\% DSW) *}           & \multicolumn{1}{c|}{168}                                                     & \multicolumn{1}{c|}{$1.9 \pm  .93$}                                                                          & \multicolumn{1}{c|}{$0.23 \pm 0.05$}                                                                   & \multicolumn{1}{c|}{$8.46 \pm 3.11$}                                                                 \\ \hline
+\multicolumn{1}{|c|}{\textbf{DSW} (700 m water) *}        & \multicolumn{1}{c|}{N/A}                                                     & \multicolumn{1}{c|}{$37.5 \pm 1.68$}                                                                         & \multicolumn{1}{c|}{$3.14 \pm 0.03$}                                                                   & \multicolumn{1}{c|}{$83.4 \pm 9.33$}                                                                 \\ \hline
+\multicolumn{5}{l}{\textit{* Nutrient data averaged for E1 and E2, nutrients were not assayed on E3.}}                                                                                                                                                                                                                                                                                                                                                     
+\end{tabular}
+\end{table}
 
