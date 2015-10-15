@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  14 OCT 2015 21:06
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  14 OCT 2015 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -996,13 +996,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--19
 
  []
 
-[39] [40] [41] [42] [43]
+[39] [40
+
+] [41] [42] [43]
 
 Package natbib Warning: Citation `Andrews' on page 44 undefined on input line 3
 5.
 
 [44] [45] [46] [47] [48] [49]
-<Images/C3_Figure1_StackPlot.png, id=1257, 365.4453pt x 184.7703pt>
+<Images/C3_Figure1_StackPlot.png, id=1256, 365.4453pt x 184.7703pt>
 File: Images/C3_Figure1_StackPlot.png Graphic file (type png)
 
 <use Images/C3_Figure1_StackPlot.png>
@@ -1024,7 +1026,7 @@ osphotransferase
  []
 
 [52] [53 <./Images/C3_Figure2_Heatmap_Hot.png (PNG copy)>] [54]
-<Images/C3_Figure3_CellHeatmap_Hot.png, id=1320, 523.9575pt x 620.3175pt>
+<Images/C3_Figure3_CellHeatmap_Hot.png, id=1317, 523.9575pt x 620.3175pt>
 File: Images/C3_Figure3_CellHeatmap_Hot.png Graphic file (type png)
 
 <use Images/C3_Figure3_CellHeatmap_Hot.png> [55] [56 <./Images/C3_Figure3_CellH
@@ -1037,19 +1039,20 @@ genes
 
 LaTeX Warning: Reference `a3f6' on page 57 undefined on input line 120.
 
-[57] <Images/C3_Figure4_BarLinePlots.png, id=1393, 273.9033pt x 402.0621pt>
+[57] [58]
+<Images/C3_Figure4_BarLinePlots.png, id=1400, 273.9033pt x 402.0621pt>
 File: Images/C3_Figure4_BarLinePlots.png Graphic file (type png)
 
 <use Images/C3_Figure4_BarLinePlots.png>
 
 LaTeX Warning: Float too large for page by 5.33661pt on input line 130.
 
-[58] [59 <./Images/C3_Figure4_BarLinePlots.png (PNG copy)>] [60]
+[59] [60 <./Images/C3_Figure4_BarLinePlots.png (PNG copy)>]
 <Images/C3_Figure5_Quadrants.png, id=1426, 1082.0425pt x 556.0775pt>
 File: Images/C3_Figure5_Quadrants.png Graphic file (type png)
 
 <use Images/C3_Figure5_Quadrants.png> [61] [62 <./Images/C3_Figure5_Quadrants.p
-ng (PNG copy)>]) [63] [64]
+ng (PNG copy)>] [63]) [64]
 \openout2 = `chap4.aux'.
 
  (./chap4.tex
@@ -1068,7 +1071,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--16
 
 
 
-] [66] [67] [68]
+] [66
+
+] [67] [68]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
@@ -1081,7 +1086,7 @@ line 40.
 File: Images/C4_Figure1_Final.png Graphic file (type png)
 
 <use Images/C4_Figure1_Final.png> [75] [76 <./Images/C4_Figure1_Final.png (PNG 
-copy)>] <Images/C4_Figure2_Final.png, id=1703, 495.0495pt x 602.4909pt>
+copy)>] <Images/C4_Figure2_Final.png, id=1702, 495.0495pt x 602.4909pt>
 File: Images/C4_Figure2_Final.png Graphic file (type png)
 
 <use Images/C4_Figure2_Final.png>
@@ -1101,7 +1106,7 @@ File: Images/C4_Figure3_Final.pdf Graphic file (type pdf)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [79] [80 <./Images/C4_Figure3_Final.pdf>] [81]
-<Images/C4_Figure4_Final.pdf, id=1843, 247.5388pt x 262.1785pt>
+<Images/C4_Figure4_Final.pdf, id=1840, 247.5388pt x 262.1785pt>
 File: Images/C4_Figure4_Final.pdf Graphic file (type pdf)
 
 <use Images/C4_Figure4_Final.pdf>
@@ -1277,8 +1282,7 @@ Overfull \hbox (59.8456pt too wide) in paragraph at lines 313--325
 
 
 ] [116] [117] [118] [119] [120] [121]
-[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]))
-[134]
+[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132])) [133]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1296,13 +1300,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 20274 strings out of 493747
- 421098 string characters out of 3143546
+ 20273 strings out of 493747
+ 421090 string characters out of 3143546
  558975 words of memory out of 3000000
  22588 multiletter control sequences out of 15000+200000
  16576 words of font info for 39 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 61i,19n,76p,3267b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,19n,76p,3267b,798s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -1324,10 +1328,10 @@ f-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2010/texmf-
 dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2010/texmf-di
 st/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2010/texmf-dist
 /fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (134 pages, 9723479 bytes).
+Output written on main.pdf (133 pages, 9717814 bytes).
 PDF statistics:
- 6790 PDF objects out of 7423 (max. 8388607)
- 3979 compressed objects within 40 object streams
- 423 named destinations out of 1000 (max. 500000)
+ 6786 PDF objects out of 7423 (max. 8388607)
+ 3976 compressed objects within 40 object streams
+ 422 named destinations out of 1000 (max. 500000)
  633 words of extra memory for PDF output out of 10000 (max. 10000000)
 

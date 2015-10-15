@@ -7,8 +7,8 @@
 
 \bibitem[Alexander et~al.(2012)Alexander, Jenkins, Rynearson, Saito, Mercier,
   and Dyhrman]{Alexander2012}
-Harriet Alexander, B~D Jenkins, Tatiana~a Rynearson, Mak~A Saito, Melissa~L
-  Mercier, and Sonya~T Dyhrman.
+Alexander, H., Jenkins, B.~D., Rynearson, T.~a., Saito, M.~A., Mercier, M.~L.,
+  and Dyhrman, S.~T.
 \newblock {Identifying reference genes with stable expression from high
   throughput sequence data.}
 \newblock \emph{Frontiers in microbiology}, 3\penalty0 (November):\penalty0
@@ -17,8 +17,7 @@ Harriet Alexander, B~D Jenkins, Tatiana~a Rynearson, Mak~A Saito, Melissa~L
 
 \bibitem[Alexander et~al.(2015)Alexander, Jenkins, Rynearson, and
   Dyhrman]{Alexander2015}
-Harriet Alexander, Bethany~D. Jenkins, Tatiana~A. Rynearson, and Sonya~T.
-  Dyhrman.
+Alexander, H., Jenkins, B.~D., Rynearson, T.~A., and Dyhrman, S.~T.
 \newblock {Metatranscriptome analyses indicate resource partitioning between
   diatoms in the field}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -27,18 +26,18 @@ Harriet Alexander, Bethany~D. Jenkins, Tatiana~A. Rynearson, and Sonya~T.
 
 \bibitem[Allen et~al.(2008)Allen, Laroche, Maheswari, Lommer, Schauer, Lopez,
   Finazzi, Fernie, and Bowler]{Allen2008}
-Andrew~E. Allen, Julie Laroche, Uma Maheswari, Markus Lommer, Nicolas Schauer,
-  Pascal~J. Lopez, Giovanni Finazzi, Alisdair~R. Fernie, and Chris Bowler.
-\newblock {Whole-cell response of the pennate diatom Phaeodactylum tricornutum
-  to iron starvation.}
+Allen, A.~E., Laroche, J., Maheswari, U., Lommer, M., Schauer, N., Lopez,
+  P.~J., Finazzi, G., Fernie, A.~R., and Bowler, C.
+\newblock {Whole-cell response of the pennate diatom \textit{Phaeodactylum
+  tricornutum} to iron starvation.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (30):\penalty0 10438--43, July 2008.
 \newblock \doi{10.1073/pnas.0711370105}.
 
 \bibitem[Altschul et~al.(1997)Altschul, Madden, Sch\"{a}ffer, Zhang, Zhang,
   Miller, and Lipman]{Altschul1997}
-Stephen~F. Altschul, Thomas~L. Madden, Alejandro~A. Sch\"{a}ffer, Jinghui
-  Zhang, Zheng Zhang, Webb Miller, and David~J. Lipman.
+Altschul, S.~F., Madden, T.~L., Sch\"{a}ffer, A.~A., Zhang, J., Zhang, Z.,
+  Miller, W., and Lipman, D.~J.
 \newblock {Gapped BLAST and PSI-BLAST: a new generation of protein database
   search programs}.
 \newblock \emph{Nucleic Acids Research}, 25\penalty0 (17):\penalty0 3389--3402,
@@ -47,16 +46,16 @@ Stephen~F. Altschul, Thomas~L. Madden, Alejandro~A. Sch\"{a}ffer, Jinghui
 
 \bibitem[Amin et~al.(2015)Amin, Hmelo, van Tol, Durham, Carlson, Heal, Morales,
   Berthiaume, Parker, Djunaedi, Ingalls, Parsek, Moran, and Armbrust]{Amin2015}
-S.~A. Amin, L.~R. Hmelo, H.~M. van Tol, B.~P. Durham, L.~T. Carlson, K.~R.
-  Heal, R.~L. Morales, C.~T. Berthiaume, M.~S. Parker, B.~Djunaedi, A.~E.
-  Ingalls, M.~R. Parsek, M.~A. Moran, and E.~V. Armbrust.
+Amin, S.~A., Hmelo, L.~R., van Tol, H.~M., Durham, B.~P., Carlson, L.~T., Heal,
+  K.~R., Morales, R.~L., Berthiaume, C.~T., Parker, M.~S., Djunaedi, B.,
+  Ingalls, A.~E., Parsek, M.~R., Moran, M.~A., and Armbrust, E.~V.
 \newblock {Interaction and signalling between a cosmopolitan phytoplankton and
   associated bacteria}.
 \newblock \emph{Nature}, 522:\penalty0 98--101, May 2015.
 \newblock \doi{10.1038/nature14488}.
 
 \bibitem[Anders et~al.(2014)Anders, Pyl, and Huber]{Anders2014}
-Simon Anders, Paul~Theodor Pyl, and Wolfgang Huber.
+Anders, S., Pyl, P.~T., and Huber, W.
 \newblock {HTSeq - A Python framework to work with high-throughput sequencing
   data.}
 \newblock \emph{Bioinformatics (Oxford, England)}, 31\penalty0 (2):\penalty0
@@ -65,8 +64,8 @@ Simon Anders, Paul~Theodor Pyl, and Wolfgang Huber.
 
 \bibitem[Antonov et~al.(2005)Antonov, Goldstein, Oberli, Baltzer, Pirotta,
   Fleischmann, Altermatt, and Jaggi]{Antonov2005}
-Janine Antonov, Darlene~R Goldstein, Andrea Oberli, Anna Baltzer, Marco
-  Pirotta, Achim Fleischmann, Hans~J Altermatt, and Rolf Jaggi.
+Antonov, J., Goldstein, D.~R., Oberli, A., Baltzer, A., Pirotta, M.,
+  Fleischmann, A., Altermatt, H.~J., and Jaggi, R.
 \newblock {Reliable gene expression measurements from degraded RNA by
   quantitative real-time PCR depend on short amplicons and a proper
   normalization}.
@@ -80,17 +79,16 @@ Janine Antonov, Darlene~R Goldstein, Andrea Oberli, Anna Baltzer, Marco
   Montsant, Obornik, Parker, Palenik, Pazour, Richardson, Rynearson, Saito,
   Schwartz, Thamatrakoln, Valentin, Vardi, Wilkerson, and
   Rokhsar]{Armbrust2004}
-E.~Virginia Armbrust, John~A. Berges, Chris Bowler, Beverley~R. Green, Diego
-  Martinez, Nicholas~H. Putnam, Shiguo Zhou, Andrew~E. Allen, Kirk~E. Apt,
-  Michael Bechner, Mark~A. Brzezinski, Balbir~K. Chaal, Anthony Chiovitti,
-  Aubrey~K. Davis, Mark~S. Demarest, J.~Chris Detter, Tijana Glavina, David
-  Goodstein, Masood~Z. Hadi, Uffe Hellsten, Mark Hildebrand, Bethany~D.
-  Jenkins, Jerzy Jurka, Vladimir~V. Kapitonov, Nils Kr\"{o}ger, Winnie W.~Y.
-  Lau, Todd~W. Lane, Frank~W. Larimer, J.~Casey Lippmeier, Susan Lucas,
-  M\'{o}nica Medina, Anton Montsant, Miroslav Obornik, Micaela~Schnitzler
-  Parker, Brian Palenik, Gregory~J. Pazour, Paul~M. Richardson, Tatiana~A.
-  Rynearson, Mak~A. Saito, David~C. Schwartz, Kimberlee Thamatrakoln, Klaus
-  Valentin, Assaf Vardi, Frances~P. Wilkerson, and Daniel~S. Rokhsar.
+Armbrust, E.~V., Berges, J.~A., Bowler, C., Green, B.~R., Martinez, D., Putnam,
+  N.~H., Zhou, S., Allen, A.~E., Apt, K.~E., Bechner, M., Brzezinski, M.~A.,
+  Chaal, B.~K., Chiovitti, A., Davis, A.~K., Demarest, M.~S., Detter, J.~C.,
+  Glavina, T., Goodstein, D., Hadi, M.~Z., Hellsten, U., Hildebrand, M.,
+  Jenkins, B.~D., Jurka, J., Kapitonov, V.~V., Kr\"{o}ger, N., Lau, W. W.~Y.,
+  Lane, T.~W., Larimer, F.~W., Lippmeier, J.~C., Lucas, S., Medina, M.,
+  Montsant, A., Obornik, M., Parker, M.~S., Palenik, B., Pazour, G.~J.,
+  Richardson, P.~M., Rynearson, T.~A., Saito, M.~A., Schwartz, D.~C.,
+  Thamatrakoln, K., Valentin, K., Vardi, A., Wilkerson, F.~P., and Rokhsar,
+  D.~S.
 \newblock {The genome of the diatom \textit{Thalassiosira pseudonana}: ecology,
   evolution, and metabolism.}
 \newblock \emph{Science (New York, N.Y.)}, 306\penalty0 (5693):\penalty0
@@ -99,8 +97,8 @@ E.~Virginia Armbrust, John~A. Berges, Chris Bowler, Beverley~R. Green, Diego
 
 \bibitem[Avonce et~al.(2004)Avonce, Leyman, Mascorro-Gallardo, {Van Dijck},
   Thevelein, and Iturriaga]{Avonce2004}
-Nelson Avonce, Barbara Leyman, Jos\'{e}~O. Mascorro-Gallardo, Patrick {Van
-  Dijck}, Johan~M. Thevelein, and Gabriel Iturriaga.
+Avonce, N., Leyman, B., Mascorro-Gallardo, J.~O., {Van Dijck}, P., Thevelein,
+  J.~M., and Iturriaga, G.
 \newblock {The \textit{Arabidopsis} trehalose-6-P synthase AtTPS1 gene is a
   regulator of glucose, abscisic acid, and stress signaling}.
 \newblock \emph{Plant Physiology}, 136\penalty0 (3):\penalty0 3649 --3659,
@@ -109,8 +107,8 @@ Nelson Avonce, Barbara Leyman, Jos\'{e}~O. Mascorro-Gallardo, Patrick {Van
 
 \bibitem[Balvanera et~al.(2006)Balvanera, Pfisterer, Buchmann, He, Nakashizuka,
   Raffaelli, and Schmid]{Balvanera2006}
-Patricia Balvanera, Andrea~B Pfisterer, Nina Buchmann, Jing-Shen He, Tohru
-  Nakashizuka, David Raffaelli, and Bernhard Schmid.
+Balvanera, P., Pfisterer, A.~B., Buchmann, N., He, J.-S., Nakashizuka, T.,
+  Raffaelli, D., and Schmid, B.
 \newblock {Quantifying the evidence for biodiversity effects on ecosystem
   functioning and services.}
 \newblock \emph{Ecology letters}, 9\penalty0 (10):\penalty0 1146--56, October
@@ -118,7 +116,7 @@ Patricia Balvanera, Andrea~B Pfisterer, Nina Buchmann, Jing-Shen He, Tohru
 \newblock \doi{10.1111/j.1461-0248.2006.00963.x}.
 
 \bibitem[Behl et~al.(2011)Behl, Donval, and Stibor]{Behl2011}
-Stephan Behl, Anne Donval, and Herwig Stibor.
+Behl, S., Donval, A., and Stibor, H.
 \newblock {The relative importance of species diversity and functional group
   diversity on carbon uptake in phytoplankton communities}.
 \newblock \emph{Limnology and Oceanography}, 56\penalty0 (2):\penalty0
@@ -126,7 +124,7 @@ Stephan Behl, Anne Donval, and Herwig Stibor.
 \newblock \doi{10.4319/lo.2011.56.2.0683}.
 
 \bibitem[Bender et~al.(2012)Bender, Parker, and Armbrust]{Bender2012}
-Sara~J. Bender, Micaela~S. Parker, and E.~Virginia Armbrust.
+Bender, S.~J., Parker, M.~S., and Armbrust, E.~V.
 \newblock {Coupled effects of light and nitrogen source on the urea cycle and
   nitrogen metabolism over a diel cycle in the marine diatom
   \textit{Thalassiosira pseudonana}}.
@@ -135,8 +133,8 @@ Sara~J. Bender, Micaela~S. Parker, and E.~Virginia Armbrust.
 
 \bibitem[Bender et~al.(2014)Bender, Durkin, Berthiaume, Morales, and
   Armbrust]{Bender2014}
-Sara~J. Bender, Colleen~A. Durkin, Chris~T. Berthiaume, Rhonda~L. Morales, and
-  E.~Virginia Armbrust.
+Bender, S.~J., Durkin, C.~A., Berthiaume, C.~T., Morales, R.~L., and Armbrust,
+  E.~V.
 \newblock {Transcriptional responses of three model diatoms to nitrate
   limitation of growth}.
 \newblock \emph{Frontiers in Marine Science}, 1, March 2014.
@@ -146,12 +144,11 @@ Sara~J. Bender, Colleen~A. Durkin, Chris~T. Berthiaume, Rhonda~L. Morales, and
   Leonard, Brown, Nencioli, Rii, Maiti, Becker, Bibby, Black, Cai, Carlson,
   Chen, Kuwahara, Mahaffey, McAndrew, Quay, Rapp\'{e}, Selph, Simmons, and
   Yang]{Benitez-Nelson2007}
-Claudia~R Benitez-Nelson, Robert~R Bidigare, Tommy~D Dickey, Michael~R Landry,
-  Carrie~L Leonard, Susan~L Brown, Francesco Nencioli, Yoshimi~M Rii, Kanchan
-  Maiti, Jamie~W Becker, Thomas~S Bibby, Wil Black, Wei-Jun Cai, Craig~A
-  Carlson, Feizhou Chen, Victor~S Kuwahara, Claire Mahaffey, Patricia~M
-  McAndrew, Paul~D Quay, Michael~S Rapp\'{e}, Karen~E Selph, Melinda~P Simmons,
-  and Eun~Jin Yang.
+Benitez-Nelson, C.~R., Bidigare, R.~R., Dickey, T.~D., Landry, M.~R., Leonard,
+  C.~L., Brown, S.~L., Nencioli, F., Rii, Y.~M., Maiti, K., Becker, J.~W.,
+  Bibby, T.~S., Black, W., Cai, W.-J., Carlson, C.~A., Chen, F., Kuwahara,
+  V.~S., Mahaffey, C., McAndrew, P.~M., Quay, P.~D., Rapp\'{e}, M.~S., Selph,
+  K.~E., Simmons, M.~P., and Yang, E.~J.
 \newblock {Mesoscale eddies drive increased silica export in the subtropical
   Pacific Ocean.}
 \newblock \emph{Science (New York, N.Y.)}, 316\penalty0 (5827):\penalty0
@@ -160,18 +157,17 @@ Claudia~R Benitez-Nelson, Robert~R Bidigare, Tommy~D Dickey, Michael~R Landry,
 
 \bibitem[Berg et~al.(2008)Berg, Shrager, Gl\"{o}ckner, Arrigo, and
   Grossman]{Berg2008}
-Gry~Mine Berg, Jeff Shrager, Gernot Gl\"{o}ckner, Kevin~R Arrigo, and Arthur~R
-  Grossman.
-\newblock {Understanding nitrogen limitation in Aureococcus anophagefferens
-  (Pelagophyceae) through cDNA and qRT-PCR analysis}.
+Berg, G.~M., Shrager, J., Gl\"{o}ckner, G., Arrigo, K.~R., and Grossman, A.~R.
+\newblock {Understanding nitrogen limitation in \textit{Aureococcus
+  anophagefferens} (Pelagophyceae) through cDNA and qRT-PCR analysis}.
 \newblock \emph{Journal of Phycology}, 44\penalty0 (5):\penalty0 1235--1249,
   October 2008.
 \newblock \doi{10.1111/j.1529-8817.2008.00571.x}.
 
 \bibitem[Bertrand et~al.(2012)Bertrand, Allen, Dupont, Norden-Krichmar, Bai,
   Valas, and Saito]{Bertrand2012a}
-Erin~M Bertrand, Andrew~E Allen, Christopher~L Dupont, Trina~M Norden-Krichmar,
-  Jing Bai, Ruben~E Valas, and Mak~A Saito.
+Bertrand, E.~M., Allen, A.~E., Dupont, C.~L., Norden-Krichmar, T.~M., Bai, J.,
+  Valas, R.~E., and Saito, M.~A.
 \newblock {Influence of cobalamin scarcity on diatom molecular physiology and
   identification of a cobalamin acquisition protein.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -179,7 +175,7 @@ Erin~M Bertrand, Andrew~E Allen, Christopher~L Dupont, Trina~M Norden-Krichmar,
 \newblock \doi{10.1073/pnas.1201731109}.
 
 \bibitem[Borkman and Smayda(2009)]{Borkman2009}
-David~G. Borkman and Theodore Smayda.
+Borkman, D.~G. and Smayda, T.
 \newblock {Multidecadal (1959–1997) changes in \textit{Skeletonema} abundance
   and seasonal bloom patterns in Narragansett Bay, Rhode Island, USA}.
 \newblock \emph{Journal of Sea Research}, 61\penalty0 (1-2):\penalty0 84--94,
@@ -197,40 +193,36 @@ David~G. Borkman and Theodore Smayda.
   Shapiro, Siaut, Stanley, Sussman, Taylor, Vardi, von Dassow, Vyverman,
   Willis, Wyrwicz, Rokhsar, Weissenbach, Armbrust, Green, {Van de Peer}, and
   Grigoriev]{Bowler2008}
-Chris Bowler, Andrew~E Allen, Jonathan~H Badger, Jane Grimwood, Kamel Jabbari,
-  Alan Kuo, Uma Maheswari, Cindy Martens, Florian Maumus, Robert~P Otillar,
-  Edda Rayko, Asaf Salamov, Klaas Vandepoele, Bank Beszteri, Ansgar Gruber,
-  Marc Heijde, Michael Katinka, Thomas Mock, Klaus Valentin, Fr\'{e}deric
-  Verret, John~A Berges, Colin Brownlee, Jean-Paul Cadoret, Anthony Chiovitti,
-  Chang~Jae Choi, Sacha Coesel, Alessandra {De Martino}, J~Chris Detter,
-  Colleen Durkin, Angela Falciatore, J\'{e}rome Fournet, Miyoshi Haruta, Marie
-  J~J Huysman, Bethany~D Jenkins, Katerina Jiroutova, Richard~E Jorgensen,
-  Yolaine Joubert, Aaron Kaplan, Nils Kr\"{o}ger, Peter~G Kroth, Julie {La
-  Roche}, Erica Lindquist, Markus Lommer, V\'{e}ronique
-  Martin-J\'{e}z\'{e}quel, Pascal~J Lopez, Susan Lucas, Manuela Mangogna, Karen
-  McGinnis, Linda~K Medlin, Anton Montsant, Marie-Pierre {Oudot-Le Secq},
-  Carolyn Napoli, Miroslav Obornik, Micaela~Schnitzler Parker, Jean-Louis
-  Petit, Betina~M Porcel, Nicole Poulsen, Matthew Robison, Leszek Rychlewski,
-  Tatiana~A Rynearson, Jeremy Schmutz, Harris Shapiro, Magali Siaut, Michele
-  Stanley, Michael~R Sussman, Alison~R Taylor, Assaf Vardi, Peter von Dassow,
-  Wim Vyverman, Anusuya Willis, Lucjan~S Wyrwicz, Daniel~S Rokhsar, Jean
-  Weissenbach, E~Virginia Armbrust, Beverley~R Green, Yves {Van de Peer}, and
-  Igor~V Grigoriev.
+Bowler, C., Allen, A.~E., Badger, J.~H., Grimwood, J., Jabbari, K., Kuo, A.,
+  Maheswari, U., Martens, C., Maumus, F., Otillar, R.~P., Rayko, E., Salamov,
+  A., Vandepoele, K., Beszteri, B., Gruber, A., Heijde, M., Katinka, M., Mock,
+  T., Valentin, K., Verret, F., Berges, J.~A., Brownlee, C., Cadoret, J.-P.,
+  Chiovitti, A., Choi, C.~J., Coesel, S., {De Martino}, A., Detter, J.~C.,
+  Durkin, C., Falciatore, A., Fournet, J., Haruta, M., Huysman, M. J.~J.,
+  Jenkins, B.~D., Jiroutova, K., Jorgensen, R.~E., Joubert, Y., Kaplan, A.,
+  Kr\"{o}ger, N., Kroth, P.~G., {La Roche}, J., Lindquist, E., Lommer, M.,
+  Martin-J\'{e}z\'{e}quel, V., Lopez, P.~J., Lucas, S., Mangogna, M., McGinnis,
+  K., Medlin, L.~K., Montsant, A., {Oudot-Le Secq}, M.-P., Napoli, C., Obornik,
+  M., Parker, M.~S., Petit, J.-L., Porcel, B.~M., Poulsen, N., Robison, M.,
+  Rychlewski, L., Rynearson, T.~A., Schmutz, J., Shapiro, H., Siaut, M.,
+  Stanley, M., Sussman, M.~R., Taylor, A.~R., Vardi, A., von Dassow, P.,
+  Vyverman, W., Willis, A., Wyrwicz, L.~S., Rokhsar, D.~S., Weissenbach, J.,
+  Armbrust, E.~V., Green, B.~R., {Van de Peer}, Y., and Grigoriev, I.~V.
 \newblock {The \textit{Phaeodactylum} genome reveals the evolutionary history
   of diatom genomes.}
 \newblock \emph{Nature}, 456\penalty0 (7219):\penalty0 239--44, November 2008.
 \newblock \doi{10.1038/nature07410}.
 
 \bibitem[Bruhn et~al.(2010)Bruhn, LaRoche, and Richardson]{Bruhn2010}
-Annette Bruhn, Julie LaRoche, and Katherine Richardson.
-\newblock {Emiliania huxleyi (prymnesiophyceae): nitrogen-metabolism genes and
-  their expression in response to external nitrogen sources}.
+Bruhn, A., LaRoche, J., and Richardson, K.
+\newblock {\textit{Emiliania huxleyi} (prymnesiophyceae): nitrogen-metabolism
+  genes and their expression in response to external nitrogen sources}.
 \newblock \emph{Journal of Phycology}, 46\penalty0 (2):\penalty0 266--277,
   April 2010.
 \newblock \doi{10.1111/j.1529-8817.2010.00809.x}.
 
 \bibitem[Bustin(2000)]{Bustin2000}
-S.~Bustin.
+Bustin, S.
 \newblock {Absolute quantification of mRNA using real-time reverse
   transcription polymerase chain reaction assays}.
 \newblock \emph{Journal of Molecular Endocrinology}, 25\penalty0 (2):\penalty0
@@ -238,7 +230,7 @@ S.~Bustin.
 \newblock \doi{10.1677/jme.0.0250169}.
 
 \bibitem[Cadotte(2013)]{Cadotte2013}
-Marc~W Cadotte.
+Cadotte, M.~W.
 \newblock {Experimental evidence that evolutionarily diverse assemblages result
   in higher productivity.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -246,7 +238,7 @@ Marc~W Cadotte.
 \newblock \doi{10.1073/pnas.1301685110}.
 
 \bibitem[Caldwell et~al.(2005)Caldwell, Walkiewicz, and Stern]{Caldwell2005}
-Philip~E. Caldwell, Magdalena Walkiewicz, and Michael Stern.
+Caldwell, P.~E., Walkiewicz, M., and Stern, M.
 \newblock {Ras activity in the \textit{Drosophila} prothoracic gland regulates
   body size and developmental rate via ecdysone release}.
 \newblock \emph{Current Biology}, 15\penalty0 (20):\penalty0 1785--1795,
@@ -256,16 +248,16 @@ Philip~E. Caldwell, Magdalena Walkiewicz, and Michael Stern.
 \bibitem[Cardinale et~al.(2012)Cardinale, Duffy, Gonzalez, Hooper, Perrings,
   Venail, Narwani, Mace, Tilman, Wardle, Kinzig, Daily, Loreau, Grace,
   Larigauderie, Srivastava, and Naeem]{Cardinale2012}
-Bradley~J Cardinale, J~Emmett Duffy, Andrew Gonzalez, David~U Hooper, Charles
-  Perrings, Patrick Venail, Anita Narwani, Georgina~M Mace, David Tilman,
-  David~A Wardle, Ann~P Kinzig, Gretchen~C Daily, Michel Loreau, James~B Grace,
-  Anne Larigauderie, Diane~S Srivastava, and Shahid Naeem.
+Cardinale, B.~J., Duffy, J.~E., Gonzalez, A., Hooper, D.~U., Perrings, C.,
+  Venail, P., Narwani, A., Mace, G.~M., Tilman, D., Wardle, D.~A., Kinzig,
+  A.~P., Daily, G.~C., Loreau, M., Grace, J.~B., Larigauderie, A., Srivastava,
+  D.~S., and Naeem, S.
 \newblock {Biodiversity loss and its impact on humanity.}
 \newblock \emph{Nature}, 486\penalty0 (7401):\penalty0 59--67, June 2012.
 \newblock \doi{10.1038/nature11148}.
 
 \bibitem[Carvalho and Lettieri(2011)]{Carvalho2011}
-Raquel~N Carvalho and Teresa Lettieri.
+Carvalho, R.~N. and Lettieri, T.
 \newblock {Proteomic analysis of the marine diatom \textit{Thalassiosira
   pseudonana} upon exposure to benzo(a)pyrene}.
 \newblock \emph{BMC Genomics}, 12\penalty0 (1):\penalty0 159, March 2011.
@@ -273,7 +265,7 @@ Raquel~N Carvalho and Teresa Lettieri.
 
 \bibitem[Cavender-Bares et~al.(2001)Cavender-Bares, Karl, and
   Chisholm]{Cavender-Bares2001}
-Kent~K. Cavender-Bares, David~M. Karl, and Sallie~W. Chisholm.
+Cavender-Bares, K.~K., Karl, D.~M., and Chisholm, S.~W.
 \newblock {Nutrient gradients in the western North Atlantic Ocean: relationship
   to microbial community structure and comparison to patterns in the Pacific
   Ocean}.
@@ -282,21 +274,21 @@ Kent~K. Cavender-Bares, David~M. Karl, and Sallie~W. Chisholm.
 \newblock \doi{10.1016/S0967-0637(01)00027-9}.
 
 \bibitem[Coker and Davies(2003)]{Coker2003}
-Jeffrey~S Coker and Eric Davies.
+Coker, J.~S. and Davies, E.
 \newblock {Selection of candidate housekeeping controls in tomato plants using
   EST data}.
 \newblock \emph{BioTechniques}, 35\penalty0 (4):\penalty0 740--742, 744, 746
   passim, October 2003.
 
 \bibitem[Connel and Connell(1980)]{Connel1980}
-J.H. Connel and JH~Connell.
+Connel, J. and Connell, J.
 \newblock {Diversity and the coevolution of competitors, or the ghost of
   competition past}.
 \newblock \emph{Oikos}, 35\penalty0 (2):\penalty0 131--138, October 1980.
 
 \bibitem[Cort\'{e}s et~al.(2001)Cort\'{e}s, Bollmann, and
   Thierstein]{Cortes2001}
-Mara Y~MY Cort\'{e}s, J\"{o}rg Bollmann, and HR~Hans~R Thierstein.
+Cort\'{e}s, M. Y.~M., Bollmann, J., and Thierstein, H. H.~R.
 \newblock {Coccolithophore ecology at the HOT station ALOHA, Hawaii}.
 \newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
   48\penalty0 (8-9):\penalty0 1957--1981, January 2001.
@@ -304,15 +296,14 @@ Mara Y~MY Cort\'{e}s, J\"{o}rg Bollmann, and HR~Hans~R Thierstein.
 
 \bibitem[Czechowski et~al.(2005)Czechowski, Stitt, Altmann, Udvardi, and
   Scheible]{Czechowski2005}
-Tomasz Czechowski, Mark Stitt, Thomas Altmann, Michael~K. Udvardi, and
-  Wolf-R\"{u}diger Scheible.
+Czechowski, T., Stitt, M., Altmann, T., Udvardi, M.~K., and Scheible, W.-R.
 \newblock {Genome-wide identification and testing of superior reference genes
   for transcript normalization in Arabidopsis}.
 \newblock \emph{Plant Physiology}, 139\penalty0 (1):\penalty0 5 --17, 2005.
 \newblock \doi{10.1104/pp.105.063743}.
 
 \bibitem[Davis and Palenik(2008)]{Davis2008}
-Aubrey~K. Davis and Brian Palenik.
+Davis, A.~K. and Palenik, B.
 \newblock {Characterization of a modular, cell-surface, protein and
   identification of a new gene family in the diatom \textit{Thalassiosira
   pseudonana}}.
@@ -320,7 +311,7 @@ Aubrey~K. Davis and Brian Palenik.
 \newblock \doi{10.1016/j.protis.2007.09.006}.
 
 \bibitem[Davis et~al.(2006)Davis, Hildebrand, and Palenik]{Davis2006}
-Aubrey~K. Davis, Mark Hildebrand, and Brian Palenik.
+Davis, A.~K., Hildebrand, M., and Palenik, B.
 \newblock {Gene expression induced by copper stress in diatom
   \textit{Thalassiosira pseudonana}}.
 \newblock \emph{Eukaryotic Cell}, 5\penalty0 (7):\penalty0 1157 --1168, July
@@ -329,9 +320,9 @@ Aubrey~K. Davis, Mark Hildebrand, and Brian Palenik.
 
 \bibitem[de~Jonge et~al.(2007)de~Jonge, Fehrmann, de~Bont, Hofstra, Gerbens,
   Kamps, de~Vries, van~der Zee, te~Meerman, and ter Elst]{DeJonge2007a}
-Hendrik J.~M. de~Jonge, Rudolf S.~N. Fehrmann, Eveline S. J.~M. de~Bont, Robert
-  M.~W. Hofstra, Frans Gerbens, Willem~A. Kamps, Elisabeth G.~E. de~Vries, Ate
-  G.~J. van~der Zee, Gerard~J. te~Meerman, and Arja ter Elst.
+de~Jonge, H. J.~M., Fehrmann, R. S.~N., de~Bont, E. S. J.~M., Hofstra, R.
+  M.~W., Gerbens, F., Kamps, W.~A., de~Vries, E. G.~E., van~der Zee, A. G.~J.,
+  te~Meerman, G.~J., and ter Elst, A.
 \newblock {Evidence based selection of housekeeping genes.}
 \newblock \emph{PloS one}, 2\penalty0 (9):\penalty0 e898, January 2007.
 \newblock \doi{10.1371/journal.pone.0000898}.
@@ -344,26 +335,23 @@ Hendrik J.~M. de~Jonge, Rudolf S.~N. Fehrmann, Eveline S. J.~M. de~Bont, Robert
   Bork, Bowler, Gorsky, Grimsley, Hingamp, Iudicone, Not, Ogata, Pesant, Raes,
   Sieracki, Speich, Stemmann, Sunagawa, Weissenbach, Wincker, and
   Karsenti]{DeVargas2015}
-Colomban de~Vargas, St\'{e}phane Audic, Nicolas Henry, Johan Decelle,
-  Fr\'{e}d\'{e}ric Mah\'{e}, Ramiro Logares, Enrique Lara, C\'{e}dric Berney,
-  Noan {Le Bescot}, Ian Probert, Margaux Carmichael, Julie Poulain, Sarah
-  Romac, S\'{e}bastien Colin, Jean-Marc Aury, Lucie Bittner, Samuel Chaffron,
-  Micah Dunthorn, Stefan Engelen, Olga Flegontova, Lionel Guidi, Ale\v{s}
-  Hor\'{a}k, Olivier Jaillon, Gipsi Lima-Mendez, Julius Luke\v{s}, Shruti
-  Malviya, Raphael Morard, Matthieu Mulot, Eleonora Scalco, Raffaele Siano,
-  Flora Vincent, Adriana Zingone, C\'{e}line Dimier, Marc Picheral, Sarah
-  Searson, Stefanie Kandels-Lewis, Silvia~G Acinas, Peer Bork, Chris Bowler,
-  Gabriel Gorsky, Nigel Grimsley, Pascal Hingamp, Daniele Iudicone, Fabrice
-  Not, Hiroyuki Ogata, Stephane Pesant, Jeroen Raes, Michael~E Sieracki,
-  Sabrina Speich, Lars Stemmann, Shinichi Sunagawa, Jean Weissenbach, Patrick
-  Wincker, and Eric Karsenti.
+de~Vargas, C., Audic, S., Henry, N., Decelle, J., Mah\'{e}, F., Logares, R.,
+  Lara, E., Berney, C., {Le Bescot}, N., Probert, I., Carmichael, M., Poulain,
+  J., Romac, S., Colin, S., Aury, J.-M., Bittner, L., Chaffron, S., Dunthorn,
+  M., Engelen, S., Flegontova, O., Guidi, L., Hor\'{a}k, A., Jaillon, O.,
+  Lima-Mendez, G., Luke\v{s}, J., Malviya, S., Morard, R., Mulot, M., Scalco,
+  E., Siano, R., Vincent, F., Zingone, A., Dimier, C., Picheral, M., Searson,
+  S., Kandels-Lewis, S., Acinas, S.~G., Bork, P., Bowler, C., Gorsky, G.,
+  Grimsley, N., Hingamp, P., Iudicone, D., Not, F., Ogata, H., Pesant, S.,
+  Raes, J., Sieracki, M.~E., Speich, S., Stemmann, L., Sunagawa, S.,
+  Weissenbach, J., Wincker, P., and Karsenti, E.
 \newblock {Eukaryotic plankton diversity in the sunlit ocean.}
 \newblock \emph{Science (New York, N.Y.)}, 348\penalty0 (6237):\penalty0
   1261605, May 2015.
 \newblock \doi{10.1126/science.1261605}.
 
 \bibitem[D'haeseleer(2005)]{Dhaeseleer2005}
-Patrik D'haeseleer.
+D'haeseleer, P.
 \newblock {How does gene expression clustering work?}
 \newblock \emph{Nature biotechnology}, 23\penalty0 (12):\penalty0 1499--501,
   December 2005.
@@ -371,8 +359,8 @@ Patrik D'haeseleer.
 
 \bibitem[Dheda et~al.(2005)Dheda, Huggett, Chang, Kim, Bustin, Johnson, Rook,
   and Zumla]{Dheda2005}
-K~Dheda, J~F Huggett, J~S Chang, L~U Kim, S~A Bustin, M~A Johnson, G~A~W Rook,
-  and A~Zumla.
+Dheda, K., Huggett, J.~F., Chang, J.~S., Kim, L.~U., Bustin, S.~A., Johnson,
+  M.~A., Rook, G. A.~W., and Zumla, A.
 \newblock {The implications of using an inappropriate reference gene for
   real-time reverse transcription PCR data normalization}.
 \newblock \emph{Analytical Biochemistry}, 344\penalty0 (1):\penalty0 141--143,
@@ -382,10 +370,9 @@ K~Dheda, J~F Huggett, J~S Chang, L~U Kim, S~A Bustin, M~A Johnson, G~A~W Rook,
 \bibitem[Doney et~al.(2012)Doney, Ruckelshaus, {Emmett Duffy}, Barry, Chan,
   English, Galindo, Grebmeier, Hollowed, Knowlton, Polovina, Rabalais, Sydeman,
   and Talley]{Doney2012}
-Scott~C Doney, Mary Ruckelshaus, J.~{Emmett Duffy}, James~P Barry, Francis
-  Chan, Chad~A English, Heather~M Galindo, Jacqueline~M Grebmeier, Anne~B
-  Hollowed, Nancy Knowlton, Jeffrey Polovina, Nancy~N Rabalais, William~J
-  Sydeman, and Lynne~D Talley.
+Doney, S.~C., Ruckelshaus, M., {Emmett Duffy}, J., Barry, J.~P., Chan, F.,
+  English, C.~A., Galindo, H.~M., Grebmeier, J.~M., Hollowed, A.~B., Knowlton,
+  N., Polovina, J., Rabalais, N.~N., Sydeman, W.~J., and Talley, L.~D.
 \newblock {Climate change impacts on marine ecosystems}.
 \newblock \emph{Annual Review of Marine Science}, 4\penalty0 (1):\penalty0
   11--37, January 2012.
@@ -394,17 +381,16 @@ Scott~C Doney, Mary Ruckelshaus, J.~{Emmett Duffy}, James~P Barry, Francis
 \bibitem[Dupont et~al.(2015)Dupont, McCrow, Valas, Moustafa, Walworth,
   Goodenough, Roth, Hogle, Bai, Johnson, Mann, Palenik, Barbeau, {Craig
   Venter}, and Allen]{Dupont2015}
-Chris~L Dupont, John~P McCrow, Ruben Valas, Ahmed Moustafa, Nathan Walworth,
-  Ursula Goodenough, Robyn Roth, Shane~L Hogle, Jing Bai, Zackary~I Johnson,
-  Elizabeth Mann, Brian Palenik, Katherine~A Barbeau, J~{Craig Venter}, and
-  Andrew~E Allen.
+Dupont, C.~L., McCrow, J.~P., Valas, R., Moustafa, A., Walworth, N.,
+  Goodenough, U., Roth, R., Hogle, S.~L., Bai, J., Johnson, Z.~I., Mann, E.,
+  Palenik, B., Barbeau, K.~A., {Craig Venter}, J., and Allen, A.~E.
 \newblock {Genomes and gene expression across light and productivity gradients
   in eastern subtropical Pacific microbial communities.}
 \newblock \emph{The ISME journal}, 9\penalty0 (5):\penalty0 1076--92, May 2015.
 \newblock \doi{10.1038/ismej.2014.198}.
 
 \bibitem[Dyhrman and Palenik(2003)]{Dyhrman2003}
-Sonya~T. Dyhrman and Brian Palenik.
+Dyhrman, S.~T. and Palenik, B.
 \newblock {Characterization of ectoenzyme activity and phosphate-regulated
   proteins in the coccolithophorid \textit{Emiliania huxleyi}}.
 \newblock \emph{Journal of Plankton Research}, 25\penalty0 (10):\penalty0
@@ -413,8 +399,8 @@ Sonya~T. Dyhrman and Brian Palenik.
 
 \bibitem[Dyhrman et~al.(2006)Dyhrman, Haley, Birkeland, Wurch, Cipriano, and
   McArthur]{Dyhrman2006}
-Sonya~T Dyhrman, Sheean~T Haley, Shanda~R Birkeland, Louie~L Wurch, Michael~J
-  Cipriano, and Andrew~G McArthur.
+Dyhrman, S.~T., Haley, S.~T., Birkeland, S.~R., Wurch, L.~L., Cipriano, M.~J.,
+  and McArthur, A.~G.
 \newblock {Long serial analysis of gene expression for gene discovery and
   transcriptome profiling in the widespread marine coccolithophore
   \textit{Emiliania huxleyi}}.
@@ -425,17 +411,16 @@ Sonya~T Dyhrman, Sheean~T Haley, Shanda~R Birkeland, Louie~L Wurch, Michael~J
 \bibitem[Dyhrman et~al.(2012)Dyhrman, Jenkins, Rynearson, Saito, Mercier,
   Alexander, Whitney, Drzewianowski, Bulygin, Bertrand, Wu, Benitez-Nelson, and
   Heithoff]{Dyhrman2012}
-Sonya~T Dyhrman, Bethany~D Jenkins, Tatiana~A Rynearson, Mak~A Saito, Melissa~L
-  Mercier, Harriet Alexander, Leann~P Whitney, Andrea Drzewianowski, Vladimir~V
-  Bulygin, Erin~M Bertrand, Zhijin Wu, Claudia Benitez-Nelson, and Abigail
-  Heithoff.
+Dyhrman, S.~T., Jenkins, B.~D., Rynearson, T.~A., Saito, M.~A., Mercier, M.~L.,
+  Alexander, H., Whitney, L.~P., Drzewianowski, A., Bulygin, V.~V., Bertrand,
+  E.~M., Wu, Z., Benitez-Nelson, C., and Heithoff, A.
 \newblock {The transcriptome and proteome of the diatom \textit{Thalassiosira
   pseudonana} reveal a diverse phosphorus stress response.}
 \newblock \emph{PloS one}, 7\penalty0 (3):\penalty0 e33768, January 2012.
 \newblock \doi{10.1371/journal.pone.0033768}.
 
 \bibitem[Elton(1958)]{Elton1958}
-Charles~S. Elton.
+Elton, C.~S.
 \newblock \emph{{The Ecology of Invasions by Animals and Plants}}.
 \newblock Springer US, Boston, MA, 1958.
 \newblock ISBN 978-0-412-11430-4.
@@ -443,8 +428,7 @@ Charles~S. Elton.
 
 \bibitem[Field et~al.(1998)Field, Behrenfeld, Randerson, and
   Falkowski]{Field1998}
-Christopher~B. Field, Michael~J. Behrenfeld, James~T Randerson, and Paul~G.
-  Falkowski.
+Field, C.~B., Behrenfeld, M.~J., Randerson, J.~T., and Falkowski, P.~G.
 \newblock {Primary production of the biosphere: integrating terrestrial and
   oceanic components}.
 \newblock \emph{Science (New York, N.Y.)}, 281\penalty0 (5374):\penalty0
@@ -453,8 +437,8 @@ Christopher~B. Field, Michael~J. Behrenfeld, James~T Randerson, and Paul~G.
 
 \bibitem[Flatt et~al.(2008)Flatt, Min, D'Alterio, Villa-Cuesta, Cumbers,
   Lehmann, Jones, and Tatar]{Flatt2008}
-Thomas Flatt, Kyung-Jin Min, Cecilia D'Alterio, Eugenia Villa-Cuesta, John
-  Cumbers, Ruth Lehmann, D.~Leanne Jones, and Marc Tatar.
+Flatt, T., Min, K.-J., D'Alterio, C., Villa-Cuesta, E., Cumbers, J., Lehmann,
+  R., Jones, D.~L., and Tatar, M.
 \newblock {\textit{Drosophila} germ-line modulation of insulin signaling and
   lifespan}.
 \newblock \emph{Proceedings of the National Academy of Sciences}, 105\penalty0
@@ -463,7 +447,7 @@ Thomas Flatt, Kyung-Jin Min, Cecilia D'Alterio, Eugenia Villa-Cuesta, John
 
 \bibitem[Follows et~al.(2007)Follows, Dutkiewicz, Grant, and
   Chisholm]{Follows2007}
-Michael~J Follows, Stephanie Dutkiewicz, Scott Grant, and Sallie~W Chisholm.
+Follows, M.~J., Dutkiewicz, S., Grant, S., and Chisholm, S.~W.
 \newblock {Emergent biogeography of microbial communities in a model ocean.}
 \newblock \emph{Science (New York, N.Y.)}, 315\penalty0 (5820):\penalty0
   1843--6, March 2007.
@@ -471,8 +455,7 @@ Michael~J Follows, Stephanie Dutkiewicz, Scott Grant, and Sallie~W Chisholm.
 
 \bibitem[Fontanez et~al.(2015)Fontanez, Eppley, Samo, Karl, and
   DeLong]{Fontanez2015}
-Kristina~M Fontanez, John~M Eppley, Ty~J Samo, David~M Karl, and Edward~F
-  DeLong.
+Fontanez, K.~M., Eppley, J.~M., Samo, T.~J., Karl, D.~M., and DeLong, E.~F.
 \newblock {Microbial community structure and function on sinking particles in
   the North Pacific Subtropical Gyre}.
 \newblock \emph{Frontiers in Microbiology}, 6:\penalty0 469, May 2015.
@@ -480,7 +463,7 @@ Kristina~M Fontanez, John~M Eppley, Ty~J Samo, David~M Karl, and Edward~F
 
 \bibitem[Frischkorn et~al.(2014)Frischkorn, Harke, Gobler, and
   Dyhrman]{Frischkorn2014}
-Kyle~R Frischkorn, Matthew~J Harke, Christopher~J Gobler, and Sonya~T Dyhrman.
+Frischkorn, K.~R., Harke, M.~J., Gobler, C.~J., and Dyhrman, S.~T.
 \newblock {De novo assembly of \textit{Aureococcus anophagefferens}
   transcriptomes reveals diverse responses to the low nutrient and low light
   conditions present during blooms.}
@@ -488,14 +471,14 @@ Kyle~R Frischkorn, Matthew~J Harke, Christopher~J Gobler, and Sonya~T Dyhrman.
 \newblock \doi{10.3389/fmicb.2014.00375}.
 
 \bibitem[Furnas(1982)]{Furnas1982}
-M.~J. Furnas.
+Furnas, M.~J.
 \newblock {Growth rates of summer nanoplankton (<10 micrometers) populations in
   lower Narragansett Bay, Rhode Island, USA}.
 \newblock \emph{Marine Biology}, 70\penalty0 (1):\penalty0 105--115, 1982.
 \newblock \doi{10.1007/BF00397301}.
 
 \bibitem[Furnas(1983)]{Furnas1983}
-Miles~J. Furnas.
+Furnas, M.~J.
 \newblock {Community structure, biomass and productivity of size-fractionated
   summer phytoplankton populations in lower Narragansett Bay, Rhode Island}.
 \newblock \emph{Journal of Plankton Research}, 5\penalty0 (5):\penalty0
@@ -503,7 +486,7 @@ Miles~J. Furnas.
 \newblock \doi{10.1093/plankt/5.5.637}.
 
 \bibitem[Gerstein and Jansen(2000)]{Gerstein2000}
-Mark Gerstein and Ronald Jansen.
+Gerstein, M. and Jansen, R.
 \newblock {The current excitement in bioinformatics—analysis of whole-genome
   expression data: how does it relate to protein structure and function?}
 \newblock \emph{Current Opinion in Structural Biology}, 10\penalty0
@@ -511,7 +494,7 @@ Mark Gerstein and Ronald Jansen.
 \newblock \doi{10.1016/S0959-440X(00)00134-2}.
 
 \bibitem[Gibbons and Roth(2002)]{Gibbons2002}
-Francis~D. Gibbons and Frederick~P. Roth.
+Gibbons, F.~D. and Roth, F.~P.
 \newblock {Judging the quality of gene expression-based clustering methods
   using gene annotation}.
 \newblock \emph{Genome Research}, 12\penalty0 (10):\penalty0 1574--1581,
@@ -520,7 +503,7 @@ Francis~D. Gibbons and Frederick~P. Roth.
 
 \bibitem[Gifford et~al.(2011)Gifford, Sharma, Rinta-Kanto, and
   Moran]{Gifford2011}
-Scott~M Gifford, Shalabh Sharma, Johanna~M Rinta-Kanto, and Mary~Ann Moran.
+Gifford, S.~M., Sharma, S., Rinta-Kanto, J.~M., and Moran, M.~A.
 \newblock {Quantitative analysis of a deeply sequenced marine microbial
   metatranscriptome}.
 \newblock \emph{The ISME Journal}, 5\penalty0 (3):\penalty0 461--472, March
@@ -528,7 +511,7 @@ Scott~M Gifford, Shalabh Sharma, Johanna~M Rinta-Kanto, and Mary~Ann Moran.
 \newblock \doi{10.1038/ismej.2010.141}.
 
 \bibitem[Gifford et~al.(2013)Gifford, Sharma, Booth, and Moran]{Gifford2013}
-Scott~M. Gifford, Shalabh Sharma, Melissa Booth, and Mary~Ann Moran.
+Gifford, S.~M., Sharma, S., Booth, M., and Moran, M.~A.
 \newblock {Expression patterns reveal niche diversification in a marine
   microbial assemblage.}
 \newblock \emph{The ISME journal}, 7\penalty0 (2):\penalty0 281--98, February
@@ -536,14 +519,14 @@ Scott~M. Gifford, Shalabh Sharma, Melissa Booth, and Mary~Ann Moran.
 \newblock \doi{10.1038/ismej.2012.96}.
 
 \bibitem[Guillard(1975)]{Guillard1975}
-R.~R.~L. Guillard.
+Guillard, R. R.~L.
 \newblock \emph{{Culture of marine invertebrate animals}}.
 \newblock Springer US, Boston, MA, 1975.
 \newblock ISBN 978-1-4615-8716-3.
 \newblock \doi{10.1007/978-1-4615-8714-9}.
 
 \bibitem[Guo and Ki(2012)]{Guo2012}
-Ruoyu Guo and Jang-Seu Ki.
+Guo, R. and Ki, J.-S.
 \newblock {Evaluation and validation of internal control genes for studying
   gene expression in the dinoflagellate Prorocentrum minimum using real-time
   PCR.}
@@ -553,16 +536,14 @@ Ruoyu Guo and Jang-Seu Ki.
 
 \bibitem[Hackett et~al.(2004)Hackett, Anderson, Erdner, and
   Bhattacharya]{Hackett2004}
-Jeremiah~D. Hackett, Donald~M. Anderson, Deana~L. Erdner, and Debashish
-  Bhattacharya.
+Hackett, J.~D., Anderson, D.~M., Erdner, D.~L., and Bhattacharya, D.
 \newblock {Dinoflagellates: a remarkable evolutionary experiment}.
 \newblock \emph{American Journal of Botany}, 91\penalty0 (10):\penalty0
   1523--1534, 2004.
 
 \bibitem[Halary et~al.(2010)Halary, Leigh, Cheaib, Lopez, and
   Bapteste]{Halary2010}
-S\'{e}bastien Halary, Jessica~W Leigh, Bachar Cheaib, Philippe Lopez, and Eric
-  Bapteste.
+Halary, S., Leigh, J.~W., Cheaib, B., Lopez, P., and Bapteste, E.
 \newblock {Network analyses structure genetic diversity in independent genetic
   worlds.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -570,7 +551,7 @@ S\'{e}bastien Halary, Jessica~W Leigh, Bachar Cheaib, Philippe Lopez, and Eric
 \newblock \doi{10.1073/pnas.0908978107}.
 
 \bibitem[Halary et~al.(2013)Halary, McInerney, Lopez, and Bapteste]{Halary2013}
-S\'{e}bastien Halary, James~O McInerney, Philippe Lopez, and Eric Bapteste.
+Halary, S., McInerney, J.~O., Lopez, P., and Bapteste, E.
 \newblock {EGN: a wizard for construction of gene and genome similarity
   networks.}
 \newblock \emph{BMC evolutionary biology}, 13\penalty0 (1):\penalty0 146,
@@ -578,7 +559,7 @@ S\'{e}bastien Halary, James~O McInerney, Philippe Lopez, and Eric Bapteste.
 \newblock \doi{10.1186/1471-2148-13-146}.
 
 \bibitem[Hartigan and Wong(1979)]{Hartigan1979}
-J.~A. Hartigan and M.~A. Wong.
+Hartigan, J.~A. and Wong, M.~A.
 \newblock {Algorithm AS 136: A \textit{k}-means clustering algorithm}.
 \newblock \emph{Journal of the Royal Statistical Society. Series C (Applied
   Statistics)}, 28\penalty0 (1):\penalty0 100--108, January 1979.
@@ -586,9 +567,8 @@ J.~A. Hartigan and M.~A. Wong.
 
 \bibitem[Hennon et~al.(2015)Hennon, Ashworth, Groussman, Berthiaume, Morales,
   Baliga, Orellana, and Armbrust]{Hennon2015}
-Gwenn M.~M. Hennon, Justin Ashworth, Ryan~D. Groussman, Chris Berthiaume,
-  Rhonda~L. Morales, Nitin~S. Baliga, M\'{o}nica~V. Orellana, and E.~V.
-  Armbrust.
+Hennon, G. M.~M., Ashworth, J., Groussman, R.~D., Berthiaume, C., Morales,
+  R.~L., Baliga, N.~S., Orellana, M.~V., and Armbrust, E.~V.
 \newblock {Diatom acclimation to elevated CO2 via cAMP signalling and
   coordinated gene expression}.
 \newblock \emph{Nature Climate Change}, 5\penalty0 (8):\penalty0 761--765, June
@@ -596,14 +576,14 @@ Gwenn M.~M. Hennon, Justin Ashworth, Ryan~D. Groussman, Chris Berthiaume,
 \newblock \doi{10.1038/nclimate2683}.
 
 \bibitem[Huisman and Weissing(1999)]{Huisman1999}
-Jef Huisman and FJ~Weissing.
+Huisman, J. and Weissing, F.
 \newblock {Biodiversity of plankton by species oscillations and chaos}.
 \newblock \emph{Nature}, 402\penalty0 (6760):\penalty0 407--410, November 1999.
 \newblock \doi{10.1038/46540}.
 
 \bibitem[Huisman et~al.(2001)Huisman, Johansson, Folmer, and
   Weissing]{Huisman2001}
-Jef Huisman, Anna~M. Johansson, Eelke~O. Folmer, and Franz~J. Weissing.
+Huisman, J., Johansson, A.~M., Folmer, E.~O., and Weissing, F.~J.
 \newblock {Towards a solution of the plankton paradox: the importance of
   physiology and life history}.
 \newblock \emph{Ecology Letters}, 4\penalty0 (5):\penalty0 408--411, September
@@ -612,14 +592,14 @@ Jef Huisman, Anna~M. Johansson, Eelke~O. Folmer, and Franz~J. Weissing.
 
 \bibitem[Hutchins et~al.(1999)Hutchins, Witter, Butler, and
   Luther]{Hutchins1999}
-David~A. Hutchins, Amy~E. Witter, Alison Butler, and George~W. Luther.
+Hutchins, D.~A., Witter, A.~E., Butler, A., and Luther, G.~W.
 \newblock {Competition among marine phytoplankton for different chelated iron
   species}.
 \newblock \emph{Nature}, 400\penalty0 (6747):\penalty0 858--861, August 1999.
 \newblock \doi{10.1038/23680}.
 
 \bibitem[Hutchinson(1961)]{Hutchinson1961}
-G.~E. Hutchinson.
+Hutchinson, G.~E.
 \newblock {The Paradox of the Plankton}.
 \newblock \emph{The American Naturalist}, 95\penalty0 (882):\penalty0 137,
   January 1961.
@@ -627,8 +607,8 @@ G.~E. Hutchinson.
 
 \bibitem[Johnson et~al.(2006)Johnson, Zinser, Coe, McNulty, Woodward, and
   Chisholm]{Johnson2006b}
-Zackary~I Johnson, Erik~R Zinser, Allison Coe, Nathan~P McNulty, E.~Malcolm~S
-  Woodward, and Sallie~W Chisholm.
+Johnson, Z.~I., Zinser, E.~R., Coe, A., McNulty, N.~P., Woodward, E. M.~S., and
+  Chisholm, S.~W.
 \newblock {Niche partitioning among \textit{Prochlorococcus} ecotypes along
   ocean-scale environmental gradients.}
 \newblock \emph{Science (New York, N.Y.)}, 311\penalty0 (5768):\penalty0
@@ -636,8 +616,7 @@ Zackary~I Johnson, Erik~R Zinser, Allison Coe, Nathan~P McNulty, E.~Malcolm~S
 \newblock \doi{10.1126/science.1118052}.
 
 \bibitem[Kang et~al.(2009)Kang, Hwang, Lin, Chen, and Chang]{Kang2009}
-Lee-Kuo Kang, Sheng-Ping~L. Hwang, Hsing-Juh Lin, Pei-Chung Chen, and Jeng
-  Chang.
+Kang, L.-K., Hwang, S.-P.~L., Lin, H.-J., Chen, P.-C., and Chang, J.
 \newblock {Establisment of minimal and maximal transcript levels for nitrate
   transporter genes genes for detecting nitrogen deficiency in the marine
   phytoplankton Isochrysis glabana (Prymnesiophycae) and \textit{Thalassiosira
@@ -647,7 +626,7 @@ Lee-Kuo Kang, Sheng-Ping~L. Hwang, Hsing-Juh Lin, Pei-Chung Chen, and Jeng
 \newblock \doi{10.1111/j.1529-8817.2009.00698.x}.
 
 \bibitem[Karl(2002)]{Karl2002}
-David~M Karl.
+Karl, D.~M.
 \newblock {Nutrient dynamics in the deep blue sea}.
 \newblock \emph{Trends in Microbiology}, 10\penalty0 (9):\penalty0 410--418,
   September 2002.
@@ -655,22 +634,21 @@ David~M Karl.
 
 \bibitem[Karl et~al.(2001)Karl, Bj\"{o}rkman, Dore, Fujieki, Hebel, Houlihan,
   Letelier, and Tupas]{Karl2001}
-David~M Karl, Karin~M Bj\"{o}rkman, John~E Dore, Lance Fujieki, Dale~V Hebel,
-  Terrence Houlihan, Ricardo~M Letelier, and Luis~M Tupas.
+Karl, D.~M., Bj\"{o}rkman, K.~M., Dore, J.~E., Fujieki, L., Hebel, D.~V.,
+  Houlihan, T., Letelier, R.~M., and Tupas, L.~M.
 \newblock {Ecological nitrogen-to-phosphorus stoichiometry at station ALOHA}.
 \newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
   48\penalty0 (8–9):\penalty0 1529--1566, 2001.
 \newblock \doi{10.1016/S0967-0645(00)00152-1}.
 
 \bibitem[Karl et~al.(2003)Karl, Laws, Morris, Williams, and Emerson]{Karl2003}
-David~M Karl, Edward~A Laws, Paul Morris, Peter J~Leb Williams, and Steven
-  Emerson.
+Karl, D.~M., Laws, E.~A., Morris, P., Williams, P. J.~L., and Emerson, S.
 \newblock {Global carbon cycle: metabolic balance of the open sea.}
 \newblock \emph{Nature}, 426\penalty0 (6962):\penalty0 32, November 2003.
 \newblock \doi{10.1038/426032a}.
 
 \bibitem[Karl et~al.(2012)Karl, Church, Dore, Letelier, and Mahaffey]{Karl2012}
-DM~Karl, MJ~Church, John~E Dore, Ricardo~M Letelier, and Claire Mahaffey.
+Karl, D., Church, M., Dore, J.~E., Letelier, R.~M., and Mahaffey, C.
 \newblock {Predictable and efficient carbon sequestration in the North Pacific
   Ocean supported by symbiotic nitrogen fixation}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -687,25 +665,22 @@ DM~Karl, MJ~Church, John~E Dore, Ricardo~M Letelier, and Claire Mahaffey.
   Posewitz, Rengefors, Romano, Rumpho, Rynearson, Schilling, Schroeder,
   Simpson, Slamovits, Smith, Smith, Smith, Sosik, Stief, Theriot, Twary, Umale,
   Vaulot, Wawrik, Wheeler, Wilson, Xu, Zingone, and Worden]{Keeling2014}
-Patrick~J. Keeling, Fabien Burki, Heather~M. Wilcox, Bassem Allam, Eric~E.
-  Allen, Linda~A. Amaral-Zettler, E.~Virginia Armbrust, John~M. Archibald,
-  Arvind~K. Bharti, Callum~J. Bell, Bank Beszteri, Kay~D. Bidle, Connor~T.
-  Cameron, Lisa Campbell, David~A. Caron, Rose~Ann Cattolico, Jackie~L.
-  Collier, Kathryn Coyne, Simon~K. Davy, Phillipe Deschamps, Sonya~T. Dyhrman,
-  Bente Edvardsen, Ruth~D. Gates, Christopher~J. Gobler, Spencer~J. Greenwood,
-  Stephanie~M. Guida, Jennifer~L. Jacobi, Kjetill~S. Jakobsen, Erick~R. James,
-  Bethany Jenkins, Uwe John, Matthew~D. Johnson, Andrew~R. Juhl, Anja Kamp,
-  Laura~A. Katz, Ronald Kiene, Alexander Kudryavtsev, Brian~S. Leander, Senjie
-  Lin, Connie Lovejoy, Denis Lynn, Adrian Marchetti, George McManus, Aurora~M.
-  Nedelcu, Susanne Menden-Deuer, Cristina Miceli, Thomas Mock, Marina
-  Montresor, Mary~Ann Moran, Shauna Murray, Govind Nadathur, Satoshi Nagai,
-  Peter~B. Ngam, Brian Palenik, Jan Pawlowski, Giulio Petroni, Gwenael
-  Piganeau, Matthew~C. Posewitz, Karin Rengefors, Giovanna Romano, Mary~E.
-  Rumpho, Tatiana Rynearson, Kelly~B. Schilling, Declan~C. Schroeder, Alastair
-  G~B Simpson, Claudio~H. Slamovits, David~R. Smith, G~Jason Smith, Sarah~R.
-  Smith, Heidi~M. Sosik, Peter Stief, Edward Theriot, Scott~N. Twary, Pooja~E.
-  Umale, Daniel Vaulot, Boris Wawrik, Glen~L. Wheeler, William~H. Wilson, Yan
-  Xu, Adriana Zingone, and Alexandra~Z. Worden.
+Keeling, P.~J., Burki, F., Wilcox, H.~M., Allam, B., Allen, E.~E.,
+  Amaral-Zettler, L.~A., Armbrust, E.~V., Archibald, J.~M., Bharti, A.~K.,
+  Bell, C.~J., Beszteri, B., Bidle, K.~D., Cameron, C.~T., Campbell, L., Caron,
+  D.~A., Cattolico, R.~A., Collier, J.~L., Coyne, K., Davy, S.~K., Deschamps,
+  P., Dyhrman, S.~T., Edvardsen, B., Gates, R.~D., Gobler, C.~J., Greenwood,
+  S.~J., Guida, S.~M., Jacobi, J.~L., Jakobsen, K.~S., James, E.~R., Jenkins,
+  B., John, U., Johnson, M.~D., Juhl, A.~R., Kamp, A., Katz, L.~A., Kiene, R.,
+  Kudryavtsev, A., Leander, B.~S., Lin, S., Lovejoy, C., Lynn, D., Marchetti,
+  A., McManus, G., Nedelcu, A.~M., Menden-Deuer, S., Miceli, C., Mock, T.,
+  Montresor, M., Moran, M.~A., Murray, S., Nadathur, G., Nagai, S., Ngam,
+  P.~B., Palenik, B., Pawlowski, J., Petroni, G., Piganeau, G., Posewitz,
+  M.~C., Rengefors, K., Romano, G., Rumpho, M.~E., Rynearson, T., Schilling,
+  K.~B., Schroeder, D.~C., Simpson, A. G.~B., Slamovits, C.~H., Smith, D.~R.,
+  Smith, G.~J., Smith, S.~R., Sosik, H.~M., Stief, P., Theriot, E., Twary,
+  S.~N., Umale, P.~E., Vaulot, D., Wawrik, B., Wheeler, G.~L., Wilson, W.~H.,
+  Xu, Y., Zingone, A., and Worden, A.~Z.
 \newblock {The Marine Microbial Eukaryote Transcriptome Sequencing Project
   (MMETSP): illuminating the functional diversity of eukaryotic life in the
   oceans through transcriptome sequencing}.
@@ -714,8 +689,8 @@ Patrick~J. Keeling, Fabien Burki, Heather~M. Wilcox, Bassem Allam, Eric~E.
 
 \bibitem[Kim et~al.(2014)Kim, Lee, Gruber, Karl, Bullister, Yang, and
   Kim]{Kim2014}
-Il-Nam Kim, Kitack Lee, Nicolas Gruber, David~M Karl, John~L Bullister, Simon
-  Yang, and Tae-Wook Kim.
+Kim, I.-N., Lee, K., Gruber, N., Karl, D.~M., Bullister, J.~L., Yang, S., and
+  Kim, T.-W.
 \newblock {Increasing anthropogenic nitrogen in the North Pacific Ocean.}
 \newblock \emph{Science (New York, N.Y.)}, 346\penalty0 (6213):\penalty0
   1102--6, November 2014.
@@ -723,15 +698,15 @@ Il-Nam Kim, Kitack Lee, Nicolas Gruber, David~M Karl, John~L Bullister, Simon
 
 \bibitem[Krzywinski et~al.(2009)Krzywinski, Schein, Birol, Connors, Gascoyne,
   Horsman, Jones, and Marra]{Krzywinski2009}
-Martin Krzywinski, Jacqueline Schein, Inan\c{c} Birol, Joseph Connors, Randy
-  Gascoyne, Doug Horsman, Steven~J Jones, and Marco~A Marra.
+Krzywinski, M., Schein, J., Birol, I., Connors, J., Gascoyne, R., Horsman, D.,
+  Jones, S.~J., and Marra, M.~A.
 \newblock {Circos: an information aesthetic for comparative genomics.}
 \newblock \emph{Genome research}, 19\penalty0 (9):\penalty0 1639--45, September
   2009.
 \newblock \doi{10.1101/gr.092759.109}.
 
 \bibitem[Kustka et~al.(2007)Kustka, Allen, and Morel]{Kustka2007}
-Adam~B Kustka, Andrew~E Allen, and Fran\c{c}ois M.~M Morel.
+Kustka, A.~B., Allen, A.~E., and Morel, F. M.~M.
 \newblock {Sequence analysis and transcriptional regulation of iron acquisition
   genes in two marine diatoms}.
 \newblock \emph{Journal of Phycology}, 43\penalty0 (4):\penalty0 715--729,
@@ -739,22 +714,22 @@ Adam~B Kustka, Andrew~E Allen, and Fran\c{c}ois M.~M Morel.
 \newblock \doi{10.1111/j.1529-8817.2007.00359.x}.
 
 \bibitem[Langmead and Salzberg(2012)]{Langmead2012}
-Ben Langmead and Steven~L Salzberg.
+Langmead, B. and Salzberg, S.~L.
 \newblock {Fast gapped-read alignment with Bowtie 2.}
 \newblock \emph{Nature methods}, 9\penalty0 (4):\penalty0 357--9, April 2012.
 \newblock \doi{10.1038/nmeth.1923}.
 
 \bibitem[Lanoix et~al.(2012)Lanoix, Lacasse, St-Pierre, Taylor,
   Ethier-Chiasson, Lafond, and Vaillancourt]{Lanoix2012a}
-Dave Lanoix, Andr\'{e}e-Anne Lacasse, Joey St-Pierre, Sean~C. Taylor, Maude
-  Ethier-Chiasson, Julie Lafond, and Cathy Vaillancourt.
+Lanoix, D., Lacasse, A.-A., St-Pierre, J., Taylor, S.~C., Ethier-Chiasson, M.,
+  Lafond, J., and Vaillancourt, C.
 \newblock {Quantitative PCR pitfalls: the case of the human placenta.}
 \newblock \emph{Molecular biotechnology}, 52\penalty0 (3):\penalty0 234--43,
   November 2012.
 \newblock \doi{10.1007/s12033-012-9539-2}.
 
 \bibitem[Lawerence and Menden-Deuer(2012)]{Lawerence2012}
-C~Lawerence and S~Menden-Deuer.
+Lawerence, C. and Menden-Deuer, S.
 \newblock {Drivers of protistan grazing pressure: seasonal signals of plankton
   community composition and environmental conditions}.
 \newblock \emph{Marine Ecology Progress Series}, 459:\penalty0 39--52, July
@@ -762,7 +737,7 @@ C~Lawerence and S~Menden-Deuer.
 \newblock \doi{10.3354/meps09771}.
 
 \bibitem[Lee et~al.(2009)Lee, Morse, and Lo]{Lee2009}
-Fred Wang-Fat Lee, David Morse, and Samuel Chun-Lap Lo.
+Lee, F. W.-F., Morse, D., and Lo, S. C.-L.
 \newblock {Identification of two plastid proteins in the dinoflagellate
   \textit{Alexandrium affine} that are substantially down-regulated by
   nitrogen-depletion}.
@@ -771,14 +746,14 @@ Fred Wang-Fat Lee, David Morse, and Samuel Chun-Lap Lo.
 \newblock \doi{10.1021/pr900475f}.
 
 \bibitem[Leggat et~al.(2011)Leggat, Yellowlees, and Medina]{Leggat2011}
-William Leggat, David Yellowlees, and Monica Medina.
+Leggat, W., Yellowlees, D., and Medina, M.
 \newblock {Recent progress in \textit{Symbiodinium }transcriptomics}.
 \newblock \emph{Journal of Experimental Marine Biology and Ecology},
   408\penalty0 (1–2):\penalty0 120--125, November 2011.
 \newblock \doi{10.1016/j.jembe.2011.07.032}.
 
 \bibitem[Lessard et~al.(2005)Lessard, Merico, and Tyrrell]{Lessard2005}
-Evelyn~J. Lessard, Agostino Merico, and Toby Tyrrell.
+Lessard, E.~J., Merico, A., and Tyrrell, T.
 \newblock {Nitrate : phosphate ratios and \textit{Emiliania huxleyi} blooms}.
 \newblock \emph{Limnology and Oceanography}, 50\penalty0 (3):\penalty0
   1020--1024, 2005.
@@ -786,8 +761,8 @@ Evelyn~J. Lessard, Agostino Merico, and Toby Tyrrell.
 
 \bibitem[Letelier et~al.(1993)Letelier, Bidigare, Hebel, Ondrusek, Winn, and
   Karl]{Letelier1993}
-Ricardo~M Letelier, Robert~R Bidigare, Dale~V Hebel, M.~Ondrusek, C.~D Winn,
-  and David~M Karl.
+Letelier, R.~M., Bidigare, R.~R., Hebel, D.~V., Ondrusek, M., Winn, C.~D., and
+  Karl, D.~M.
 \newblock {Temporal variability of phytoplankton community structure based on
   pigment analysis}.
 \newblock \emph{Limnology and Oceanography}, 38\penalty0 (7):\penalty0
@@ -795,7 +770,7 @@ Ricardo~M Letelier, Robert~R Bidigare, Dale~V Hebel, M.~Ondrusek, C.~D Winn,
 \newblock \doi{10.4319/lo.1993.38.7.1420}.
 
 \bibitem[Li and Durbin(2010)]{Li2010}
-Heng Li and Richard Durbin.
+Li, H. and Durbin, R.
 \newblock {Fast and accurate long-read alignment with Burrows-Wheeler
   transform.}
 \newblock \emph{Bioinformatics (Oxford, England)}, 26\penalty0 (5):\penalty0
@@ -803,7 +778,7 @@ Heng Li and Richard Durbin.
 \newblock \doi{10.1093/bioinformatics/btp698}.
 
 \bibitem[Li and Godzik(2006)]{Li2006}
-Weizhong Li and Adam Godzik.
+Li, W. and Godzik, A.
 \newblock {CD-HIT: a fast program for clustering and comparing large sets of
   protein or nucleotide sequences.}
 \newblock \emph{Bioinformatics (Oxford, England)}, 22\penalty0 (13):\penalty0
@@ -811,7 +786,7 @@ Weizhong Li and Adam Godzik.
 \newblock \doi{10.1093/bioinformatics/btl158}.
 
 \bibitem[Li and Smayda(1998)]{Li1998}
-Yaqin Li and Theodore~J Smayda.
+Li, Y. and Smayda, T.~J.
 \newblock {Temporal variability of chlorophyll in Narragansett Bay,
   1973–1990}.
 \newblock \emph{ICES Journal of Marine Science: Journal du Conseil},
@@ -820,8 +795,8 @@ Yaqin Li and Theodore~J Smayda.
 
 \bibitem[Lin et~al.(2009)Lin, Sandh, Zhang, Cheng, Perkins, Carpenter, and
   Bergman]{Lin2009}
-Senjie Lin, Gustaf Sandh, Huan Zhang, Jiujun Cheng, Keri Perkins, Edward~J.
-  Carpenter, and Birgitta Bergman.
+Lin, S., Sandh, G., Zhang, H., Cheng, J., Perkins, K., Carpenter, E.~J., and
+  Bergman, B.
 \newblock {Two flavodoxin genes in Trichodesmium (Oscillatoriales,
   Cyanophyceae): Remarkable sequence divergence and possible functional
   diversification}.
@@ -830,14 +805,14 @@ Senjie Lin, Gustaf Sandh, Huan Zhang, Jiujun Cheng, Keri Perkins, Edward~J.
 \newblock \doi{10.1016/j.jembe.2009.01.010}.
 
 \bibitem[Litchman and Klausmeier(2008)]{Litchman2008}
-Elena Litchman and Christopher~A. Klausmeier.
+Litchman, E. and Klausmeier, C.~A.
 \newblock {Trait-based community ecology of phytoplankton}.
 \newblock \emph{Annual Review of Ecology, Evolution, and Systematics},
   39\penalty0 (1):\penalty0 615--639, 2008.
 \newblock \doi{10.1146/annurev.ecolsys.39.110707.173549}.
 
 \bibitem[Livak and Schmittgen(2001)]{Livak2001}
-Kenneth~J. Livak and Thomas~D. Schmittgen.
+Livak, K.~J. and Schmittgen, T.~D.
 \newblock {Analysis of relative gene expression using real-time quantitative
   PCR and the 2−$\Delta$$\Delta$CT method}.
 \newblock \emph{Methods}, 25\penalty0 (4):\penalty0 402--408, December 2001.
@@ -845,8 +820,8 @@ Kenneth~J. Livak and Thomas~D. Schmittgen.
 
 \bibitem[Lohse et~al.(2012)Lohse, Bolger, Nagel, Fernie, Lunn, Stitt, and
   Usadel]{Lohse2012}
-M.~Lohse, A.~M. Bolger, A.~Nagel, A.~R. Fernie, J.~E. Lunn, M.~Stitt, and
-  B.~Usadel.
+Lohse, M., Bolger, A.~M., Nagel, A., Fernie, A.~R., Lunn, J.~E., Stitt, M., and
+  Usadel, B.
 \newblock {RobiNA: a user-friendly, integrated software solution for
   RNA-Seq-based transcriptomics}.
 \newblock \emph{Nucleic Acids Research}, 40\penalty0 (W1):\penalty0 W622--W627,
@@ -855,8 +830,7 @@ M.~Lohse, A.~M. Bolger, A.~Nagel, A.~R. Fernie, J.~E. Lunn, M.~Stitt, and
 
 \bibitem[L\'{o}pez-Urrutia et~al.(2006)L\'{o}pez-Urrutia, {San Martin}, Harris,
   and Irigoien]{Lopez-Urrutia2006}
-Angel L\'{o}pez-Urrutia, Elena {San Martin}, Roger~P Harris, and Xabier
-  Irigoien.
+L\'{o}pez-Urrutia, A., {San Martin}, E., Harris, R.~P., and Irigoien, X.
 \newblock {Scaling the metabolic balance of the oceans.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 103\penalty0 (23):\penalty0 8739--44, June 2006.
@@ -864,15 +838,15 @@ Angel L\'{o}pez-Urrutia, Elena {San Martin}, Roger~P Harris, and Xabier
 
 \bibitem[Maldonado et~al.(2006)Maldonado, Allen, Chong, Lin, Leus, Karpenko,
   and Harris]{Maldonado2006}
-Maria~T. Maldonado, Andrew~E. Allen, Joanne~S. Chong, Kevin Lin, Dan Leus,
-  Nataliya Karpenko, and Shannon~L. Harris.
+Maldonado, M.~T., Allen, A.~E., Chong, J.~S., Lin, K., Leus, D., Karpenko, N.,
+  and Harris, S.~L.
 \newblock {Copper-dependent iron transport in coastal and oceanic diatoms}.
 \newblock \emph{Limnology and Oceanography}, 51\penalty0 (4):\penalty0
   1729--1743, 2006.
 \newblock \doi{10.4319/lo.2006.51.4.1729}.
 
 \bibitem[Mann and Droop(1996)]{Mann1996}
-D.~G. Mann and S.~J.~M. Droop.
+Mann, D.~G. and Droop, S. J.~M.
 \newblock {3. Biodiversity, biogeography and conservation of diatoms}.
 \newblock \emph{Hydrobiologia}, 336\penalty0 (1-3):\penalty0 19--32, October
   1996.
@@ -880,8 +854,8 @@ D.~G. Mann and S.~J.~M. Droop.
 
 \bibitem[Marchetti et~al.(2005)Marchetti, Varela, Lance, Johnson, Palmucci,
   Giordan, and Armbrust]{Marchetti2005}
-Adrian Marchetti, Diana~E Varela, Veronica~P Lance, Zackary Johnson, Matteo
-  Palmucci, Mario Giordan, and E.~Virginia Armbrust.
+Marchetti, A., Varela, D.~E., Lance, V.~P., Johnson, Z., Palmucci, M., Giordan,
+  M., and Armbrust, E.~V.
 \newblock {Iron and silicic acid effects on phytoplankton productivity,
   diversity, and chemical composition in the central equatorial Pacific Ocean}.
 \newblock \emph{Limnology and Oceanography}, 55\penalty0 (1):\penalty0 11--29,
@@ -889,9 +863,8 @@ Adrian Marchetti, Diana~E Varela, Veronica~P Lance, Zackary Johnson, Matteo
 
 \bibitem[Marchetti et~al.(2012)Marchetti, Schruth, Durkin, Parker, Kodner,
   Berthiaume, Morales, Allen, and Armbrust]{Marchetti2012a}
-Adrian Marchetti, David~M Schruth, Colleen~a Durkin, Micaela~S Parker, Robin~B
-  Kodner, Chris~T Berthiaume, Rhonda Morales, Andrew~E Allen, and E~Virginia
-  Armbrust.
+Marchetti, A., Schruth, D.~M., Durkin, C.~a., Parker, M.~S., Kodner, R.~B.,
+  Berthiaume, C.~T., Morales, R., Allen, A.~E., and Armbrust, E.~V.
 \newblock {Comparative metatranscriptomics identifies molecular bases for the
   physiological responses of phytoplankton to varying iron availability.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -899,20 +872,20 @@ Adrian Marchetti, David~M Schruth, Colleen~a Durkin, Micaela~S Parker, Robin~B
 \newblock \doi{10.1073/pnas.1118408109}.
 
 \bibitem[Margalef(1963)]{Margalef1963}
-R~Margalef.
+Margalef, R.
 \newblock {On certain unifying principles in ecology}.
 \newblock \emph{American Naturalist}, 1963.
 
 \bibitem[Margalef(1978)]{Margalef1978}
-R~Margalef.
+Margalef, R.
 \newblock {Life-forms of phytoplankton as survival alternatives in an unstable
   environment}.
 \newblock \emph{Oceanologica Acta}, 1\penalty0 (4):\penalty0 493--509, 1978.
 
 \bibitem[Marionneau et~al.(2005)Marionneau, Couette, Liu, Li, Mangoni, Nargeot,
   Lei, Escande, and Demolombe]{Marionneau2005}
-C\'{e}line Marionneau, Brigitte Couette, Jie Liu, Huiyu Li, Matteo~E Mangoni,
-  Jo\"{e}l Nargeot, Ming Lei, Denis Escande, and Sophie Demolombe.
+Marionneau, C., Couette, B., Liu, J., Li, H., Mangoni, M.~E., Nargeot, J., Lei,
+  M., Escande, D., and Demolombe, S.
 \newblock {Specific pattern of ionic channel gene expression associated with
   pacemaker activity in the mouse heart}.
 \newblock \emph{Journal of Physiology}, 562\penalty0 (1):\penalty0 223--234,
@@ -920,7 +893,7 @@ C\'{e}line Marionneau, Brigitte Couette, Jie Liu, Huiyu Li, Matteo~E Mangoni,
 \newblock \doi{10.1113/jphysiol.2004.074047}.
 
 \bibitem[Martin(1970)]{Martin1970}
-John~H. Martin.
+Martin, J.~H.
 \newblock {Phytoplankton-zooplankton relationships in NarragansettBay. IV. The
   seasonal importance of grazing}.
 \newblock \emph{Limnology and Oceanography}, 15\penalty0 (3):\penalty0
@@ -929,8 +902,8 @@ John~H. Martin.
 
 \bibitem[McAndrew et~al.(2007)McAndrew, Bj\"{o}rkman, Church, Morris,
   Jachowski, leB {Williams PJ}, and Karl]{McAndrew2007}
-Pm~McAndrew, Km~Bj\"{o}rkman, Mj~Church, Pj~Morris, N~Jachowski, leB {Williams
-  PJ}, and Dm~Karl.
+McAndrew, P., Bj\"{o}rkman, K., Church, M., Morris, P., Jachowski, N., leB
+  {Williams PJ}, and Karl, D.
 \newblock {Metabolic response of oligotrophic plankton communities to deep
   water nutrient enrichment}.
 \newblock \emph{Marine Ecology Progress Series}, 332:\penalty0 63--75, March
@@ -939,8 +912,8 @@ Pm~McAndrew, Km~Bj\"{o}rkman, Mj~Church, Pj~Morris, N~Jachowski, leB {Williams
 
 \bibitem[McCarren et~al.(2010)McCarren, Becker, Repeta, Shi, Young, Malmstrom,
   Chisholm, and DeLong]{McCarren2010}
-Jay McCarren, Jamie~W. Becker, Daniel~J. Repeta, Yanmei Shi, Curtis~R. Young,
-  Rex~R. Malmstrom, Sallie~W. Chisholm, and Edward~F. DeLong.
+McCarren, J., Becker, J.~W., Repeta, D.~J., Shi, Y., Young, C.~R., Malmstrom,
+  R.~R., Chisholm, S.~W., and DeLong, E.~F.
 \newblock {Microbial community transcriptomes reveal microbes and metabolic
   pathways associated with dissolved organic matter turnover in the sea.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -948,7 +921,7 @@ Jay McCarren, Jamie~W. Becker, Daniel~J. Repeta, Yanmei Shi, Curtis~R. Young,
 \newblock \doi{10.1073/pnas.1010732107}.
 
 \bibitem[McDonald et~al.(2010)McDonald, Plant, and Worden]{McDonald2010}
-Sarah~M. McDonald, Joshua~N. Plant, and Alexandra~Z. Worden.
+McDonald, S.~M., Plant, J.~N., and Worden, A.~Z.
 \newblock {The mixed lineage nature of nitrogen transport and assimilation in
   marine eukaryotic phytoplankton: a case study of \textit{Micromonas}}.
 \newblock \emph{Molecular Biology and Evolution}, 27\penalty0 (10):\penalty0
@@ -956,7 +929,7 @@ Sarah~M. McDonald, Joshua~N. Plant, and Alexandra~Z. Worden.
 \newblock \doi{10.1093/molbev/msq113}.
 
 \bibitem[McGinn and Morel(2008{\natexlab{a}})]{McGinn2008}
-Patrick~J McGinn and Fran\c{c}ois M.~M Morel.
+McGinn, P.~J. and Morel, F. M.~M.
 \newblock {Expression and regulation of carbonic anhydrases in the marine
   diatom \textit{Thalassiosira pseudonana} and in natural phytoplankton
   assemblages from Great Bay, New Jersey}.
@@ -965,23 +938,23 @@ Patrick~J McGinn and Fran\c{c}ois M.~M Morel.
 \newblock \doi{10.1111/j.1399-3054.2007.01039.x}.
 
 \bibitem[McGinn and Morel(2008{\natexlab{b}})]{McGinn2008a}
-Patrick~J. McGinn and Fran\c{c}ois~M.M. Morel.
+McGinn, P.~J. and Morel, F.~M.
 \newblock {Expression and inhibition of the carboxylating and decarboxylating
   enzymes in photosynthetic C4 pathway of marine diatoms}.
 \newblock \emph{Plant Physiology}, 146\penalty0 (1):\penalty0 300 --309,
   January 2008{\natexlab{b}}.
 \newblock \doi{10.1104/pp.107.110569}.
 
-\bibitem[Menden-deuer and Rowlett(2014)]{Menden-deuer2014}
-Susanne Menden-deuer and Julie Rowlett.
-\newblock {Many ways to stay in the game : individual variability maintains
-  high biodiversity in planktonic microorganisms Many ways to stay in the game
-  : individual variability maintains high biodiversity in planktonic
-  microorganisms}.
-\newblock \penalty0 (March), 2014.
+\bibitem[Menden-Deuer and Rowlett(2014)]{Menden-deuer2014}
+Menden-Deuer, S. and Rowlett, J.
+\newblock {Many ways to stay in the game: individual variability maintains high
+  biodiversity in planktonic microorganisms}.
+\newblock \emph{Journal of The Royal Society Interface}, 11\penalty0
+  (95):\penalty0 20140031--20140031, March 2014.
+\newblock \doi{10.1098/rsif.2014.0031}.
 
 \bibitem[Min et~al.(2005)Min, Butler, Storms, and Tsang]{Min2005}
-Xiang~Jia Min, Gregory Butler, Reginald Storms, and Adrian Tsang.
+Min, X.~J., Butler, G., Storms, R., and Tsang, A.
 \newblock {OrfPredictor: predicting protein-coding regions in EST-derived
   sequences.}
 \newblock \emph{Nucleic acids research}, 33\penalty0 (Web Server
@@ -991,18 +964,18 @@ Xiang~Jia Min, Gregory Butler, Reginald Storms, and Adrian Tsang.
 \bibitem[Mock et~al.(2008)Mock, Samanta, Iverson, Berthiaume, Robison,
   Holtermann, Durkin, Bondurant, Richmond, Rodesch, Kallas, Huttlin, Cerrina,
   Sussman, and Armbrust]{Mock2008}
-Thomas Mock, Manoj~Pratim Samanta, Vaughn Iverson, Chris Berthiaume, Matthew
-  Robison, Karie Holtermann, Colleen Durkin, Sandra~Splinter Bondurant, Kathryn
-  Richmond, Matthew Rodesch, Toivo Kallas, Edward~L. Huttlin, Francesco
-  Cerrina, Michael~R. Sussman, and E.~Virginia Armbrust.
-\newblock {Whole-genome expression profiling of the marine diatom Thalassiosira
-  pseudonana identifies genes involved in silicon bioprocesses.}
+Mock, T., Samanta, M.~P., Iverson, V., Berthiaume, C., Robison, M., Holtermann,
+  K., Durkin, C., Bondurant, S.~S., Richmond, K., Rodesch, M., Kallas, T.,
+  Huttlin, E.~L., Cerrina, F., Sussman, M.~R., and Armbrust, E.~V.
+\newblock {Whole-genome expression profiling of the marine diatom
+  \textit{Thalassiosira pseudonana} identifies genes involved in silicon
+  bioprocesses.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (5):\penalty0 1579--84, February 2008.
 \newblock \doi{10.1073/pnas.0707946105}.
 
 \bibitem[Moore(2004)]{Moore2004}
-J~Keith Moore.
+Moore, J.~K.
 \newblock {Upper ocean ecosystem dynamics and iron cycling in a global
   three-dimensional model}.
 \newblock \emph{Global Biogeochemical Cycles}, 18\penalty0 (4):\penalty0 1--21,
@@ -1011,8 +984,7 @@ J~Keith Moore.
 
 \bibitem[Moriya et~al.(2007)Moriya, Itoh, Okuda, Yoshizawa, and
   Kanehisa]{Moriya2007}
-Yuki Moriya, Masumi Itoh, Shujiro Okuda, Akiyasu~C Yoshizawa, and Minoru
-  Kanehisa.
+Moriya, Y., Itoh, M., Okuda, S., Yoshizawa, A.~C., and Kanehisa, M.
 \newblock {KAAS: an automatic genome annotation and pathway reconstruction
   server}.
 \newblock \emph{Nucleic Acids Research}, 35\penalty0 (Web Server):\penalty0
@@ -1020,7 +992,7 @@ Yuki Moriya, Masumi Itoh, Shujiro Okuda, Akiyasu~C Yoshizawa, and Minoru
 \newblock \doi{10.1093/nar/gkm321}.
 
 \bibitem[Moseley et~al.(2006)Moseley, Chang, and Grossman]{Moseley2006}
-Jeffrey~L. Moseley, Chiung-Wen Chang, and Arthur~R. Grossman.
+Moseley, J.~L., Chang, C.-W., and Grossman, A.~R.
 \newblock {Genome-based approaches to understanding phosphorus deprivation
   responses and PSR1 control in \textit{Chlamydomonas reinhardtii}}.
 \newblock \emph{Eukaryotic Cell}, 5\penalty0 (1):\penalty0 26 --44, January
@@ -1029,8 +1001,8 @@ Jeffrey~L. Moseley, Chiung-Wen Chang, and Arthur~R. Grossman.
 
 \bibitem[Moustafa et~al.(2010)Moustafa, Evans, Kulis, Hackett, Erdner,
   Anderson, and Bhattacharya]{Moustafa2010}
-Ahmed Moustafa, Andrew~N. Evans, David~M. Kulis, Jeremiah~D. Hackett, Deana~L.
-  Erdner, Donald~M. Anderson, and Debashish Bhattacharya.
+Moustafa, A., Evans, A.~N., Kulis, D.~M., Hackett, J.~D., Erdner, D.~L.,
+  Anderson, D.~M., and Bhattacharya, D.
 \newblock {Transcriptome profiling of a toxic dinoflagellate reveals a
   gene-rich protist and a potential impact on gene expression due to bacterial
   presence.}
@@ -1039,16 +1011,15 @@ Ahmed Moustafa, Andrew~N. Evans, David~M. Kulis, Jeremiah~D. Hackett, Deana~L.
 
 \bibitem[Naeem et~al.(1994)Naeem, Thompson, Lawler, Lawton, and
   Woodfin]{Naeem1994}
-Shahid Naeem, Lindsey~J. Thompson, Sharon~P. Lawler, John~H. Lawton, and
-  Richard~M. Woodfin.
+Naeem, S., Thompson, L.~J., Lawler, S.~P., Lawton, J.~H., and Woodfin, R.~M.
 \newblock {Declining biodiversity can alter the performance of ecosystems}.
 \newblock \emph{Nature}, 368\penalty0 (6473):\penalty0 734--737, April 1994.
 \newblock \doi{10.1038/368734a0}.
 
 \bibitem[Nelson et~al.(1995)Nelson, Tr\'{e}guer, Brzezinski, Leynaert, and
   Qu\'{e}guiner]{Nelson1995}
-David~M. Nelson, Paul Tr\'{e}guer, Mark~A. Brzezinski, Aude Leynaert, and
-  Bernard Qu\'{e}guiner.
+Nelson, D.~M., Tr\'{e}guer, P., Brzezinski, M.~A., Leynaert, A., and
+  Qu\'{e}guiner, B.
 \newblock {Production and dissolution of biogenic silica in the ocean: Revised
   global estimates, comparison with regional data and relationship to biogenic
   sedimentation}.
@@ -1057,8 +1028,7 @@ David~M. Nelson, Paul Tr\'{e}guer, Mark~A. Brzezinski, Aude Leynaert, and
 \newblock \doi{10.1029/95GB01070}.
 
 \bibitem[Nicot et~al.(2005)Nicot, Hausman, Hoffmann, and Evers]{Nicot2005}
-Nathalie Nicot, Jean-Fran\c{c}ois Hausman, Lucien Hoffmann, and Dani\`{e}le
-  Evers.
+Nicot, N., Hausman, J.-F., Hoffmann, L., and Evers, D.
 \newblock {Housekeeping gene selection for real-time RT-PCR normalization in
   potato during biotic and abiotic stress}.
 \newblock \emph{Journal of Experimental Botany}, 56\penalty0 (421):\penalty0
@@ -1066,14 +1036,14 @@ Nathalie Nicot, Jean-Fran\c{c}ois Hausman, Lucien Hoffmann, and Dani\`{e}le
 \newblock \doi{10.1093/jxb/eri285}.
 
 \bibitem[Nielsen(1960)]{Nielsen1960}
-E~S Nielsen.
+Nielsen, E.~S.
 \newblock {Productivity of the Oceans}.
 \newblock \emph{Annual Review of Plant Physiology}, 11\penalty0 (1):\penalty0
   341--362, June 1960.
 \newblock \doi{10.1146/annurev.pp.11.060160.002013}.
 
 \bibitem[Nixon et~al.(1995)Nixon, Granger, and Nowicki]{Nixon1995}
-S.W. Nixon, S.L. Granger, and B.L. Nowicki.
+Nixon, S., Granger, S., and Nowicki, B.
 \newblock {An assessment of the annual mass balance of carbon, nitrogen, and
   phosphorus in Narragansett Bay}.
 \newblock \emph{Biogeochemistry}, 31\penalty0 (1):\penalty0 15--61, October
@@ -1081,14 +1051,14 @@ S.W. Nixon, S.L. Granger, and B.L. Nowicki.
 \newblock \doi{10.1007/BF00000805}.
 
 \bibitem[North and Stephens(1972)]{North1972}
-Barbara~B. North and Grover~C. Stephens.
+North, B.~B. and Stephens, G.~C.
 \newblock {Amino acid transport in \textit{Nitzschia ovalis arnott}}.
 \newblock \emph{Journal of Phycology}, 8\penalty0 (1):\penalty0 64--68, March
   1972.
 \newblock \doi{10.1111/j.1529-8817.1972.tb04003.x}.
 
 \bibitem[Ogawa et~al.(2000)Ogawa, DeRisi, and Brown]{Ogawa2000}
-N.~Ogawa, J.~DeRisi, and P.~O. Brown.
+Ogawa, N., DeRisi, J., and Brown, P.~O.
 \newblock {New components of a system for phosphate accumulation and
   polyphosphate metabolism in \textit{Saccharomyces cerevisiae} revealed by
   genomic expression analysis}.
@@ -1098,8 +1068,8 @@ N.~Ogawa, J.~DeRisi, and P.~O. Brown.
 
 \bibitem[Ottesen et~al.(2011)Ottesen, Marin, Preston, Young, Ryan, Scholin, and
   DeLong]{Ottesen2011}
-Elizabeth~A Ottesen, Roman Marin, Christina~M Preston, Curtis~R Young, John~P
-  Ryan, Christopher~A Scholin, and Edward~F DeLong.
+Ottesen, E.~A., Marin, R., Preston, C.~M., Young, C.~R., Ryan, J.~P., Scholin,
+  C.~A., and DeLong, E.~F.
 \newblock {Metatranscriptomic analysis of autonomously collected and preserved
   marine bacterioplankton.}
 \newblock \emph{The ISME journal}, 5\penalty0 (12):\penalty0 1881--95, December
@@ -1108,8 +1078,8 @@ Elizabeth~A Ottesen, Roman Marin, Christina~M Preston, Curtis~R Young, John~P
 
 \bibitem[Ottesen et~al.(2014)Ottesen, Young, Gifford, Eppley, Marin, Schuster,
   Scholin, and DeLong]{Ottesen2014}
-Elizabeth~A. Ottesen, Curtis~R. Young, Scott~M. Gifford, John~M. Eppley, Roman
-  Marin, Stephan~C. Schuster, Christopher~A. Scholin, and Edward~F. DeLong.
+Ottesen, E.~A., Young, C.~R., Gifford, S.~M., Eppley, J.~M., Marin, R.,
+  Schuster, S.~C., Scholin, C.~A., and DeLong, E.~F.
 \newblock {Multispecies diel transcriptional oscillations in open ocean
   heterotrophic bacterial assemblages.}
 \newblock \emph{Science (New York, N.Y.)}, 345\penalty0 (6193):\penalty0
@@ -1117,14 +1087,14 @@ Elizabeth~A. Ottesen, Curtis~R. Young, Scott~M. Gifford, John~M. Eppley, Roman
 \newblock \doi{10.1126/science.1252476}.
 
 \bibitem[Oviatt et~al.(1981)Oviatt, Buckley, and Nixon]{Oviatt1981}
-Candace Oviatt, Betty Buckley, and Scott Nixon.
+Oviatt, C., Buckley, B., and Nixon, S.
 \newblock {Annual phytoplankton metabolism in Narragansett Bay calculated from
   survey field measurements and microcosm observations}.
 \newblock \emph{Estuaries}, 4\penalty0 (3):\penalty0 167, September 1981.
 \newblock \doi{10.2307/1351472}.
 
 \bibitem[Palenik and Henson(1997)]{Palenik1997}
-Brian~P Palenik and Sarah~E. Henson.
+Palenik, B.~P. and Henson, S.~E.
 \newblock {The use of amides and other organic nitrogen sources by the
   phytoplankton \textit{Emiliania huxleyi}}.
 \newblock \emph{Limnology and Oceanography}, 42\penalty0 (7):\penalty0
@@ -1132,14 +1102,14 @@ Brian~P Palenik and Sarah~E. Henson.
 \newblock \doi{10.4319/lo.1997.42.7.1544}.
 
 \bibitem[Park et~al.(2008)Park, McGinn, and Morel]{Park2008}
-Haewon Park, Patrick~J. McGinn, and Franois M.~M. Morel.
+Park, H., McGinn, P.~J., and Morel, F. M.~M.
 \newblock {Expression of cadmium carbonic anhydrase of diatoms in seawater}.
 \newblock \emph{Aquatic Microbial Ecology}, 51\penalty0 (2):\penalty0 183--193,
   May 2008.
 \newblock \doi{10.3354/ame01192}.
 
 \bibitem[Parsons et~al.(1984)Parsons, Yoshiaki, and Lalli]{Parsons1984}
-T~R Parsons, Maita Yoshiaki, and Carol~M Lalli.
+Parsons, T.~R., Yoshiaki, M., and Lalli, C.~M.
 \newblock \emph{{A Manual of Chemical \& Biological Methods for Seawater
   Analysis}}.
 \newblock Pergamon Press, Oxford, 1984.
@@ -1147,9 +1117,8 @@ T~R Parsons, Maita Yoshiaki, and Carol~M Lalli.
 
 \bibitem[Pearson et~al.(2015)Pearson, Lago-Leston, C\'{a}novas, Cox, Verret,
   Lasternas, Duarte, Agusti, and Serr\~{a}o]{Pearson2015}
-Gareth~A Pearson, Asuncion Lago-Leston, Fernando C\'{a}novas, Cymon~J Cox,
-  Frederic Verret, Sebastian Lasternas, Carlos~M Duarte, Susana Agusti, and
-  Ester~A Serr\~{a}o.
+Pearson, G.~A., Lago-Leston, A., C\'{a}novas, F., Cox, C.~J., Verret, F.,
+  Lasternas, S., Duarte, C.~M., Agusti, S., and Serr\~{a}o, E.~A.
 \newblock {Metatranscriptomes reveal functional variation in diatom communities
   from the Antarctic Peninsula}.
 \newblock \emph{The ISME Journal}, 9\penalty0 (10):\penalty0 2275--2289,
@@ -1157,7 +1126,7 @@ Gareth~A Pearson, Asuncion Lago-Leston, Fernando C\'{a}novas, Cymon~J Cox,
 \newblock \doi{10.1038/ismej.2015.40}.
 
 \bibitem[Pfaffl(2001)]{Pfaffl2001}
-Michael~W. Pfaffl.
+Pfaffl, M.~W.
 \newblock {A new mathematical model for relative quantification in real-time
   RT–PCR}.
 \newblock \emph{Nucleic Acids Research}, 29\penalty0 (9):\penalty0 e45, May
@@ -1165,7 +1134,7 @@ Michael~W. Pfaffl.
 
 \bibitem[Pfaffl et~al.(2004)Pfaffl, Tichopad, Prgomet, and
   Neuvians]{Pfaffl2004}
-Michael~W. Pfaffl, Ales Tichopad, Christian Prgomet, and Tanja~P. Neuvians.
+Pfaffl, M.~W., Tichopad, A., Prgomet, C., and Neuvians, T.~P.
 \newblock {Determination of stable housekeeping genes, differentially regulated
   target genes and sample integrity: BestKeeper – Excel-based tool using
   pair-wise correlations}.
@@ -1174,7 +1143,7 @@ Michael~W. Pfaffl, Ales Tichopad, Christian Prgomet, and Tanja~P. Neuvians.
 \newblock \doi{10.1023/B:BILE.0000019559.84305.47}.
 
 \bibitem[Poretsky et~al.(2010)Poretsky, Sun, Mou, and Moran]{Poretsky2010}
-Rachel~S Poretsky, Shulei Sun, Xiaozhen Mou, and Mary~Ann Moran.
+Poretsky, R.~S., Sun, S., Mou, X., and Moran, M.~A.
 \newblock {Transporter genes expressed by coastal bacterioplankton in response
   to dissolved organic carbon}.
 \newblock \emph{Environmental Microbiology}, 12\penalty0 (3):\penalty0
@@ -1183,8 +1152,8 @@ Rachel~S Poretsky, Shulei Sun, Xiaozhen Mou, and Mary~Ann Moran.
 
 \bibitem[Ptacnik et~al.(2008)Ptacnik, Solimini, Andersen, Tamminen, Brettum,
   Lepist\"{o}, Will\'{e}n, and Rekolainen]{Ptacnik2008}
-Robert Ptacnik, Angelo~G Solimini, Tom Andersen, Timo Tamminen, P\aa~l Brettum,
-  Liisa Lepist\"{o}, Eva Will\'{e}n, and Seppo Rekolainen.
+Ptacnik, R., Solimini, A.~G., Andersen, T., Tamminen, T., Brettum, P.~l.,
+  Lepist\"{o}, L., Will\'{e}n, E., and Rekolainen, S.
 \newblock {Diversity predicts stability and resource use efficiency in natural
   phytoplankton communities.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -1192,7 +1161,7 @@ Robert Ptacnik, Angelo~G Solimini, Tom Andersen, Timo Tamminen, P\aa~l Brettum,
 \newblock \doi{10.1073/pnas.0708328105}.
 
 \bibitem[Quackenbush(2001)]{Quackenbush2001}
-John Quackenbush.
+Quackenbush, J.
 \newblock {Computational analysis of microarray data}.
 \newblock \emph{Nature Reviews Genetics}, 2\penalty0 (6):\penalty0 418--427,
   June 2001.
@@ -1200,8 +1169,7 @@ John Quackenbush.
 
 \bibitem[Radonic et~al.(2004)Radonic, Thulke, Mackay, Landt, Siegert, and
   Nitsche]{Radonic2004}
-Aleksandar Radonic, Stefanie Thulke, Ian~M Mackay, Olfert Landt, Wolfgang
-  Siegert, and Andreas Nitsche.
+Radonic, A., Thulke, S., Mackay, I.~M., Landt, O., Siegert, W., and Nitsche, A.
 \newblock {Guideline to reference gene selection for quantitative real-time
   PCR}.
 \newblock \emph{Biochemical and Biophysical Research Communications},
@@ -1213,15 +1181,13 @@ Aleksandar Radonic, Stefanie Thulke, Ian~M Mackay, Olfert Landt, Wolfgang
   Herman, Lin, Napier, Ogata, Sarno, Shmutz, Schroeder, de~Vargas, Verret, von
   Dassow, Valentin, {Van de Peer}, Wheeler, Dacks, Delwiche, Dyhrman,
   Gl\"{o}ckner, John, Richards, Worden, Zhang, and Grigoriev]{Read2013}
-Betsy~A Read, Jessica Kegel, Mary~J Klute, Alan Kuo, Stephane~C Lefebvre,
-  Florian Maumus, Christoph Mayer, John Miller, Adam Monier, Asaf Salamov,
-  Jeremy Young, Maria Aguilar, Jean-Michel Claverie, Stephan Frickenhaus,
-  Karina Gonzalez, Emily~K Herman, Yao-Cheng Lin, Johnathan Napier, Hiroyuki
-  Ogata, Analissa~F Sarno, Jeremy Shmutz, Declan Schroeder, Colomban de~Vargas,
-  Frederic Verret, Peter von Dassow, Klaus Valentin, Yves {Van de Peer}, Glen
-  Wheeler, Joel~B Dacks, Charles~F Delwiche, Sonya~T Dyhrman, Gernot
-  Gl\"{o}ckner, Uwe John, Thomas Richards, Alexandra~Z Worden, Xiaoyu Zhang,
-  and Igor~V Grigoriev.
+Read, B.~A., Kegel, J., Klute, M.~J., Kuo, A., Lefebvre, S.~C., Maumus, F.,
+  Mayer, C., Miller, J., Monier, A., Salamov, A., Young, J., Aguilar, M.,
+  Claverie, J.-M., Frickenhaus, S., Gonzalez, K., Herman, E.~K., Lin, Y.-C.,
+  Napier, J., Ogata, H., Sarno, A.~F., Shmutz, J., Schroeder, D., de~Vargas,
+  C., Verret, F., von Dassow, P., Valentin, K., {Van de Peer}, Y., Wheeler, G.,
+  Dacks, J.~B., Delwiche, C.~F., Dyhrman, S.~T., Gl\"{o}ckner, G., John, U.,
+  Richards, T., Worden, A.~Z., Zhang, X., and Grigoriev, I.~V.
 \newblock {Pan genome of the phytoplankton \textit{Emiliania} underpins its
   global distribution.}
 \newblock \emph{Nature}, 499\penalty0 (7457):\penalty0 209--13, July 2013.
@@ -1229,7 +1195,7 @@ Betsy~A Read, Jessica Kegel, Mary~J Klute, Alan Kuo, Stephane~C Lefebvre,
 
 \bibitem[Richerson et~al.(1970)Richerson, Armstrong, and
   Goldman]{Richerson1970}
-P.~Richerson, R.~Armstrong, and C.~R. Goldman.
+Richerson, P., Armstrong, R., and Goldman, C.~R.
 \newblock {Contemporaneous Disequilibrium, a New Hypothesis to Explain the
   "Paradox of the Plankton"}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -1238,18 +1204,17 @@ P.~Richerson, R.~Armstrong, and C.~R. Goldman.
 
 \bibitem[Richier et~al.(2010)Richier, Fiorini, Kerros, von Dassow, and
   Gattuso]{Richier2010}
-Sophie Richier, Sarah Fiorini, Marie-Emmanuelle Kerros, Peter von Dassow, and
-  Jean-Pierre Gattuso.
-\newblock {Response of the calcifying coccolithophore Emiliania huxleyi to low
-  pH/high pCO2: from physiology to molecular level}.
+Richier, S., Fiorini, S., Kerros, M.-E., von Dassow, P., and Gattuso, J.-P.
+\newblock {Response of the calcifying coccolithophore \textit{Emiliania
+  huxleyi} to low pH/high pCO2: from physiology to molecular level}.
 \newblock \emph{Marine Biology}, 158\penalty0 (3):\penalty0 551--560, November
   2010.
 \newblock \doi{10.1007/s00227-010-1580-8}.
 
 \bibitem[Rinta-Kanto et~al.(2012)Rinta-Kanto, Sun, Sharma, Kiene, Moran, and
   Rinta‐Kanto]{Rinta-Kanto2012a}
-Johanna~M Rinta-Kanto, Shulei Sun, Shalabh Sharma, Ronald~P Kiene, Mary~Ann
-  Moran, and Johanna~M Rinta‐Kanto.
+Rinta-Kanto, J.~M., Sun, S., Sharma, S., Kiene, R.~P., Moran, M.~A., and
+  Rinta‐Kanto, J.~M.
 \newblock {Bacterial community transcription patterns during a marine
   phytoplankton bloom.}
 \newblock \emph{Environmental microbiology}, 14\penalty0 (1):\penalty0 228--39,
@@ -1258,8 +1223,7 @@ Johanna~M Rinta-Kanto, Shulei Sun, Shalabh Sharma, Ronald~P Kiene, Mary~Ann
 
 \bibitem[Rosic et~al.(2010{\natexlab{a}})Rosic, Pernice, Dove, Dunn, and
   Hoegh-Guldberg]{Rosic2010a}
-Nedeljka~N. Rosic, Mathieu Pernice, Sophie Dove, Simon Dunn, and Ove
-  Hoegh-Guldberg.
+Rosic, N.~N., Pernice, M., Dove, S., Dunn, S., and Hoegh-Guldberg, O.
 \newblock {Gene expression profiles of cytosolic heat shock proteins Hsp70 and
   Hsp90 from symbiotic dinoflagellates in response to thermal stress: possible
   implications for coral bleaching}.
@@ -1269,8 +1233,7 @@ Nedeljka~N. Rosic, Mathieu Pernice, Sophie Dove, Simon Dunn, and Ove
 
 \bibitem[Rosic et~al.(2010{\natexlab{b}})Rosic, Pernice, Rodriguez-Lanetty, and
   Hoegh-Guldberg]{Rosic2010}
-Nedeljka~N. Rosic, Mathieu Pernice, Mauricio Rodriguez-Lanetty, and Ove
-  Hoegh-Guldberg.
+Rosic, N.~N., Pernice, M., Rodriguez-Lanetty, M., and Hoegh-Guldberg, O.
 \newblock {Validation of housekeeping genes for gene expression studies in
   \textit{Symbiodinium} exposed to thermal and light stress}.
 \newblock \emph{Marine Biotechnology}, 13\penalty0 (3):\penalty0 355--365, July
@@ -1278,7 +1241,7 @@ Nedeljka~N. Rosic, Mathieu Pernice, Mauricio Rodriguez-Lanetty, and Ove
 \newblock \doi{10.1007/s10126-010-9308-9}.
 
 \bibitem[Roy and Chattopadhyay(2007)]{Roy2007}
-Shovonlal Roy and J.~Chattopadhyay.
+Roy, S. and Chattopadhyay, J.
 \newblock {Towards a resolution of ‘the paradox of the plankton’: A brief
   overview of the proposed mechanisms}.
 \newblock \emph{Ecological Complexity}, 4\penalty0 (1-2):\penalty0 26--33,
@@ -1289,10 +1252,10 @@ Shovonlal Roy and J.~Chattopadhyay.
   Braisted, Klapa, Currier, Thiagarajan, Sturn, Snuffin, Rezantsev, Popov,
   Ryltsov, Kostukovich, Borisovsky, Liu, Vinsavich, Trush, and
   Quackenbush]{Saeed2003}
-A~I Saeed, V~Sharov, J~White, J~Li, W~Liang, N~Bhagabati, J~Braisted, M~Klapa,
-  T~Currier, M~Thiagarajan, A~Sturn, M~Snuffin, A~Rezantsev, D~Popov,
-  A~Ryltsov, E~Kostukovich, I~Borisovsky, Z~Liu, A~Vinsavich, V~Trush, and
-  J~Quackenbush.
+Saeed, A.~I., Sharov, V., White, J., Li, J., Liang, W., Bhagabati, N.,
+  Braisted, J., Klapa, M., Currier, T., Thiagarajan, M., Sturn, A., Snuffin,
+  M., Rezantsev, A., Popov, D., Ryltsov, A., Kostukovich, E., Borisovsky, I.,
+  Liu, Z., Vinsavich, A., Trush, V., and Quackenbush, J.
 \newblock {TM4: a free, open-source system for microarray data management and
   analysis}.
 \newblock \emph{BioTechniques}, 34\penalty0 (2):\penalty0 374--378, February
@@ -1300,15 +1263,14 @@ A~I Saeed, V~Sharov, J~White, J~Li, W~Liang, N~Bhagabati, J~Braisted, M~Klapa,
 
 \bibitem[Saeed et~al.(2006)Saeed, Bhagabati, Braisted, Liang, Sharov, Howe, Li,
   Thiagarajan, White, and Quackenbush]{Saeed2006}
-Alexander~I Saeed, Nirmal~K Bhagabati, John~C Braisted, Wei Liang, Vasily
-  Sharov, Eleanor~A Howe, Jianwei Li, Mathangi Thiagarajan, Joseph~A White, and
-  John Quackenbush.
+Saeed, A.~I., Bhagabati, N.~K., Braisted, J.~C., Liang, W., Sharov, V., Howe,
+  E.~A., Li, J., Thiagarajan, M., White, J.~A., and Quackenbush, J.
 \newblock {TM4 microarray software suite}.
 \newblock \emph{Methods in Enzymology}, 411:\penalty0 134--193, 2006.
 \newblock \doi{10.1016/S0076-6879(06)11009-5}.
 
 \bibitem[Saito et~al.(2008)Saito, Goepfert, and Ritt]{Saito2008}
-Mak~A. Saito, Tyler~J. Goepfert, and Jason~T. Ritt.
+Saito, M.~A., Goepfert, T.~J., and Ritt, J.~T.
 \newblock {Some thoughts on the concept of colimitation: Three definitions and
   the importance of bioavailability}.
 \newblock \emph{Limnology and Oceanography}, 53\penalty0 (1):\penalty0
@@ -1317,8 +1279,8 @@ Mak~A. Saito, Tyler~J. Goepfert, and Jason~T. Ritt.
 
 \bibitem[Saito et~al.(2014)Saito, McIlvin, Moran, Goepfert, DiTullio, Post, and
   Lamborg]{Saito2014}
-Mak~A Saito, Matthew~R McIlvin, Dawn~M Moran, Tyler~J Goepfert, Giacomo~R.
-  DiTullio, Anton~F. Post, and Carl~H Lamborg.
+Saito, M.~A., McIlvin, M.~R., Moran, D.~M., Goepfert, T.~J., DiTullio, G.~R.,
+  Post, A.~F., and Lamborg, C.~H.
 \newblock {Multiple nutrient stresses at intersecting Pacific Ocean biomes
   detected by protein biomarkers.}
 \newblock \emph{Science (New York, N.Y.)}, 345\penalty0 (6201):\penalty0
@@ -1327,15 +1289,15 @@ Mak~A Saito, Matthew~R McIlvin, Dawn~M Moran, Tyler~J Goepfert, Giacomo~R.
 
 \bibitem[Saito et~al.(2012)Saito, Smoot, Ono, Ruscheinski, Wang, Lotia, Pico,
   Bader, and Ideker]{Saito2012}
-Rintaro Saito, Michael~E Smoot, Keiichiro Ono, Johannes Ruscheinski, Peng-Liang
-  Wang, Samad Lotia, Alexander~R Pico, Gary~D Bader, and Trey Ideker.
+Saito, R., Smoot, M.~E., Ono, K., Ruscheinski, J., Wang, P.-L., Lotia, S.,
+  Pico, A.~R., Bader, G.~D., and Ideker, T.
 \newblock {A travel guide to Cytoscape plugins.}
 \newblock \emph{Nature methods}, 9\penalty0 (11):\penalty0 1069--76, November
   2012.
 \newblock \doi{10.1038/nmeth.2212}.
 
 \bibitem[Sakshaug(1977)]{Sakshaug1977}
-Egil Sakshaug.
+Sakshaug, E.
 \newblock {Limiting nutrients and maximum growth rates for diatoms in
   Narragansett Bay}.
 \newblock \emph{Journal of Experimental Marine Biology and Ecology},
@@ -1344,24 +1306,23 @@ Egil Sakshaug.
 
 \bibitem[Sarno et~al.(2005)Sarno, Kooistra, Medlin, Percopo, and
   Zingone]{Sarno2005}
-Diana Sarno, Wiebe H. C.~F. Kooistra, Linda~K. Medlin, Isabella Percopo, and
-  Adriana Zingone.
-\newblock {Diversity in the genus Skeletonema (Bacillariophyceae). II. An
-  assessment of the taxonomy of \textit{S. costatum}-like species with the
+Sarno, D., Kooistra, W. H. C.~F., Medlin, L.~K., Percopo, I., and Zingone, A.
+\newblock {Diversity in the genus \textit{Skeletonema} (Bacillariophyceae). II.
+  An assessment of the taxonomy of S. costatum-like species with the
   description of four new species.}
 \newblock \emph{Journal of Phycology}, 41\penalty0 (1):\penalty0 151--176,
   February 2005.
 \newblock \doi{10.1111/j.1529-8817.2005.04067.x}.
 
 \bibitem[Schmittgen and Livak(2008)]{Schmittgen2008}
-Thomas~D Schmittgen and Kenneth~J Livak.
+Schmittgen, T.~D. and Livak, K.~J.
 \newblock {Analyzing real-time PCR data by the comparative CT method}.
 \newblock \emph{Nature Protocols}, 3\penalty0 (6):\penalty0 1101--1108, June
   2008.
 \newblock \doi{10.1038/nprot.2008.73}.
 
 \bibitem[Serra et~al.(1978)Serra, Llama, and Cadenas]{Serra1978}
-J.~L. Serra, M.~J. Llama, and E.~Cadenas.
+Serra, J.~L., Llama, M.~J., and Cadenas, E.
 \newblock {Nitrate utilization by the diatom \textit{Skeletonema costatum}: II.
   Regulation of nitrate uptake}.
 \newblock \emph{Plant physiology}, 62\penalty0 (6):\penalty0 991--994, December
@@ -1369,7 +1330,7 @@ J.~L. Serra, M.~J. Llama, and E.~Cadenas.
 \newblock \doi{10.1104/pp.62.6.991}.
 
 \bibitem[Shi et~al.(2011)Shi, Tyson, Eppley, and DeLong]{Shi2011}
-Yanmei Shi, Gene~W Tyson, John~M Eppley, and Edward~F DeLong.
+Shi, Y., Tyson, G.~W., Eppley, J.~M., and DeLong, E.~F.
 \newblock {Integrated metatranscriptomic and metagenomic analyses of stratified
   microbial assemblages in the open ocean.}
 \newblock \emph{The ISME journal}, 5\penalty0 (6):\penalty0 999--1013, July
@@ -1377,7 +1338,7 @@ Yanmei Shi, Gene~W Tyson, John~M Eppley, and Edward~F DeLong.
 \newblock \doi{10.1038/ismej.2010.189}.
 
 \bibitem[Shi et~al.(2012)Shi, McCarren, and DeLong]{Shi2012}
-Yanmei Shi, Jay McCarren, and Edward~F. DeLong.
+Shi, Y., McCarren, J., and DeLong, E.~F.
 \newblock {Transcriptional responses of surface water marine microbial
   assemblages to deep-sea water amendment.}
 \newblock \emph{Environmental microbiology}, 14\penalty0 (1):\penalty0
@@ -1386,8 +1347,8 @@ Yanmei Shi, Jay McCarren, and Edward~F. DeLong.
 
 \bibitem[Shrestha et~al.(2012)Shrestha, Tesson, Norden-Krichmar, Federowicz,
   Hildebrand, and Allen]{Shrestha2012}
-Roshan~Prakash Shrestha, Benoit Tesson, Trina Norden-Krichmar, Stephen
-  Federowicz, Mark Hildebrand, and Andrew~E Allen.
+Shrestha, R.~P., Tesson, B., Norden-Krichmar, T., Federowicz, S., Hildebrand,
+  M., and Allen, A.~E.
 \newblock {Whole transcriptome analysis of the silicon response of the diatom
   \textit{Thalassiosira pseudonana}.}
 \newblock \emph{BMC genomics}, 13\penalty0 (1):\penalty0 499, January 2012.
@@ -1395,8 +1356,8 @@ Roshan~Prakash Shrestha, Benoit Tesson, Trina Norden-Krichmar, Stephen
 
 \bibitem[Siaut et~al.(2007)Siaut, Heijde, Mangogna, Montsant, Coesel, Allen,
   Manfredonia, Falciatore, and Bowler]{Siaut2007}
-Magali Siaut, Marc Heijde, Manuela Mangogna, Anton Montsant, Sacha Coesel,
-  Andrew Allen, Alessandro Manfredonia, Angela Falciatore, and Chris Bowler.
+Siaut, M., Heijde, M., Mangogna, M., Montsant, A., Coesel, S., Allen, A.,
+  Manfredonia, A., Falciatore, A., and Bowler, C.
 \newblock {Molecular toolbox for studying diatom biology in
   \textit{Phaeodactylum tricornutum}}.
 \newblock \emph{Gene}, 406\penalty0 (1-2):\penalty0 23--35, December 2007.
@@ -1404,9 +1365,8 @@ Magali Siaut, Marc Heijde, Manuela Mangogna, Anton Montsant, Sacha Coesel,
 
 \bibitem[Silver et~al.(2010)Silver, Bargu, Coale, Benitez-Nelson, Garcia,
   Roberts, Sekula-Wood, Bruland, and Coale]{Silver2010}
-Mary~W Silver, Sibel Bargu, Susan~L Coale, Claudia~R Benitez-Nelson, Ana~C
-  Garcia, Kathryn~J Roberts, Emily Sekula-Wood, Kenneth~W Bruland, and
-  Kenneth~H Coale.
+Silver, M.~W., Bargu, S., Coale, S.~L., Benitez-Nelson, C.~R., Garcia, A.~C.,
+  Roberts, K.~J., Sekula-Wood, E., Bruland, K.~W., and Coale, K.~H.
 \newblock {Toxic diatoms and domoic acid in natural and iron enriched waters of
   the oceanic Pacific.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
@@ -1414,7 +1374,7 @@ Mary~W Silver, Sibel Bargu, Susan~L Coale, Claudia~R Benitez-Nelson, Ana~C
 \newblock \doi{10.1073/pnas.1006968107}.
 
 \bibitem[Smayda(1974)]{Smayda1974}
-Theodore~J. Smayda.
+Smayda, T.~J.
 \newblock {Bioassay of the growth potential of the surface water of lower
   Narragansett Bay over an annual cycle using the diatom \textit{Thalassiosira
   pseudonana}}.
@@ -1422,7 +1382,7 @@ Theodore~J. Smayda.
   889--901, November 1974.
 
 \bibitem[Smayda(2011)]{Smayda2011}
-Theodore~J Smayda.
+Smayda, T.~J.
 \newblock {Cryptic planktonic diatom challenges phytoplankton ecologists}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 108\penalty0 (11):\penalty0 4269--70, March 2011.
@@ -1430,8 +1390,7 @@ Theodore~J Smayda.
 
 \bibitem[Smoot et~al.(2011)Smoot, Ono, Ruscheinski, Wang, and
   Ideker]{Smoot2011}
-Michael~E Smoot, Keiichiro Ono, Johannes Ruscheinski, Peng-Liang Wang, and Trey
-  Ideker.
+Smoot, M.~E., Ono, K., Ruscheinski, J., Wang, P.-L., and Ideker, T.
 \newblock {Cytoscape 2.8: new features for data integration and network
   visualization.}
 \newblock \emph{Bioinformatics (Oxford, England)}, 27\penalty0 (3):\penalty0
@@ -1439,14 +1398,14 @@ Michael~E Smoot, Keiichiro Ono, Johannes Ruscheinski, Peng-Liang Wang, and Trey
 \newblock \doi{10.1093/bioinformatics/btq675}.
 
 \bibitem[Sommer(1983)]{Sommer1983}
-U~Sommer.
+Sommer, U.
 \newblock {Nutrient competition between phytoplankton species in multispecies
   chemostat experiments}.
 \newblock \emph{Archiv f\"{u}r hydrobiologie}, 96\penalty0 (4):\penalty0
   399--416, 1983.
 
 \bibitem[Sommer(1985)]{Sommer1985}
-ULRICH Sommer.
+Sommer, U.
 \newblock {Comparison between steady state and non-steady state competition:
   Experiments with natural phytoplankton}.
 \newblock \emph{Limnology and Oceanography}, 30\penalty0 (2):\penalty0
@@ -1455,15 +1414,14 @@ ULRICH Sommer.
 
 \bibitem[Sournia et~al.(1991)Sournia, Chrdtiennot-Dinet, and
   Ricard]{Sournia1991}
-A.~Sournia, M.-J. Chrdtiennot-Dinet, and M.~Ricard.
+Sournia, A., Chrdtiennot-Dinet, M.-J., and Ricard, M.
 \newblock {Marine phytoplankton: how many species in the world ocean?}
 \newblock \emph{Journal of Plankton Research}, 13\penalty0 (5):\penalty0
   1093--1099, January 1991.
 \newblock \doi{10.1093/plankt/13.5.1093}.
 
 \bibitem[Steiner et~al.(2005)Steiner, Long, Krumins, and Morin]{Steiner2005}
-Christopher~F. Steiner, Zachary~T. Long, Jennifer~A. Krumins, and Peter~J.
-  Morin.
+Steiner, C.~F., Long, Z.~T., Krumins, J.~A., and Morin, P.~J.
 \newblock {Temporal stability of aquatic food webs: partitioning the effects of
   species diversity, species composition and enrichment}.
 \newblock \emph{Ecology Letters}, 8\penalty0 (8):\penalty0 819--828, August
@@ -1471,14 +1429,14 @@ Christopher~F. Steiner, Zachary~T. Long, Jennifer~A. Krumins, and Peter~J.
 \newblock \doi{10.1111/j.1461-0248.2005.00785.x}.
 
 \bibitem[Strickland(1965)]{Strickland1965}
-J~D Strickland.
+Strickland, J.~D.
 \newblock {Phytoplankton and marine primary production.}
 \newblock \emph{Annual review of microbiology}, 19:\penalty0 127--62, January
   1965.
 \newblock \doi{10.1146/annurev.mi.19.100165.001015}.
 
 \bibitem[Striebel et~al.(2009)Striebel, Behl, and Stibor]{Striebel2009}
-Maren Striebel, Stephan Behl, and Herwig Stibor.
+Striebel, M., Behl, S., and Stibor, H.
 \newblock {The coupling of biodiversity and productivity in phytoplankton
   communities: consequences for biomass stoichiometry}.
 \newblock \emph{Ecology}, 90\penalty0 (8):\penalty0 2025--2031, August 2009.
@@ -1486,8 +1444,7 @@ Maren Striebel, Stephan Behl, and Herwig Stibor.
 
 \bibitem[Stuart et~al.(2009)Stuart, Dupont, Johnson, Paulsen, and
   Palenik]{Stuart2009}
-Rhona~K. Stuart, Chris~L. Dupont, D.~Aaron Johnson, Ian~T. Paulsen, and Brian
-  Palenik.
+Stuart, R.~K., Dupont, C.~L., Johnson, D.~A., Paulsen, I.~T., and Palenik, B.
 \newblock {Coastal strains of marine \textit{Synechococcus} species exhibit
   increased tolerance to copper shock and a distinctive transcriptional
   response relative to those of open-ocean strains}.
@@ -1497,15 +1454,14 @@ Rhona~K. Stuart, Chris~L. Dupont, D.~Aaron Johnson, Ian~T. Paulsen, and Brian
 
 \bibitem[Tavazoie et~al.(1999)Tavazoie, Hughes, Campbell, Cho, and
   Church]{Tavazoie1999}
-Saeed Tavazoie, Jason~D. Hughes, Michael~J. Campbell, Raymond~J. Cho, and
-  George~M. Church.
+Tavazoie, S., Hughes, J.~D., Campbell, M.~J., Cho, R.~J., and Church, G.~M.
 \newblock {Systematic determination of genetic network architecture}.
 \newblock \emph{Nature Genetics}, 22\penalty0 (3):\penalty0 281--285, July
   1999.
 \newblock \doi{10.1038/10343}.
 
 \bibitem[Tett and Barton(1995)]{Tett1995}
-P~Tett and ED~Barton.
+Tett, P. and Barton, E.
 \newblock {Why are there about 5000 species of phytoplankton in the sea?}
 \newblock \emph{Journal of Plankton Research}, 17\penalty0 (8):\penalty0
   1693--1704, 1995.
@@ -1513,21 +1469,21 @@ P~Tett and ED~Barton.
 
 \bibitem[Tilman et~al.(2001)Tilman, Reich, Knops, Wedin, Mielke, and
   Lehman]{Tilman2001}
-D~Tilman, P~B Reich, J~Knops, D~Wedin, T~Mielke, and C~Lehman.
+Tilman, D., Reich, P.~B., Knops, J., Wedin, D., Mielke, T., and Lehman, C.
 \newblock {Diversity and productivity in a long-term grassland experiment.}
 \newblock \emph{Science (New York, N.Y.)}, 294\penalty0 (5543):\penalty0
   843--5, October 2001.
 \newblock \doi{10.1126/science.1060391}.
 
 \bibitem[Tilman(1977)]{Tilman1977}
-David Tilman.
+Tilman, D.
 \newblock {Resource competition between plankton algae: an experimental and
   theoretical approach}.
 \newblock \emph{Ecology}, 58\penalty0 (2):\penalty0 338--348, March 1977.
 \newblock \doi{10.2307/1935608}.
 
 \bibitem[Tilman et~al.(1996)Tilman, Wedin, and Knops]{Tilman1996}
-David Tilman, David Wedin, and Johannes Knops.
+Tilman, D., Wedin, D., and Knops, J.
 \newblock {Productivity and sustainability influenced by biodiversity in
   grassland ecosystems}.
 \newblock \emph{Nature}, 379\penalty0 (6567):\penalty0 718--720, February 1996.
@@ -1536,9 +1492,9 @@ David Tilman, David Wedin, and Johannes Knops.
 \bibitem[{Van Mooy} et~al.(2009){Van Mooy}, Fredricks, Pedler, Dyhrman, Karl,
   Kobl\'{\i}zek, Lomas, Mincer, Moore, Moutin, Rapp\'{e}, and
   Webb]{VanMooy2009}
-Benjamin A~S {Van Mooy}, Helen~F Fredricks, Byron~E Pedler, Sonya~T Dyhrman,
-  David~M Karl, Michal Kobl\'{\i}zek, Michael~W Lomas, Tracy~J Mincer, Lisa~R
-  Moore, Thierry Moutin, Michael~S Rapp\'{e}, and Eric~a Webb.
+{Van Mooy}, B. A.~S., Fredricks, H.~F., Pedler, B.~E., Dyhrman, S.~T., Karl,
+  D.~M., Kobl\'{\i}zek, M., Lomas, M.~W., Mincer, T.~J., Moore, L.~R., Moutin,
+  T., Rapp\'{e}, M.~S., and Webb, E.~a.
 \newblock {Phytoplankton in the ocean use non-phosphorus lipids in response to
   phosphorus scarcity.}
 \newblock \emph{Nature}, 458\penalty0 (7234):\penalty0 69--72, March 2009.
@@ -1546,8 +1502,8 @@ Benjamin A~S {Van Mooy}, Helen~F Fredricks, Byron~E Pedler, Sonya~T Dyhrman,
 
 \bibitem[Vandesompele et~al.(2002)Vandesompele, {De Preter}, Pattyn, Poppe,
   {Van Roy}, {De Paepe}, and Speleman]{Vandesompele2002}
-Jo~Vandesompele, Katleen {De Preter}, Filip Pattyn, Bruce Poppe, Nadine {Van
-  Roy}, Anne {De Paepe}, and Frank Speleman.
+Vandesompele, J., {De Preter}, K., Pattyn, F., Poppe, B., {Van Roy}, N., {De
+  Paepe}, A., and Speleman, F.
 \newblock {Accurate normalization of real-time quantitative RT-PCR data by
   geometric averaging of multiple internal control genes.}
 \newblock \emph{Genome biology}, 3\penalty0 (7):\penalty0 research0034, June
@@ -1561,19 +1517,16 @@ Jo~Vandesompele, Katleen {De Preter}, Filip Pattyn, Bruce Poppe, Nadine {Van
   Zingone, Dimier, Picheral, Searson, Kandels-Lewis, Acinas, Bork, Boss,
   de~Vargas, Gorsky, Ogata, Pesant, Sullivan, Sunagawa, Wincker, Karsenti,
   Bowler, Not, Hingamp, and Iudicone]{Villar2015}
-Emilie Villar, Gregory~K Farrant, Michael Follows, Laurence Garczarek, Sabrina
-  Speich, St\'{e}phane Audic, Lucie Bittner, Bruno Blanke, Jennifer~R Brum,
-  Christophe Brunet, Raffaella Casotti, Alison Chase, John~R Dolan, Fabrizio
-  D'Ortenzio, Jean-Pierre Gattuso, Nicolas Grima, Lionel Guidi, Christopher~N
-  Hill, Oliver Jahn, Jean-Louis Jamet, Herv\'{e} {Le Goff}, Cyrille Lepoivre,
-  Shruti Malviya, Eric Pelletier, Jean-baptiste Romagnan, Simon Roux,
-  S\'{e}bastien Santini, Eleonora Scalco, Sarah~M Schwenck, Atsuko Tanaka,
-  Pierre Testor, Thomas Vannier, Flora Vincent, Adriana Zingone, C\'{e}line
-  Dimier, Marc Picheral, Sarah Searson, Stefanie Kandels-Lewis, Silvia~G
-  Acinas, Peer Bork, Emmanuel Boss, Colomban de~Vargas, Gabriel Gorsky,
-  Hiroyuki Ogata, St\'{e}phane Pesant, Matthew~B Sullivan, Shinichi Sunagawa,
-  Patrick Wincker, Eric Karsenti, Chris Bowler, Fabrice Not, Pascal Hingamp,
-  and Daniele Iudicone.
+Villar, E., Farrant, G.~K., Follows, M., Garczarek, L., Speich, S., Audic, S.,
+  Bittner, L., Blanke, B., Brum, J.~R., Brunet, C., Casotti, R., Chase, A.,
+  Dolan, J.~R., D'Ortenzio, F., Gattuso, J.-P., Grima, N., Guidi, L., Hill,
+  C.~N., Jahn, O., Jamet, J.-L., {Le Goff}, H., Lepoivre, C., Malviya, S.,
+  Pelletier, E., Romagnan, J.-b., Roux, S., Santini, S., Scalco, E., Schwenck,
+  S.~M., Tanaka, A., Testor, P., Vannier, T., Vincent, F., Zingone, A., Dimier,
+  C., Picheral, M., Searson, S., Kandels-Lewis, S., Acinas, S.~G., Bork, P.,
+  Boss, E., de~Vargas, C., Gorsky, G., Ogata, H., Pesant, S., Sullivan, M.~B.,
+  Sunagawa, S., Wincker, P., Karsenti, E., Bowler, C., Not, F., Hingamp, P.,
+  and Iudicone, D.
 \newblock {Environmental characteristics of Agulhas rings affect interocean
   plankton transport.}
 \newblock \emph{Science (New York, N.Y.)}, 348\penalty0 (6237):\penalty0
@@ -1582,7 +1535,7 @@ Emilie Villar, Gregory~K Farrant, Michael Follows, Laurence Garczarek, Sabrina
 
 \bibitem[Villareal et~al.(2011)Villareal, Adornato, Wilson, and
   Schoenbaechler]{Villareal2011}
-Tracy~A. Villareal, Lori Adornato, Cara Wilson, and Caimee~A. Schoenbaechler.
+Villareal, T.~A., Adornato, L., Wilson, C., and Schoenbaechler, C.~A.
 \newblock {Summer blooms of diatom-diazotroph assemblages and surface
   chlorophyll in the North Pacific Gyre: a disconnect}.
 \newblock \emph{Journal of Geophysical Research}, 116\penalty0 (C3):\penalty0
@@ -1591,8 +1544,8 @@ Tracy~A. Villareal, Lori Adornato, Cara Wilson, and Caimee~A. Schoenbaechler.
 
 \bibitem[Villareal et~al.(2012)Villareal, Brown, Brzezinski, Krause, and
   Wilson]{Villareal2012}
-Tracy~A Villareal, Colbi~G Brown, Mark~A Brzezinski, Jeffrey~W Krause, and Cara
-  Wilson.
+Villareal, T.~A., Brown, C.~G., Brzezinski, M.~A., Krause, J.~W., and Wilson,
+  C.
 \newblock {Summer diatom blooms in the North Pacific Subtropical Gyre:
   2008-2009.}
 \newblock \emph{PloS one}, 7\penalty0 (4):\penalty0 e33109, January 2012.
@@ -1600,8 +1553,8 @@ Tracy~A Villareal, Colbi~G Brown, Mark~A Brzezinski, Jeffrey~W Krause, and Cara
 
 \bibitem[Whitney et~al.(2011)Whitney, Lins, Hughes, Wells, Chappell, and
   Jenkins]{Whitney2011a}
-LeAnn~P. Whitney, Jeremy~J. Lins, Margaret~P Hughes, Mark~L Wells, P.~Dreux
-  Chappell, and Bethany~D. Jenkins.
+Whitney, L.~P., Lins, J.~J., Hughes, M.~P., Wells, M.~L., Chappell, P.~D., and
+  Jenkins, B.~D.
 \newblock {Characterization of putative iron responsive genes as
   species-specific indicators of iron stress in thalassiosiroid diatoms.}
 \newblock \emph{Frontiers in microbiology}, 2\penalty0 (November):\penalty0
@@ -1609,7 +1562,7 @@ LeAnn~P. Whitney, Jeremy~J. Lins, Margaret~P Hughes, Mark~L Wells, P.~Dreux
 \newblock \doi{10.3389/fmicb.2011.00234}.
 
 \bibitem[Winn and Karl(1984)]{Winn1984}
-Christopher~D Winn and David~M Karl.
+Winn, C.~D. and Karl, D.~M.
 \newblock {Laboratory calibrations of the [3H]adenine technique for measuring
   rates of RNA and DNA synthesis in marine microorganisms}.
 \newblock \emph{Applied and Environmental Microbiology}, 47\penalty0
@@ -1617,8 +1570,8 @@ Christopher~D Winn and David~M Karl.
 
 \bibitem[Wu et~al.(2010)Wu, Jenkins, Rynearson, Dyhrman, Saito, Mercier, and
   Whitney]{Wu2010}
-Zhijin Wu, Bethany~D Jenkins, Tatiana~A Rynearson, Sonya~T Dyhrman, Mak~A
-  Saito, Melissa Mercier, and LeAnn~P Whitney.
+Wu, Z., Jenkins, B.~D., Rynearson, T.~A., Dyhrman, S.~T., Saito, M.~A.,
+  Mercier, M., and Whitney, L.~P.
 \newblock {Empirical bayes analysis of sequencing-based transcriptional
   profiling without replicates.}
 \newblock \emph{BMC bioinformatics}, 11\penalty0 (1):\penalty0 564, January
@@ -1627,16 +1580,15 @@ Zhijin Wu, Bethany~D Jenkins, Tatiana~A Rynearson, Sonya~T Dyhrman, Mak~A
 
 \bibitem[Wurch et~al.(2011)Wurch, Bertrand, Saito, {Van Mooy}, and
   Dyhrman]{Wurch2011}
-Louie~L. Wurch, Erin~M. Bertrand, Mak~A. Saito, Benjamin A.~S. {Van Mooy}, and
-  Sonya~T. Dyhrman.
+Wurch, L.~L., Bertrand, E.~M., Saito, M.~A., {Van Mooy}, B. A.~S., and Dyhrman,
+  S.~T.
 \newblock {Proteome changes driven by phosphorus deficiency and recovery in the
   brown tide-forming alga \textit{Aureococcus anophagefferens}.}
 \newblock \emph{PloS one}, 6\penalty0 (12):\penalty0 e28949, January 2011.
 \newblock \doi{10.1371/journal.pone.0028949}.
 
 \bibitem[Xu et~al.(2006)Xu, Wahlund, Feng, Shaked, and Morel]{Xu2006}
-Yan Xu, Thomas~M. Wahlund, Liang Feng, Yeala Shaked, and Fran\c{c}ois M.~M.
-  Morel.
+Xu, Y., Wahlund, T.~M., Feng, L., Shaked, Y., and Morel, F. M.~M.
 \newblock {A novel alkaline phosphatase in the cocolithophore \textit{Emiliania
   huxleyi} (Prymnesiophyceae) and its regulation by phosphorus}.
 \newblock \emph{Journal of Phycology}, 42\penalty0 (4):\penalty0 835--844,
@@ -1644,26 +1596,26 @@ Yan Xu, Thomas~M. Wahlund, Liang Feng, Yeala Shaked, and Fran\c{c}ois M.~M.
 \newblock \doi{10.1111/j.1529-8817.2006.00243.x}.
 
 \bibitem[Yeung et~al.(2001)Yeung, Haynor, and Ruzzo]{Yeung2001}
-K.~Y. Yeung, D.~R. Haynor, and W.~L. Ruzzo.
+Yeung, K.~Y., Haynor, D.~R., and Ruzzo, W.~L.
 \newblock {Validating clustering for gene expression data}.
 \newblock \emph{Bioinformatics}, 17\penalty0 (4):\penalty0 309 --318, April
   2001.
 \newblock \doi{10.1093/bioinformatics/17.4.309}.
 
 \bibitem[Zehr and Turner(2001)]{Zehr2001}
-J~Zehr and P~Turner.
+Zehr, J. and Turner, P.
 \newblock {Nitrogen fixation: Nitrogenase genes and gene expression}.
 \newblock volume~30, pages 271--286. Elsevier, 2001.
 \newblock ISBN 978-0-12-521530-5.
 
 \bibitem[Zhao et~al.(2009)Zhao, Wang, Bai, and Qi]{Zhao2009}
-Tao Zhao, Wei Wang, Xue Bai, and Yijun Qi.
+Zhao, T., Wang, W., Bai, X., and Qi, Y.
 \newblock {Gene silencing by artificial microRNAs in \textit{Chlamydomonas}}.
 \newblock \emph{Plant Journal}, 58\penalty0 (1):\penalty0 157--164, April 2009.
 \newblock \doi{10.1111/j.1365-313X.2008.03758.x}.
 
 \bibitem[Zingone et~al.(2005)Zingone, Percopo, Sims, and Sarno]{Zingone2005}
-Adriana Zingone, Isabella Percopo, Pat~A. Sims, and Diana Sarno.
+Zingone, A., Percopo, I., Sims, P.~A., and Sarno, D.
 \newblock {Diversity in the genus \textit{Skeletonema} (Bacillariophyceae). I.
   A reexamination of the type material of \textit{S. costatum} with the
   description of \textit{S. grevillei} sp. nov.}
@@ -1673,7 +1625,7 @@ Adriana Zingone, Isabella Percopo, Pat~A. Sims, and Diana Sarno.
 
 \bibitem[Zubkov et~al.(2003)Zubkov, Fuchs, Tarran, Burkill, and
   Amann]{Zubkov2003}
-M.~V. Zubkov, B.~M. Fuchs, G.~A. Tarran, P.~H. Burkill, and R.~Amann.
+Zubkov, M.~V., Fuchs, B.~M., Tarran, G.~A., Burkill, P.~H., and Amann, R.
 \newblock {High rate of uptake of organic nitrogen compounds by
   \textit{Prochlorococcus} cyanobacteria as a key to their dominance in
   oligotrophic oceanic waters}.

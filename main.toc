@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {2.4}Results}{25}{section.2.4}
 \contentsline {section}{\numberline {2.5}Discussion}{33}{section.2.5}
 \contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{39}{chapter.3}
-\contentsline {section}{\numberline {3.1}Abstract}{39}{section.3.1}
+\contentsline {section}{\numberline {3.1}Abstract}{40}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{40}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and Methods}{43}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Experimental set up and sample collection}{43}{subsection.3.3.1}
@@ -26,7 +26,7 @@
 \contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{54}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{57}{subsection.3.4.4}
 \contentsline {chapter}{\numberline {4}Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean}{65}{chapter.4}
-\contentsline {section}{\numberline {4.1}Abstract}{65}{section.4.1}
+\contentsline {section}{\numberline {4.1}Abstract}{66}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{66}{section.4.2}
 \contentsline {section}{\numberline {4.3}Materials and Methods}{69}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Sample collection}{69}{subsection.4.3.1}
@@ -34,7 +34,7 @@
 \contentsline {subsection}{\numberline {4.3.3}Genome database creation and mapping}{71}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}MMETSP database creation and mapping}{71}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{72}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{72}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{73}{subsection.4.3.6}
 \contentsline {section}{\numberline {4.4}Results and Discussion}{74}{section.4.4}
 \contentsline {chapter}{\numberline {5}Emiliania huxleyi strain diversity}{87}{chapter.5}
 \contentsline {section}{\numberline {5.1}Abstract}{87}{section.5.1}

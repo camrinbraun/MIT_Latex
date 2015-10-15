@@ -11,55 +11,53 @@ A level-1 auxiliary file: chap5.aux
 A level-1 auxiliary file: chap6.aux
 A level-1 auxiliary file: appa.aux
 A level-1 auxiliary file: biblio.aux
-The style file: plainnat.bst
+The style file: myplainnat.bst
 Reallocated field_info (elt_size=4) to 10096 items from 5000.
 Database file #1: main.bib
 Warning--I didn't find a database entry for "Andrews"
 Warning--I didn't find a database entry for "Marchetti2012"
 Warning--I didn't find a database entry for "Robinson2010"
 Warning--can't use both author and editor fields in Guillard1975
-Warning--empty journal in Menden-deuer2014
-Warning--there's a number but no volume in Menden-deuer2014
 Warning--empty booktitle in Zehr2001
 You've used 179 entries,
             2773 wiz_defined-function locations,
-            1950 strings with 58413 characters,
-and the built_in function-call counts, 123323 in all, are:
-= -- 10432
+            1953 strings with 58426 characters,
+and the built_in function-call counts, 123512 in all, are:
+= -- 10457
 > -- 10949
 < -- 54
 + -- 3667
 - -- 3486
-* -- 12555
-:= -- 19838
-add.period$ -- 706
+* -- 12578
+:= -- 19861
+add.period$ -- 707
 call.type$ -- 179
 change.case$ -- 1696
 chr.to.int$ -- 177
-cite$ -- 362
-duplicate$ -- 3716
-empty$ -- 7226
+cite$ -- 360
+duplicate$ -- 3717
+empty$ -- 7245
 format.name$ -- 3723
-if$ -- 24529
+if$ -- 24571
 int.to.chr$ -- 3
 int.to.str$ -- 1
 missing$ -- 182
-newline$ -- 1071
+newline$ -- 1072
 num.names$ -- 716
-pop$ -- 2916
+pop$ -- 2912
 preamble$ -- 1
 purify$ -- 1520
 quote$ -- 0
 skip$ -- 3220
 stack$ -- 0
-substring$ -- 4563
-swap$ -- 344
+substring$ -- 4618
+swap$ -- 346
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1954
-warning$ -- 4
-while$ -- 862
+warning$ -- 2
+while$ -- 864
 width$ -- 0
-write$ -- 2669
-(There were 7 warnings)
+write$ -- 2672
+(There were 5 warnings)
