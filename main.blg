@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2010)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
@@ -14,52 +14,52 @@ A level-1 auxiliary file: biblio.aux
 The style file: plainnat.bst
 Reallocated field_info (elt_size=4) to 10096 items from 5000.
 Database file #1: main.bib
+Warning--I didn't find a database entry for "Andrews"
 Warning--I didn't find a database entry for "Marchetti2012"
 Warning--I didn't find a database entry for "Robinson2010"
-Warning--empty year in Andrews
 Warning--can't use both author and editor fields in Guillard1975
 Warning--empty journal in Menden-deuer2014
 Warning--there's a number but no volume in Menden-deuer2014
 Warning--empty booktitle in Zehr2001
-You've used 180 entries,
+You've used 179 entries,
             2773 wiz_defined-function locations,
-            1949 strings with 58504 characters,
-and the built_in function-call counts, 123320 in all, are:
-= -- 10417
-> -- 10959
-< -- 55
-+ -- 3671
-- -- 3489
-* -- 12527
-:= -- 19849
-add.period$ -- 708
-call.type$ -- 180
-change.case$ -- 1700
-chr.to.int$ -- 178
-cite$ -- 365
-duplicate$ -- 3729
-empty$ -- 7228
-format.name$ -- 3727
-if$ -- 24528
+            1950 strings with 58413 characters,
+and the built_in function-call counts, 123323 in all, are:
+= -- 10432
+> -- 10949
+< -- 54
++ -- 3667
+- -- 3486
+* -- 12555
+:= -- 19838
+add.period$ -- 706
+call.type$ -- 179
+change.case$ -- 1696
+chr.to.int$ -- 177
+cite$ -- 362
+duplicate$ -- 3716
+empty$ -- 7226
+format.name$ -- 3723
+if$ -- 24529
 int.to.chr$ -- 3
 int.to.str$ -- 1
 missing$ -- 182
-newline$ -- 1075
-num.names$ -- 720
-pop$ -- 2934
+newline$ -- 1071
+num.names$ -- 716
+pop$ -- 2916
 preamble$ -- 1
-purify$ -- 1523
+purify$ -- 1520
 quote$ -- 0
-skip$ -- 3234
+skip$ -- 3220
 stack$ -- 0
-substring$ -- 4484
-swap$ -- 345
+substring$ -- 4563
+swap$ -- 344
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1965
-warning$ -- 5
-while$ -- 860
+type$ -- 1954
+warning$ -- 4
+while$ -- 862
 width$ -- 0
-write$ -- 2676
+write$ -- 2669
 (There were 7 warnings)

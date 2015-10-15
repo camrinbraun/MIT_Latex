@@ -1,7 +1,14 @@
+@article{Adib2004,
+author = {Adib, TR and Henderson, S and Perrett, C},
+journal = {British journal of  \ldots},
+title = {{Predicting biomarkers for ovarian cancer using gene-expression microarrays}},
+
+year = {2004}
+}
 @article{Alexander2012,
 abstract = {Genes that are constitutively expressed across multiple environmental stimuli are crucial to quantifying differentially expressed genes, particularly when employing quantitative reverse transcriptase polymerase chain reaction (RT-qPCR) assays. However, the identification of these potential reference genes in non-model organisms is challenging and is often guided by expression patterns in distantly related organisms. Here, transcriptome datasets from the diatom Thalassiosira pseudonana grown under replete, phosphorus-limited, iron-limited, and phosphorus and iron co-limited nutrient regimes were analyzed through literature-based searches for homologous reference genes, k-means clustering, and analysis of sequence counts (ASC) to identify putative reference genes. A total of 9759 genes were identified and screened for stable expression. Literature-based searches surveyed 18 generally accepted reference genes, revealing 101 homologs in T. pseudonana with variable expression and a wide range of mean tags per million. k-means analysis parsed the whole transcriptome into 15 clusters. The two most stable clusters contained 709 genes, but still had distinct patterns in expression. ASC analyses identified 179 genes that were stably expressed (posterior probability < 0.1 for 1.25 fold change). Genes known to have a stable expression pattern across the test treatments, like actin, were identified in this pool of 179 candidate genes. ASC can be employed on data without biological replicates and was more robust than the k-means approach in isolating genes with stable expression. The intersection of the genes identified through ASC with commonly used reference genes from the literature suggests that actin and ubiquitin ligase may be useful reference genes for T. pseudonana and potentially other diatoms. With the wealth of transcriptome sequence data becoming available, ASC can be easily applied to transcriptome datasets from other phytoplankton to identify reference genes.},
 annote = {From Duplicate 1 ( },
-author = {Alexander, Harriet and Jenkins, Bethany D and Rynearson, Tatiana a and Saito, Mak A and Mercier, Melissa L and Dyhrman, Sonya T},
+author = {Alexander, Harriet and Jenkins, B D and Rynearson, Tatiana a and Saito, Mak A and Mercier, Melissa L and Dyhrman, Sonya T},
 doi = {10.3389/fmicb.2012.00385},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Alexander et al. - 2012 - Identifying reference genes with stable expression from high throughput sequence data(2).pdf:pdf},
 isbn = {1664-302X (Electronic)$\backslash$r1664-302X (Linking)},
@@ -35,7 +42,7 @@ year = {2015}
 }
 @article{Allen2008,
 abstract = {Marine primary productivity is iron (Fe)-limited in vast regions of the contemporary oceans, most notably the high nutrient low chlorophyll (HNLC) regions. Diatoms often form large blooms upon the relief of Fe limitation in HNLC regions despite their prebloom low cell density. Although Fe plays an important role in controlling diatom distribution, the mechanisms of Fe uptake and adaptation to low iron availability are largely unknown. Through a combination of nontargeted transcriptomic and metabolomic approaches, we have explored the biochemical strategies preferred by Phaeo dactylum tricornutum at growth-limiting levels of dissolved Fe. Processes carried out by components rich in Fe, such as photosynthesis, mitochondrial electron transport, and nitrate assimilation, were down-regulated. Our results show that this retrenchment is compensated by nitrogen (N) and carbon (C) reallocation from protein and carbohydrate degradation, adaptations to chlorophyll biosynthesis and pigment metabolism, removal of excess electrons by mitochondrial alternative oxidase (AOX) and non-photochemical quenching (NPQ), and augmented Fe-independent oxidative stress responses. Iron limitation leads to the elevated expression of at least three gene clusters absent from the Thalassiosira pseudonana genome that encode for components of iron capture and uptake mechanisms.},
-author = {Allen, Andrew E and Laroche, Julie and Maheswari, Uma and Lommer, Markus and Schauer, Nicolas and Lopez, Pascal J and Finazzi, Giovanni and Fernie, Alisdair R and Bowler, Chris},
+author = {Allen, Andrew E. and Laroche, Julie and Maheswari, Uma and Lommer, Markus and Schauer, Nicolas and Lopez, Pascal J. and Finazzi, Giovanni and Fernie, Alisdair R. and Bowler, Chris},
 doi = {10.1073/pnas.0711370105},
 file = {:Users/harrietalexander/Papers/Allen2008\_Phaeodactylum\_WholeCellResponse.pdf:pdf},
 
@@ -47,14 +54,14 @@ month = jul,
 number = {30},
 pages = {10438--43},
 pmid = {18653757},
-title = {{Whole-cell response of the pennate diatom \textit{Phaeodactylum tricornutum} to iron starvation.}},
+title = {{Whole-cell response of the pennate diatom Phaeodactylum tricornutum to iron starvation.}},
 
 volume = {105},
 year = {2008}
 }
 @article{Altschul1997,
 abstract = {The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while enhancing their sensitivity to weak similarities. A new criterion for triggering the extension of word hits, combined with a new heuristic for generating gapped alignments, yields a gapped BLAST program that runs at approximately three times the speed of the original. In addition, a method is introduced for automatically combining statistically significant alignments produced by BLAST into a position-specific score matrix, and searching the database using this matrix. The resulting Position-Specific Iterated BLAST (PSIBLAST) program runs at approximately the same speed per iteration as gapped BLAST, but in many cases is much more sensitive to weak but biologically relevant sequence similarities. PSI-BLAST is used to uncover several new and interesting members of the BRCT superfamily.},
-author = {Altschul, Stephen F and Madden, Thomas L and Sch\"{a}ffer, Alejandro A and Zhang, Jinghui and Zhang, Zheng and Miller, Webb and Lipman, David J},
+author = {Altschul, Stephen F. and Madden, Thomas L. and Sch\"{a}ffer, Alejandro A. and Zhang, Jinghui and Zhang, Zheng and Miller, Webb and Lipman, David J.},
 doi = {10.1093/nar/25.17.3389},
 
 journal = {Nucleic Acids Research},
@@ -98,7 +105,7 @@ title = {{HTSeq - A Python framework to work with high-throughput sequencing dat
 volume = {31},
 year = {2014}
 }
-@misc{Andrews,
+@misc{Andrewsa,
 author = {Andrews, S},
 booktitle = {http://www.bioinformatics.babraham.ac.uk/projects/fastqc/},
 title = {{FastQC A Quality Control tool for High Throughput Sequence Data}},
@@ -129,7 +136,7 @@ number = {5693},
 pages = {79--86},
 pmid = {15459382},
 shorttitle = {The Genome of the Diatom Thalassiosira Pseudonana},
-title = {{The genome of the diatom \textit{Thalassiosira pseudonana}: ecology, evolution, and metabolism.}},
+title = {{The genome of the diatom \textit{Thalassiosira pseudonana</i>: ecology, evolution, and metabolism.}},
 
 volume = {306},
 year = {2004}
@@ -152,7 +159,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = nov,
 number = {3},
 pages = {3649 --3659},
-title = {{The \textit{Arabidopsis} trehalose-6-P synthase AtTPS1 gene is a regulator of glucose, abscisic acid, and stress signaling}},
+title = {{The \textit{Arabidopsis</i> trehalose-6-P synthase AtTPS1 gene is a regulator of glucose, abscisic acid, and stress signaling}},
 
 volume = {136},
 year = {2004}
@@ -211,7 +218,7 @@ mendeley-tags = {Carbamoyl phosphate synthetase,Folder - Studies with RT-PCR,glu
 month = mar,
 number = {2},
 pages = {232--251},
-title = {{Coupled effects of light and nitrogen source on the urea cycle and nitrogen metabolism over a diel cycle in the marine diatom \textit{Thalassiosira pseudonana}}},
+title = {{Coupled effects of light and nitrogen source on the urea cycle and nitrogen metabolism over a diel cycle in the marine diatom \textit{Thalassiosira pseudonana</i>}},
 
 volume = {163},
 year = {2012}
@@ -281,7 +288,7 @@ mendeley-tags = {Climate change,Long-term Change,Narragansett Bay,North Atlantic
 month = jan,
 number = {1-2},
 pages = {84--94},
-title = {{Multidecadal (1959–1997) changes in \textit{Skeletonema} abundance and seasonal bloom patterns in Narragansett Bay, Rhode Island, USA}},
+title = {{Multidecadal (1959–1997) changes in \textit{Skeletonema</i> abundance and seasonal bloom patterns in Narragansett Bay, Rhode Island, USA}},
 
 volume = {61},
 year = {2009}
@@ -300,7 +307,7 @@ pages = {239--44},
 pmid = {18923393},
 publisher = {Macmillan Publishers Limited. All rights reserved},
 shorttitle = {Nature},
-title = {{The \textit{Phaeodactylum} genome reveals the evolutionary history of diatom genomes.}},
+title = {{The \textit{Phaeodactylum</i> genome reveals the evolutionary history of diatom genomes.}},
 
 volume = {456},
 year = {2008}
@@ -386,7 +393,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = oct,
 number = {20},
 pages = {1785--1795},
-title = {{Ras activity in the \textit{Drosophila} prothoracic gland regulates body size and developmental rate via ecdysone release}},
+title = {{Ras activity in the \textit{Drosophila</i> prothoracic gland regulates body size and developmental rate via ecdysone release}},
 
 volume = {15},
 year = {2005}
@@ -418,7 +425,7 @@ journal = {BMC Genomics},
 month = mar,
 number = {1},
 pages = {159},
-title = {{Proteomic analysis of the marine diatom \textit{Thalassiosira pseudonana} upon exposure to benzo(a)pyrene}},
+title = {{Proteomic analysis of the marine diatom \textit{Thalassiosira pseudonana</i> upon exposure to benzo(a)pyrene}},
 
 volume = {12},
 year = {2011}
@@ -520,7 +527,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = jul,
 number = {7},
 pages = {1157 --1168},
-title = {{Gene expression induced by copper stress in diatom \textit{Thalassiosira pseudonana}}},
+title = {{Gene expression induced by copper stress in diatom \textit{Thalassiosira pseudonana</i>}},
 
 volume = {5},
 year = {2006}
@@ -536,7 +543,7 @@ mendeley-tags = {Bacillariophyta,Folder - Studies with RT-PCR,cell cycle,cell-su
 month = apr,
 number = {2},
 pages = {195--207},
-title = {{Characterization of a modular, cell-surface, protein and identification of a new gene family in the diatom \textit{Thalassiosira pseudonana}}},
+title = {{Characterization of a modular, cell-surface, protein and identification of a new gene family in the diatom \textit{Thalassiosira pseudonana</i>}},
 volume = {159},
 year = {2008}
 }
@@ -590,17 +597,18 @@ year = {2005}
 }
 @article{Doney2012,
 abstract = {In marine ecosystems, rising atmospheric CO2 and climate change are associated with concurrent shifts in temperature, circulation, stratification, nutrient input, oxygen content, and ocean acidification, with potentially wide-ranging biological effects. Population-level shifts are occurring because of physiological intolerance to new environments, altered dispersal patterns, and changes in species interactions. Together with local climate-driven invasion and extinction, these processes result in altered community structure and diversity, including possible emergence of novel ecosystems. Impacts are particularly striking for the poles and the tropics, because of the sensitivity of polar ecosystems to sea-ice retreat and poleward species migrations as well as the sensitivity of coral-algal symbiosis to minor increases in temperature. Midlatitude upwelling systems, like the California Current, exhibit strong linkages between climate and species distributions, phenology, and demography. Aggregated effects may modify energy and material flows as well as biogeochemical cycles, eventually impacting the overall ecosystem functioning and services upon which people and societies depend.},
-author = {Doney, Scott C and Ruckelshaus, Mary and Duffy, J Emmett and Barry, James P and Chan, Francis and English, Chad A and Galindo, Heather M and Grebmeier, Jacqueline M and Hollowed, Anne B and Knowlton, Nancy and Polovina, Jeffrey and Rabalais, Nancy N and Sydeman, William J and Talley, Lynne D},
+author = {Doney, Scott C and Ruckelshaus, Mary and {Emmett Duffy}, J. and Barry, James P and Chan, Francis and English, Chad A and Galindo, Heather M and Grebmeier, Jacqueline M and Hollowed, Anne B and Knowlton, Nancy and Polovina, Jeffrey and Rabalais, Nancy N and Sydeman, William J and Talley, Lynne D},
 doi = {10.1146/annurev-marine-041911-111611},
 
-journal = {Annual review of marine science},
-keywords = {Adaptation, Physiological,Animals,Carbon Dioxide,Carbon Dioxide: chemistry,Climate Change,Ecosystem,Oceans and Seas,Seawater,Seawater: chemistry},
+journal = {Annual Review of Marine Science},
+keywords = {Adaptation,Animals,Carbon Dioxide,Carbon Dioxide: chemistry,Climate Change,Ecosystem,Oceans and Seas,Physiological,Seawater,Seawater: chemistry},
 language = {en},
 month = jan,
+number = {1},
 pages = {11--37},
 pmid = {22457967},
 publisher = {Annual Reviews},
-title = {{Climate change impacts on marine ecosystems.}},
+title = {{Climate change impacts on marine ecosystems}},
 
 volume = {4},
 year = {2012}
@@ -638,7 +646,7 @@ month = jan,
 number = {1},
 pages = {252--260},
 pmid = {16391051},
-title = {{Long serial analysis of gene expression for gene discovery and transcriptome profiling in the widespread marine coccolithophore \textit{Emiliania huxleyi}}},
+title = {{Long serial analysis of gene expression for gene discovery and transcriptome profiling in the widespread marine coccolithophore \textit{Emiliania huxleyi</i>}},
 
 volume = {72},
 year = {2006}
@@ -656,7 +664,7 @@ month = jan,
 number = {3},
 pages = {e33768},
 pmid = {22479440},
-title = {{The transcriptome and proteome of the diatom \textit{Thalassiosira pseudonana} reveal a diverse phosphorus stress response.}},
+title = {{The transcriptome and proteome of the diatom \textit{Thalassiosira pseudonana</i> reveal a diverse phosphorus stress response.}},
 
 volume = {7},
 year = {2012}
@@ -672,7 +680,7 @@ mendeley-tags = {Alkaline phosphatase,Ehux},
 month = oct,
 number = {10},
 pages = {1215--1225},
-title = {{Characterization of ectoenzyme activity and phosphate-regulated proteins in the coccolithophorid \textit{Emiliania huxleyi}}},
+title = {{Characterization of ectoenzyme activity and phosphate-regulated proteins in the coccolithophorid \textit{Emiliania huxleyi</i>}},
 
 volume = {25},
 year = {2003}
@@ -741,7 +749,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = apr,
 number = {17},
 pages = {6368 --6373},
-title = {{\textit{Drosophila} germ-line modulation of insulin signaling and lifespan}},
+title = {{\textit{Drosophila</i> germ-line modulation of insulin signaling and lifespan}},
 
 volume = {105},
 year = {2008}
@@ -770,14 +778,14 @@ author = {Fontanez, Kristina M and Eppley, John M and Samo, Ty J and Karl, David
 doi = {10.3389/fmicb.2015.00469},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Fontanez et al. - 2015 - Microbial community structure and function on sinking particles in the North Pacific Subtropical Gyre.pdf:pdf},
 
-journal = {Frontiers in microbiology},
+journal = {Frontiers in Microbiology},
 keywords = {Biological pump,Dissolved organic matter (DOM),Marine particles,Metagenomics,Microbiology,Particulate Organic Matter,sediment trap},
 language = {English},
-month = jan,
+month = may,
 pages = {469},
 pmid = {26042105},
 publisher = {Frontiers},
-title = {{Microbial community structure and function on sinking particles in the North Pacific subtropical gyre.}},
+title = {{Microbial community structure and function on sinking particles in the North Pacific Subtropical Gyre}},
 
 volume = {6},
 year = {2015}
@@ -791,7 +799,7 @@ journal = {Frontiers in microbiology},
 month = jan,
 pages = {375},
 pmid = {25104951},
-title = {{De novo assembly of \textit{Aureococcus anophagefferens} transcriptomes reveals diverse responses to the low nutrient and low light conditions present during blooms.}},
+title = {{De novo assembly of \textit{Aureococcus anophagefferens</i> transcriptomes reveals diverse responses to the low nutrient and low light conditions present during blooms.}},
 
 volume = {5},
 year = {2014}
@@ -985,7 +993,7 @@ month = jan,
 number = {1},
 pages = {100--108},
 shorttitle = {Algorithm AS 136},
-title = {{Algorithm AS 136: A \textit{k}-means clustering algorithm}},
+title = {{Algorithm AS 136: A \textit{k</i>-means clustering algorithm}},
 
 volume = {28},
 year = {1979}
@@ -998,9 +1006,12 @@ isbn = {doi:10.1038/nclimate2683},
 journal = {Nature Climate Change},
 language = {en},
 month = jun,
+number = {8},
+pages = {761--765},
 publisher = {Nature Publishing Group},
-title = {{Diatom acclimation to elevated CO<sub>2</sub> via cAMP signalling and coordinated gene expression}},
+title = {{Diatom acclimation to elevated CO2 via cAMP signalling and coordinated gene expression}},
 
+volume = {5},
 year = {2015}
 }
 @article{Huisman2001,
@@ -1074,7 +1085,7 @@ month = mar,
 number = {5768},
 pages = {1737--40},
 pmid = {16556835},
-title = {{Niche partitioning among \textit{Prochlorococcus} ecotypes along ocean-scale environmental gradients.}},
+title = {{Niche partitioning among \textit{Prochlorococcus</i> ecotypes along ocean-scale environmental gradients.}},
 
 volume = {311},
 year = {2006}
@@ -1087,7 +1098,7 @@ journal = {Journal of Phycology},
 month = aug,
 number = {4},
 pages = {864--872},
-title = {{Establisment of minimal and maximal transcript levels for nitrate transporter genes genes for detecting nitrogen deficiency in the marine phytoplankton Isochrysis glabana (Prymnesiophycae) and \textit{Thalassiosira pseudonana} (Bacillariophycae)}},
+title = {{Establisment of minimal and maximal transcript levels for nitrate transporter genes genes for detecting nitrogen deficiency in the marine phytoplankton Isochrysis glabana (Prymnesiophycae) and \textit{Thalassiosira pseudonana</i> (Bacillariophycae)}},
 
 volume = {45},
 year = {2009}
@@ -1318,7 +1329,7 @@ doi = {10.1021/pr900475f},
 journal = {Journal of Proteom Research},
 number = {11},
 pages = {5080--5092},
-title = {{Identification of two plastid proteins in the dinoflagellate \textit{Alexandrium affine} that are substantially down-regulated by nitrogen-depletion}},
+title = {{Identification of two plastid proteins in the dinoflagellate \textit{Alexandrium affine</i> that are substantially down-regulated by nitrogen-depletion}},
 
 volume = {8},
 year = {2009}
@@ -1334,7 +1345,7 @@ mendeley-tags = {Genomics,Minicircles,Symbiodinium,Symbiosis},
 month = nov,
 number = {1–2},
 pages = {120--125},
-title = {{Recent progress in \textit{Symbiodinium }transcriptomics}},
+title = {{Recent progress in \textit{Symbiodinium </i>transcriptomics}},
 volume = {408},
 year = {2011}
 }
@@ -1350,7 +1361,7 @@ language = {eng},
 number = {3},
 pages = {1020--1024},
 publisher = {American Society of Limnology and Oceanography},
-title = {{Nitrate : phosphate ratios and \textit{Emiliania huxleyi} blooms}},
+title = {{Nitrate : phosphate ratios and \textit{Emiliania huxleyi</i> blooms}},
 
 volume = {50},
 year = {2005}
@@ -1679,7 +1690,7 @@ month = oct,
 number = {10},
 pages = {2268 --2283},
 shorttitle = {The Mixed Lineage Nature of Nitrogen Transport and},
-title = {{The mixed lineage nature of nitrogen transport and assimilation in marine eukaryotic phytoplankton: a case study of \textit{Micromonas}}},
+title = {{The mixed lineage nature of nitrogen transport and assimilation in marine eukaryotic phytoplankton: a case study of \textit{Micromonas</i>}},
 
 volume = {27},
 year = {2010}
@@ -1696,7 +1707,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = may,
 number = {1},
 pages = {78--91},
-title = {{Expression and regulation of carbonic anhydrases in the marine diatom \textit{Thalassiosira pseudonana} and in natural phytoplankton assemblages from Great Bay, New Jersey}},
+title = {{Expression and regulation of carbonic anhydrases in the marine diatom \textit{Thalassiosira pseudonana</i> and in natural phytoplankton assemblages from Great Bay, New Jersey}},
 
 volume = {133},
 year = {2008}
@@ -1778,13 +1789,13 @@ author = {Moriya, Yuki and Itoh, Masumi and Okuda, Shujiro and Yoshizawa, Akiyas
 doi = {10.1093/nar/gkm321},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Moriya et al. - 2007 - KAAS an automatic genome annotation and pathway reconstruction server.pdf:pdf},
 
-journal = {Nucleic acids research},
-keywords = {Animals,Artificial Intelligence,Automation,Chromosome Mapping,Chromosome Mapping: methods,Computational Biology,Computational Biology: methods,Database Management Systems,Documentation,Documentation: methods,Genome,Humans,Information Storage and Retrieval,Information Storage and Retrieval: methods,Internet,Proteome,Proteome: classification,Proteome: metabolism,Sequence Analysis,Sequence Analysis: methods,Signal Transduction,Signal Transduction: physiology,Vocabulary, Controlled},
-month = jul,
-number = {Web Server issue},
-pages = {W182--5},
+journal = {Nucleic Acids Research},
+keywords = {Animals,Artificial Intelligence,Automation,Chromosome Mapping,Chromosome Mapping: methods,Computational Biology,Computational Biology: methods,Controlled,Database Management Systems,Documentation,Documentation: methods,Genome,Humans,Information Storage and Retrieval,Information Storage and Retrieval: methods,Internet,Proteome,Proteome: classification,Proteome: metabolism,Sequence Analysis,Sequence Analysis: methods,Signal Transduction,Signal Transduction: physiology,Vocabulary},
+month = may,
+number = {Web Server},
+pages = {W182--W185},
 pmid = {17526522},
-title = {{KAAS: an automatic genome annotation and pathway reconstruction server.}},
+title = {{KAAS: an automatic genome annotation and pathway reconstruction server}},
 
 volume = {35},
 year = {2007}
@@ -1828,7 +1839,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = jan,
 number = {1},
 pages = {26 --44},
-title = {{Genome-based approaches to understanding phosphorus deprivation responses and PSR1 control in \textit{Chlamydomonas reinhardtii}}},
+title = {{Genome-based approaches to understanding phosphorus deprivation responses and PSR1 control in \textit{Chlamydomonas reinhardtii</i>}},
 
 volume = {5},
 year = {2006}
@@ -1930,7 +1941,7 @@ journal = {Journal of Phycology},
 month = mar,
 number = {1},
 pages = {64--68},
-title = {{Amino acid transport in \textit{Nitzschia ovalis arnott}}},
+title = {{Amino acid transport in \textit{Nitzschia ovalis arnott</i>}},
 
 volume = {8},
 year = {1972}
@@ -1944,7 +1955,7 @@ journal = {Molecular Biology of the Cell},
 month = dec,
 number = {12},
 pages = {4309--4321},
-title = {{New components of a system for phosphate accumulation and polyphosphate metabolism in \textit{Saccharomyces cerevisiae} revealed by genomic expression analysis}},
+title = {{New components of a system for phosphate accumulation and polyphosphate metabolism in \textit{Saccharomyces cerevisiae</i> revealed by genomic expression analysis}},
 
 volume = {11},
 year = {2000}
@@ -1958,7 +1969,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = jul,
 number = {7},
 pages = {908--921},
-title = {{PtrA is required for coordinate regulation of gene expression during phosphate stress in a marine \textit{Synechococcus}}},
+title = {{PtrA is required for coordinate regulation of gene expression during phosphate stress in a marine \textit{Synechococcus</i>}},
 
 volume = {4},
 year = {2010}
@@ -2037,7 +2048,7 @@ file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Dow
 journal = {Limnology and Oceanography},
 number = {7},
 pages = {1544--1551},
-title = {{The use of amides and other organic nitrogen sources by the phytoplankton \textit{Emiliania huxleyi}}},
+title = {{The use of amides and other organic nitrogen sources by the phytoplankton \textit{Emiliania huxleyi</i>}},
 
 volume = {42},
 year = {1997}
@@ -2089,10 +2100,13 @@ doi = {10.1038/ismej.2015.40},
 
 journal = {The ISME Journal},
 language = {en},
-month = apr,
+month = oct,
+number = {10},
+pages = {2275--2289},
 publisher = {Nature Publishing Group},
 title = {{Metatranscriptomes reveal functional variation in diatom communities from the Antarctic Peninsula}},
 
+volume = {9},
 year = {2015}
 }
 @article{Pfaffl2001,
@@ -2210,7 +2224,7 @@ pages = {209--13},
 pmid = {23760476},
 publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
 shorttitle = {Nature},
-title = {{Pan genome of the phytoplankton \textit{Emiliania} underpins its global distribution.}},
+title = {{Pan genome of the phytoplankton \textit{Emiliania</i> underpins its global distribution.}},
 
 volume = {499},
 year = {2013}
@@ -2222,7 +2236,7 @@ doi = {10.1073/pnas.67.4.1710},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Richerson, Armstrong, Goldman - 1970 - Contemporaneous disequilibrium, a new hypothesis to explain the paradox of the plankton.pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
-keywords = {,Biological,California,Ecology,Eukaryota,Models,Nevada,Plankton,Water Microbiology},
+keywords = {Biological,California,Ecology,Eukaryota,Models,Nevada,Plankton,Water Microbiology},
 month = dec,
 number = {4},
 pages = {1710--1714},
@@ -2287,7 +2301,7 @@ journal = {Marine Biotechnology},
 month = jul,
 number = {3},
 pages = {355--365},
-title = {{Validation of housekeeping genes for gene expression studies in \textit{Symbiodinium} exposed to thermal and light stress}},
+title = {{Validation of housekeeping genes for gene expression studies in \textit{Symbiodinium</i> exposed to thermal and light stress}},
 
 volume = {13},
 year = {2010}
@@ -2409,7 +2423,7 @@ journal = {Journal of Phycology},
 month = feb,
 number = {1},
 pages = {151--176},
-title = {{Diversity in the genus Skeletonema (Bacillariophyceae). II. An assessment of the taxonomy of \textit{S. costatum}-like species with the description of four new species.}},
+title = {{Diversity in the genus Skeletonema (Bacillariophyceae). II. An assessment of the taxonomy of \textit{S. costatum</i>-like species with the description of four new species.}},
 
 volume = {41},
 year = {2005}
@@ -2438,7 +2452,7 @@ month = dec,
 number = {6},
 pages = {991--994},
 pmid = {16660653},
-title = {{Nitrate utilization by the diatom \textit{Skeletonema costatum}: II. Regulation of nitrate uptake}},
+title = {{Nitrate utilization by the diatom \textit{Skeletonema costatum</i>: II. Regulation of nitrate uptake}},
 
 volume = {62},
 year = {1978}
@@ -2490,7 +2504,7 @@ month = jan,
 number = {1},
 pages = {499},
 pmid = {22994549},
-title = {{Whole transcriptome analysis of the silicon response of the diatom \textit{Thalassiosira pseudonana}.}},
+title = {{Whole transcriptome analysis of the silicon response of the diatom \textit{Thalassiosira pseudonana</i>.}},
 
 volume = {13},
 year = {2012}
@@ -2505,7 +2519,7 @@ mendeley-tags = {Diatoms,Gateway cloning,Housekeeping genes,Protein tagging,Reco
 month = dec,
 number = {1-2},
 pages = {23--35},
-title = {{Molecular toolbox for studying diatom biology in \textit{Phaeodactylum tricornutum}}},
+title = {{Molecular toolbox for studying diatom biology in \textit{Phaeodactylum tricornutum</i>}},
 volume = {406},
 year = {2007}
 }
@@ -2550,7 +2564,7 @@ journal = {Limnology and Oceanography},
 month = nov,
 number = {6},
 pages = {889--901},
-title = {{Bioassay of the growth potential of the surface water of lower Narragansett Bay over an annual cycle using the diatom \textit{Thalassiosira pseudonana}}},
+title = {{Bioassay of the growth potential of the surface water of lower Narragansett Bay over an annual cycle using the diatom \textit{Thalassiosira pseudonana</i>}},
 
 volume = {19},
 year = {1974}
@@ -2668,7 +2682,7 @@ mendeley-tags = {Folder - Studies with RT-PCR},
 month = aug,
 number = {15},
 pages = {5047 --5057},
-title = {{Coastal strains of marine \textit{Synechococcus} species exhibit increased tolerance to copper shock and a distinctive transcriptional response relative to those of open-ocean strains}},
+title = {{Coastal strains of marine \textit{Synechococcus</i> species exhibit increased tolerance to copper shock and a distinctive transcriptional response relative to those of open-ocean strains}},
 
 volume = {75},
 year = {2009}
@@ -2722,7 +2736,7 @@ file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Dow
 journal = {Ecology},
 month = mar,
 number = {2},
-pages = {338},
+pages = {338--348},
 title = {{Resource competition between plankton algae: an experimental and theoretical approach}},
 
 volume = {58},
@@ -2819,7 +2833,7 @@ journal = {Journal of Geophysical Research},
 month = mar,
 number = {C3},
 pages = {C03001},
-title = {{Summer blooms of diatom-diazotroph assemblages and surface chlorophyll in the North Pacific Geyre: a disconnect}},
+title = {{Summer blooms of diatom-diazotroph assemblages and surface chlorophyll in the North Pacific Gyre: a disconnect}},
 
 volume = {116},
 year = {2011}
@@ -2909,7 +2923,7 @@ month = jan,
 number = {12},
 pages = {e28949},
 pmid = {22194955},
-title = {{Proteome changes driven by phosphorus deficiency and recovery in the brown tide-forming alga \textit{Aureococcus anophagefferens}.}},
+title = {{Proteome changes driven by phosphorus deficiency and recovery in the brown tide-forming alga \textit{Aureococcus anophagefferens</i>.}},
 
 volume = {6},
 year = {2011}
@@ -2923,7 +2937,7 @@ journal = {Journal of Phycology},
 month = aug,
 number = {4},
 pages = {835--844},
-title = {{A novel alkaline phosphatase in the cocolithophore \textit{Emiliania huxleyi} (Prymnesiophyceae) and its regulation by phosphorus}},
+title = {{A novel alkaline phosphatase in the cocolithophore \textit{Emiliania huxleyi</i> (Prymnesiophyceae) and its regulation by phosphorus}},
 
 volume = {42},
 year = {2006}
@@ -2979,7 +2993,7 @@ mendeley-tags = {Folder - Studies with RT-PCR,RNA interference,functional genomi
 month = apr,
 number = {1},
 pages = {157--164},
-title = {{Gene silencing by artificial microRNAs in \textit{Chlamydomonas}}},
+title = {{Gene silencing by artificial microRNAs in \textit{Chlamydomonas</i>}},
 
 volume = {58},
 year = {2009}
@@ -2992,7 +3006,7 @@ journal = {Journal of Phycology},
 month = feb,
 number = {1},
 pages = {140--150},
-title = {{Diversity in the genus \textit{Skeletonema} (Bacillariophyceae). I. A reexamination of the type material of \textit{S. costatum} with the description of \textit{S. grevillei} sp. nov.}},
+title = {{Diversity in the genus \textit{Skeletonema</i> (Bacillariophyceae). I. A reexamination of the type material of \textit{S. costatum</i> with the description of \textit{S. grevillei</i> sp. nov.}},
 
 volume = {41},
 year = {2005}
@@ -3006,7 +3020,7 @@ journal = {Applied and Environmental Microbiology},
 month = feb,
 number = {2},
 pages = {1299--1304},
-title = {{High rate of uptake of organic nitrogen compounds by \textit{Prochlorococcus} cyanobacteria as a key to their dominance in oligotrophic oceanic waters}},
+title = {{High rate of uptake of organic nitrogen compounds by \textit{Prochlorococcus</i> cyanobacteria as a key to their dominance in oligotrophic oceanic waters}},
 
 volume = {69},
 year = {2003}

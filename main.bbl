@@ -1,4 +1,4 @@
-\begin{thebibliography}{180}
+\begin{thebibliography}{179}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -7,8 +7,8 @@
 
 \bibitem[Alexander et~al.(2012)Alexander, Jenkins, Rynearson, Saito, Mercier,
   and Dyhrman]{Alexander2012}
-Harriet Alexander, Bethany~D Jenkins, Tatiana~a Rynearson, Mak~A Saito,
-  Melissa~L Mercier, and Sonya~T Dyhrman.
+Harriet Alexander, B~D Jenkins, Tatiana~a Rynearson, Mak~A Saito, Melissa~L
+  Mercier, and Sonya~T Dyhrman.
 \newblock {Identifying reference genes with stable expression from high
   throughput sequence data.}
 \newblock \emph{Frontiers in microbiology}, 3\penalty0 (November):\penalty0
@@ -27,18 +27,18 @@ Harriet Alexander, Bethany~D. Jenkins, Tatiana~A. Rynearson, and Sonya~T.
 
 \bibitem[Allen et~al.(2008)Allen, Laroche, Maheswari, Lommer, Schauer, Lopez,
   Finazzi, Fernie, and Bowler]{Allen2008}
-Andrew~E Allen, Julie Laroche, Uma Maheswari, Markus Lommer, Nicolas Schauer,
-  Pascal~J Lopez, Giovanni Finazzi, Alisdair~R Fernie, and Chris Bowler.
-\newblock {Whole-cell response of the pennate diatom \textit{Phaeodactylum
-  tricornutum} to iron starvation.}
+Andrew~E. Allen, Julie Laroche, Uma Maheswari, Markus Lommer, Nicolas Schauer,
+  Pascal~J. Lopez, Giovanni Finazzi, Alisdair~R. Fernie, and Chris Bowler.
+\newblock {Whole-cell response of the pennate diatom Phaeodactylum tricornutum
+  to iron starvation.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (30):\penalty0 10438--43, July 2008.
 \newblock \doi{10.1073/pnas.0711370105}.
 
 \bibitem[Altschul et~al.(1997)Altschul, Madden, Sch\"{a}ffer, Zhang, Zhang,
   Miller, and Lipman]{Altschul1997}
-Stephen~F Altschul, Thomas~L Madden, Alejandro~A Sch\"{a}ffer, Jinghui Zhang,
-  Zheng Zhang, Webb Miller, and David~J Lipman.
+Stephen~F. Altschul, Thomas~L. Madden, Alejandro~A. Sch\"{a}ffer, Jinghui
+  Zhang, Zheng Zhang, Webb Miller, and David~J. Lipman.
 \newblock {Gapped BLAST and PSI-BLAST: a new generation of protein database
   search programs}.
 \newblock \emph{Nucleic Acids Research}, 25\penalty0 (17):\penalty0 3389--3402,
@@ -62,10 +62,6 @@ Simon Anders, Paul~Theodor Pyl, and Wolfgang Huber.
 \newblock \emph{Bioinformatics (Oxford, England)}, 31\penalty0 (2):\penalty0
   166--9, September 2014.
 \newblock \doi{10.1093/bioinformatics/btu638}.
-
-\bibitem[Andrews()]{Andrews}
-S~Andrews.
-\newblock {FastQC A Quality Control tool for High Throughput Sequence Data}.
 
 \bibitem[Antonov et~al.(2005)Antonov, Goldstein, Oberli, Baltzer, Pirotta,
   Fleischmann, Altermatt, and Jaggi]{Antonov2005}
@@ -383,16 +379,16 @@ K~Dheda, J~F Huggett, J~S Chang, L~U Kim, S~A Bustin, M~A Johnson, G~A~W Rook,
   September 2005.
 \newblock \doi{10.1016/j.ab.2005.05.022}.
 
-\bibitem[Doney et~al.(2012)Doney, Ruckelshaus, Duffy, Barry, Chan, English,
-  Galindo, Grebmeier, Hollowed, Knowlton, Polovina, Rabalais, Sydeman, and
-  Talley]{Doney2012}
-Scott~C Doney, Mary Ruckelshaus, J~Emmett Duffy, James~P Barry, Francis Chan,
-  Chad~A English, Heather~M Galindo, Jacqueline~M Grebmeier, Anne~B Hollowed,
-  Nancy Knowlton, Jeffrey Polovina, Nancy~N Rabalais, William~J Sydeman, and
-  Lynne~D Talley.
-\newblock {Climate change impacts on marine ecosystems.}
-\newblock \emph{Annual review of marine science}, 4:\penalty0 11--37, January
-  2012.
+\bibitem[Doney et~al.(2012)Doney, Ruckelshaus, {Emmett Duffy}, Barry, Chan,
+  English, Galindo, Grebmeier, Hollowed, Knowlton, Polovina, Rabalais, Sydeman,
+  and Talley]{Doney2012}
+Scott~C Doney, Mary Ruckelshaus, J.~{Emmett Duffy}, James~P Barry, Francis
+  Chan, Chad~A English, Heather~M Galindo, Jacqueline~M Grebmeier, Anne~B
+  Hollowed, Nancy Knowlton, Jeffrey Polovina, Nancy~N Rabalais, William~J
+  Sydeman, and Lynne~D Talley.
+\newblock {Climate change impacts on marine ecosystems}.
+\newblock \emph{Annual Review of Marine Science}, 4\penalty0 (1):\penalty0
+  11--37, January 2012.
 \newblock \doi{10.1146/annurev-marine-041911-111611}.
 
 \bibitem[Dupont et~al.(2015)Dupont, McCrow, Valas, Moustafa, Walworth,
@@ -478,8 +474,8 @@ Michael~J Follows, Stephanie Dutkiewicz, Scott Grant, and Sallie~W Chisholm.
 Kristina~M Fontanez, John~M Eppley, Ty~J Samo, David~M Karl, and Edward~F
   DeLong.
 \newblock {Microbial community structure and function on sinking particles in
-  the North Pacific subtropical gyre.}
-\newblock \emph{Frontiers in microbiology}, 6:\penalty0 469, January 2015.
+  the North Pacific Subtropical Gyre}.
+\newblock \emph{Frontiers in Microbiology}, 6:\penalty0 469, May 2015.
 \newblock \doi{10.3389/fmicb.2015.00469}.
 
 \bibitem[Frischkorn et~al.(2014)Frischkorn, Harke, Gobler, and
@@ -593,9 +589,10 @@ J.~A. Hartigan and M.~A. Wong.
 Gwenn M.~M. Hennon, Justin Ashworth, Ryan~D. Groussman, Chris Berthiaume,
   Rhonda~L. Morales, Nitin~S. Baliga, M\'{o}nica~V. Orellana, and E.~V.
   Armbrust.
-\newblock {Diatom acclimation to elevated CO<sub>2</sub> via cAMP signalling
-  and coordinated gene expression}.
-\newblock \emph{Nature Climate Change}, June 2015.
+\newblock {Diatom acclimation to elevated CO2 via cAMP signalling and
+  coordinated gene expression}.
+\newblock \emph{Nature Climate Change}, 5\penalty0 (8):\penalty0 761--765, June
+  2015.
 \newblock \doi{10.1038/nclimate2683}.
 
 \bibitem[Huisman and Weissing(1999)]{Huisman1999}
@@ -1017,9 +1014,9 @@ J~Keith Moore.
 Yuki Moriya, Masumi Itoh, Shujiro Okuda, Akiyasu~C Yoshizawa, and Minoru
   Kanehisa.
 \newblock {KAAS: an automatic genome annotation and pathway reconstruction
-  server.}
-\newblock \emph{Nucleic acids research}, 35\penalty0 (Web Server
-  issue):\penalty0 W182--5, July 2007.
+  server}.
+\newblock \emph{Nucleic Acids Research}, 35\penalty0 (Web Server):\penalty0
+  W182--W185, May 2007.
 \newblock \doi{10.1093/nar/gkm321}.
 
 \bibitem[Moseley et~al.(2006)Moseley, Chang, and Grossman]{Moseley2006}
@@ -1155,7 +1152,8 @@ Gareth~A Pearson, Asuncion Lago-Leston, Fernando C\'{a}novas, Cymon~J Cox,
   Ester~A Serr\~{a}o.
 \newblock {Metatranscriptomes reveal functional variation in diatom communities
   from the Antarctic Peninsula}.
-\newblock \emph{The ISME Journal}, April 2015.
+\newblock \emph{The ISME Journal}, 9\penalty0 (10):\penalty0 2275--2289,
+  October 2015.
 \newblock \doi{10.1038/ismej.2015.40}.
 
 \bibitem[Pfaffl(2001)]{Pfaffl2001}
@@ -1525,7 +1523,7 @@ D~Tilman, P~B Reich, J~Knops, D~Wedin, T~Mielke, and C~Lehman.
 David Tilman.
 \newblock {Resource competition between plankton algae: an experimental and
   theoretical approach}.
-\newblock \emph{Ecology}, 58\penalty0 (2):\penalty0 338, March 1977.
+\newblock \emph{Ecology}, 58\penalty0 (2):\penalty0 338--348, March 1977.
 \newblock \doi{10.2307/1935608}.
 
 \bibitem[Tilman et~al.(1996)Tilman, Wedin, and Knops]{Tilman1996}
@@ -1586,7 +1584,7 @@ Emilie Villar, Gregory~K Farrant, Michael Follows, Laurence Garczarek, Sabrina
   Schoenbaechler]{Villareal2011}
 Tracy~A. Villareal, Lori Adornato, Cara Wilson, and Caimee~A. Schoenbaechler.
 \newblock {Summer blooms of diatom-diazotroph assemblages and surface
-  chlorophyll in the North Pacific Geyre: a disconnect}.
+  chlorophyll in the North Pacific Gyre: a disconnect}.
 \newblock \emph{Journal of Geophysical Research}, 116\penalty0 (C3):\penalty0
   C03001, March 2011.
 \newblock \doi{10.1029/2010JC006268}.
