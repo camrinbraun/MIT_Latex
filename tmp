@@ -10,7 +10,7 @@ abstract = {Genes that are constitutively expressed across multiple environmenta
 annote = {From Duplicate 1 ( },
 author = {Alexander, Harriet and Jenkins, B D and Rynearson, Tatiana a and Saito, Mak A and Mercier, Melissa L and Dyhrman, Sonya T},
 doi = {10.3389/fmicb.2012.00385},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Alexander et al. - 2012 - Identifying reference genes with stable expression from high throughput sequence data(2).pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Alexander et al. - 2012 - Identifying reference genes with stable expression from high throughput sequence data(3).pdf:pdf},
 isbn = {1664-302X (Electronic)$\backslash$r1664-302X (Linking)},
 
 journal = {Frontiers in microbiology},
@@ -44,7 +44,7 @@ year = {2015}
 abstract = {Marine primary productivity is iron (Fe)-limited in vast regions of the contemporary oceans, most notably the high nutrient low chlorophyll (HNLC) regions. Diatoms often form large blooms upon the relief of Fe limitation in HNLC regions despite their prebloom low cell density. Although Fe plays an important role in controlling diatom distribution, the mechanisms of Fe uptake and adaptation to low iron availability are largely unknown. Through a combination of nontargeted transcriptomic and metabolomic approaches, we have explored the biochemical strategies preferred by Phaeo dactylum tricornutum at growth-limiting levels of dissolved Fe. Processes carried out by components rich in Fe, such as photosynthesis, mitochondrial electron transport, and nitrate assimilation, were down-regulated. Our results show that this retrenchment is compensated by nitrogen (N) and carbon (C) reallocation from protein and carbohydrate degradation, adaptations to chlorophyll biosynthesis and pigment metabolism, removal of excess electrons by mitochondrial alternative oxidase (AOX) and non-photochemical quenching (NPQ), and augmented Fe-independent oxidative stress responses. Iron limitation leads to the elevated expression of at least three gene clusters absent from the Thalassiosira pseudonana genome that encode for components of iron capture and uptake mechanisms.},
 author = {Allen, Andrew E. and Laroche, Julie and Maheswari, Uma and Lommer, Markus and Schauer, Nicolas and Lopez, Pascal J. and Finazzi, Giovanni and Fernie, Alisdair R. and Bowler, Chris},
 doi = {10.1073/pnas.0711370105},
-file = {:Users/harrietalexander/Papers/Allen2008\_Phaeodactylum\_WholeCellResponse.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Allen et al. - 2008 - Whole-cell response of the pennate diatom iPhaeodactylum tricornutumi to iron starvation.pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Biological,Carbohydrates,Carbohydrates: chemistry,Carbon,Carbon: chemistry,Chlorophyll,Chlorophyll: chemistry,Diatoms,Diatoms: genetics,Diatoms: metabolism,Down-Regulation,Genome,Iron,Iron: chemistry,Iron: metabolism,Mitochondria,Mitochondria: metabolism,Mitochondrial Proteins,Models,Multigene Family,Nitrogen,Nitrogen: chemistry,Oceans and Seas,Oxidoreductases,Oxidoreductases: chemistry,Photochemistry,Photochemistry: methods,Pigmentation,Plant Proteins,metabalomics,nutrients,photosynthesis,transcriptomics},
@@ -54,7 +54,7 @@ month = jul,
 number = {30},
 pages = {10438--43},
 pmid = {18653757},
-title = {{Whole-cell response of the pennate diatom \textit{Phaeodactylum tricornutum</i> to iron starvation.}},
+title = {{Whole-cell response of the pennate diatom Phaeodactylum tricornutum to iron starvation.}},
 
 volume = {105},
 year = {2008}
@@ -91,7 +91,7 @@ year = {2015}
 abstract = {MOTIVATION: A large choice of tools exists for many standard tasks in the analysis of high-throughput sequencing (HTS) data. However, once a project deviates from standard work flows, custom scripts are needed. RESULTS: We present HTSeq, a Python library to facilitate the rapid development of such scripts. HTSeq offers parsers for many common data formats in HTS projects, as well as classes to represent data such as genomic coordinates, sequences, sequencing reads, alignments, gene model information, variant calls, and provides data structures that allow for querying via genomic coordinates. We also present htseq-count, a tool developed with HTSeq that preprocesses RNA-Seq data for differential expression analysis by counting the overlap of reads with genes. Availability: HTSeq is released as open-source software under the GNU General Public Licence and available from http://www-huber.embl.de/HTSeq or from the Python Package Index https://pypi.python.org/pypi/HTSeq. CONTACT: sanders@fs.tum.de.},
 author = {Anders, Simon and Pyl, Paul Theodor and Huber, Wolfgang},
 doi = {10.1093/bioinformatics/btu638},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Anders, Pyl, Huber - 2014 - HTSeq - A Python framework to work with high-throughput sequencing data.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Anders, Pyl, Huber - 2014 - HTSeq - A Python framework to work with high-throughput sequencing data(2).pdf:pdf},
 
 journal = {Bioinformatics (Oxford, England)},
 language = {en},
@@ -127,7 +127,7 @@ year = {2005}
 abstract = {Diatoms are unicellular algae with plastids acquired by secondary endosymbiosis. They are responsible for approximately 20\% of global carbon fixation. We report the 34 million-base pair draft nuclear genome of the marine diatom Thalassiosira pseudonana and its 129 thousand-base pair plastid and 44 thousand-base pair mitochondrial genomes. Sequence and optical restriction mapping revealed 24 diploid nuclear chromosomes. We identified novel genes for silicic acid transport and formation of silica-based cell walls, high-affinity iron uptake, biosynthetic enzymes for several types of polyunsaturated fatty acids, use of a range of nitrogenous compounds, and a complete urea cycle, all attributes that allow diatoms to prosper in aquatic environments.},
 author = {Armbrust, E. Virginia and Berges, John A. and Bowler, Chris and Green, Beverley R. and Martinez, Diego and Putnam, Nicholas H. and Zhou, Shiguo and Allen, Andrew E. and Apt, Kirk E. and Bechner, Michael and Brzezinski, Mark A. and Chaal, Balbir K. and Chiovitti, Anthony and Davis, Aubrey K. and Demarest, Mark S. and Detter, J. Chris and Glavina, Tijana and Goodstein, David and Hadi, Masood Z. and Hellsten, Uffe and Hildebrand, Mark and Jenkins, Bethany D. and Jurka, Jerzy and Kapitonov, Vladimir V. and Kr\"{o}ger, Nils and Lau, Winnie W. Y. and Lane, Todd W. and Larimer, Frank W. and Lippmeier, J. Casey and Lucas, Susan and Medina, M\'{o}nica and Montsant, Anton and Obornik, Miroslav and Parker, Micaela Schnitzler and Palenik, Brian and Pazour, Gregory J. and Richardson, Paul M. and Rynearson, Tatiana A. and Saito, Mak A. and Schwartz, David C. and Thamatrakoln, Kimberlee and Valentin, Klaus and Vardi, Assaf and Wilkerson, Frances P. and Rokhsar, Daniel S.},
 doi = {10.1126/science.1101156},
-file = {:Users/harrietalexander/Papers/Arbrust2004\_ThapsGenome.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Armbrust et al. - 2004 - The genome of the diatom iThalassiosira pseudonanai ecology, evolution, and metabolism.pdf:pdf},
 
 journal = {Science (New York, N.Y.)},
 keywords = {Adaptation,Algal Proteins,Algal Proteins: chemistry,Algal Proteins: genetics,Algal Proteins: physiology,Animals,Biological Evolution,Cell Nucleus,Cell Nucleus: genetics,Chromosomes,DNA,DNA: genetics,Diatoms,Diatoms: chemistry,Diatoms: cytology,Diatoms: genetics,Diatoms: metabolism,Ecosystem,Energy Metabolism,Genome,Iron,Iron: metabolism,Light,Light-Harvesting Protein Complexes,Light-Harvesting Protein Complexes: chemistry,Light-Harvesting Protein Complexes: genetics,Light-Harvesting Protein Complexes: metabolism,Mitochondria,Mitochondria: genetics,Molecular Sequence Data,Nitrogen,Nitrogen: metabolism,Photosynthesis,Physiological,Plastids,Plastids: genetics,Restriction Mapping,Sequence Alignment,Sequence Analysis,Silicic Acid,Silicic Acid: metabolism,Symbiosis,Urea,Urea: metabolism},
@@ -168,7 +168,7 @@ year = {2004}
 abstract = {Concern is growing about the consequences of biodiversity loss for ecosystem functioning, for the provision of ecosystem services, and for human well being. Experimental evidence for a relationship between biodiversity and ecosystem process rates is compelling, but the issue remains contentious. Here, we present the first rigorous quantitative assessment of this relationship through meta-analysis of experimental work spanning 50 years to June 2004. We analysed 446 measures of biodiversity effects (252 in grasslands), 319 of which involved primary producer manipulations or measurements. Our analyses show that: biodiversity effects are weaker if biodiversity manipulations are less well controlled; effects of biodiversity change on processes are weaker at the ecosystem compared with the community level and are negative at the population level; productivity-related effects decline with increasing number of trophic links between those elements manipulated and those measured; biodiversity effects on stability measures ('insurance' effects) are not stronger than biodiversity effects on performance measures. For those ecosystem services which could be assessed here, there is clear evidence that biodiversity has positive effects on most. Whilst such patterns should be further confirmed, a precautionary approach to biodiversity management would seem prudent in the meantime.},
 author = {Balvanera, Patricia and Pfisterer, Andrea B and Buchmann, Nina and He, Jing-Shen and Nakashizuka, Tohru and Raffaelli, David and Schmid, Bernhard},
 doi = {10.1111/j.1461-0248.2006.00963.x},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Balvanera, Pfisterer, Buchmann - 2006 - Quantifying the evidence for biodiversity effects on ecosystem functioning and services.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Balvanera et al. - 2006 - Quantifying the evidence for biodiversity effects on ecosystem functioning and services.pdf:pdf},
 
 journal = {Ecology letters},
 keywords = {Biodiversity,Conservation of Natural Resources,Ecosystem,Population Dynamics},
@@ -243,7 +243,7 @@ year = {2007}
 abstract = {Brown tides of the marine pelagophyte Aureococcus anophagefferens Hargraves et Sieburth have been investigated extensively for the past two decades. Its growth is fueled by a variety of nitrogen (N) compounds, with dissolved organic nitrogen (DON) being particularly important during blooms. Characterization of a cDNA library suggests that A. anophagefferens can assimilate eight different forms of N. Expression of genes related to the sensing, uptake, and assimilation of inorganic and organic N, as well as the catabolic process of autophagy, was assayed in cells grown on different N sources and in N-limited cells. Growth on nitrate elicited an increase in the relative expression of nitrate and ammonium transporters, a nutrient stress-induced transporter, and a sensory kinase. Growth on urea increased the relative expression of a urea and a formate/nitrite transporter, while growth on ammonium resulted in an increase in the relative expression of an ammonium transporter, a novel ATP-binding cassette (ABC) transporter and a putative high-affinity phosphate transporter. N limitation resulted in a 30- to 110-fold increase in the relative expression of nitrate, ammonium, urea, amino acid/polyamine, and formate/nitrite transporters. A. anophagefferens demonstrated the highest relative accumulation of a transcript encoding a novel purine transporter, which was highly expressed across all N sources. This finding suggests that purines are an important source of N for the growth of this organism and could possibly contribute to the initiation and maintenance of blooms in the natural environment.},
 author = {Berg, Gry Mine and Shrager, Jeff and Gl\"{o}ckner, Gernot and Arrigo, Kevin R and Grossman, Arthur R},
 doi = {10.1111/j.1529-8817.2008.00571.x},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Berg et al. - 2008 - Understanding nitrogen limitation in Aureococcus anophagefferens (Pelagophyceae) through cDNA and qRT-PCR analysis.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Berg et al. - 2008 - Understanding nitrogen limitation in Aureococcus anophagefferens (Pelagophyceae) through cDNA and qRT-PCR analys(2).pdf:pdf},
 
 journal = {Journal of Phycology},
 keywords = {Aureococcus anophagefferens,Folder - Studies with RT-PCR,amino acid/polyamine transporter,ammonium transporter,formate/nitrite transporter,gene expression,nitrate transporter,nitrogen limitation,picoeukaryote,purine transporter,urea transporter},
@@ -252,7 +252,7 @@ mendeley-tags = {Aureococcus anophagefferens,Folder - Studies with RT-PCR,amino 
 month = oct,
 number = {5},
 pages = {1235--1249},
-title = {{Understanding nitrogen limitation in \textit{Aureococcus anophagefferens</i> (Pelagophyceae) through cDNA and qRT-PCR analysis}},
+title = {{Understanding nitrogen limitation in Aureococcus anophagefferens (Pelagophyceae) through cDNA and qRT-PCR analysis}},
 
 volume = {44},
 year = {2008}
@@ -279,7 +279,7 @@ year = {2012}
 abstract = {A 38-year time series (January 1959 to May 1997) of weekly observations of abundance of the marine diatom Skeletonema spp. and related plankton habitat parameters in lower Narragansett Bay, Rhode Island was compiled and analyzed. A statistical change point test identified two different abundance regimes characterized by a ca. 45\% decline in Skeletonema abundance. In the first 260 months of the time series (January 1959 to August 1980), the mean deseasonalized Skeletonema abundance was 2137 cells ml−\&\#xa0;1, which declined to 1128 cells ml−\&\#xa0;1 in the final 201 months (August 1980 to May 1997) of the time series. The decline was greatest during the winter–spring bloom period; Skeletonema abundance in March declined from a mean of ca. 3300 cells ml−\&\#xa0;1 prior to the change-point to ca. 700 cells ml−\&\#xa0;1 after the change point. Skeletonema exhibited three types of annual abundance patterns: winter–spring, summer and autumn bloom peaks. A decline in winter–spring Skeletonema abundance was part of a shift away from winter–spring bloom dominated annual cycles in the 1960s to summer bloom dominated annual cycles in the 1990s. Of 25 years suitable for analyses, Skeletonema winter–spring bloom dominated in 12 years, summer blooms dominated in ten years and autumn blooms dominated three years. Winter–spring Skeletonema bloom years tended to be bright, windy, cold, and have lower copepod (Acartia hudsonica) abundance in the first quarter, and were cool and had high A. hudsonica abundance in the fourth quarter. In contrast, during summer and fall Skeletonema bloom years the first quarters were darker, warmer, less windy and accompanied by higher first quarter A. hudsonica abundance. In summer and fall bloom years the fourth quarters were warm and had above-mean river flow and low A. hudsonica abundance. The observed first quarter environmental differences between winter–spring and summer–fall bloom years (i.e., water temperature, wind, light) may be partially regulated by changes in weather induced by large-scale atmospheric circulation patterns. Years in which the North Atlantic Oscillation (NAO) index was relatively low (mean\&\#xa0;=\&\#xa0;−\&\#xa0;1.4) tended to have colder winters, and winter–spring bloom dominated Skeletonema annual cycles; years with high NAO index (\&gt;\&\#xa0;+\&\#xa0;1.1) featured warmer winters and summer or autumn Skeletonema blooms.},
 author = {Borkman, David G. and Smayda, Theodore},
 doi = {10.1016/j.seares.2008.10.004},
-file = {:Users/harrietalexander/Papers/Borkman2008\_NarragansettBay.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Borkman, Smayda - 2009 - Multidecadal (1959–1997) changes in iSkeletonemai abundance and seasonal bloom patterns in Narragansett Ba(2).pdf:pdf},
 isbn = {1385-1101},
 
 journal = {Journal of Sea Research},
@@ -326,7 +326,7 @@ month = apr,
 number = {2},
 pages = {266--277},
 shorttitle = {Emiliania Huxleyi (prymnesiophyceae)},
-title = {{\textit{Emiliania huxleyi</i> (prymnesiophyceae): nitrogen-metabolism genes and their expression in response to external nitrogen sources}},
+title = {{Emiliania huxleyi (prymnesiophyceae): nitrogen-metabolism genes and their expression in response to external nitrogen sources}},
 
 volume = {46},
 year = {2010}
@@ -348,7 +348,7 @@ year = {2005}
 abstract = {The reverse transcription polymerase chain reaction (RT-PCR) is the most sensitive method for the detection of low-abundance mRNA, often obtained from limited tissue samples. However, it is a complex technique, there are substantial problems associated with its true sensitivity, reproducibility and specificity and, as a quantitative method, it suffers from the problems inherent in PCR. The recent introduction of fluorescence-based kinetic RT-PCR procedures significantly simplifies the process of producing reproducible quantification of mRNAs and promises to overcome these limitations. Nevertheless, their successful application depends on a clear understanding of the practical problems, and careful experimental design, application and validation remain essential for accurate quantitative measurements of transcription. This review discusses the technical aspects involved, contrasts conventional and kinetic RT-PCR methods for quantitating gene expression and compares the different kinetic RT-PCR systems. It illustrates the usefulness of these assays by demonstrating the significantly different levels of transcription between individuals of the housekeeping gene family, glyceraldehyde-3-phosphate-dehydrogenase (GAPDH).},
 author = {Bustin, S.},
 doi = {10.1677/jme.0.0250169},
-file = {:Users/harrietalexander/Papers/Bustin2000\_qRTPCR\_relativequantification.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Bustin - 2000 - Absolute quantification of mRNA using real-time reverse transcription polymerase chain reaction assays(2).pdf:pdf},
 
 journal = {Journal of Molecular Endocrinology},
 language = {en},
@@ -364,7 +364,7 @@ year = {2000}
 abstract = {There now is ample experimental evidence that speciose assemblages are more productive and provide a greater amount of ecosystem services than depauperate ones. However, these experiments often conclude that there is a higher probability of including complementary species combinations in assemblages with more species and lack a priori prediction about which species combinations maximize function. Here, I report the results of an experiment manipulating the evolutionary relatedness of constituent plant species across a richness gradient. I show that assemblages with distantly related species contributed most to the higher biomass production in multispecies assemblages, through species complementarity. Species produced more biomass than predicted from their monocultures when they were in plots with distantly related species and produced the amount of biomass predicted from monoculture when sown with close relatives. This finding suggests that in the absence of any other information, combining distantly related species in restored or managed landscapes may serve to maximize biomass production and carbon sequestration, thus merging calls to conserve evolutionary history and maximize ecosystem function.},
 author = {Cadotte, Marc W},
 doi = {10.1073/pnas.1301685110},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cadotte - 2013 - Experimental evidence that evolutionarily diverse assemblages result in higher productivity.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cadotte - 2013 - Experimental evidence that evolutionarily diverse assemblages result in higher productivity(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Angiosperms,Angiosperms: growth \& development,Biodiversity,Biological Evolution,Biomass,Biota,Carbon Sequestration,Carbon Sequestration: physiology,Computational Biology,Genetic,Likelihood Functions,Linear Models,Models,Ontario,Phylogeny,Species Specificity},
@@ -433,7 +433,7 @@ year = {2011}
 @article{Cavender-Bares2001,
 author = {Cavender-Bares, Kent K. and Karl, David M. and Chisholm, Sallie W.},
 doi = {10.1016/S0967-0637(01)00027-9},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cavender-Bares, Karl, Chisholm - 2001 - Nutrient gradients in the western North Atlantic Ocean Relationship to microbial community struc.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cavender-Bares, Karl, Chisholm - 2001 - Nutrient gradients in the western North Atlantic Ocean relationship to microbial community st(2).pdf:pdf},
 
 journal = {Deep Sea Research Part I: Oceanographic Research Papers},
 month = nov,
@@ -447,7 +447,7 @@ year = {2001}
 @article{Coker2003,
 abstract = {Because the expression levels of housekeeping genes are relatively constant in most tissues, they are often useful controls when quantifying gene expression. We present an analytical method for identifying candidate housekeeping controls using expressed sequence tags (ESTs) from The Institute for Genomic Research Tomato Gene Index. We found relative expression levels for a collection of 127 transcripts and calculated the percentage of cDNA libraries that had expression levels (for a given transcript) within 2-fold through 10-fold ranges. When all libraries were considered together, the highest ranked housekeeping controls included transcripts for a DanJ-like protein, translationally controlled tumor protein, two alpha-tubulins, cyclophilin, and glyceraldehyde-3-phosphate dehydrogenase (GAPDH). For each organ (leaf, root, fruit, and flower), at least one transcript was found that occurred within a 2-fold range of expression in all respective libraries. These included transcripts for alpha-tubulin, DnaJ-like proteins, phosphoglycerate kinase, and GAPDH, although different transcripts appear better suited than others for different tissues. This analytical method is useful for identifying candidate housekeeping controls in particular tissues and at particular levels of expression and would be relevant for any species for which significant EST data exist.},
 author = {Coker, Jeffrey S and Davies, Eric},
-file = {:Users/harrietalexander/Papers/Coker2003\_houskeeping.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Coker, Davies - 2003 - Selection of candidate housekeeping controls in tomato plants using EST data(2).pdf:pdf},
 
 journal = {BioTechniques},
 keywords = {Algorithms,Expressed Sequence Tags,Gene Expression Profiling,Gene Expression Regulation- Plant,Gene Library,Genetic Variation,Lycopersicon esculentum,Plant Proteins},
@@ -491,7 +491,7 @@ year = {2001}
 abstract = {Gene transcripts with invariant abundance during development and in the face of environmental stimuli are essential reference points for accurate gene expression analyses, such as RNA gel-blot analysis or quantitative reverse transcription-polymerase chain reaction (PCR). An exceptionally large set of data from Affymetrix ATH1 whole-genome GeneChip studies provided the means to identify a new generation of reference genes with very stable expression levels in the model plant species Arabidopsis (Arabidopsis thaliana). Hundreds of Arabidopsis genes were found that outperform traditional reference genes in terms of expression stability throughout development and under a range of environmental conditions. Most of these were expressed at much lower levels than traditional reference genes, making them very suitable for normalization of gene expression over a wide range of transcript levels. Specific and efficient primers were developed for 22 genes and tested on a diverse set of 20 cDNA samples. Quantitative reverse transcription-PCR confirmed superior expression stability and lower absolute expression levels for many of these genes, including genes encoding a protein phosphatase 2A subunit, a coatomer subunit, and an ubiquitin-conjugating enzyme. The developed PCR primers or hybridization probes for the novel reference genes will enable better normalization and quantification of transcript levels in Arabidopsis in the future.},
 author = {Czechowski, Tomasz and Stitt, Mark and Altmann, Thomas and Udvardi, Michael K. and Scheible, Wolf-R\"{u}diger},
 doi = {10.1104/pp.105.063743},
-file = {:Users/harrietalexander/Papers/Czechowski2005\_ReferenceGenes.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Czechowski et al. - 2005 - Genome-wide identification and testing of superior reference genes for transcript normalization in Arabidopsi.pdf:pdf},
 journal = {Plant Physiology},
 number = {1},
 pages = {5 --17},
@@ -504,7 +504,7 @@ year = {2005}
 abstract = {Clustering is often one of the first steps in gene expression analysis. How do clustering algorithms work, which ones should we use and what can we expect from them?},
 author = {D'haeseleer, Patrik},
 doi = {10.1038/nbt1205-1499},
-file = {:Users/harrietalexander/Papers/Dhaeseleer2005\_Clustering.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/D'haeseleer - 2005 - How does gene expression clustering work(2).pdf:pdf},
 
 journal = {Nature biotechnology},
 keywords = {Algorithms,Artificial Intelligence,Automated,Automated: methods,Cluster Analysis,Data Interpretation,Gene Expression Profiling,Gene Expression Profiling: methods,Oligonucleotide Array Sequence Analysis,Oligonucleotide Array Sequence Analysis: methods,Pattern Recognition,Software,Statistical},
@@ -551,7 +551,7 @@ year = {2008}
 abstract = {For accurate and reliable gene expression analysis, normalization of gene expression data against housekeeping genes (reference or internal control genes) is required. It is known that commonly used housekeeping genes (e.g. ACTB, GAPDH, HPRT1, and B2M) vary considerably under different experimental conditions and therefore their use for normalization is limited. We performed a meta-analysis of 13,629 human gene array samples in order to identify the most stable expressed genes. Here we show novel candidate housekeeping genes (e.g. RPS13, RPL27, RPS20 and OAZ1) with enhanced stability among a multitude of different cell types and varying experimental conditions. None of the commonly used housekeeping genes were present in the top 50 of the most stable expressed genes. In addition, using 2,543 diverse mouse gene array samples we were able to confirm the enhanced stability of the candidate novel housekeeping genes in another mammalian species. Therefore, the identified novel candidate housekeeping genes seem to be the most appropriate choice for normalizing gene expression data.},
 author = {de Jonge, Hendrik J. M. and Fehrmann, Rudolf S. N. and de Bont, Eveline S. J. M. and Hofstra, Robert M. W. and Gerbens, Frans and Kamps, Willem A. and de Vries, Elisabeth G. E. and van der Zee, Ate G. J. and te Meerman, Gerard J. and ter Elst, Arja},
 doi = {10.1371/journal.pone.0000898},
-file = {:Users/harrietalexander/Papers/deJonge2007\_HousekeepingGenes.pdf:pdf;:Users/harrietalexander/Papers/Jonge2007\_ReferenceGene.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/de Jonge et al. - 2007 - Evidence Based Selection of Housekeeping Genes(3).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/de Jonge et al. - 2007 - Evidence based selection of housekeeping genes(4).pdf:pdf},
 
 journal = {PloS one},
 keywords = {Animals,Base Sequence,DNA Primers,Essential,Genes,Genetic,Humans,Mice,Oligonucleotide Array Sequence Analysis,Selection},
@@ -566,16 +566,16 @@ year = {2007}
 }
 @article{DeVargas2015,
 abstract = {Marine plankton support global biological and geochemical processes. Surveys of their biodiversity have hitherto been geographically restricted and have not accounted for the full range of plankton size. We assessed eukaryotic diversity from 334 size-fractionated photic-zone plankton communities collected across tropical and temperate oceans during the circumglobal Tara Oceans expedition. We analyzed 18S ribosomal DNA sequences across the intermediate plankton-size spectrum from the smallest unicellular eukaryotes (protists, >0.8 micrometers) to small animals of a few millimeters. Eukaryotic ribosomal diversity saturated at \~{}150,000 operational taxonomic units, about one-third of which could not be assigned to known eukaryotic groups. Diversity emerged at all taxonomic levels, both within the groups comprising the \~{}11,200 cataloged morphospecies of eukaryotic plankton and among twice as many other deep-branching lineages of unappreciated importance in plankton ecology studies. Most eukaryotic plankton biodiversity belonged to heterotrophic protistan groups, particularly those known to be parasites or symbiotic hosts.},
-author = {de Vargas, Colomban and Audic, St\'{e}phane and Henry, Nicolas and Decelle, Johan and Mah\'{e}, Fr\'{e}d\'{e}ric and Logares, Ramiro and Lara, Enrique and Berney, C\'{e}dric and {Le Bescot}, Noan and Probert, Ian and Carmichael, Margaux and Poulain, Julie and Romac, Sarah and Colin, S\'{e}bastien and Aury, Jean-Marc and Bittner, Lucie and Chaffron, Samuel and Dunthorn, Micah and Engelen, Stefan and Flegontova, Olga and Guidi, Lionel and Hor\'{a}k, Ale\v{s} and Jaillon, Olivier and Lima-Mendez, Gipsi and Luke\v{s}, Julius and Malviya, Shruti and Morard, Raphael and Mulot, Matthieu and Scalco, Eleonora and Siano, Raffaele and Vincent, Flora and Zingone, Adriana and Dimier, C\'{e}line and Picheral, Marc and Searson, Sarah and Kandels-Lewis, Stefanie and Acinas, Silvia G and Bork, Peer and Bowler, Chris and Gorsky, Gabriel and Grimsley, Nigel and Hingamp, Pascal and Iudicone, Daniele and Not, Fabrice and Ogata, Hiroyuki and Pesant, Stephane and Raes, Jeroen and Sieracki, Michael E and Speich, Sabrina and Stemmann, Lars and Sunagawa, Shinichi and Weissenbach, Jean and Wincker, Patrick and Karsenti, Eric},
+author = {de Vargas, Colomban and Audic, St\'{e}phane and Henry, Nicolas and Decelle, Johan and Mahe, F. and Logares, Ramiro and Lara, Enrique and Berney, C\'{e}dric and {Le Bescot}, Noan and Probert, Ian and Carmichael, Margaux and Poulain, Julie and Romac, Sarah and Colin, S\'{e}bastien and Aury, J.-M. and Bittner, Lucie and Chaffron, Samuel and Dunthorn, Micah and Engelen, Stefan and Flegontova, Olga and Guidi, Lionel and Horak, A. and Jaillon, Olivier and Lima-Mendez, Gipsi and Luke, J. and Malviya, Shruti and Morard, Raphael and Mulot, Matthieu and Scalco, Eleonora and Siano, Raffaele and Vincent, Flora and Zingone, Adriana and Dimier, C\'{e}line and Picheral, Marc and Searson, Sarah and Kandels-Lewis, Stefanie and Acinas, Silvia G and Bork, Peer and Bowler, Chris and Gorsky, Gabriel and Grimsley, Nigel and Hingamp, Pascal and Iudicone, Daniele and Not, Fabrice and Ogata, Hiroyuki and Pesant, Stephane and Raes, Jeroen and Sieracki, Michael E and Speich, Sabrina and Stemmann, Lars and Sunagawa, Shinichi and Weissenbach, Jean and Wincker, Patrick and Karsenti, Eric and Boss, E. and Follows, M. and Karp-Boss, L. and Krzic, U. and Reynaud, E. G. and Sardet, C. and Sullivan, M. B. and Velayoudon, D.},
 doi = {10.1126/science.1261605},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/de Vargas et al. - 2015 - Eukaryotic plankton diversity in the sunlit ocean.pdf:pdf},
 
-journal = {Science (New York, N.Y.)},
+journal = {Science},
 month = may,
 number = {6237},
-pages = {1261605},
+pages = {1261605--1261605},
 pmid = {25999516},
-title = {{Eukaryotic plankton diversity in the sunlit ocean.}},
+title = {{Eukaryotic plankton diversity in the sunlit ocean}},
 
 volume = {348},
 year = {2015}
@@ -617,7 +617,7 @@ year = {2012}
 abstract = {Transitions in community genomic features and biogeochemical processes were examined in surface and subsurface chlorophyll maximum (SCM) microbial communities across a trophic gradient from mesotrophic waters near San Diego, California to the oligotrophic Pacific. Transect end points contrasted in thermocline depth, rates of nitrogen and CO2 uptake, new production and SCM light intensity. Relative to surface waters, bacterial SCM communities displayed greater genetic diversity and enrichment in putative sulfur oxidizers, multiple actinomycetes, low-light-adapted Prochlorococcus and cell-associated viruses. Metagenomic coverage was not correlated with transcriptional activity for several key taxa within Bacteria. Low-light-adapted Prochlorococcus, Synechococcus, and low abundance gamma-proteobacteria enriched in the>3.0-$\mu$m size fraction contributed disproportionally to global transcription. The abundance of these groups also correlated with community functions, such as primary production or nitrate uptake. In contrast, many of the most abundant bacterioplankton, including SAR11, SAR86, SAR112 and high-light-adapted Prochlorococcus, exhibited low levels of transcriptional activity and were uncorrelated with rate processes. Eukaryotes such as Haptophytes and non-photosynthetic Aveolates were prevalent in surface samples while Mamielles and Pelagophytes dominated the SCM. Metatranscriptomes generated with ribosomal RNA-depleted mRNA (total mRNA) coupled to in vitro polyadenylation compared with polyA-enriched mRNA revealed a trade-off in detection eukaryotic organelle and eukaryotic nuclear origin transcripts, respectively. Gene expression profiles of SCM eukaryote populations, highly similar in sequence identity to the model pelagophyte Pelagomonas sp. CCMP1756, suggest that pelagophytes are responsible for a majority of nitrate assimilation within the SCM.},
 author = {Dupont, Chris L and McCrow, John P and Valas, Ruben and Moustafa, Ahmed and Walworth, Nathan and Goodenough, Ursula and Roth, Robyn and Hogle, Shane L and Bai, Jing and Johnson, Zackary I and Mann, Elizabeth and Palenik, Brian and Barbeau, Katherine A and {Craig Venter}, J and Allen, Andrew E},
 doi = {10.1038/ismej.2014.198},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Dupont et al. - 2014 - Genomes and gene expression across light and productivity gradients in eastern subtropical Pacific microbial comm.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Dupont et al. - 2015 - Genomes and gene expression across light and productivity gradients in eastern subtropical Pacific microbial comm.pdf:pdf},
 
 journal = {The ISME journal},
 month = may,
@@ -655,7 +655,7 @@ year = {2006}
 abstract = {Phosphorus (P) is a critical driver of phytoplankton growth and ecosystem function in the ocean. Diatoms are an abundant class of marine phytoplankton that are responsible for significant amounts of primary production. With the control they exert on the oceanic carbon cycle, there have been a number of studies focused on how diatoms respond to limiting macro and micronutrients such as iron and nitrogen. However, diatom physiological responses to P deficiency are poorly understood. Here, we couple deep sequencing of transcript tags and quantitative proteomics to analyze the diatom Thalassiosira pseudonana grown under P-replete and P-deficient conditions. A total of 318 transcripts were differentially regulated with a false discovery rate of <0.05, and a total of 136 proteins were differentially abundant (p<0.05). Significant changes in the abundance of transcripts and proteins were observed and coordinated for multiple biochemical pathways, including glycolysis and translation. Patterns in transcript and protein abundance were also linked to physiological changes in cellular P distributions, and enzyme activities. These data demonstrate that diatom P deficiency results in changes in cellular P allocation through polyphosphate production, increased P transport, a switch to utilization of dissolved organic P through increased production of metalloenzymes, and a remodeling of the cell surface through production of sulfolipids. Together, these findings reveal that T. pseudonana has evolved a sophisticated response to P deficiency involving multiple biochemical strategies that are likely critical to its ability to respond to variations in environmental P availability.},
 author = {Dyhrman, Sonya T and Jenkins, Bethany D and Rynearson, Tatiana A and Saito, Mak A and Mercier, Melissa L and Alexander, Harriet and Whitney, Leann P and Drzewianowski, Andrea and Bulygin, Vladimir V and Bertrand, Erin M and Wu, Zhijin and Benitez-Nelson, Claudia and Heithoff, Abigail},
 doi = {10.1371/journal.pone.0033768},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Dyhrman et al. - 2012 - The transcriptome and proteome of the diatom Thalassiosira pseudonana reveal a diverse phosphorus stress response.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Dyhrman et al. - 2012 - The transcriptome and proteome of the diatom iThalassiosira pseudonanai reveal a diverse phosphorus stress respo.pdf:pdf},
 
 journal = {PloS one},
 keywords = {Biological Transport,Diatoms,Diatoms: genetics,Diatoms: metabolism,Glycolysis,Glycolysis: genetics,Phosphorus,Phosphorus: metabolism,Physiological,Protein Biosynthesis,Protein Biosynthesis: genetics,Proteome,Stress,Transcriptome,proteome,transcriptome},
@@ -713,7 +713,7 @@ year = {1958}
 abstract = {Integrating conceptually similar models of the growth of marine and terrestrial primary producers yielded an estimated global net primary production (NPP) of 104.9 petagrams of carbon per year, with roughly equal contributions from land and oceans. Approaches based on satellite indices of absorbed solar radiation indicate marked heterogeneity in NPP for both land and oceans, reflecting the influence of physical and ecological processes. The spatial and temporal distributions of ocean NPP are consistent with primary limitation by light, nutrients, and temperature. On land, water limitation imposes additional constraints. On land and ocean, progressive changes in NPP can result in altered carbon storage, although contrasts in mechanisms of carbon storage and rates of organic matter turnover result in a range of relations between carbon storage and changes in NPP.},
 author = {Field, Christopher B. and Behrenfeld, Michael J. and Randerson, James T and Falkowski, Paul G.},
 doi = {10.1126/science.281.5374.237},
-file = {:Users/harrietalexander/Papers/Field1998\_PrimaryProductino.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Field - 1998 - Primary Production of the Biosphere Integrating Terrestrial and Oceanic Components.pdf:pdf},
 
 journal = {Science (New York, N.Y.)},
 language = {en},
@@ -776,7 +776,7 @@ year = {2007}
 abstract = {Sinking particles mediate the transport of carbon and energy to the deep-sea, yet the specific microbes associated with sedimenting particles in the ocean's interior remain largely uncharacterized. In this study, we used particle interceptor traps (PITs) to assess the nature of particle-associated microbial communities collected at a variety of depths in the North Pacific Subtropical Gyre. Comparative metagenomics was used to assess differences in microbial taxa and functional gene repertoires in PITs containing a preservative (poisoned traps) compared to preservative-free traps where growth was allowed to continue in situ (live traps). Live trap microbial communities shared taxonomic and functional similarities with bacteria previously reported to be enriched in dissolved organic matter (DOM) microcosms (e.g., Alteromonas and Methylophaga), in addition to other particle and eukaryote-associated bacteria (e.g., Flavobacteriales and Pseudoalteromonas). Poisoned trap microbial assemblages were enriched in Vibrio and Campylobacterales likely associated with eukaryotic surfaces and intestinal tracts as symbionts, pathogens, or saprophytes. The functional gene content of microbial assemblages in poisoned traps included a variety of genes involved in virulence, anaerobic metabolism, attachment to chitinaceaous surfaces, and chitin degradation. The presence of chitinaceaous surfaces was also accompanied by the co-existence of bacteria which encoded the capacity to attach to, transport and metabolize chitin and its derivatives. Distinctly different microbial assemblages predominated in live traps, which were largely represented by copiotrophs and eukaryote-associated bacterial communities. Predominant sediment trap-assocaited eukaryotic phyla included Dinoflagellata, Metazoa (mostly copepods), Protalveolata, Retaria, and Stramenopiles. These data indicate the central role of eukaryotic taxa in structuring sinking particle microbial assemblages, as well as the rapid responses of indigenous microbial species in the degradation of marine particulate organic matter (POM) in situ in the ocean's interior.},
 author = {Fontanez, Kristina M and Eppley, John M and Samo, Ty J and Karl, David M and DeLong, Edward F},
 doi = {10.3389/fmicb.2015.00469},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Fontanez et al. - 2015 - Microbial community structure and function on sinking particles in the North Pacific Subtropical Gyre.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Fontanez et al. - 2015 - Microbial community structure and function on sinking particles in the North Pacific subtropical gyre(2).pdf:pdf},
 
 journal = {Frontiers in Microbiology},
 keywords = {Biological pump,Dissolved organic matter (DOM),Marine particles,Metagenomics,Microbiology,Particulate Organic Matter,sediment trap},
@@ -859,7 +859,7 @@ year = {2002}
 abstract = {The potential of metatranscriptomic sequencing to provide insights into the environmental factors that regulate microbial activities depends on how fully the sequence libraries capture community expression (that is, sample-sequencing depth and coverage depth), and the sensitivity with which expression differences between communities can be detected (that is, statistical power for hypothesis testing). In this study, we use an internal standard approach to make absolute (per liter) estimates of transcript numbers, a significant advantage over proportional estimates that can be biased by expression changes in unrelated genes. Coastal waters of the southeastern United States contain 1 × 10(12) bacterioplankton mRNA molecules per liter of seawater (\~{}200 mRNA molecules per bacterial cell). Even for the large bacterioplankton libraries obtained in this study (\~{}500,000 possible protein-encoding sequences in each of two libraries after discarding rRNAs and small RNAs from >1 million 454 FLX pyrosequencing reads), sample-sequencing depth was only 0.00001\%. Expression levels of 82 genes diagnostic for transformations in the marine nitrogen, phosphorus and sulfur cycles ranged from below detection (<1 × 10(6) transcripts per liter) for 36 genes (for example, phosphonate metabolism gene phnH, dissimilatory nitrate reductase subunit napA) to >2.7 × 10(9) transcripts per liter (ammonia transporter amt and ammonia monooxygenase subunit amoC). Half of the categories for which expression was detected, however, had too few copy numbers for robust statistical resolution, as would be required for comparative (experimental or time-series) expression studies. By representing whole community gene abundance and expression in absolute units (per volume or mass of environment), 'omics' data can be better leveraged to improve understanding of microbially mediated processes in the ocean.},
 author = {Gifford, Scott M and Sharma, Shalabh and Rinta-Kanto, Johanna M and Moran, Mary Ann},
 doi = {10.1038/ismej.2010.141},
-file = {:Users/harrietalexander/Papers/Gifford2011\_metatranscriptomicsquantitative.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Gifford et al. - 2011 - Quantitative analysis of a deeply sequenced marine microbial metatranscriptome.pdf:pdf},
 
 journal = {The ISME Journal},
 keywords = {Bacteria,Bacteria: classification,Bacteria: genetics,Bacterial,DNA,Gene Dosage,Gene Expression Regulation,Genetic Variation,Genomic Library,Messenger,Messenger: analysis,Messenger: genetics,Proteomics,Proteomics: standards,RNA,Seawater,Seawater: microbiology,Sequence Analysis,Southeastern United States,Transcriptome,bacterioplankton,biogeochemistry,gene expression,marine,metatranscriptomics},
@@ -878,7 +878,7 @@ year = {2011}
 abstract = {Resolving the ecological niches of coexisting marine microbial taxa is challenging due to the high species richness of microbial communities and the apparent functional redundancy in bacterial genomes and metagenomes. Here, we generated over 11 million Illumina reads of protein-encoding transcripts collected from well-mixed southeastern US coastal waters to characterize gene expression patterns distinguishing the ecological roles of hundreds of microbial taxa sharing the same environment. The taxa with highest in situ growth rates (based on relative abundance of ribosomal protein transcripts) were typically not the greatest contributors to community transcription, suggesting strong top-down ecological control, and their diverse transcriptomes indicated roles as metabolic generalists. The taxa with low in situ growth rates typically had low diversity transcriptomes dominated by specialized metabolisms. By identifying protein-encoding genes with atypically high expression for their level of conservation, unique functional roles of community members emerged related to substrate use (such as complex carbohydrates, fatty acids, methanesulfonate, taurine, tartrate, ectoine), alternative energy-conservation strategies (proteorhodopsin, AAnP, V-type pyrophosphatases, sulfur oxidation, hydrogen oxidation) and mechanisms for negotiating a heterogeneous environment (flagellar motility, gliding motility, adhesion strategies). On average, the heterotrophic bacterioplankton dedicated 7\% of their transcriptomes to obtaining energy by non-heterotrophic means. This deep sequencing of a coastal bacterioplankton transcriptome provides the most highly resolved view of bacterioplankton niche dimensions yet available, uncovering a spectrum of unrecognized ecological strategies.},
 author = {Gifford, Scott M. and Sharma, Shalabh and Booth, Melissa and Moran, Mary Ann},
 doi = {10.1038/ismej.2012.96},
-file = {:Users/harrietalexander/Papers/Gifford2012\_Niche\_Transcriptome.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Gifford et al. - Unknown - Expression patterns reveal niche diversification in a marine microbial assemblage(2).pdf:pdf},
 
 journal = {The ISME journal},
 keywords = {Bacteria,Bacteria: classification,Bacteria: growth \& development,Bacteria: metabolism,Bacterial,Ecosystem,Genes,Georgia,ISME J,Metagenome,Plankton,Plankton: classification,Plankton: growth \& development,Plankton: metabolism,Seawater,Seawater: microbiology,Transcriptome,ecophysiology,ecosystems,environmental biotechnology,geomicrobiology,microbe interactions,microbial communities,microbial ecology,microbial engineering,microbial epidemiology,microbial genomics,microorganisms},
@@ -897,7 +897,7 @@ year = {2013}
 abstract = {The history of microbial evolution in the oceans is probably as old as the history of life itself. In contrast to terrestrial ecosystems, microorganisms are the main form of biomass in the oceans, and form some of the largest populations on the planet. Theory predicts that selection should act more efficiently in large populations. But whether microbial plankton populations harbour organisms that are models of adaptive sophistication remains to be seen. Genome sequence data are piling up, but most of the key microbial plankton clades have no cultivated representatives, and information about their ecological activities is sparse.},
 author = {Giovannoni, Stephen J and Stingl, Ulrich},
 doi = {10.1038/nature04158},
-file = {:Users/harrietalexander/Papers/Arrigo2004\_Biogeochemistry.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Giovannoni, Stingl - 2005 - Molecular diversity and ecology of microbial plankton(2).pdf:pdf},
 
 journal = {Nature},
 keywords = {Adaptation, Physiological,Ecology,Marine Biology,Phylogeny,Plankton,Plankton: classification,Plankton: genetics,Plankton: metabolism,Seawater,Seawater: microbiology},
@@ -941,7 +941,7 @@ year = {2012}
 }
 @article{Hackett2004,
 author = {Hackett, Jeremiah D. and Anderson, Donald M. and Erdner, Deana L. and Bhattacharya, Debashish},
-file = {:Users/harrietalexander/Downloads/Hackett\_etal\_2003\_Dinos.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Hackett et al. - 2004 - Dinoflagellates a remarkable evolutionary experiment(2).pdf:pdf},
 journal = {American Journal of Botany},
 keywords = {and,are an important group,ceae,class dinophy-,dinoflagellate,division pyrrhophyta,endosymbiosis,evolution,harmful algal blooms,of phytoplankton in marine,the dinoflagellates},
 number = {10},
@@ -954,7 +954,7 @@ year = {2004}
 abstract = {DNA flows between chromosomes and mobile elements, following rules that are poorly understood. This limited knowledge is partly explained by the limits of current approaches to study the structure and evolution of genetic diversity. Network analyses of 119,381 homologous DNA families, sampled from 111 cellular genomes and from 165,529 phage, plasmid, and environmental virome sequences, offer challenging insights. Our results support a disconnected yet highly structured network of genetic diversity, revealing the existence of multiple "genetic worlds." These divides define multiple isolated groups of DNA vehicles drawing on distinct gene pools. Mathematical studies of the centralities of these worlds' subnetworks demonstrate that plasmids, not viruses, were key vectors of genetic exchange between bacterial chromosomes, both recently and in the past. Furthermore, network methodology introduces new ways of quantifying current sampling of genetic diversity.},
 author = {Halary, S\'{e}bastien and Leigh, Jessica W and Cheaib, Bachar and Lopez, Philippe and Bapteste, Eric},
 doi = {10.1073/pnas.0908978107},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Halary et al. - 2010 - Network analyses structure genetic diversity in independent genetic worlds.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Halary et al. - 2010 - Network analyses structure genetic diversity in independent genetic worlds(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Bacterial,Bacterial: analysis,Bacterial: classification,Bacterial: genetics,Biological Evolution,DNA,Databases,Gene Regulatory Networks,Genetic,Genetic Variation,Genome,Genomics,Molecular Sequence Data,Sequence Analysis},
@@ -971,7 +971,7 @@ year = {2010}
 abstract = {BACKGROUND: Increasingly, similarity networks are being used for evolutionary analyses of molecular datasets. These networks are very useful, in particular for the analysis of gene sharing, lateral gene transfer and for the detection of distant homologs. Currently, such analyses require some computer programming skills due to the limited availability of user-friendly freely distributed software. Consequently, although appealing, the construction and analyses of these networks remain less familiar to biologists than do phylogenetic approaches. RESULTS: In order to ease the use of similarity networks in the community of evolutionary biologists, we introduce a software program, EGN, that runs under Linux or MacOSX. EGN automates the reconstruction of gene and genome networks from nucleic and proteic sequences. EGN also implements statistics describing genetic diversity in these samples, for various user-defined thresholds of similarities. In the interest of studying the complexity of evolutionary processes affecting microbial evolution, we applied EGN to a dataset of 571,044 proteic sequences from the three domains of life and from mobile elements. We observed that, in Borrelia, plasmids play a different role than in most other eubacteria. Rather than being genetic couriers involved in lateral gene transfer, Borrelia's plasmids and their genes act as private genetic goods, that contribute to the creation of genetic diversity within their parasitic hosts. CONCLUSION: EGN can be used for constructing, analyzing, and mining molecular datasets in evolutionary studies. The program can help increase our knowledge of the processes through which genes from distinct sources and/or from multiple genomes co-evolve in lineages of cellular organisms.},
 author = {Halary, S\'{e}bastien and McInerney, James O and Lopez, Philippe and Bapteste, Eric},
 doi = {10.1186/1471-2148-13-146},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Halary et al. - 2013 - EGN a wizard for construction of gene and genome similarity networks.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Halary et al. - 2013 - EGN a wizard for construction of gene and genome similarity networks(2).pdf:pdf},
 
 journal = {BMC evolutionary biology},
 keywords = {Bacterial,Borrelia,Borrelia: genetics,Evolution,Gene Regulatory Networks,Gene Transfer,Genetic Variation,Genome,Horizontal,Molecular,Plasmids,Plasmids: genetics,Software},
@@ -1074,7 +1074,7 @@ year = {1961}
 abstract = {Prochlorococcus is the numerically dominant phytoplankter in the oligotrophic oceans, accounting for up to half of the photosynthetic biomass and production in some regions. Here, we describe how the abundance of six known ecotypes, which have small subunit ribosomal RNA sequences that differ by less than 3\%, changed along local and basin-wide environmental gradients in the Atlantic Ocean. Temperature was significantly correlated with shifts in ecotype abundance, and laboratory experiments confirmed different temperature optima and tolerance ranges for cultured strains. Light, nutrients, and competitor abundances also appeared to play a role in shaping different distributions.},
 author = {Johnson, Zackary I and Zinser, Erik R and Coe, Allison and McNulty, Nathan P and Woodward, E. Malcolm S and Chisholm, Sallie W},
 doi = {10.1126/science.1118052},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Johnson et al. - 2006 - Niche partitioning among iProchlorococcusi ecotypes along ocean-scale environmental gradients.pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Johnson et al. - 2006 - Niche partitioning among iProchlorococcusi ecotypes along ocean-scale environmental gradients(2).pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Johnson et al. - 2006 - Niche partitioning among iProchlorococcus iecotypes along ocean-scale environmental gradients.pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Johnson et al. - 2006 - Niche partitioning among Prochlorococcus ecotypes along ocean-scale environmental gradients(4).pdf:pdf},
 institution = {Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, 15 Vassar Street 48-419, Cambridge, MA 02139, USA.},
 
 journal = {Science (New York, N.Y.)},
@@ -1122,7 +1122,7 @@ year = {2001}
 abstract = {For more than a century, oceanographers have studied the interactions between the photosynthetic production of organic matter and nutrient dynamics in the sea. This research has been field-oriented and transdisciplinary, occurring at the intersections of research in microbiology, physics, analytical chemistry, cell physiology and ecology. The global database derived from this collective effort established a sound scientific understanding of nutrient dynamics and the vital role of microorganisms, both autotrophic and heterotrophic, in the coupled organic-matter production and decomposition cycles in the sea. However, novel approaches used over the past two decades, including new designs for field experiments, repeat field observations and remote-sensing capabilities, together with updated methods of sample analysis, have led to a revolution in our thinking about the mechanisms and controls of nutrient dynamics in the deep blue sea. Contemporary paradigms bear only partial resemblance to the dogma of the past, and are likely to evolve further as new data and new ideas are presented for open discussion and debate.},
 author = {Karl, David M},
 doi = {10.1016/S0966-842X(02)02430-7},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl - 2002 - Nutrient dynamics in the deep blue sea.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl - 2002 - Nutrient dynamics in the deep blue sea(2).pdf:pdf},
 
 journal = {Trends in Microbiology},
 keywords = {Ecology,Microbiology,aeolian supply of iron,climax community,gyres,habitat variability,mesopelagic zone,nitrogen fixation,open ocean,phosporous,primary production},
@@ -1138,7 +1138,7 @@ year = {2002}
 abstract = {The elemental stoichiometry of dissolved and particulate matter in the sea, especially the nitrogen-to-phosphorus ratio, is an important parameter for studies of the nutrient control of plankton growth and for modeling biogeochemical processes, including carbon sequestration. Nitrogen (N) and phosphorus (P) pools have been measured on approximately monthly intervals for a 9-yr period at a deep-ocean station in the North Pacific subtropical gyre (Sta. ALOHA; 22°45′N, 158°W). These data sets reveal complex interactions between N and P pools, and several unexpected secular trends. Models based on steady-state assumptions will not capture these temporal variations, especially the apparently rapid response of the microbial assemblages to stochastic nutrient intrusion events and the time-varying (seasonal, interannual and decadal scale) changes in dissolved matter N\&\#xa0;:\&\#xa0;P ratios. Based on an analysis of these data, we hypothesize that the gyre is presently in a period of net fixed N sequestration and P control of plankton rate processes.},
 author = {Karl, David M and Bj\"{o}rkman, Karin M and Dore, John E and Fujieki, Lance and Hebel, Dale V and Houlihan, Terrence and Letelier, Ricardo M and Tupas, Luis M},
 doi = {10.1016/S0967-0645(00)00152-1},
-file = {:Users/harrietalexander/Papers/Karl2001\_N-PStoicheometry\_ALOHA.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl et al. - 2001 - Ecological nitrogen-to-phosphorus stoichiometry at station ALOHA(2).pdf:pdf},
 
 journal = {Deep Sea Research Part II: Topical Studies in Oceanography},
 number = {8–9},
@@ -1167,7 +1167,7 @@ year = {2003}
 abstract = {Life on Earth most likely originated as microorganisms in the sea. Over the past 3.5 billion years, microorganisms have shaped and defined Earth's biosphere and have created conditions that have allowed the evolution of macroorganisms and complex biological communities, including human societies. Recent advances in technology have highlighted the vast and previously unknown genetic information that is contained in extant marine microorganisms, from new protein families to novel metabolic processes. Now there is a unique opportunity, using recent advances in molecular ecology, metagenomics, remote sensing of microorganisms and ecological modelling, to achieve a comprehensive understanding of marine microorganisms and their susceptibility to environmental variability and climate change. Contemporary microbial oceanography is truly a sea of opportunity and excitement.},
 author = {Karl, David M.},
 doi = {10.1038/nrmicro1749},
-file = {:Users/harrietalexander/Papers/Karl2007\_MicrobialOceanography\_review.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl - 2007 - Microbial oceanography paradigms, processes and promise(2).pdf:pdf},
 journal = {Nature Reviews Microbiology},
 month = oct,
 number = {10},
@@ -1181,7 +1181,7 @@ year = {2007}
 @article{Karl2012,
 author = {Karl, DM and Church, MJ and Dore, John E and Letelier, Ricardo M and Mahaffey, Claire},
 doi = {10.1073/pnas.1120312109},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl, Church - 2012 - Predictable and efficient carbon sequestration in the North Pacific Ocean supported by symbiotic nitrogen fixation.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl et al. - 2012 - Predictable and efficient carbon sequestration in the North Pacific Ocean supported by symbiotic nitrogen fixati(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 language = {en},
@@ -1196,7 +1196,7 @@ year = {2012}
 @article{Karl2008,
 author = {Karl, Dm and Letelier, Rm},
 doi = {10.3354/meps07547},
-file = {:Users/harrietalexander/Papers/Karl2008\_MEPS.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl, Letelier - 2008 - Nitrogen fixation-enhanced carbon sequestration in low nitrate, low chlorophyll seascapes(2).pdf:pdf},
 
 journal = {Marine Ecology Progress Series},
 keywords = {carbon sequestration,diazotroph,n 2 fixation,n 2 fixation in,nearly 80,north pacific gyre,nutrients,oceanic habitats,of the global ocean,of the publisher,of the surface waters,permitted without written consent,resale or republication not},
@@ -1293,7 +1293,7 @@ year = {2012}
 abstract = {Reverse-transcription quantitative polymerase chain reaction (RT-qPCR) is a rapid and high throughput gene expression quantification technology. In order to obtain accurate results, several key experimental design and standardization steps must be rigorously followed as previously described in the Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) guidelines. This study investigates the effect of reference gene normalization and the impact of RNA degradation on gene expression of 8-oxoguanine DNA glycosylase in human placenta from pregnancies complicated by preeclampsia and gestational diabetes mellitus and their gestation-matched controls. The data presented here show how RNA quality and appropriate reference gene selection is not only important to obtain accurate and reproducible RT-qPCR data but how different and even opposite results can be reported if the key steps outlined in the MIQE guidelines are not followed. The procedures and associated results presented in this study provide the first practical application of the MIQE guidelines to placental analysis in normal and pathological pregnancies.},
 author = {Lanoix, Dave and Lacasse, Andr\'{e}e-Anne and St-Pierre, Joey and Taylor, Sean C. and Ethier-Chiasson, Maude and Lafond, Julie and Vaillancourt, Cathy},
 doi = {10.1007/s12033-012-9539-2},
-file = {:Users/harrietalexander/Papers/Lanoix2012\_ReferenceGenes.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Lanoix et al. - 2012 - Quantitative PCR pitfalls the case of the human placenta(2).pdf:pdf},
 
 journal = {Molecular biotechnology},
 keywords = {8-oxoguanine dna glycosylase \'{a},Biomedical and Life Sciences,gestational diabetes \'{a} preeclampsia,integrity,real-time rt-pcr \'{a},reference gene \'{a} rna,\'{a}},
@@ -1353,7 +1353,7 @@ year = {2011}
 abstract = {It has been hypothesized that phosphate limitation, classically indicated by NO3:PO4 ratios >16, is one of the critical factors allowing the coccolithophorid Emiliania huxleyi to bloom. This hypothesis is based on physiological studies showing that E. huxleyi has an exceptionally high affinity for orthophosphate and is able to use organic phosphate. Indeed, E. huxleyi has been found to bloom at high NO3:PO4 ratios in some mesocosm studies and in the oceanic northeast North Atlantic. Recent E. huxleyi blooms on the southeastern Bering Sea shelf, however, occurred under low NO3:PO4 conditions, which is indicative of nitrogen rather than phosphorus stress. A review of field studies of blooms where nitrate and phosphate were measured indicates that NO3:PO4 was in fact frequently low. A survey of most of the areas of the world ocean where satellite-detected E. huxleyi blooms occur also shows that NO3:PO4 ratios are generally low. These observations suggest that E. huxleyi is able to exploit situations where either phosphorus or nitrogen is limiting to competing species. They also indicate that attention should be directed to examining organic nitrogen, organic phosphorus, and ammonium during E. huxleyi blooms to better understand the role macronutrients play in these blooms.},
 author = {Lessard, Evelyn J. and Merico, Agostino and Tyrrell, Toby},
 doi = {10.4319/lo.2005.50.3.1020},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Lessard, Merico, Tyrrell - 2005 - Nitrate phosphate ratios and Emiliania huxleyi blooms.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Lessard, Merico, Tyrrell - 2005 - Nitrate phosphate ratios and iEmiliania huxleyii blooms.pdf:pdf},
 
 journal = {Limnology and Oceanography},
 keywords = {Algae,Ammonium,Amonio,Aquatic environment,Article synth\`{e}se,Art\'{\i}culo s\'{\i}ntesis,Atlantic Ocean,Azote,Bering Sea,Bloom,Emiliania huxleyi,Environmental factor,Estr\'{e}s,Facteur limitant,Facteur milieu,Factor limitante,Factor medio,Fosfato,F\'{o}sforo,Haptophyta,Limiting factor,Mar de Bering,Medio acu\'{a}tico,Mer de Bering,Milieu aquatique,Nitrate,Nitrates,Nitrato,Nitrogen,Nitr\'{o}geno,North Atlantic,North Pacific,Northeast Atlantic,Oc\'{e}an Atlantique,Oc\'{e}an Atlantique Nord,Oc\'{e}an Atlantique Nord Est,Oc\'{e}an Pacifique,Oc\'{e}an Pacifique Nord,Oc\'{e}ano Atl\'{a}ntico,Oc\'{e}ano Atl\'{a}ntico Norte,Oc\'{e}ano Pac\'{\i}fico,Oc\'{e}ano Pac\'{\i}fico Norte,Pacific Ocean,Phosphate,Phosphates,Phosphore,Phosphorus,Review,Stress,Thallophyta},
@@ -1369,7 +1369,7 @@ year = {2005}
 @article{Letelier1993,
 author = {Letelier, Ricardo M and Bidigare, Robert R and Hebel, Dale V and Ondrusek, M. and Winn, C. D and Karl, David M},
 doi = {10.4319/lo.1993.38.7.1420},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Letelier et al. - 1993 - Temporal variability of phytoplankton community structure based on pigment analysis.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Letelier, Bidigare - 1993 - Temporal variability of phytoplankton community structure based on pigment analysis(2).pdf:pdf},
 
 journal = {Limnology and Oceanography},
 number = {7},
@@ -1387,7 +1387,7 @@ RESULTS: We designed and implemented a new algorithm, Burrows-Wheeler Aligner's 
 AVAILABILITY: http://bio-bwa.sourceforge.net},
 author = {Li, Heng and Durbin, Richard},
 doi = {10.1093/bioinformatics/btp698},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Li, Durbin - 2010 - Fast and accurate long-read alignment with Burrows-Wheeler transform.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Li, Durbin - 2010 - Fast and accurate long-read alignment with Burrows-Wheeler transform(2).pdf:pdf},
 
 journal = {Bioinformatics (Oxford, England)},
 keywords = {Algorithms,Base Sequence,Genome, Human,Genomics,Genomics: methods,Humans,Sequence Alignment,Sequence Alignment: methods,Sequence Analysis, DNA},
@@ -1421,7 +1421,7 @@ year = {2006}
 abstract = {Weekly measurements of Chl a were carried out between 1973 and 1990 in Narragansett Bay, Rhode Island, a temperate estuary along the north-eastern US coast. There was only a threefold variation in mean annual chlorophyll values but a considerably greater variation in the period when the annual maximum was reached. The inter-annual variation in annual means was relatively modest compared with monthly means. For a given month, the inter-annual variability in monthly mean chlorophyll varied from 3- to 30-fold; it was least during the summer months and maximal during the winter–spring bloom period. The long-term variability patterns characterizing individual months differed in their trends, cycles, and irregular fluctu-ations. Major blooms occurred during most of the year, and were not restricted to the annual winter–spring bloom. However, the frequency and magnitude of blooms were higher during winter–spring months than during summer months. A significant finding is that the annual mean chlorophyll decreased by more than 1 mg m−2 year−1 over the 18 year time series. This decrease apparently was under multifactorial control, with zooplankton grazing, sea surface temperature and windspeed being the most important factors.},
 author = {Li, Yaqin and Smayda, Theodore J},
 doi = {10.1006/jmsc.1998.0383},
-file = {:Users/harrietalexander/Papers/Li1998\_NarragansettBay.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Li, Smayda - 1998 - Temporal Variability of Chlorophyll in Narragansett Bay, 1973–1990(3).pdf:pdf},
 
 journal = {ICES Journal of Marine Science: Journal du Conseil},
 keywords = {Narragansett Bay,chlorophyll,long-term variability},
@@ -1456,7 +1456,7 @@ year = {2009}
 abstract = {Trait-based approaches are increasingly used in ecology. Phytoplankton communities, with a rich history as model systems in community ecology, are ideally suited for applying and further developing these concepts. Here we summarize the essential components of trait-based approaches and review their historical and potential application to illuminating phytoplankton community ecology. Major ecological axes relevant to phytoplankton include light and nutrient acquisition and use, natural enemy interactions, morphological variation, temperature sensitivity, and modes of reproduction. Trade-offs between these traits play key roles in determining community structure. Freshwater and marine environments may select for a different suite of traits owing to their different physical and chemical properties. We describe mathematical techniques for integrating traits into measures of growth and fitness and predicting how community structure varies along environmental gradients. Finally, we outline challenges and future directions for the application of trait-based approaches to phytoplankton ecology.},
 author = {Litchman, Elena and Klausmeier, Christopher A.},
 doi = {10.1146/annurev.ecolsys.39.110707.173549},
-file = {:Users/harrietalexander/Papers/Litchman2008\_TraitsTradeoffs\_Review.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Litchman, Klausmeier - 2008 - Trait-based community ecology of phytoplankton(2).pdf:pdf},
 journal = {Annual Review of Ecology, Evolution, and Systematics},
 number = {1},
 pages = {615--639},
@@ -1500,7 +1500,7 @@ abstract = {Oceanic communities are sources or sinks of CO2, depending on the ba
 annote = {From Duplicate 1 ( },
 author = {L\'{o}pez-Urrutia, Angel and {San Martin}, Elena and Harris, Roger P and Irigoien, Xabier},
 doi = {10.1073/pnas.0601137103},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/L\'{o}pez-Urrutia et al. - 2006 - Scaling the metabolic balance of the oceans.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/L\'{o}pez-Urrutia et al. - 2006 - Scaling the metabolic balance of the oceans(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Biological,Body Size,Carbon Dioxide,Carbon Dioxide: metabolism,Cell Respiration,Ecology,Greenhouse Effect,Models,Oceans and Seas,Photosynthesis,Plankton,Plankton: metabolism,Seawater,Seawater: chemistry,Temperature},
@@ -1532,7 +1532,7 @@ year = {2010}
 @article{Maldonado2006,
 author = {Maldonado, Maria T. and Allen, Andrew E. and Chong, Joanne S. and Lin, Kevin and Leus, Dan and Karpenko, Nataliya and Harris, Shannon L.},
 doi = {10.4319/lo.2006.51.4.1729},
-file = {:Users/harrietalexander/Papers/Maldonado2006\_IronTransport\_Cu.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Maldonado et al. - 2006 - Copper-dependent iron transport in coastal and oceanic diatoms(2).pdf:pdf},
 
 journal = {Limnology and Oceanography},
 keywords = {Folder - Studies with RT-PCR},
@@ -1560,7 +1560,7 @@ year = {1996}
 @article{Mann1999,
 author = {Mann, David G.},
 doi = {10.2216/i0031-8884-38-6-437.1},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Mann - 1999 - The species concept in diatoms.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/MANN - 1999 - PHYCOLOGICAL REVIEWS 18(2).pdf:pdf},
 
 journal = {Phycologia},
 month = nov,
@@ -1575,7 +1575,7 @@ year = {1999}
 abstract = {In vast expanses of the oceans, growth of large phytoplankton such as diatoms is limited by iron availability. Diatoms respond almost immediately to the delivery of iron and rapidly compose the majority of phytoplankton biomass. The molecular bases underlying the subsistence of diatoms in iron-poor waters and the plankton community dynamics that follow iron resupply remain largely unknown. Here we use comparative metatranscriptomics to identify changes in gene expression associated with iron-stimulated growth of diatoms and other eukaryotic plankton. A microcosm iron-enrichment experiment using mixed-layer waters from the northeastern Pacific Ocean resulted in increased proportions of diatom transcripts and reduced proportions of transcripts from most other taxa within 98 h after iron addition. Hundreds of diatom genes were differentially expressed in the iron-enriched community compared with the iron-limited community; transcripts of diatom genes required for synthesis of photosynthesis and chlorophyll components, nitrate assimilation and the urea cycle, and synthesis of carbohydrate storage compounds were significantly overrepresented. Transcripts of genes encoding rhodopsins in eukaryotic phytoplankton were significantly underrepresented following iron enrichment, suggesting rhodopsins help cells cope with low-iron conditions. Oceanic diatoms appear to display a distinctive transcriptional response to iron enrichment that allows chemical reduction of available nitrogen and carbon sources along with a continued dependence on iron-free photosynthetic proteins rather than substituting for iron-containing functional equivalents present within their gene repertoire. This ability of diatoms to divert their newly acquired iron toward nitrate assimilation may underlie why diatoms consistently dominate iron enrichments in high-nitrate, low-chlorophyll regions.},
 author = {Marchetti, Adrian and Schruth, David M and Durkin, Colleen a and Parker, Micaela S and Kodner, Robin B and Berthiaume, Chris T and Morales, Rhonda and Allen, Andrew E and Armbrust, E Virginia},
 doi = {10.1073/pnas.1118408109},
-file = {:Users/harrietalexander/Papers/Marchetti2012\_Transcriptomics.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Marchetti et al. - 2012 - Comparative metatranscriptomics identifies molecular bases for the physiological responses of phytoplankton to.pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Diatoms,Diatoms: drug effects,Diatoms: growth \& development,Eukaryota,Eukaryota: drug effects,Eukaryota: metabolism,Gene Expression Profiling,Iron,Iron: pharmacology,Messenger,Messenger: genetics,Messenger: metabolism,Metabolic Networks and Pathways,Metabolic Networks and Pathways: drug effects,Metabolic Networks and Pathways: genetics,Metagenomics,Metagenomics: methods,Pacific Ocean,Phylogeny,Phytoplankton,Phytoplankton: classification,Phytoplankton: drug effects,Phytoplankton: genetics,Phytoplankton: physiology,RNA,Rhodopsin,Rhodopsin: metabolism,Seawater,Transcriptome,Transcriptome: genetics},
@@ -1651,7 +1651,7 @@ year = {1970}
 @article{McAndrew2007,
 author = {McAndrew, Pm and Bj\"{o}rkman, Km and Church, Mj and Morris, Pj and Jachowski, N and leB {Williams PJ} and Karl, Dm},
 doi = {10.3354/meps332063},
-file = {:Users/harrietalexander/Papers/McAndrews2007\_EnrichmentExperiment\_HOTs.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/McAndrew et al. - 2007 - Metabolic response of oligotrophic plankton communities to deep water nutrient enrichment(2).pdf:pdf},
 
 journal = {Marine Ecology Progress Series},
 month = mar,
@@ -1665,7 +1665,7 @@ year = {2007}
 abstract = {Marine dissolved organic matter (DOM) contains as much carbon as the Earth's atmosphere, and represents a critical component of the global carbon cycle. To better define microbial processes and activities associated with marine DOM cycling, we analyzed genomic and transcriptional responses of microbial communities to high-molecular-weight DOM (HMWDOM) addition. The cell density in the unamended control remained constant, with very few transcript categories exhibiting significant differences over time. In contrast, the DOM-amended microcosm doubled in cell numbers over 27 h, and a variety of HMWDOM-stimulated transcripts from different taxa were observed at all time points measured relative to the control. Transcripts significantly enriched in the HMWDOM treatment included those associated with two-component sensor systems, phosphate and nitrogen assimilation, chemotaxis, and motility. Transcripts from Idiomarina and Alteromonas spp., the most highly represented taxa at the early time points, included those encoding TonB-associated transporters, nitrogen assimilation genes, fatty acid catabolism genes, and TCA cycle enzymes. At the final time point, Methylophaga rRNA and non-rRNA transcripts dominated the HMWDOM-amended microcosm, and included gene transcripts associated with both assimilatory and dissimilatory single-carbon compound utilization. The data indicated specific resource partitioning of DOM by different bacterial species, which results in a temporal succession of taxa, metabolic pathways, and chemical transformations associated with HMWDOM turnover. These findings suggest that coordinated, cooperative activities of a variety of bacterial "specialists" may be critical in the cycling of marine DOM, emphasizing the importance of microbial community dynamics in the global carbon cycle.},
 author = {McCarren, Jay and Becker, Jamie W. and Repeta, Daniel J. and Shi, Yanmei and Young, Curtis R. and Malmstrom, Rex R. and Chisholm, Sallie W. and DeLong, Edward F.},
 doi = {10.1073/pnas.1010732107},
-file = {:Users/harrietalexander/Papers/McCarren2010\_Metatranscriptome\_DOM.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/McCarren et al. - 2010 - Microbial community transcriptomes reveal microbes and metabolic pathways associated with dissolved organic mat.pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Biological,Carbon,Carbon: metabolism,Databases,Databases- Genetic,Ecosystem,Folder - Proposal,Gene Expression Profiling,Genetic,Metabolic Networks and Pathways,Metagenomics,Microbiological Phenomena,Models,Models- Biological,Molecular Sequence Data,Organic Chemicals,Organic Chemicals: metabolism,Seawater,Seawater: chemistry,Seawater: microbiology,Water Microbiology},
@@ -1730,24 +1730,17 @@ volume = {146},
 year = {2008}
 }
 @article{Menden-deuer2014,
-author = {Menden-Deuer, Susanne and Rowlett, Julie},
-doi = {10.1098/rsif.2014.0031},
+author = {Menden-deuer, Susanne and Rowlett, Julie},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Menden-deuer, Rowlett - 2014 - Many ways to stay in the game individual variability maintains high biodiversity in planktonic microorga.pdf:pdf},
-
-journal = {Journal of The Royal Society Interface},
-month = mar,
-number = {95},
-pages = {20140031--20140031},
-title = {{Many ways to stay in the game: individual variability maintains high biodiversity in planktonic microorganisms}},
-
-volume = {11},
+number = {March},
+title = {{Many ways to stay in the game : individual variability maintains high biodiversity in planktonic microorganisms Many ways to stay in the game : individual variability maintains high biodiversity in planktonic microorganisms}},
 year = {2014}
 }
 @article{Min2005,
 abstract = {OrfPredictor is a web server designed for identifying protein-coding regions in expressed sequence tag (EST)-derived sequences. For query sequences with a hit in BLASTX, the program predicts the coding regions based on the translation reading frames identified in BLASTX alignments, otherwise, it predicts the most probable coding region based on the intrinsic signals of the query sequences. The output is the predicted peptide sequences in the FASTA format, and a definition line that includes the query ID, the translation reading frame and the nucleotide positions where the coding region begins and ends. OrfPredictor facilitates the annotation of EST-derived sequences, particularly, for large-scale EST projects. OrfPredictor is available at https://fungalgenome.concordia.ca/tools/OrfPredictor.html.},
 author = {Min, Xiang Jia and Butler, Gregory and Storms, Reginald and Tsang, Adrian},
 doi = {10.1093/nar/gki394},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Min et al. - 2005 - OrfPredictor predicting protein-coding regions in EST-derived sequences.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Min et al. - 2005 - OrfPredictor predicting protein-coding regions in EST-derived sequences(2).pdf:pdf},
 
 journal = {Nucleic acids research},
 keywords = {Algorithms,Amino Acid Sequence,Codon,DNA,DNA: methods,Databases,Expressed Sequence Tags,Expressed Sequence Tags: chemistry,Genetic,Internet,Open Reading Frames,Sequence Analysis,Software,User-Computer Interface},
@@ -1773,7 +1766,7 @@ month = feb,
 number = {5},
 pages = {1579--84},
 pmid = {18212125},
-title = {{Whole-genome expression profiling of the marine diatom \textit{Thalassiosira pseudonana</i> identifies genes involved in silicon bioprocesses.}},
+title = {{Whole-genome expression profiling of the marine diatom Thalassiosira pseudonana identifies genes involved in silicon bioprocesses.}},
 
 volume = {105},
 year = {2008}
@@ -1794,7 +1787,7 @@ year = {2004}
 abstract = {The number of complete and draft genomes is rapidly growing in recent years, and it has become increasingly important to automate the identification of functional properties and biological roles of genes in these genomes. In the KEGG database, genes in complete genomes are annotated with the KEGG orthology (KO) identifiers, or the K numbers, based on the best hit information using Smith-Waterman scores as well as by the manual curation. Each K number represents an ortholog group of genes, and it is directly linked to an object in the KEGG pathway map or the BRITE functional hierarchy. Here, we have developed a web-based server called KAAS (KEGG Automatic Annotation Server: http://www.genome.jp/kegg/kaas/) i.e. an implementation of a rapid method to automatically assign K numbers to genes in the genome, enabling reconstruction of KEGG pathways and BRITE hierarchies. The method is based on sequence similarities, bi-directional best hit information and some heuristics, and has achieved a high degree of accuracy when compared with the manually curated KEGG GENES database.},
 author = {Moriya, Yuki and Itoh, Masumi and Okuda, Shujiro and Yoshizawa, Akiyasu C and Kanehisa, Minoru},
 doi = {10.1093/nar/gkm321},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Moriya et al. - 2007 - KAAS an automatic genome annotation and pathway reconstruction server.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Moriya et al. - 2007 - KAAS an automatic genome annotation and pathway reconstruction server(2).pdf:pdf},
 
 journal = {Nucleic Acids Research},
 keywords = {Animals,Artificial Intelligence,Automation,Chromosome Mapping,Chromosome Mapping: methods,Computational Biology,Computational Biology: methods,Controlled,Database Management Systems,Documentation,Documentation: methods,Genome,Humans,Information Storage and Retrieval,Information Storage and Retrieval: methods,Internet,Proteome,Proteome: classification,Proteome: metabolism,Sequence Analysis,Sequence Analysis: methods,Signal Transduction,Signal Transduction: physiology,Vocabulary},
@@ -1855,7 +1848,7 @@ year = {2006}
 abstract = {BACKGROUND: Dinoflagellates are unicellular, often photosynthetic protists that play a major role in the dynamics of the Earth's oceans and climate. Sequencing of dinoflagellate nuclear DNA is thwarted by their massive genome sizes that are often several times that in humans. However, modern transcriptomic methods offer promising approaches to tackle this challenging system. Here, we used massively parallel signature sequencing (MPSS) to understand global transcriptional regulation patterns in Alexandrium tamarense cultures that were grown under four different conditions. METHODOLOGY/PRINCIPAL FINDINGS: We generated more than 40,000 unique short expression signatures gathered from the four conditions. Of these, about 11,000 signatures did not display detectable differential expression patterns. At a p-value < 1E-10, 1,124 signatures were differentially expressed in the three treatments, xenic, nitrogen-limited, and phosphorus-limited, compared to the nutrient-replete control, with the presence of bacteria explaining the largest set of these differentially expressed signatures. CONCLUSIONS/SIGNIFICANCE: Among microbial eukaryotes, dinoflagellates contain the largest number of genes in their nuclear genomes. These genes occur in complex families, many of which have evolved via recent gene duplication events. Our expression data suggest that about 73\% of the Alexandrium transcriptome shows no significant change in gene expression under the experimental conditions used here and may comprise a "core" component for this species. We report a fundamental shift in expression patterns in response to the presence of bacteria, highlighting the impact of biotic interaction on gene expression in dinoflagellates.},
 author = {Moustafa, Ahmed and Evans, Andrew N. and Kulis, David M. and Hackett, Jeremiah D. and Erdner, Deana L. and Anderson, Donald M. and Bhattacharya, Debashish},
 doi = {10.1371/journal.pone.0009688},
-file = {:Users/harrietalexander/Papers/Moustafa2010\_Dinoflagellate\_Transcriptomics.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Moustafa et al. - 2010 - Transcriptome profiling of a toxic dinoflagellate reveals a gene-rich protist and a potential impact on gene ex.pdf:pdf},
 
 journal = {PloS one},
 keywords = {Amino Acid,Amino Acid Sequence,Bacterial,DNA,Dinoflagellida,Dinoflagellida: genetics,Evolution,Expressed Sequence Tags,Gene Duplication,Gene Expression Profiling,Gene Expression Regulation,Genome,Homocysteine,Homocysteine: chemistry,Methionine,Methionine: chemistry,Molecular,Molecular Sequence Data,Photosynthesis,Sequence Analysis,Sequence Homology},
@@ -1927,7 +1920,7 @@ year = {1960}
 abstract = {Narragansett Bay is a relatively well-mixed, high salinity coastal embayment and estuary complex in southern New England (USA). Much of the shoreline is urban and the watershed is densely developed. We have combined our data on C, N, and P inputs to this system, on C, N, and P accumulation in the sediments, and on denitrification with extensive work by others to develop approximate annual mass balances for these elements. The results show that primary production within the bay is the major source of organic carbon (4 times greater than other sources), that land drainage and upstream sewage and fertilizer are the major sources of N, and that landward flowing bottom water from offshore may be a major source of dissolved inorganic phosphorus. Most of the nutrients entering the bay arrive in dissolved inorganic form, though DON is a significant component of the N carried by the rivers. About 40\% of the DIN in the rivers is in the form of ammonia. Sedimentation rates are low in most of Narragansett Bay, and it appears that less than 20\% of the total annual input of each of these elements is retained within the system. A very small amount of C, N, and P is removed in fisheries landings, denitrification in the sediments removes perhaps 10–25\% of the N input, and most of the carbon fixed in the system is respired within it. Stoichiometric calculations suggest that some 10–20\% of the organic matter formed in the bay is exported to offshore and that Narragansett Bay is an autotrophic system. Most of the N and P that enters the bay is, however, exported to offshore waters in dissolved inorganic form. This assessment of the overall biogeochemical behavior of C, N, and P in the bay is consistent with more rigorously constrained mass balances obtained using large living models or mesocosms of the bay at the Marine Ecosystem Research Laboratory (MERL).},
 author = {Nixon, S.W. and Granger, S.L. and Nowicki, B.L.},
 doi = {10.1007/BF00000805},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Nixon, Granger, Nowicki - 1995 - An assessment of the annual mass balance of carbon, nitrogen, and phosphorus in Narragansett Bay.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Nixon, Granger, Nowicki - 1995 - An assessment of the annual mass balance of carbon, nitrogen, and phosphorus in Narragansett Bay(2).pdf:pdf},
 
 journal = {Biogeochemistry},
 keywords = {Earth and Environmental Science},
@@ -1985,7 +1978,7 @@ year = {2010}
 abstract = {Planktonic microbial activity and community structure is dynamic, and can change dramatically on time scales of hours to days. Yet for logistical reasons, this temporal scale is typically under-sampled in the marine environment. In order to facilitate higher-resolution, long-term observation of microbial diversity and activity, we developed a protocol for automated collection and fixation of marine microbes using the Environmental Sample Processor (ESP) platform. The protocol applies a preservative (RNALater) to cells collected on filters, for long-term storage and preservation of total cellular RNA. Microbial samples preserved using this protocol yielded high-quality RNA after 30 days of storage at room temperature, or onboard the ESP at in situ temperatures. Pyrosequencing of complementary DNA libraries generated from ESP-collected and preserved samples yielded transcript abundance profiles nearly indistinguishable from those derived from conventionally treated replicate samples. To demonstrate the utility of the method, we used a moored ESP to remotely and autonomously collect Monterey Bay seawater for metatranscriptomic analysis. Community RNA was extracted and pyrosequenced from samples collected at four time points over the course of a single day. In all four samples, the oxygenic photoautotrophs were predominantly eukaryotic, while the bacterial community was dominated by Polaribacter-like Flavobacteria and a Rhodobacterales bacterium sharing high similarity with Rhodobacterales sp. HTCC2255. However, each time point was associated with distinct species abundance and gene transcript profiles. These laboratory and field tests confirmed that autonomous collection and preservation is a feasible and useful approach for characterizing the expressed genes and environmental responses of marine microbial communities.},
 author = {Ottesen, Elizabeth A and Marin, Roman and Preston, Christina M and Young, Curtis R and Ryan, John P and Scholin, Christopher A and DeLong, Edward F},
 doi = {10.1038/ismej.2011.70},
-file = {:Users/harrietalexander/Papers/Ottenson2011\_Metatranscriptomics.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ottesen et al. - 2011 - Metatranscriptomic analysis of autonomously collected and preserved marine bacterioplankton(2).pdf:pdf},
 
 journal = {The ISME journal},
 keywords = {Alphaproteobacteria,Alphaproteobacteria: genetics,Bacteria,Bacteria: classification,Bacteria: genetics,Bays,Bays: microbiology,Biological,Complementary,Complementary: genetics,DNA,Gene Expression Profiling,Gene Expression Profiling: methods,ISME J,Messenger,Messenger: genetics,Metagenomics,Metagenomics: methods,Plankton,Plankton: classification,Plankton: genetics,Preservation,RNA,Seawater,Seawater: microbiology,ecophysiology,ecosystems,environmental biotechnology,geomicrobiology,microbe interactions,microbial communities,microbial ecology,microbial engineering,microbial epidemiology,microbial genomics,microorganisms},
@@ -2004,7 +1997,7 @@ year = {2011}
 abstract = {Planktonic marine microbes live in dynamic habitats that demand rapid sensing and response to periodic as well as stochastic environmental change. The kinetics, regularity, and specificity of microbial responses in situ, however, are not well-described. We report here simultaneous multitaxon genome-wide transcriptome profiling in a naturally occurring picoplankton community. An in situ robotic sampler using a Lagrangian sampling strategy enabled continuous tracking and repeated sampling of coherent microbial populations over 2 d. Subsequent RNA sequencing analyses yielded genome-wide transcriptome profiles of eukaryotic (Ostreococcus) and bacterial (Synechococcus) photosynthetic picoplankton as well as proteorhodopsin-containing heterotrophs, including Pelagibacter, SAR86-cluster Gammaproteobacteria, and marine Euryarchaea. The photosynthetic picoplankton exhibited strong diel rhythms over thousands of gene transcripts that were remarkably consistent with diel cycling observed in laboratory pure cultures. In contrast, the heterotrophs did not cycle diurnally. Instead, heterotrophic picoplankton populations exhibited cross-species synchronous, tightly regulated, temporally variable patterns of gene expression for many genes, particularly those genes associated with growth and nutrient acquisition. This multitaxon, population-wide gene regulation seemed to reflect sporadic, short-term, reversible responses to high-frequency environmental variability. Although the timing of the environmental responses among different heterotrophic species seemed synchronous, the specific metabolic genes that were expressed varied from taxon to taxon. In aggregate, these results provide insights into the kinetics, diversity, and functional patterns of microbial community response to environmental change. Our results also suggest a means by which complex multispecies metabolic processes could be coordinated, facilitating the regulation of matter and energy processing in a dynamically changing environment.},
 author = {Ottesen, Elizabeth A and Young, Curtis R and Eppley, John M and Ryan, John P and Chavez, Francisco P and Scholin, Christopher A and DeLong, Edward F},
 doi = {10.1073/pnas.1222099110},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ottesen et al. - 2013 - Pattern and synchrony of gene expression among sympatric marine microbial populations.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ottesen et al. - 2013 - Pattern and synchrony of gene expression among sympatric marine microbial populations(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Archaea,Archaea: classification,Archaea: genetics,Archaea: isolation \& purification,Archaea: metabolism,Bacteria,Bacteria: classification,Bacteria: genetics,Bacteria: isolation \& purification,Bacteria: metabolism,Biodiversity,California,Circadian Rhythm,Circadian Rhythm: genetics,Ecosystem,Gene Expression Profiling,Metagenome,Metagenome: genetics,Phylogeny,Phytoplankton,Phytoplankton: classification,Phytoplankton: genetics,Phytoplankton: isolation \& purification,Plankton,Plankton: classification,Plankton: genetics,Plankton: isolation \& purification,Seawater,Seawater: microbiology,Synechococcus,Synechococcus: genetics,Synechococcus: metabolism,Transcriptome,Water Microbiology},
@@ -2021,7 +2014,7 @@ year = {2013}
 abstract = {Oscillating diurnal rhythms of gene transcription, metabolic activity, and behavior are found in all three domains of life. However, diel cycles in naturally occurring heterotrophic bacteria and archaea have rarely been observed. Here, we report time-resolved whole-genome transcriptome profiles of multiple, naturally occurring oceanic bacterial populations sampled in situ over 3 days. As anticipated, the cyanobacterial transcriptome exhibited pronounced diel periodicity. Unexpectedly, several different heterotrophic bacterioplankton groups also displayed diel cycling in many of their gene transcripts. Furthermore, diel oscillations in different heterotrophic bacterial groups suggested population-specific timing of peak transcript expression in a variety of metabolic gene suites. These staggered multispecies waves of diel gene transcription may influence both the tempo and the mode of matter and energy transformation in the sea.},
 author = {Ottesen, Elizabeth A. and Young, Curtis R. and Gifford, Scott M. and Eppley, John M. and Marin, Roman and Schuster, Stephan C. and Scholin, Christopher A. and DeLong, Edward F.},
 doi = {10.1126/science.1252476},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ottesen et al. - 2014 - Multispecies diel transcriptional oscillations in open ocean heterotrophic bacterial assemblages.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ottesen et al. - 2014 - Multispecies diel transcriptional oscillations in open ocean heterotrophic bacterial assemblages(2).pdf:pdf},
 
 journal = {Science (New York, N.Y.)},
 keywords = {Alphaproteobacteria,Alphaproteobacteria: genetics,Bacterial,Bacterial: physiology,Circadian Rhythm,Energy Metabolism,Energy Metabolism: genetics,Gene Expression Regulation,Genetic,Genetic: physiology,Plankton,Plankton: genetics,Prochlorococcus,Prochlorococcus: genetics,Roseobacter,Roseobacter: genetics,Seawater,Seawater: microbiology,Transcription,Transcriptome},
@@ -2050,7 +2043,7 @@ year = {1981}
 @article{Palenik1997,
 author = {Palenik, Brian P and Henson, Sarah E.},
 doi = {10.4319/lo.1997.42.7.1544},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Palenik, Henson - 1997 - The use of amides and other organic nitrogen sources by the phytoplankton Emiliania huxleyi.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Palenik, Henson - 1997 - The use of amides and other organic nitrogen sources by the phytoplankton iEmiliania huxleyii.pdf:pdf},
 
 journal = {Limnology and Oceanography},
 number = {7},
@@ -2178,7 +2171,7 @@ year = {2010}
 abstract = {The relationship between species diversity and ecosystem functioning has been debated for decades, especially in relation to the "macroscopic" realm (higher plants and metazoans). Although there is emerging consensus that diversity enhances productivity and stability in communities of higher organisms; however, we still do not know whether these relationships apply also for communities of unicellular organisms, such as phytoplankton, which contribute approximately 50\% to the global primary production. We show here that phytoplankton resource use, and thus carbon fixation, is directly linked to the diversity of phytoplankton communities. Datasets from freshwater and brackish habitats show that diversity is the best predictor for resource use efficiency of phytoplankton communities across considerable environmental gradients. Furthermore, we show that the diversity requirement for stable ecosystem functioning scales with the nutrient level (total phosphorus), as evidenced by the opposing effects of diversity (negative) and resource level (positive) on the variability of both resource use and community composition. Our analyses of large-scale observational data are consistent with experimental and model studies demonstrating causal effects of microbial diversity on functional properties at the system level. Our findings point at potential linkages between eutrophication and pollution-mediated loss of phytoplankton diversity. Factors reducing phytoplankton diversity may have direct detrimental effects on the amount and predictability of aquatic primary production.},
 author = {Ptacnik, Robert and Solimini, Angelo G and Andersen, Tom and Tamminen, Timo and Brettum, P\aa l and Lepist\"{o}, Liisa and Will\'{e}n, Eva and Rekolainen, Seppo},
 doi = {10.1073/pnas.0708328105},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ptacnik et al. - 2008 - Diversity predicts stability and resource use efficiency in natural phytoplankton communities.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Ptacnik et al. - 2008 - Diversity predicts stability and resource use efficiency in natural phytoplankton communities(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Animal,Animal: physiology,Animals,Behavior,Phytoplankton,Phytoplankton: physiology},
@@ -2221,7 +2214,7 @@ year = {2004}
 abstract = {Coccolithophores have influenced the global climate for over 200 million years. These marine phytoplankton can account for 20 per cent of total carbon fixation in some systems. They form blooms that can occupy hundreds of thousands of square kilometres and are distinguished by their elegantly sculpted calcium carbonate exoskeletons (coccoliths), rendering them visible from space. Although coccolithophores export carbon in the form of organic matter and calcite to the sea floor, they also release CO2 in the calcification process. Hence, they have a complex influence on the carbon cycle, driving either CO2 production or uptake, sequestration and export to the deep ocean. Here we report the first haptophyte reference genome, from the coccolithophore Emiliania huxleyi strain CCMP1516, and sequences from 13 additional isolates. Our analyses reveal a pan genome (core genes plus genes distributed variably between strains) probably supported by an atypical complement of repetitive sequence in the genome. Comparisons across strains demonstrate that E. huxleyi, which has long been considered a single species, harbours extensive genome variability reflected in different metabolic repertoires. Genome variability within this species complex seems to underpin its capacity both to thrive in habitats ranging from the equator to the subarctic and to form large-scale episodic blooms under a wide variety of environmental conditions.},
 author = {Read, Betsy A and Kegel, Jessica and Klute, Mary J and Kuo, Alan and Lefebvre, Stephane C and Maumus, Florian and Mayer, Christoph and Miller, John and Monier, Adam and Salamov, Asaf and Young, Jeremy and Aguilar, Maria and Claverie, Jean-Michel and Frickenhaus, Stephan and Gonzalez, Karina and Herman, Emily K and Lin, Yao-Cheng and Napier, Johnathan and Ogata, Hiroyuki and Sarno, Analissa F and Shmutz, Jeremy and Schroeder, Declan and de Vargas, Colomban and Verret, Frederic and von Dassow, Peter and Valentin, Klaus and {Van de Peer}, Yves and Wheeler, Glen and Dacks, Joel B and Delwiche, Charles F and Dyhrman, Sonya T and Gl\"{o}ckner, Gernot and John, Uwe and Richards, Thomas and Worden, Alexandra Z and Zhang, Xiaoyu and Grigoriev, Igor V},
 doi = {10.1038/nature12221},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton Emiliania underpins its global distribution.pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton Emiliania underpins its global distribution(2).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton Emiliania underpins its global distribution(3).pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton iEmilianiai underpins its global distribution.pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton iEmilianiai underpins its global distribution(2).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Read et al. - 2013 - Pan genome of the phytoplankton iEmilianiai underpins its global distribution(3).pdf:pdf},
 
 journal = {Nature},
 keywords = {Calcification,Calcium,Calcium: metabolism,Carbonic Anhydrases,Carbonic Anhydrases: genetics,Carbonic Anhydrases: metabolism,Ecosystem,Genome,Genome: genetics,Haptophyta,Haptophyta: classification,Haptophyta: genetics,Haptophyta: isolation \& purification,Haptophyta: metabolism,Oceans and Seas,Phylogeny,Physiologic,Phytoplankton,Phytoplankton: genetics,Proteome,Proteome: genetics,Seawater},
@@ -2263,7 +2256,7 @@ month = nov,
 number = {3},
 pages = {551--560},
 shorttitle = {Response of the calcifying coccolithophore Emilian},
-title = {{Response of the calcifying coccolithophore \textit{Emiliania huxleyi</i> to low pH/high pCO2: from physiology to molecular level}},
+title = {{Response of the calcifying coccolithophore Emiliania huxleyi to low pH/high pCO2: from physiology to molecular level}},
 
 volume = {158},
 year = {2010}
@@ -2272,7 +2265,7 @@ year = {2010}
 abstract = {Bacterioplankton consume a large proportion of photosynthetically fixed carbon in the ocean and control its biogeochemical fate. We used an experimental metatranscriptomics approach to compare bacterial activities that route energy and nutrients during a phytoplankton bloom compared with non-bloom conditions. mRNAs were sequenced from duplicate bloom and control microcosms 1 day after a phytoplankton biomass peak, and transcript copies per litre of seawater were calculated using an internal mRNA standard. Transcriptome analysis revealed a potential novel mechanism for enhanced efficiency during carbon-limited growth, mediated through membrane-bound pyrophosphatases [V-type H(+)-translocating; hppA]; bloom bacterioplankton participated less in this metabolic energy scavenging than non-bloom bacterioplankton, with possible implications for differences in growth yields on organic substrates. Bloom bacterioplankton transcribed more copies of genes predicted to increase cell surface adhesiveness, mediated by changes in bacterial signalling molecules related to biofilm formation and motility; these may be important in microbial aggregate formation. Bloom bacterioplankton also transcribed more copies of genes for organic acid utilization, suggesting an increased importance of this compound class in the bioreactive organic matter released during phytoplankton blooms. Transcription patterns were surprisingly faithful within a taxon regardless of treatment, suggesting that phylogeny broadly predicts the ecological roles of bacterial groups across 'boom' and 'bust' environmental backgrounds.},
 author = {Rinta-Kanto, Johanna M and Sun, Shulei and Sharma, Shalabh and Kiene, Ronald P and Moran, Mary Ann and Rinta‐Kanto, Johanna M},
 doi = {10.1111/j.1462-2920.2011.02602.x},
-file = {:Users/harrietalexander/Papers/Rinta-Kanto2012\_metatranscriptomics.pdf:pdf;:Users/harrietalexander/Papers/Rinta-Kanto2012\_Metatranscriptomics\_Bacteria.pdf:pdf;:Users/harrietalexander/Papers/Dyhrman2012\_Transcriptome\_Phosphorus.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Rinta‐Kanto et al. - 2012 - Bacterial community transcription patterns during a marine phytoplankton bloom(2).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Rinta-kanto et al. - 2012 - Bacterial community transcription patterns during a marine phytoplankton bloom(3).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Rinta-Kanto et al. - 2012 - Bacterial community transcription patterns during a marine phytoplankton bloom(4).pdf:pdf},
 
 journal = {Environmental microbiology},
 keywords = {Bacteria,Bacteria: genetics,Bacteria: growth \& development,Bacteria: metabolism,Bacterial,Bacterial: genetics,Computational Biology,Eutrophication,Genes,Genetic,Genomic Library,Messenger,Messenger: genetics,Phytoplankton,Phytoplankton: genetics,Phytoplankton: growth \& development,Phytoplankton: metabolism,RNA,Seawater,Seawater: microbiology,Transcription,Transcriptome},
@@ -2285,6 +2278,23 @@ title = {{Bacterial community transcription patterns during a marine phytoplankt
 
 volume = {14},
 year = {2012}
+}
+@article{Robinson2010,
+abstract = {The fine detail provided by sequencing-based transcriptome surveys suggests that RNA-seq is likely to become the platform of choice for interrogating steady state RNA. In order to discover biologically important changes in expression, we show that normalization continues to be an essential step in the analysis. We outline a simple and effective method for performing normalization and show dramatically improved results for inferring differential expression in simulated and publicly available data sets.},
+author = {Robinson, Mark and Oshlack, Alicia},
+doi = {10.1186/gb-2010-11-3-r25},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Robinson, Oshlack - 2010 - A scaling normalization method for differential expression analysis of RNA-seq data(2).pdf:pdf},
+
+journal = {Genome Biology},
+keywords = {Biomedical and Life Sciences},
+mendeley-tags = {Biomedical and Life Sciences},
+month = mar,
+number = {3},
+pages = {1--9},
+title = {{A scaling normalization method for differential expression analysis of RNA-seq data}},
+
+volume = {11},
+year = {2010}
 }
 @article{Rosic2010a,
 author = {Rosic, Nedeljka N. and Pernice, Mathieu and Dove, Sophie and Dunn, Simon and Hoegh-Guldberg, Ove},
@@ -2361,7 +2371,7 @@ year = {2006}
 abstract = {Marine primary productivity is strongly influenced by the scarcity of required nutrients, yet our understanding of these nutrient limitations is informed by experimental observations with sparse geographical coverage and methodological limitations. We developed a quantitative proteomic method to directly assess nutrient stress in high-light ecotypes of the abundant cyanobacterium Prochlorococcus across a meridional transect in the central Pacific Ocean. Multiple peptide biomarkers detected widespread and overlapping regions of nutritional stress for nitrogen and phosphorus in the North Pacific Subtropical Gyre and iron in the equatorial Pacific. Quantitative protein analyses demonstrated simultaneous stress for these nutrients at biome interfaces. This application of proteomic biomarkers to diagnose ocean metabolism demonstrated Prochlorococcus actively and simultaneously deploying multiple biochemical strategies for low-nutrient conditions in the oceans.},
 author = {Saito, Mak A and McIlvin, Matthew R and Moran, Dawn M and Goepfert, Tyler J and DiTullio, Giacomo R. and Post, Anton F. and Lamborg, Carl H},
 doi = {10.1126/science.1256450},
-file = {:Users/harrietalexander/Downloads/Saito\_2014\_Science.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Saito et al. - 2014 - Multiple nutrient stresses at intersecting Pacific Ocean biomes detected by protein biomarkers(2).pdf:pdf},
 
 journal = {Science (New York, N.Y.)},
 keywords = {Biological Markers,Biological Markers: metabolism,Cobalt,Cobalt: metabolism,Iron,Iron: metabolism,Nitrogen,Nitrogen: metabolism,Pacific Ocean,Phosphorus,Phosphorus: metabolism,Physiological,Prochlorococcus,Prochlorococcus: metabolism,Proteins,Proteins: metabolism,Proteomics,Proteomics: methods,Seawater,Seawater: microbiology,Stress},
@@ -2377,7 +2387,7 @@ year = {2014}
 @article{Saito2008,
 author = {Saito, Mak A. and Goepfert, Tyler J. and Ritt, Jason T.},
 doi = {10.4319/lo.2008.53.1.0276},
-file = {:Users/harrietalexander/Papers/Saito2008\_Colimitation.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Saito, Goepfert, Ritt - 2008 - Some thoughts on the concept of colimitation Three definitions and the importance of bioavailability(2).pdf:pdf},
 
 journal = {Limnology and Oceanography},
 number = {1},
@@ -2392,7 +2402,7 @@ year = {2008}
 abstract = {Cytoscape is open-source software for integration, visualization and analysis of biological networks. It can be extended through Cytoscape plugins, enabling a broad community of scientists to contribute useful features. This growth has occurred organically through the independent efforts of diverse authors, yielding a powerful but heterogeneous set of tools. We present a travel guide to the world of plugins, covering the 152 publicly available plugins for Cytoscape 2.5-2.8. We also describe ongoing efforts to distribute, organize and maintain the quality of the collection.},
 author = {Saito, Rintaro and Smoot, Michael E and Ono, Keiichiro and Ruscheinski, Johannes and Wang, Peng-Liang and Lotia, Samad and Pico, Alexander R and Bader, Gary D and Ideker, Trey},
 doi = {10.1038/nmeth.2212},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Saito et al. - 2012 - A travel guide to Cytoscape plugins.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Saito et al. - 2012 - A travel guide to Cytoscape plugins(2).pdf:pdf},
 
 journal = {Nature methods},
 keywords = {Algorithms,Biological,Computational Biology,Computer Simulation,Data Mining,Database Management Systems,Gene Expression Profiling,Gene Regulatory Networks,Genes,Genes: physiology,Genomics,Genomics: methods,Models,Software},
@@ -2409,7 +2419,7 @@ year = {2012}
 abstract = {Dialysis cultures of Skeletonema costatum (Grev.) Cleve and Asterionella japonica Cleve \& M\"{o}ller ex Gran were grown in tanks in running sea water pumped from a depth of 6 m during March–June, at 50 \% of the surface light intensity and at a temperature range of 2–17 °C. The exponential growth rate was exponentially related to temperature at surface light intensities of 350–500 ly day−1, with a maximum of 2.0 div. day−1 for Skeletonema and 1.9 div. day−1 for Asterionella at 17 °C. Surface light intensities below 200 ly day−1 give a decrease in the growth rate. The growth rates found for Skeletonema seemed to encompass all those measured in the Bay, the maximum ones in the Bay being close to those observed in the dialysis cultures. All cultures showed clear physiological signs of nitrogen deficiency, as indicated by changes in the ratios between chlorophyll a, ATP, nitrogen and carbon, when going from the exponential phase to the starvation phase. The chlATP ratio showed a 4-fold temperature-dependent increase from March to June for both starved and exponentially growing cells of both species. In Skeletonema, this was mainly due to an increase in chlorophyll content, but in Asterionella to a decrease in ATP which was accompanied by a decrease in carbon per cell. A comparison of dialysis-cultured populations of Skeletonema (t = 17 °C, $\mu$ = 2.0 div. day−1) and a natural population of the same species (t = 15 °C, $\mu$ = 1.8 div. day−1) showed that they were identical in chemical composition.},
 author = {Sakshaug, Egil},
 doi = {10.1016/0022-0981(77)90110-1},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Sakshaug - 1977 - Limiting nutrients and maximum growth rates for diatoms in narragansett bay(2).pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Sakshaug - 1977 - Limiting nutrients and maximum growth rates for diatoms in narragansett bay(4).pdf:pdf},
 
 journal = {Journal of Experimental Marine Biology and Ecology},
 keywords = {Narragansett Bay},
@@ -2430,7 +2440,7 @@ journal = {Journal of Phycology},
 month = feb,
 number = {1},
 pages = {151--176},
-title = {{Diversity in the genus \textit{Skeletonema</i> (Bacillariophyceae). II. An assessment of the taxonomy of S. costatum-like species with the description of four new species.}},
+title = {{Diversity in the genus Skeletonema (Bacillariophyceae). II. An assessment of the taxonomy of \textit{S. costatum</i>-like species with the description of four new species.}},
 
 volume = {41},
 year = {2005}
@@ -2452,7 +2462,7 @@ year = {2008}
 abstract = {Nitrate utilization has been characterized in nitrogen-deficient cells of the marine diatom Skeletonema costatum. In order to separate nitrate uptake from nitrate reduction, nitrate reductase activity was suppressed with tungstate. Neither nitrite nor the presence of amino acids in the external medium or darkness affects nitrate uptake kinetics. Ammonium strongly inhibits carrier-mediated nitrate uptake, without affecting diffusion transfer. A model is proposed for the uptake and assimilation of nitrate in S. costatum and their regulation by ammonium ions.},
 author = {Serra, J. L. and Llama, M. J. and Cadenas, E.},
 doi = {10.1104/pp.62.6.991},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Serra, Llama, Cadenas - 1978 - Nitrate utilization by the diatom iSkeletonema costatumi II. Regulation of nitrate uptake.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Serra, Llama, Cadenas - 1978 - Nitrate utilization by the diatom Skeletonema costatum II. Regulation of nitrate uptake(2).pdf:pdf},
 
 journal = {Plant physiology},
 month = dec,
@@ -2468,7 +2478,7 @@ year = {1978}
 abstract = {Deep-water nutrient injection in the North Pacific Subtropical Gyre provides an aperiodic yet significant source of inorganic nutrients to the nutrient-limiting surface waters, and has been implicated in phytoplankton bloom formation. Here we examined short-term transcriptional responses of surface water picoplankton assemblages in a deep-sea water (DSW) mixing experiment. Both flow cytometric and transcriptomic analysis indicated stimulation of an Alteromonas-like population in the DSW-amended treatment after 12 h, relative to the control. Among the highly expressed alteromonad transcripts in DSW-treated samples, those encoding genes associated with chemotaxis, cell motility and carbon metabolism were most highly represented, relative to the control. Similarly, Prochlorococcus showed significantly higher levels of transcripts associated with carbon fixation and photosynthesis, as well as slightly increased cell density, relative to the control. Although other microbial taxa did not exhibit enhanced growth, DSW-stimulated changes in their genome-wide transcriptional profiles were still readily detectable. Cell-associated cyanophage DNA and cDNA profiles suggested DSW stimulation of phage-mediated cell lysis, in previously infected cells. Comparison of the DSW-responsive Alteromonas populations, to previously reported dissolved organic matter (DOM)-responding alteromonads (McCarren et al., 2010), revealed differential transcript abundances, predominantly among genes encoding mobile elements and phage-related genes. Transcript representation in other metabolic pathways differed significantly between Alteromonas populations in the two different treatments, suggesting perturbation-specific metabolic responses to DSW and DOM. In total, the results provide new insight into short-term responses of picoplankton to DSW mixing, which occur prior to the more well-studied, longer-term growth responses of larger phytoplankton species.},
 author = {Shi, Yanmei and McCarren, Jay and DeLong, Edward F.},
 doi = {10.1111/j.1462-2920.2011.02598.x},
-file = {:Users/harrietalexander/Papers/Shi2012\_HOTs\_Upwelling\_Transcriptome.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Shi, McCarren, DeLong - 2012 - Transcriptional responses of surface water marine microbial assemblages to deep-sea water amendment(2).pdf:pdf},
 
 journal = {Environmental microbiology},
 keywords = {Alteromonas,Alteromonas: genetics,Alteromonas: metabolism,Bacterial,Bacterial: genetics,Carbon,Carbon: metabolism,Complementary,Complementary: genetics,Computational Biology,DNA,Molecular Sequence Data,Phytoplankton,Phytoplankton: genetics,Phytoplankton: metabolism,Prochlorococcus,Prochlorococcus: genetics,Prochlorococcus: metabolism,Seawater,Seawater: microbiology,Sequence Analysis,Transcriptome},
@@ -2485,7 +2495,7 @@ year = {2012}
 abstract = {As part of an ongoing survey of microbial community gene expression in the ocean, we sequenced and compared ∼38 Mbp of community transcriptomes and ∼157 Mbp of community genomes from four bacterioplankton samples, along a defined depth profile at Station ALOHA in North Pacific subtropical gyre (NPSG). Taxonomic analysis suggested that the samples were dominated by three taxa: Prochlorales, Consistiales and Cenarchaeales, which comprised 36-69\% and 29-63\% of the annotated sequences in the four DNA and four cDNA libraries, respectively. The relative abundance of these taxonomic groups was sometimes very different in the DNA and cDNA libraries, suggesting differential relative transcriptional activities per cell. For example, the 125 m sample genomic library was dominated by Pelagibacter (∼36\% of sequence reads), which contributed fewer sequences to the community transcriptome (∼11\%). Functional characterization of highly expressed genes suggested taxon-specific contributions to specific biogeochemical processes. Examples included Roseobacter relatives involved in aerobic anoxygenic phototrophy at 75 m, and an unexpected contribution of low abundance Crenarchaea to ammonia oxidation at 125 m. Read recruitment using reference microbial genomes indicated depth-specific partitioning of coexisting microbial populations, highlighted by a transcriptionally active high-light-like Prochlorococcus population in the bottom of the photic zone. Additionally, nutrient-uptake genes dominated Pelagibacter transcripts, with apparent enrichment for certain transporter types (for example, the C4-dicarboxylate transport system) over others (for example, phosphate transporters). In total, the data support the utility of coupled DNA and cDNA analyses for describing taxonomic and functional attributes of microbial communities in their natural habitats.},
 author = {Shi, Yanmei and Tyson, Gene W and Eppley, John M and DeLong, Edward F},
 doi = {10.1038/ismej.2010.189},
-file = {:Users/harrietalexander/Papers/Shi2011\_Metagenomics.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Shi et al. - 2011 - Integrated metatranscriptomic and metagenomic analyses of stratified microbial assemblages in the open ocean(2).pdf:pdf},
 
 journal = {The ISME journal},
 keywords = {Alphaproteobacteria,Alphaproteobacteria: genetics,Alphaproteobacteria: isolation \& purification,Bacterial,Bacterial: genetics,Complementary,Complementary: genetics,Crenarchaeota,Crenarchaeota: genetics,Crenarchaeota: isolation \& purification,DNA,DNA- Complementary,Ecosystem,Gene Expression Profiling,Gene Library,Metabolic Networks and Pathways,Metagenomics,Metagenomics: methods,Oceans and Seas,Prochlorococcus,Prochlorococcus: genetics,Prochlorococcus: isolation \& purification,Prochlorococcus: metabolism,RNA,RNA- Bacterial,Roseobacter,Roseobacter: genetics,Roseobacter: isolation \& purification,Seawater,Seawater: microbiology},
@@ -2503,7 +2513,7 @@ year = {2011}
 abstract = {BACKGROUND: Silicon plays important biological roles, but the mechanisms of cellular responses to silicon are poorly understood. We report the first analysis of cell cycle arrest and recovery from silicon starvation in the diatom Thalassiosira pseudonana using whole genome microarrays. RESULTS: Three known responses to silicon were examined, 1) silicified cell wall synthesis, 2) recovery from silicon starvation, and 3) co-regulation with silicon transporter (SIT) genes. In terms of diatom cell wall formation, thus far only cell surface proteins and proteins tightly associated with silica have been characterized. Our analysis has identified new genes potentially involved in silica formation, and other genes potentially involved in signaling, trafficking, protein degradation, glycosylation and transport, which provides a larger-scale picture of the processes involved. During silicon starvation, an overrepresentation of transcription and translation related genes were up-regulated, indicating that T. pseudonana is poised to rapidly recover from silicon starvation and resume cell cycle progression upon silicon replenishment. This is in contrast to other types of limitation, and provides the first molecular data explaining the well-established environmental response of diatoms to grow as blooms and to out-compete other classes of microalgae for growth. Comparison of our data with a previous diatom cell cycle analysis indicates that assignment of the cell cycle specific stage of particular cyclins and cyclin dependent kinases should be re-evaluated. Finally, genes co-varying in expression with the SITs enabled identification of a new class of diatom-specific proteins containing a unique domain, and a putative silicon efflux protein. CONCLUSIONS: Analysis of the T. pseudonana microarray data has provided a wealth of new genes to investigate previously uncharacterized cellular phenomenon related to silicon metabolism, silicon's interaction with cellular components, and environmental responses to silicon.},
 author = {Shrestha, Roshan Prakash and Tesson, Benoit and Norden-Krichmar, Trina and Federowicz, Stephen and Hildebrand, Mark and Allen, Andrew E},
 doi = {10.1186/1471-2164-13-499},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Shrestha et al. - 2012 - Whole transcriptome analysis of the silicon response of the diatom Thalassiosira pseudonana.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Shrestha et al. - 2012 - Whole transcriptome analysis of the silicon response of the diatom iThalassiosira pseudonanai.pdf:pdf},
 
 journal = {BMC genomics},
 keywords = {Amino Acid Sequence,Cell Cycle,Cell Cycle: genetics,Cell Wall,Cell Wall: metabolism,Cyclin-Dependent Kinases,Cyclin-Dependent Kinases: genetics,Cyclin-Dependent Kinases: metabolism,Cyclins,Cyclins: genetics,Cyclins: metabolism,Diatoms,Diatoms: genetics,Diatoms: metabolism,Molecular Sequence Data,Oligonucleotide Array Sequence Analysis,Sequence Alignment,Silicon,Silicon: metabolism,Transcriptome},
@@ -2534,7 +2544,7 @@ year = {2007}
 abstract = {Near-surface waters ranging from the Pacific subarctic (58°N) to the Southern Ocean (66°S) contain the neurotoxin domoic acid (DA), associated with the diatom Pseudo-nitzschia. Of the 35 stations sampled, including ones from historic iron fertilization experiments (SOFeX, IronEx II), we found Pseudo-nitzschia at 34 stations and DA measurable at 14 of the 26 stations analyzed for DA. Toxin ranged from 0.3 fg·cell(-1) to 2 pg·cell(-1), comparable with levels found in similar-sized cells from coastal waters. In the western subarctic, descent of intact Pseudo-nitzschia likely delivered significant amounts of toxin (up to 4 $\mu$g of DA·m(-2)·d(-1)) to underlying mesopelagic waters (150-500 m). By reexamining phytoplankton samples from SOFeX and IronEx II, we found substantial amounts of DA associated with Pseudo-nitzschia. Indeed, at SOFeX in the Antarctic Pacific, DA reached 220 ng·L(-1), levels at which animal mortalities have occurred on continental shelves. Iron ocean fertilization also occurs naturally and may have promoted blooms of these ubiquitous algae over previous glacial cycles during deposition of iron-rich aerosols. Thus, the neurotoxin DA occurs both in coastal and oceanic waters, and its concentration, associated with changes in Pseudo-nitzschia abundance, likely varies naturally with climate cycles, as well as with artificial iron fertilization. Given that iron fertilization in iron-depleted regions of the sea has been proposed to enhance phytoplankton growth and, thereby, both reduce atmospheric CO(2) and moderate ocean acidification in surface waters, consideration of the potentially serious ecosystem impacts associated with DA is prudent.},
 author = {Silver, Mary W and Bargu, Sibel and Coale, Susan L and Benitez-Nelson, Claudia R and Garcia, Ana C and Roberts, Kathryn J and Sekula-Wood, Emily and Bruland, Kenneth W and Coale, Kenneth H},
 doi = {10.1073/pnas.1006968107},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Silver et al. - 2010 - Toxic diatoms and domoic acid in natural and iron enriched waters of the oceanic Pacific.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Silver et al. - 2010 - Toxic diatoms and domoic acid in natural and iron enriched waters of the oceanic Pacific(2).pdf:pdf},
 
 journal = {Proceedings of the National Academy of Sciences of the United States of America},
 keywords = {Diatoms,Diatoms: cytology,Diatoms: metabolism,Diatoms: ultrastructure,Geography,Iron,Iron: chemistry,Kainic Acid,Kainic Acid: analogs \& derivatives,Kainic Acid: toxicity,Neurotoxins,Neurotoxins: toxicity,Pacific Ocean,Seawater,Seawater: chemistry,Time Factors},
@@ -2565,7 +2575,7 @@ year = {2011}
 @article{Smayda1974,
 abstract = {The surface waters of unpolluted lor Narragansett Bay were bioassayed over an annual cycle (n=36) with Thalassiosira pseudonana (13-1) at 16 different nutrient enrichments replicated three times. Omission of nitrogen usually markedly inhibited growth. This effect was followed in importance by adverse "water quality" properties associated with phytoplankton growth, which could be overcome by addition of the chelator EDTA in the presence of nitrogen and other elements. Silicon omission also limited growth. Limitation by omission of other nutrients was less pronounced. The following findings challenge the traditional view that phytoplankton growth is regulated by a specific limiting nutrient: seasonal variations in growth or yield limitation by a given nutrient occurred; the intensity of limitation by nutrients varied seasonally; several nutrients were usually limiting simultaneously, and with a different intensity; the combinations of limiting nutrients varied seasonally; a seasonal succession in type of nutrient limitation occurred. The results suggest that chemical changes in situ important to the occurrence, growth, and succession of phytoplankton species would not be detected by the routinely used nutrient and biological analyses.},
 author = {Smayda, Theodore J.},
-file = {:Users/harrietalexander/Papers/Smayda1974\_NarragansettBay\_Nitrogen.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Smayda - 1974 - Bioassay of the growth potential of the surface water of lower Narragansett Bay over an annual cycle using the diatom Th.pdf:pdf},
 
 journal = {Limnology and Oceanography},
 month = nov,
@@ -2581,7 +2591,7 @@ abstract = {Cytoscape is a popular bioinformatics package for biological network
 annote = {From Duplicate 2 ( Cytoscape 2.8: new features for data integration and network visualization. - Smoot, Michael E; Ono, Keiichiro; Ruscheinski, Johannes; Wang, Peng-Liang; Ideker, Trey )},
 author = {Smoot, Michael E and Ono, Keiichiro and Ruscheinski, Johannes and Wang, Peng-Liang and Ideker, Trey},
 doi = {10.1093/bioinformatics/btq675},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Smoot et al. - 2011 - Cytoscape 2.8 new features for data integration and network visualization(2).pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Smoot et al. - 2011 - Cytoscape 2.8 new features for data integration and network visualization(3).pdf:pdf},
 
 journal = {Bioinformatics (Oxford, England)},
 keywords = {Computational Biology,Computational Biology: methods,Software,Statistics as Topic,Statistics as Topic: methods},
@@ -2596,7 +2606,7 @@ year = {2011}
 }
 @article{Sommer1983,
 author = {Sommer, U},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Sommer - 1983 - Nutrient competition between phytoplankton species in multispecies chemostat experiments.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Sommer - 1983 - Nutrient competition between phytoplankton species in multispecies chemostat experiments(2).pdf:pdf},
 journal = {Archiv f\"{u}r hydrobiologie},
 number = {4},
 pages = {399--416},
@@ -2738,7 +2748,7 @@ year = {2001}
 @article{Tilman1977,
 author = {Tilman, David},
 doi = {10.2307/1935608},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Tilman - 1977 - Resource competition between plankton algae an experimental and theoretical approach.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Tilman - 1977 - Resource competition between plankton algae an experimental and theoretical approach(2).pdf:pdf},
 
 journal = {Ecology},
 month = mar,
@@ -2768,7 +2778,7 @@ year = {1996}
 abstract = {Phosphorus is an obligate requirement for the growth of all organisms; major biochemical reservoirs of phosphorus in marine plankton include nucleic acids and phospholipids. However, eukaryotic phytoplankton and cyanobacteria (that is, 'phytoplankton' collectively) have the ability to decrease their cellular phosphorus content when phosphorus in their environment is scarce. The biochemical mechanisms that allow phytoplankton to limit their phosphorus demand and still maintain growth are largely unknown. Here we show that phytoplankton, in regions of oligotrophic ocean where phosphate is scarce, reduce their cellular phosphorus requirements by substituting non-phosphorus membrane lipids for phospholipids. In the Sargasso Sea, where phosphate concentrations were less than 10 nmol l-1, we found that only 1.3 +/- 0.6\% of phosphate uptake was used for phospholipid synthesis; in contrast, in the South Pacific subtropical gyre, where phosphate was greater than 100 nmol l-1, plankton used 17 6\% (ref. 6). Examination of the planktonic membrane lipids at these two locations showed that classes of sulphur- and nitrogen-containing membrane lipids, which are devoid of phosphorus, were more abundant in the Sargasso Sea than in the South Pacific. Furthermore, these non-phosphorus, 'substitute lipids' were dominant in phosphorus-limited cultures of all of the phytoplankton species we examined. In contrast, the marine heterotrophic bacteria we examined contained no substitute lipids and only phospholipids. Thus heterotrophic bacteria, which compete with phytoplankton for nutrients in oligotrophic regions like the Sargasso Sea, appear to have a biochemical phosphorus requirement that phytoplankton avoid by using substitute lipids. Our results suggest that phospholipid substitutions are fundamental biochemical mechanisms that allow phytoplankton to maintain growth in the face of phosphorus limitation.},
 author = {{Van Mooy}, Benjamin A S and Fredricks, Helen F and Pedler, Byron E and Dyhrman, Sonya T and Karl, David M and Kobl\'{\i}zek, Michal and Lomas, Michael W and Mincer, Tracy J and Moore, Lisa R and Moutin, Thierry and Rapp\'{e}, Michael S and Webb, Eric a},
 doi = {10.1038/nature07659},
-file = {:Users/harrietalexander/Papers/VanMooy2009\_Phospholipids.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Van Mooy et al. - 2009 - Phytoplankton in the ocean use non-phosphorus lipids in response to phosphorus scarcity(2).pdf:pdf},
 
 journal = {Nature},
 keywords = {Carbon,Carbon: analysis,Lipid Metabolism,Lipids,Lipids: chemistry,Membrane Lipids,Membrane Lipids: chemistry,Nitrogen,Nitrogen: analysis,Nitrogen: metabolism,Oceans and Seas,Phosphates,Phosphates: metabolism,Phospholipids,Phospholipids: biosynthesis,Phosphorus,Phosphorus: analysis,Phosphorus: deficiency,Phytoplankton,Phytoplankton: metabolism,Seawater,Seawater: chemistry,Seawater: microbiology,Synechococcus,Synechococcus: chemistry,Synechococcus: metabolism},
@@ -2785,7 +2795,7 @@ year = {2009}
 abstract = {Gene-expression analysis is increasingly important in biological research, with real-time reverse transcription PCR (RT-PCR) becoming the method of choice for high-throughput and accurate expression profiling of selected genes. Given the increased sensitivity, reproducibility and large dynamic range of this methodology, the requirements for a proper internal control gene for normalization have become increasingly stringent. Although housekeeping gene expression has been reported to vary considerably, no systematic survey has properly determined the errors related to the common practice of using only one control gene, nor presented an adequate way of working around this problem.},
 author = {Vandesompele, Jo and {De Preter}, Katleen and Pattyn, Filip and Poppe, Bruce and {Van Roy}, Nadine and {De Paepe}, Anne and Speleman, Frank},
 doi = {10.1186/gb-2002-3-7-research0034},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Vandesompele et al. - 2002 - Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Vandesompele et al. - 2002 - Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal co.pdf:pdf},
 
 journal = {Genome biology},
 keywords = {Algorithms,Complementary,Complementary: analysis,Complementary: genetics,Cultured,DNA,DNA- Complementary,Female,Gene Expression Profiling,Gene Expression Profiling: methods,Gene Expression Profiling: standards,Humans,RNA,RNA: genetics,RNA: metabolism,Reference Standards,Reproducibility of Results,Reverse Transcriptase Polymerase Chain Reaction,Reverse Transcriptase Polymerase Chain Reaction: s,Time Factors,Tumor Cells,Tumor Cells- Cultured},
@@ -2819,7 +2829,7 @@ year = {2015}
 abstract = {The summertime North Pacific subtropical gyre has widespread phytoplankton blooms between Hawaii and the subtropical front (∼30°N) that appear as chlorophyll (chl) increases in satellite ocean color data. Nitrogen-fixing diatom symbioses (diatom-diazotroph associations: DDAs) often increase 10(2)-10(3) fold in these blooms and contribute to elevated export flux. In 2008 and 2009, two cruises targeted satellite chlorophyll blooms to examine DDA species abundance, chlorophyll concentration, biogenic silica concentration, and hydrography. Generalized observations that DDA blooms occur when the mixed layer depth is < 70 m are supported, but there is no consistent relationship between mixed layer depth, bloom intensity, or composition; regional blooms between 22-34°N occur within a broader temperature range (21-26°C) than previously reported. In both years, the Hemiaulus-Richelia and Rhizosolenia-Richelia DDAs increased 10(2)-10(3) over background concentrations within satellite-defined bloom features. The two years share a common trend of Hemiaulus dominance of the DDAs and substantial increases in the >10 µm chl a fraction (∼40-90+\% of total chl a). Integrated diatom abundance varied 10-fold over <10 km. Biogenic silica concentration tracked diatom abundance, was dominated by the >10 µm size fraction, and increased up to 5-fold in the blooms. The two years differed in the magnitude of the surface chl a increase (2009>2008), the abundance of pennate diatoms within the bloom (2009>2008), and the substantially greater mixed layer depth in 2009. Only the 2009 bloom had sufficient chl a in the >10 µm fraction to produce the observed ocean color chl increase. Blooms had high spatial variability; ocean color images likely average over numerous small events over time and space scales that exceed the individual event scale. Summertime DDA export flux noted at the Hawaii time-series Sta. ALOHA is probably a generalized feature of the eastern N. Pacific north to the subtropical front.},
 author = {Villareal, Tracy A and Brown, Colbi G and Brzezinski, Mark A and Krause, Jeffrey W and Wilson, Cara},
 doi = {10.1371/journal.pone.0033109},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Villareal et al. - 2012 - Summer diatom blooms in the North Pacific subtropical gyre 2008-2009.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Villareal et al. - 2012 - Summer diatom blooms in the North Pacific Subtropical Gyre 2008-2009(2).pdf:pdf},
 
 journal = {PloS one},
 keywords = {Biomass,Chlorophyll,Color,Cyanobacteria,Cyanobacteria: physiology,Diatoms,Diatoms: physiology,Hawaii,Nitrogen Fixation,Nitrogen Fixation: physiology,Pacific Ocean,Phytoplankton,Phytoplankton: physiology,Seasons,Spacecraft,Symbiosis,Temperature},
@@ -2849,7 +2859,7 @@ year = {2011}
 abstract = {The giant diatom Ethmodiscus was examined along an east–west transect at 28–30°N during 2002 and 2003 to determine if abundance, chemical composition or physiological status of this largest of diatoms varied on the scale of 100's–1000's of km in North Pacific gyre. Abundance ranged from \&lt;0.1–\&gt;2.0\&\#xa0;cells\&\#xa0;m−3 and supported the notion of an abundance mosaic reported previously. However, there was only minimal support for the relationship between abundance and nutrient concentration at 125\&\#xa0;m reported previously. Cellular chlorophyll varied little along the transect (7.3–10.9\&\#xa0;ng\&\#xa0;chl\&\#xa0;cell−1) except at the westernmost station. Cellular N and P quotas co-varied 3–4.5 fold (mean=50.8±3.7 and 3.7±0.8\&\#xa0;nmol N and P\&\#xa0;cell−1) and yielded N:P ratios that closely clustered around the Redfield ratio (average=14.6±1.1). Only low levels of chlorophyll-normalized alkaline phosphatase (APase) activity were observed (0.4–2.5\&\#xa0;nmol\&\#xa0;P\&\#xa0;$\mu$g\&\#xa0;chl−1\&\#xa0;h−1) with APase activity lower than that in either the bulk water, or co-occurring Trichodesmium spp. and Pyrocystis noctiluca. The active fluorescence parameter Fv:Fm, a property sensitive to Fe stress, was uniformly high at all stations (average=0.73±0.04 for 2003, and 0.69±0.05 for 2002), indicating sufficient Fe for optimum photosynthetic competence. These results contrasted sharply with results from Rhizosolenia mats reported along the same transect where there was a significant decline westward in Fv:Fm. Both ferredoxin (Fd) and flavodoxin accumulated in cells of Ethmodiscus, resulting in Fd Index values of\&lt;0.6. Iron cell quotas ranged from 0.7–5.1\&\#xa0;pmol\&\#xa0;Fe\&\#xa0;cell−1. When normalized to cytoplasmic volume, the Fe\&\#xa0;$\mu$m−3 was comparable to that of Escherichia coli. We note that the disproportionate contribution of the vacuole (with its high organic content) to total volume typical of large diatoms is a potentially significant source of error in Fe:C ratios and suggest that Fe should be normalized to cytoplasmic volume whenever possible to permit valid intercomparisons between studies. The composition, Fv:Fm data and Fe:C ratio suggest a relatively uniform population experiencing little N, P or Fe stress. The uncoupling of the Fd Index from these measures is consistent with previous findings showing that the expression of flavodoxin can be characterized as an early stress response and that its accumulation is not necessarily correlated with physiological deficit. Ethmodiscus appears to be well adapted to some of the most oligotrophic waters in the ocean. Because it is an important sedimentary marker, the biology of living Ethmodiscus provides insights into the source of extensive Ethmodiscus oozes. Mass sedimentation after frontal accumulation has been suggested as a source for these oozes. Our data contain no evidence that the flux is linked directly to Fe, N or P stress.},
 author = {Villareal, Tracy A. and McKay, R.M.L. and Al-Rshaidat, M.M.D. and Boyanapalli, R. and Sherrell, R.M.},
 doi = {10.1016/j.dsr.2007.04.018},
-file = {:Users/harrietalexander/Papers/Villareal2007\_Diatom\_Redfield.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Villareal et al. - 2007 - Compositional and fluorescence characteristics of the giant diatom Ethmodiscus along a 3000km transect (28°N).pdf:pdf},
 
 journal = {Deep Sea Research Part I: Oceanographic Research Papers},
 keywords = {Diatoms,Ethmodiscus,Ferridoxin,Iron,North Pacific gyre,Phytoplankton,Ratios,diatoms,ethmodiscus,ferridoxin,iron,north pacific gyre,phytoplankton,ratios},
@@ -2866,7 +2876,7 @@ year = {2007}
 abstract = {Iron (Fe) availability restricts diatom growth and primary production in large areas of the oceans. It is a challenge to assess the bulk Fe nutritional health of natural diatom populations, since species can differ in their physiological and molecular responses to Fe limitation. We assayed expression of selected genes in diatoms from the Thalassiosira genus to assess their potential utility as species-specific molecular markers to indicate Fe status in natural diatom assemblages. In this study, we compared the expression of the photosynthetic genes encoding ferredoxin (a Fe-requiring protein) and flavodoxin (a Fe-free protein) in culture experiments with Fe replete and Fe stressed Thalassiosira pseudonana (CCMP 1335) isolated from coastal waters and Thalassiosira weissflogii (CCMP 1010) isolated from the open ocean. In T. pseudonana, expression of flavodoxin and ferredoxin genes were not sensitive to Fe status but were found to display diel periodicities. In T. weissflogii, expression of flavodoxin was highly responsive to iron levels and was only detectable when cultures were Fe limited. Flavodoxin genes have been duplicated in most diatoms with available genome data and we show that T. pseudonana has lost its copy related to the Fe-responsive copy in T. weissflogii. We also examined the expression of genes for a putative high affinity, copper (Cu)-dependent Fe uptake system in T. pseudonana. Our results indicate that genes encoding putative Cu transporters, a multi-Cu oxidase, and a Fe reductase are not linked to Fe status. The expression of a second putative Fe reductase increased in Fe limited cultures, but this gene was also highly expressed in Fe replete cultures, indicating it may not be a useful marker in the field. Our findings highlight that Fe metabolism may differ among diatoms even within a genus and show a need to validate responses in different species as part of the development pipeline for genetic markers of Fe status in field populations.},
 author = {Whitney, LeAnn P. and Lins, Jeremy J. and Hughes, Margaret P and Wells, Mark L and Chappell, P. Dreux and Jenkins, Bethany D.},
 doi = {10.3389/fmicb.2011.00234},
-file = {:Users/harrietalexander/Papers/Whitney2011\_ThapsFe.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Whitney et al. - 2011 - Characterization of putative iron responsive genes as species-specific indicators of iron stress in thalassiosir.pdf:pdf},
 
 journal = {Frontiers in microbiology},
 keywords = {Folder - Studies with RT-PCR,Iron,diatom,ferredoxin,flavodoxin,gene express,gene expression,iron},
@@ -2905,7 +2915,7 @@ year = {2005}
 abstract = {BACKGROUND: Recent technological advancements have made high throughput sequencing an increasingly popular approach for transcriptome analysis. Advantages of sequencing-based transcriptional profiling over microarrays have been reported, including lower technical variability. However, advances in technology do not remove biological variation between replicates and this variation is often neglected in many analyses. RESULTS: We propose an empirical Bayes method, titled Analysis of Sequence Counts (ASC), to detect differential expression based on sequencing technology. ASC borrows information across sequences to establish prior distribution of sample variation, so that biological variation can be accounted for even when replicates are not available. Compared to current approaches that simply tests for equality of proportions in two samples, ASC is less biased towards highly expressed sequences and can identify more genes with a greater log fold change at lower overall abundance. CONCLUSIONS: ASC unifies the biological and statistical significance of differential expression by estimating the posterior mean of log fold change and estimating false discovery rates based on the posterior mean. The implementation in R is available at http://www.stat.brown.edu/Zwu/research.aspx.},
 author = {Wu, Zhijin and Jenkins, Bethany D and Rynearson, Tatiana A and Dyhrman, Sonya T and Saito, Mak A and Mercier, Melissa and Whitney, LeAnn P},
 doi = {10.1186/1471-2105-11-564},
-file = {:Users/harrietalexander/Papers/Wu2010\_ASC.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Wu et al. - 2010 - Empirical bayes analysis of sequencing-based transcriptional profiling without replicates(2).pdf:pdf},
 
 journal = {BMC bioinformatics},
 keywords = {Bayes Theorem,DNA,Databases,Gene Expression Profiling,Gene Expression Profiling: methods,Genetic,Genomics,Oligonucleotide Array Sequence Analysis,Oligonucleotide Array Sequence Analysis: methods,RNA,Sequence Analysis},
@@ -2938,7 +2948,7 @@ year = {2011}
 @article{Xu2006,
 author = {Xu, Yan and Wahlund, Thomas M. and Feng, Liang and Shaked, Yeala and Morel, Fran\c{c}ois M. M.},
 doi = {10.1111/j.1529-8817.2006.00243.x},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Xu et al. - 2006 - A novel alkaline phosphatase in the cocolithophore iEmiliania huxleyii (Prymnesiophyceae) and its regulation by phosp.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Xu et al. - 2006 - a Novel Alkaline Phosphatase in the Coccolithophore Emiliania Huxleyi (Prymnesiophyceae) and Its Regulation By Phosph.pdf:pdf},
 
 journal = {Journal of Phycology},
 month = aug,
@@ -2968,7 +2978,7 @@ abstract = {Motivation: Many clustering algorithms have been proposed for the
   http://www.cs.washington.edu/homes/ruzzo/cluster},
 author = {Yeung, K. Y. and Haynor, D. R. and Ruzzo, W. L.},
 doi = {10.1093/bioinformatics/17.4.309},
-file = {:Users/harrietalexander/Papers/Yeung2001\_FOM\_clustering.pdf:pdf},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Yeung, Haynor, Ruzzo - 2001 - Validating clustering for gene expression data(2).pdf:pdf},
 journal = {Bioinformatics},
 month = apr,
 number = {4},

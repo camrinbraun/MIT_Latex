@@ -1,4 +1,4 @@
-\begin{thebibliography}{179}
+\begin{thebibliography}{181}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -28,8 +28,8 @@ Alexander, H., Jenkins, B.~D., Rynearson, T.~A., and Dyhrman, S.~T.
   Finazzi, Fernie, and Bowler]{Allen2008}
 Allen, A.~E., Laroche, J., Maheswari, U., Lommer, M., Schauer, N., Lopez,
   P.~J., Finazzi, G., Fernie, A.~R., and Bowler, C.
-\newblock {Whole-cell response of the pennate diatom \textit{Phaeodactylum
-  tricornutum} to iron starvation.}
+\newblock {Whole-cell response of the pennate diatom Phaeodactylum tricornutum
+  to iron starvation.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (30):\penalty0 10438--43, July 2008.
 \newblock \doi{10.1073/pnas.0711370105}.
@@ -61,6 +61,10 @@ Anders, S., Pyl, P.~T., and Huber, W.
 \newblock \emph{Bioinformatics (Oxford, England)}, 31\penalty0 (2):\penalty0
   166--9, September 2014.
 \newblock \doi{10.1093/bioinformatics/btu638}.
+
+\bibitem[Andrews()]{Andrewsa}
+Andrews, S.
+\newblock {FastQC A Quality Control tool for High Throughput Sequence Data}.
 
 \bibitem[Antonov et~al.(2005)Antonov, Goldstein, Oberli, Baltzer, Pirotta,
   Fleischmann, Altermatt, and Jaggi]{Antonov2005}
@@ -158,8 +162,8 @@ Benitez-Nelson, C.~R., Bidigare, R.~R., Dickey, T.~D., Landry, M.~R., Leonard,
 \bibitem[Berg et~al.(2008)Berg, Shrager, Gl\"{o}ckner, Arrigo, and
   Grossman]{Berg2008}
 Berg, G.~M., Shrager, J., Gl\"{o}ckner, G., Arrigo, K.~R., and Grossman, A.~R.
-\newblock {Understanding nitrogen limitation in \textit{Aureococcus
-  anophagefferens} (Pelagophyceae) through cDNA and qRT-PCR analysis}.
+\newblock {Understanding nitrogen limitation in Aureococcus anophagefferens
+  (Pelagophyceae) through cDNA and qRT-PCR analysis}.
 \newblock \emph{Journal of Phycology}, 44\penalty0 (5):\penalty0 1235--1249,
   October 2008.
 \newblock \doi{10.1111/j.1529-8817.2008.00571.x}.
@@ -215,8 +219,8 @@ Bowler, C., Allen, A.~E., Badger, J.~H., Grimwood, J., Jabbari, K., Kuo, A.,
 
 \bibitem[Bruhn et~al.(2010)Bruhn, LaRoche, and Richardson]{Bruhn2010}
 Bruhn, A., LaRoche, J., and Richardson, K.
-\newblock {\textit{Emiliania huxleyi} (prymnesiophyceae): nitrogen-metabolism
-  genes and their expression in response to external nitrogen sources}.
+\newblock {Emiliania huxleyi (prymnesiophyceae): nitrogen-metabolism genes and
+  their expression in response to external nitrogen sources}.
 \newblock \emph{Journal of Phycology}, 46\penalty0 (2):\penalty0 266--277,
   April 2010.
 \newblock \doi{10.1111/j.1529-8817.2010.00809.x}.
@@ -327,27 +331,28 @@ de~Jonge, H. J.~M., Fehrmann, R. S.~N., de~Bont, E. S. J.~M., Hofstra, R.
 \newblock \emph{PloS one}, 2\penalty0 (9):\penalty0 e898, January 2007.
 \newblock \doi{10.1371/journal.pone.0000898}.
 
-\bibitem[de~Vargas et~al.(2015)de~Vargas, Audic, Henry, Decelle, Mah\'{e},
-  Logares, Lara, Berney, {Le Bescot}, Probert, Carmichael, Poulain, Romac,
-  Colin, Aury, Bittner, Chaffron, Dunthorn, Engelen, Flegontova, Guidi,
-  Hor\'{a}k, Jaillon, Lima-Mendez, Luke\v{s}, Malviya, Morard, Mulot, Scalco,
-  Siano, Vincent, Zingone, Dimier, Picheral, Searson, Kandels-Lewis, Acinas,
-  Bork, Bowler, Gorsky, Grimsley, Hingamp, Iudicone, Not, Ogata, Pesant, Raes,
-  Sieracki, Speich, Stemmann, Sunagawa, Weissenbach, Wincker, and
-  Karsenti]{DeVargas2015}
-de~Vargas, C., Audic, S., Henry, N., Decelle, J., Mah\'{e}, F., Logares, R.,
-  Lara, E., Berney, C., {Le Bescot}, N., Probert, I., Carmichael, M., Poulain,
-  J., Romac, S., Colin, S., Aury, J.-M., Bittner, L., Chaffron, S., Dunthorn,
-  M., Engelen, S., Flegontova, O., Guidi, L., Hor\'{a}k, A., Jaillon, O.,
-  Lima-Mendez, G., Luke\v{s}, J., Malviya, S., Morard, R., Mulot, M., Scalco,
-  E., Siano, R., Vincent, F., Zingone, A., Dimier, C., Picheral, M., Searson,
-  S., Kandels-Lewis, S., Acinas, S.~G., Bork, P., Bowler, C., Gorsky, G.,
-  Grimsley, N., Hingamp, P., Iudicone, D., Not, F., Ogata, H., Pesant, S.,
-  Raes, J., Sieracki, M.~E., Speich, S., Stemmann, L., Sunagawa, S.,
-  Weissenbach, J., Wincker, P., and Karsenti, E.
-\newblock {Eukaryotic plankton diversity in the sunlit ocean.}
-\newblock \emph{Science (New York, N.Y.)}, 348\penalty0 (6237):\penalty0
-  1261605, May 2015.
+\bibitem[de~Vargas et~al.(2015)de~Vargas, Audic, Henry, Decelle, Mahe, Logares,
+  Lara, Berney, {Le Bescot}, Probert, Carmichael, Poulain, Romac, Colin, Aury,
+  Bittner, Chaffron, Dunthorn, Engelen, Flegontova, Guidi, Horak, Jaillon,
+  Lima-Mendez, Luke, Malviya, Morard, Mulot, Scalco, Siano, Vincent, Zingone,
+  Dimier, Picheral, Searson, Kandels-Lewis, Acinas, Bork, Bowler, Gorsky,
+  Grimsley, Hingamp, Iudicone, Not, Ogata, Pesant, Raes, Sieracki, Speich,
+  Stemmann, Sunagawa, Weissenbach, Wincker, Karsenti, Boss, Follows, Karp-Boss,
+  Krzic, Reynaud, Sardet, Sullivan, and Velayoudon]{DeVargas2015}
+de~Vargas, C., Audic, S., Henry, N., Decelle, J., Mahe, F., Logares, R., Lara,
+  E., Berney, C., {Le Bescot}, N., Probert, I., Carmichael, M., Poulain, J.,
+  Romac, S., Colin, S., Aury, J.-M., Bittner, L., Chaffron, S., Dunthorn, M.,
+  Engelen, S., Flegontova, O., Guidi, L., Horak, A., Jaillon, O., Lima-Mendez,
+  G., Luke, J., Malviya, S., Morard, R., Mulot, M., Scalco, E., Siano, R.,
+  Vincent, F., Zingone, A., Dimier, C., Picheral, M., Searson, S.,
+  Kandels-Lewis, S., Acinas, S.~G., Bork, P., Bowler, C., Gorsky, G., Grimsley,
+  N., Hingamp, P., Iudicone, D., Not, F., Ogata, H., Pesant, S., Raes, J.,
+  Sieracki, M.~E., Speich, S., Stemmann, L., Sunagawa, S., Weissenbach, J.,
+  Wincker, P., Karsenti, E., Boss, E., Follows, M., Karp-Boss, L., Krzic, U.,
+  Reynaud, E.~G., Sardet, C., Sullivan, M.~B., and Velayoudon, D.
+\newblock {Eukaryotic plankton diversity in the sunlit ocean}.
+\newblock \emph{Science}, 348\penalty0 (6237):\penalty0 1261605--1261605, May
+  2015.
 \newblock \doi{10.1126/science.1261605}.
 
 \bibitem[D'haeseleer(2005)]{Dhaeseleer2005}
@@ -945,13 +950,13 @@ McGinn, P.~J. and Morel, F.~M.
   January 2008{\natexlab{b}}.
 \newblock \doi{10.1104/pp.107.110569}.
 
-\bibitem[Menden-Deuer and Rowlett(2014)]{Menden-deuer2014}
-Menden-Deuer, S. and Rowlett, J.
-\newblock {Many ways to stay in the game: individual variability maintains high
-  biodiversity in planktonic microorganisms}.
-\newblock \emph{Journal of The Royal Society Interface}, 11\penalty0
-  (95):\penalty0 20140031--20140031, March 2014.
-\newblock \doi{10.1098/rsif.2014.0031}.
+\bibitem[Menden-deuer and Rowlett(2014)]{Menden-deuer2014}
+Menden-deuer, S. and Rowlett, J.
+\newblock {Many ways to stay in the game : individual variability maintains
+  high biodiversity in planktonic microorganisms Many ways to stay in the game
+  : individual variability maintains high biodiversity in planktonic
+  microorganisms}.
+\newblock \penalty0 (March), 2014.
 
 \bibitem[Min et~al.(2005)Min, Butler, Storms, and Tsang]{Min2005}
 Min, X.~J., Butler, G., Storms, R., and Tsang, A.
@@ -967,9 +972,8 @@ Min, X.~J., Butler, G., Storms, R., and Tsang, A.
 Mock, T., Samanta, M.~P., Iverson, V., Berthiaume, C., Robison, M., Holtermann,
   K., Durkin, C., Bondurant, S.~S., Richmond, K., Rodesch, M., Kallas, T.,
   Huttlin, E.~L., Cerrina, F., Sussman, M.~R., and Armbrust, E.~V.
-\newblock {Whole-genome expression profiling of the marine diatom
-  \textit{Thalassiosira pseudonana} identifies genes involved in silicon
-  bioprocesses.}
+\newblock {Whole-genome expression profiling of the marine diatom Thalassiosira
+  pseudonana identifies genes involved in silicon bioprocesses.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (5):\penalty0 1579--84, February 2008.
 \newblock \doi{10.1073/pnas.0707946105}.
@@ -1205,8 +1209,8 @@ Richerson, P., Armstrong, R., and Goldman, C.~R.
 \bibitem[Richier et~al.(2010)Richier, Fiorini, Kerros, von Dassow, and
   Gattuso]{Richier2010}
 Richier, S., Fiorini, S., Kerros, M.-E., von Dassow, P., and Gattuso, J.-P.
-\newblock {Response of the calcifying coccolithophore \textit{Emiliania
-  huxleyi} to low pH/high pCO2: from physiology to molecular level}.
+\newblock {Response of the calcifying coccolithophore Emiliania huxleyi to low
+  pH/high pCO2: from physiology to molecular level}.
 \newblock \emph{Marine Biology}, 158\penalty0 (3):\penalty0 551--560, November
   2010.
 \newblock \doi{10.1007/s00227-010-1580-8}.
@@ -1220,6 +1224,13 @@ Rinta-Kanto, J.~M., Sun, S., Sharma, S., Kiene, R.~P., Moran, M.~A., and
 \newblock \emph{Environmental microbiology}, 14\penalty0 (1):\penalty0 228--39,
   January 2012.
 \newblock \doi{10.1111/j.1462-2920.2011.02602.x}.
+
+\bibitem[Robinson and Oshlack(2010)]{Robinson2010}
+Robinson, M. and Oshlack, A.
+\newblock {A scaling normalization method for differential expression analysis
+  of RNA-seq data}.
+\newblock \emph{Genome Biology}, 11\penalty0 (3):\penalty0 1--9, March 2010.
+\newblock \doi{10.1186/gb-2010-11-3-r25}.
 
 \bibitem[Rosic et~al.(2010{\natexlab{a}})Rosic, Pernice, Dove, Dunn, and
   Hoegh-Guldberg]{Rosic2010a}
@@ -1307,8 +1318,8 @@ Sakshaug, E.
 \bibitem[Sarno et~al.(2005)Sarno, Kooistra, Medlin, Percopo, and
   Zingone]{Sarno2005}
 Sarno, D., Kooistra, W. H. C.~F., Medlin, L.~K., Percopo, I., and Zingone, A.
-\newblock {Diversity in the genus \textit{Skeletonema} (Bacillariophyceae). II.
-  An assessment of the taxonomy of S. costatum-like species with the
+\newblock {Diversity in the genus Skeletonema (Bacillariophyceae). II. An
+  assessment of the taxonomy of \textit{S. costatum}-like species with the
   description of four new species.}
 \newblock \emph{Journal of Phycology}, 41\penalty0 (1):\penalty0 151--176,
   February 2005.
