@@ -24,8 +24,7 @@
 %% If you want blank pages before new chapters to be labelled ``This
 %% Page Intentionally Left Blank'', use the ``leftblank'' option, as
 %% above. 
-
-\documentclass[12pt,twoside]{mitthesis}
+\documentclass[11pt,twoside]{mitthesis}
 \usepackage{lgrind}
 \usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
@@ -35,6 +34,18 @@
   linkbordercolor=white,% hyperlink border will be red
   citecolor=black
 }
+\usepackage{titlesec}
+\usepackage{lipsum}
+
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\scshape\filcenter}{\chaptertitlename\ \thechapter}{20pt}{\Large}
+\titlespacing*{\chapter}
+  {0pt}{30pt}{20pt}
+
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\bfseries}
+
 \usepackage{enumitem}
 \usepackage{pgfplotstable,filecontents}
 \usepackage{multirow}
@@ -48,7 +59,7 @@
 \pagestyle{plain}
 \usepackage[authoryear,round,semicolon]{natbib}
 \usepackage{graphicx, pdflscape}
-\usepackage{caption}
+\usepackage[font={footnotesize}, labelfont=bf]{caption}
 
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.

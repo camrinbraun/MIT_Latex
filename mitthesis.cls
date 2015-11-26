@@ -172,8 +172,12 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{mitthesis}[1999/10/20]
+%\def\@@ptsize{12pt}
+%\DeclareOption{10pt}{\def\@@ptsize{10pt}}
+%\DeclareOption{11pt}{\def\@@ptsize{11pt}}
+%\DeclareOption{12pt}{\def\@@ptsize{12pt}}
 
-\def\mystretch{1.5}		% Double spacing hack
+\def\mystretch{1.25}		% Double spacing hack
 \DeclareOption{doublespace}{}	% This is default
 				% So we do not read this style twice
 \DeclareOption{singlespace}{		% If he explicitly wants single spacing
@@ -449,7 +453,7 @@ reserved.\par\permission}}
 %% a macro to change the (expanded) argument to uppercase.
 \def\maketitle{\begin{titlepage}
 \large
-{\def\baselinestretch{1.2}\Large\bf \choosecase{\@title} \par}
+{\def\baselinestretch{1.2}\LARGE\bfseries\scshape \choosecase{\@title} \par}
 by\par
 {\Large  \choosecase{\@author}}
 \par
@@ -483,7 +487,7 @@ at the
 % but we want people to also be able to get at the more
 % basic abstract environment
 \def\abstractpage{\cleardoublepage
-\begin{center}{\large{\bf \@title} \\
+\begin{center}{\Large{\bfseries\scshape \@title} \\
 by \\
 \@author \\[\baselineskip]}
 \par
@@ -530,6 +534,6 @@ requirements for the \@degreeword\ of \\
 \def\signature#1#2{\par\noindent#1\dotfill\null\\*
   {\raggedleft #2\par}}
 
-\def\abstract{\subsection*{Abstract}\small\def\baselinestretch{1}\@normalsize}
+  \def\abstract{\subsection*{\centerline{\textsc{Abstract}}}\small\def\baselinestretch{1}\@normalsize}
 \def\endabstract{\par}
 
