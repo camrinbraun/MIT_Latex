@@ -33,22 +33,22 @@
 \contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{56}{subsection.4.3.5}
 \contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{57}{subsection.4.3.6}
 \contentsline {section}{\numberline {4.4}Results and Discussion}{58}{section.4.4}
-\contentsline {chapter}{\numberline {5}Nutrient pulses uniquely drive physiological ecology of cosmopolitan phytoplankton strains}{67}{chapter.5}
-\contentsline {section}{\numberline {5.1}Abstract}{67}{section.5.1}
-\contentsline {section}{\numberline {5.2}Introduction}{68}{section.5.2}
-\contentsline {section}{\numberline {5.3}Materials and Methods}{68}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results and Discussion}{68}{section.5.4}
-\contentsline {chapter}{\numberline {6}Summary and conclusions}{69}{chapter.6}
-\contentsline {section}{\numberline {6.1}Thesis summary}{69}{section.6.1}
-\contentsline {section}{\numberline {6.2}Conclusions and future directions}{69}{section.6.2}
-\contentsline {chapter}{\numberline {A}Supplemental Information}{71}{appendix.A}
-\contentsline {section}{\numberline {A.1}Appendix for Chapter 2}{72}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Supplemental Figures}{72}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Supplemental Data}{74}{subsection.A.1.2}
-\contentsline {section}{\numberline {A.2}Appendix for Chapter 3}{75}{section.A.2}
-\contentsline {subsection}{\numberline {A.2.1}Supplemental Figures}{75}{subsection.A.2.1}
-\contentsline {subsection}{\numberline {A.2.2}Supplemental Tables}{84}{subsection.A.2.2}
-\contentsline {subsection}{\numberline {A.2.3}Supplemental Data}{87}{subsection.A.2.3}
-\contentsline {section}{\numberline {A.3}Appendix for Chapter 4}{88}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}Supplemental Figures}{88}{subsection.A.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Supplemental Tables}{95}{subsection.A.3.2}
+\contentsline {chapter}{\numberline {5}Nutrient pulses uniquely drive physiological ecology of cosmopolitan phytoplankton strains}{69}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{69}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{70}{section.5.2}
+\contentsline {section}{\numberline {5.3}Materials and Methods}{70}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results and Discussion}{70}{section.5.4}
+\contentsline {chapter}{\numberline {6}Summary and conclusions}{71}{chapter.6}
+\contentsline {section}{\numberline {6.1}Thesis summary}{71}{section.6.1}
+\contentsline {section}{\numberline {6.2}Conclusions and future directions}{71}{section.6.2}
+\contentsline {chapter}{\numberline {A}Supplemental Information}{73}{appendix.A}
+\contentsline {section}{\numberline {A.1}Appendix for Chapter 2}{74}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Supplemental Figures}{74}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Supplemental Data}{76}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Appendix for Chapter 3}{77}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Supplemental Figures}{77}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Supplemental Tables}{86}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}Supplemental Data}{89}{subsection.A.2.3}
+\contentsline {section}{\numberline {A.3}Appendix for Chapter 4}{90}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}Supplemental Figures}{90}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Supplemental Tables}{97}{subsection.A.3.2}
