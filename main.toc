@@ -1,0 +1,55 @@
+\contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}
+\contentsline {chapter}{\numberline {2}Identifying reference genes with stable expression from high throughput sequence data}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Abstract}{16}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{16}{section.2.2}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Culturing and Transcriptome Data Collection}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Reference gene identification}{18}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Results}{19}{section.2.4}
+\contentsline {section}{\numberline {2.5}Discussion}{25}{section.2.5}
+\contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Abstract}{30}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{30}{section.3.2}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{32}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Experimental set up and sample collection}{32}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}RNA extraction and sequencing}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Transcriptome and genome mapping}{33}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Transcriptome clustering}{33}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Identification of stable and nutrient-responsive genes}{34}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Normalization of metatranscriptome data}{34}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{35}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Samples and sequencing}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{37}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{39}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{41}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean}{47}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{48}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{48}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and Methods}{49}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Sample collection}{49}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}RNA extraction and sequencing}{50}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Genome database creation and mapping}{51}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}MMETSP database creation and mapping}{51}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{51}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{52}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Results and Discussion}{53}{section.4.4}
+\contentsline {chapter}{\numberline {5}Nutrient pulses uniquely drive physiological ecology of cosmopolitan phytoplankton strains}{61}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{62}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{62}{section.5.2}
+\contentsline {section}{\numberline {5.3}Materials and Methods}{74}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results and Discussion}{74}{section.5.4}
+\contentsline {chapter}{\numberline {6}Summary and conclusions}{75}{chapter.6}
+\contentsline {section}{\numberline {6.1}Thesis summary}{75}{section.6.1}
+\contentsline {section}{\numberline {6.2}Conclusions and future directions}{75}{section.6.2}
+\contentsline {chapter}{\numberline {A}Chapter 2 Supplemental Information}{77}{appendix.A}
+\contentsline {section}{\numberline {A.1}Supplemental Figures}{78}{section.A.1}
+\contentsline {section}{\numberline {A.2}Supplemental Data}{80}{section.A.2}
+\contentsline {chapter}{\numberline {B}Chapter 3 Supplemental Information}{81}{appendix.B}
+\contentsline {section}{\numberline {B.1}Supplemental Figures}{82}{section.B.1}
+\contentsline {section}{\numberline {B.2}Supplemental Tables}{93}{section.B.2}
+\contentsline {section}{\numberline {B.3}Supplemental Data}{94}{section.B.3}
+\contentsline {chapter}{\numberline {C}Chapter 4 Supplemental Information}{95}{appendix.C}
+\contentsline {section}{\numberline {C.1}Supplemental Figures}{96}{section.C.1}
+\contentsline {section}{\numberline {C.2}Supplemental Tables}{103}{section.C.2}
+\contentsline {chapter}{\numberline {D}Chapter 5 Supplemental Information}{105}{appendix.D}
+\contentsline {section}{\numberline {D.1}Supplemental Figures}{106}{section.D.1}
