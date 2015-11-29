@@ -24,25 +24,25 @@
 %% If you want blank pages before new chapters to be labelled ``This
 %% Page Intentionally Left Blank'', use the ``leftblank'' option, as
 %% above. 
-\documentclass[11pt,twoside]{mitthesis}
+\documentclass[11pt,twoside,singlespace]{mitthesis}
 \usepackage{lgrind}
 \usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
 \hypersetup{%
-  colorlinks=true,% hyperlinks will be coloured
-  linkcolor=black,% hyperlink text will be green
-  linkbordercolor=white,% hyperlink border will be red
-  citecolor=black
+    hidelinks=true
+  %colorlinks=true,% hyperlinks will be coloured
+  %linkcolor=black,% hyperlink text will be green
+  %linkbordercolor=white,% hyperlink border will be red
+  %citecolor=black
 }
 \usepackage{titlesec}
 \usepackage{lipsum}
-
 \titleformat{\chapter}[display]
-  {\normalfont\Large\bfseries\scshape\filcenter}{\chaptertitlename\ \thechapter}{20pt}{\Large}
+  {\normalfont\Large\bfseries\scshape\filcenter}{\chaptertitlename\ \thechapter}{20pt}{\LARGE}
 \titlespacing*{\chapter}
   {0pt}{30pt}{20pt}
 
-\titleformat*{\section}{\large\bfseries}
+\titleformat*{\section}{\Large\bfseries}
 \titleformat*{\subsection}{\large\bfseries}
 \titleformat*{\subsubsection}{\bfseries}
 
@@ -62,6 +62,11 @@
 \usepackage[font={small}, labelfont=bf, labelsep=colon]{caption}
 \renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
 \renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+
+\newlist{DS2}{enumerate}{1}
+\setlist[DS2]{label=Data Sheet 2-\arabic*}
+\newlist{DS3}{enumerate}{1}
+\setlist[DS3]{label=Data Sheet 3-\arabic*}
 
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.
@@ -88,6 +93,8 @@ process all files:}
 \include{chap5}
 \include{chap6}
 \appendix
+\renewcommand{\thefigure}{\Alph{chapter}.\arabic{figure}}
+\renewcommand{\thetable}{\Alph{chapter}.\arabic{table}}
 \include{appa}
 %%\include{appb}
 \include{biblio}

@@ -4,17 +4,20 @@
 
 \raggedbottom
 
-\begin{singlespace}
-Harriet Alexander$^{1,2}$, M\'{o}nica Rouco$^3$, Sheean T. Haley$^3$, Samuel T. Wilson$^4$, David M. Karl$^4$, Sonya T. Dyhrman$^{3}$\\
-\\
-$^{1}$ MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, Cambridge, MA 02139, USA\\
-$^2$ Biology Department, Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA\\
-$^3$ Department of Earth and Environmental Sciences Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY 10964\\
-$^4$ Daniel K. Inouye Center for Microbial Oceanography: Research and Education, Department of Oceanography, University of Hawaii, Honolulu, HI 96822, USA\\
-\\
-Previously published:  Alexander, H., R\'{o}uco, M., Haley, S.T., Wilson, S.T., Karl, D.M., and Dyhrman, S.T. (2015). Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean. \emph{Proc. Natl. Acad. Sci. U. S. A.}
+%\begin{singlespace}
+%Harriet Alexander$^{1,2}$, M\'{o}nica Rouco$^3$, Sheean T. Haley$^3$, Samuel T. Wilson$^4$, David M. Karl$^4$, Sonya T. Dyhrman$^{3}$\\
+%\\
+%$^{1}$ MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, Cambridge, MA 02139, USA\\
+%$^2$ Biology Department, Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA\\
+%$^3$ Department of Earth and Environmental Sciences Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY 10964\\
+%$^4$ Daniel K. Inouye Center for Microbial Oceanography: Research and Education, Department of Oceanography, University of Hawaii, Honolulu, HI 96822, USA\\
+%\\
+\let\thefootnote\relax\footnotetext{This chapter was originally published as Alexander, H., R\'{o}uco, M., Haley, S.T., Wilson, S.T., Karl, D.M., and Dyhrman, S.T. (2015). \href{http://www.pnas.org/content/112/44/E5972.full}{Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean.} \emph{Proc. Natl. Acad. Sci. U. S. A.} 112:44, E5972-E5979.}
+\let\thefootnote\relax\footnotetext{H.A. and S.T.D. designed research; H.A., M.R., S.T.H., S.T.W., and S.T.D. performed research; H.A., D.M.K., and S.T.D. analyzed data; H.A. and S.T.D. wrote the paper; and M.R., S.T.H., S.T.W., and D.M.K. contributed to the writing of the paper.}
 
-\end{singlespace}
+
+
+%\end{singlespace}
 \clearpage
 
 \section{Abstract} 
@@ -33,7 +36,7 @@ Seawater for the \textit{in situ} eukaryote community mRNA analysis was collecte
 \subsection{RNA extraction and sequencing}
 RNA was extracted from individual filters with the RNeasy Mini Kit (Qiagen), following a modified version of the yeast protocol. Briefly, lysis buffer and RNA-clean zirconia/silica beads was added to the filter and samples were vortexed for 1 minute, placed on ice for 30 seconds, and then vortexed again for 1 minute. Samples were then processed following the yeast protocol. The resulting RNA was eluted in water and then treated for possible DNA contamination using TURBO DNA-free Kit (Ambion) following the Rigorous DNase protocol. RNA from individual filters was then pooled by sample, using the RNA Cleanup Protocol from the RNeasy Mini Kit (Qiagen). The resulting RNA sample thus represented approximately 60 L of total seawater for the \textit{in situ} sample. Filters were pooled across like triplicate bottles by treatment, totaling 60 L from each of the incubation treatments. The total RNA sample was then enriched for eukaryotic mRNA through a poly-A pull down. The resulting enriched mRNA sample then went through library preparation with the Illumina TruSeq mRNA Prep Kit (Illumina). Libraries were sequenced with the Illumina HiSeq2000 at Columbia Genome Center (New York, NY). Each sample was sequenced to produce a targeted 60 million, 100 base pair, paired end reads. These environmental sequence data are deposited in the Sequence Read Archive (SRA) through the National Center for Biotechnology Information (NCBI) under accession number \href{http://google.com}{SRP056385}. Raw sequence data quality was visualized using FastQC and then cleaned and trimmed using Trimmomatic v 0.27 (paired end mode; 6-base pair wide sliding window for quality below 20; minimum length 25 base pair). \par
 \subsection{Genome database creation and mapping}
-Environmentally relevant algal genomes (\textit{Aureococcus anophagefferens} CCMP 1984 v1.0, \textit{Emiliania huxleyi} CCMP 1516 v1.0, \textit{Fragilariopsis cylindrus} CCMP 1102 v1.0, \textit{Micromonas pusilla} RCC 299 v3.0, \textit{Ostreococcus lucimarinus} v2.0, \textit{Ostreococcus tauri} v2.0, \textit{Phaeodactylum tricornutum} CCMP 632 v2.0, \textit{Pseudo-nitzschia multiseries} CLN-47 v1.0, \textit{Thalassiosira pseudonana} CCMP 1335 v3.0) were collected from the Joint Genome Institute \href{http://genome.jgi.doe.gov/}{(JGI) database} and concatenated. Trimmed, paired-end reads from each of the samples were mapped to this concatenated genome library using the Burrows-Wheeler Aligner \citep{Li2010} (BWA-mem, parameters: -k 10 -aM) and then counted using the HTSeq 0.6.1 package \citep{Anders2014}.\par 
+Environmentally relevant algal genomes (\textit{Aureococcus anophagefferens} CCMP1984 v1.0, \textit{Emiliania huxleyi} CCMP1516 v1.0, \textit{Fragilariopsis cylindrus} CCMP1102 v1.0, \textit{Micromonas pusilla} RCC 299 v3.0, \textit{Ostreococcus lucimarinus} v2.0, \textit{Ostreococcus tauri} v2.0, \textit{Phaeodactylum tricornutum} CCMP632 v2.0, \textit{Pseudo-nitzschia multiseries} CLN-47 v1.0, \textit{Thalassiosira pseudonana} CCMP1335 v3.0) were collected from the Joint Genome Institute \href{http://genome.jgi.doe.gov/}{(JGI) database} and concatenated. Trimmed, paired-end reads from each of the samples were mapped to this concatenated genome library using the Burrows-Wheeler Aligner \citep{Li2010} (BWA-mem, parameters: -k 10 -aM) and then counted using the HTSeq 0.6.1 package \citep{Anders2014}.\par 
 \subsection{MMETSP database creation and mapping}
 Transcriptome sequences and annotations generated through the Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP) that were made public as of 17 March 2014 were collected, representing 401 transcriptomes across 209 species or cultured isolates. Transcriptomes from like species (regardless of strain or condition) and cultured isolates were pooled and clustered using CD-HIT-EST (98\% identity; word size of 9). The resulting clustered set of transcripts was considered to be the representative transcriptome for the species or cultured isolate. Transcriptomes were annotated with KEGG Orthology annotations using the bi-directional best hit (BBH) method through the KEGG Automatic Annotation Server (KAAS) \citep{Moriya2007}. It is worth noting that the KEGG module names are human defined and some genes are artificially grouped in the context of phytoplankton metabolism.  For example, this is the case with the ``methane metabolism'' module, which includes a suite of genes related to carbon not specifically methane metabolism. The 209 transcriptomes created in this manner were concatenated to form a comprehensive species-level transcriptome database from the MMETSP library. Due to the large size of the resulting MMETSP database, trimmed reads were mapped to the MMETSP using the Burrows-Wheeler Aligner \citep{Li2010} (BWA-mem, parameters: -k 10 -aM) and then counted using the HTSeq 0.6.1 package \citep{Anders2014}. \par
 \subsection{Differential expression analysis}

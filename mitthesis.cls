@@ -459,7 +459,7 @@ by\par
 \par
 \@prevdegrees
 \par
-\choosecase{Submitted to the} \choosecase{\@department} \\
+\choosecase{Submitted} %\choosecase{\@department} \\
 \choosecase{in partial fulfillment of the requirements for the}
 \choosecase{\@degreeword} 
 \choosecase{of}
@@ -468,6 +468,8 @@ by\par
 \par
 at the
 \par\MIT\par
+and the
+\par WOODS HOLE OCEANOGRAPHIC INSTITUTION\par
 \@degreemonth\ \@degreeyear
 \par
 \@copyrightnotice
@@ -492,10 +494,9 @@ by \\
 \@author \\[\baselineskip]}
 \par
 \def\baselinestretch{1}\@normalsize
-Submitted to the \@department \\
-on \@thesisdate, in partial fulfillment of the \\
-requirements for the \@degreeword\ of \\
-\@degree
+\small Submitted to the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and
+Engineering on \@thesisdate, in partial fulfillment of the
+requirements for the \@degreeword\ of Doctor of Philosophy in Biological Oceanography \\
 \end{center}
 \par
 \begin{abstract}}

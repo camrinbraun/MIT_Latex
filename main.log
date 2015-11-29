@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  26 NOV 2015 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 NOV 2015 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,6 +9,7 @@ Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./mitthesis.cls
 Document Class: mitthesis 1999/10/20
 \vithesis=\count79
+Single spaced
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
@@ -203,7 +204,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+
+Package hyperref Warning: Unexpected value for option `hidelinks'
+(hyperref)                is ignored on input line 37.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
@@ -726,31 +729,36 @@ ontpre {\@contnfont #1\@contdelim }\@conttempa {\@contcstyle \@conttfont #2\par
 \c@ContinuedFloat=\count136
 Package caption Info: hyperref package is loaded.
 )
+\c@DS2i=\count137
+\enitdp@DS2=\count138
+\c@DS3i=\count139
+\enitdp@DS3=\count140
+
 Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
-\files=all
-Including all files.
+\files=chap1
+Including only chap1.
 (./main.aux (./cover.aux) (./contents.aux) (./chap1.aux) (./chap2.aux)
 (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./appa.aux)
 (./biblio.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring ON on input line 75.
+Package hyperref Info: Link coloring OFF on input line 80.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -758,11 +766,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count137
+\c@section@level=\count141
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -771,16 +779,16 @@ LaTeX Info: Redefining \nameref on input line 75.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count138
+\scratchcounter=\count142
 \scratchdimen=\dimen187
 \scratchbox=\box46
-\nofMPsegments=\count139
-\nofMParguments=\count140
+\nofMPsegments=\count143
+\nofMParguments=\count144
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count141
+\MPscratchCnt=\count145
 \MPscratchDim=\dimen188
-\MPnumerator=\count142
-\makeMPintoPDFobject=\count143
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
 \everyMPtoPDFconversion=\toks36
 ) ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -802,625 +810,73 @@ e
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
 your preamble.
- on input line 75.
+ on input line 80.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-\openout2 = `cover.aux'.
-
-(./cover.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
-<<oms.cmap>> [1
-
-
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-] (./abstract.tex [3
-
-]) [4]) [5
-
-]
-\openout2 = `contents.aux'.
-
- (./contents.tex [6
-
-
-
-] (./main.toc<<ot1.cmap>><<oml.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
-<<omx.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
- [7])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
- [8] (./main.lof
-Overfull \hbox (6.49756pt too wide) in paragraph at lines 26--26
- [][] [][][]\T1/cmr/m/n/10.95 Functional com-poo-si-tion of the ref-er-ence tra
-n-scrip-tome and resource-responsive 
- []
-
-[9
-
-]
-Overfull \hbox (11.14351pt too wide) in paragraph at lines 38--38
- [][] [][][]\T1/cmr/m/n/10.95 Microbial As-sem-blage Nor-mal-ized Tran-script A
-nal-y-sis (MANTA) ratio-averaged 
- []
-
-)
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
- [10] (./main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
-
-) [11
-
-]
 \openout2 = `chap1.aux'.
 
- (./chap1.tex [12
+(./chap1.tex [12
 
 
 
-]
+
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Chapter 1.
-) [13]
-\openout2 = `chap2.aux'.
-
- (./chap2.tex [14
-
-
-
-]
-Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--20
-
- []
-
-[15] [16] [17] [18] [19]
-<Images/C2_Figure1_v6.pdf, id=723, 524.96124pt x 413.545pt>
-File: Images/C2_Figure1_v6.pdf Graphic file (type pdf)
-
-<use Images/C2_Figure1_v6.pdf>
-Package pdftex.def Info: Images/C2_Figure1_v6.pdf used on input line 47.
-(pdftex.def)             Requested size: 433.62pt x 341.60161pt.
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <10.95> on input line 11.
+<<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
- [20] [21 <./Images/C2_Figure1_v6.pdf>]
-<Images/C2_Figure2_v6.pdf, id=792, 262.9825pt x 209.78375pt>
-File: Images/C2_Figure2_v6.pdf Graphic file (type pdf)
-
-<use Images/C2_Figure2_v6.pdf>
-Package pdftex.def Info: Images/C2_Figure2_v6.pdf used on input line 57.
-(pdftex.def)             Requested size: 325.215pt x 259.43771pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Posterior
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Number
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Min.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Max.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Number
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Min.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Max.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Number
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Min.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\T1/cmr/m/n/10 Max.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\T1/cmr/m/n/10 post-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-[]|\T1/cmr/m/n/10 post-
- []
-
-
-Overfull \hbox (67.77884pt too wide) in paragraph at lines 75--84
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[22] [23 <./Images/C2_Figure2_v6.pdf>]
-<Images/C2_Figure3_v6_bw.pdf, id=829, 259.97125pt x 193.72375pt>
-File: Images/C2_Figure3_v6_bw.pdf Graphic file (type pdf)
-
-<use Images/C2_Figure3_v6_bw.pdf>
-Package pdftex.def Info: Images/C2_Figure3_v6_bw.pdf used on input line 90.
-(pdftex.def)             Requested size: 325.215pt x 242.34326pt.
- [24] [25 <./Images/C2_Figure3_v6_bw.pdf>]
-[26] [27] [28]) [29]
-\openout2 = `chap3.aux'.
-
- (./chap3.tex [30
-
-
-
-]
-Chapter 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--19
-
- []
-
-[31] [32
-
-] [33] [34] [35] [36]
-Overfull \hbox (9.02055pt too wide) in paragraph at lines 42--43
-\T1/cmr/m/n/10.95 Intercomparison of nutrient-incubation ex-per-i-ments en-able
-d the iden-ti-fi-ca-tion of both nutrient-
- []
-
-[37] [38] <Images/C3_Figure1_StackPlot.png, id=1225, 365.4453pt x 184.7703pt>
-File: Images/C3_Figure1_StackPlot.png Graphic file (type png)
-
-<use Images/C3_Figure1_StackPlot.png>
-Package pdftex.def Info: Images/C3_Figure1_StackPlot.png used on input line 83.
-
-(pdftex.def)             Requested size: 433.62pt x 219.24219pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[39] [40 <./Images/C3_Figure1_StackPlot.png (PNG copy)>]
-<Images/C3_Figure2_Heatmap_Hot.png, id=1251, 272.4579pt x 371.9496pt>
-File: Images/C3_Figure2_Heatmap_Hot.png Graphic file (type png)
-
-<use Images/C3_Figure2_Heatmap_Hot.png>
-Package pdftex.def Info: Images/C3_Figure2_Heatmap_Hot.png used on input line 9
-4.
-(pdftex.def)             Requested size: 433.62pt x 592.00432pt.
- [41] [42 <./Images/C3_Figure2_Heatmap_Hot.png (PNG copy)>]
-<Images/C3_Figure3_CellHeatmap_Hot.png, id=1281, 523.9575pt x 620.3175pt>
-File: Images/C3_Figure3_CellHeatmap_Hot.png Graphic file (type png)
-
-<use Images/C3_Figure3_CellHeatmap_Hot.png>
-Package pdftex.def Info: Images/C3_Figure3_CellHeatmap_Hot.png used on input li
-ne 108.
-(pdftex.def)             Requested size: 433.62pt x 513.37735pt.
- [43] [44 <./Images/C3_Figure3_CellHeatmap_Hot.png (PNG copy)>] [45]
-<Images/C3_Figure4_BarLinePlots.png, id=1362, 273.9033pt x 402.0621pt>
-File: Images/C3_Figure4_BarLinePlots.png Graphic file (type png)
-
-<use Images/C3_Figure4_BarLinePlots.png>
-Package pdftex.def Info: Images/C3_Figure4_BarLinePlots.png used on input line 
-126.
-(pdftex.def)             Requested size: 281.85034pt x 413.76662pt.
- [46] [47 <./Images/C3_Figure4_BarLinePlots.png (PNG copy)>]
-<Images/C3_Figure5_Quadrants.png, id=1390, 1082.0425pt x 556.0775pt>
-File: Images/C3_Figure5_Quadrants.png Graphic file (type png)
-
-<use Images/C3_Figure5_Quadrants.png>
-Package pdftex.def Info: Images/C3_Figure5_Quadrants.png used on input line 136
-.
-(pdftex.def)             Requested size: 433.62pt x 222.84282pt.
- [48] [49 <./Images/C3_Figure5_Quadrants.png>]) [50]
-\openout2 = `chap4.aux'.
-
- (./chap4.tex
-Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--16
-
- []
-
-[51
-
-
-
-] [52
-
-] [53]
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
- [54]
-Overfull \hbox (2.15822pt too wide) in paragraph at lines 36--36
-\T1/cmr/m/it/10.95 pseudo-nana \T1/cmr/m/n/10.95 CCMP 1335 v3.0) were col-lecte
-d from the Joint Genome In-sti-tute [][](JGI) database[][]
- []
-
-[55] [56] [57] <Images/C4_Figure1_Final.png, id=1622, 245.2362pt x 239.2137pt>
-File: Images/C4_Figure1_Final.png Graphic file (type png)
-
-<use Images/C4_Figure1_Final.png>
-Package pdftex.def Info: Images/C4_Figure1_Final.png used on input line 75.
-(pdftex.def)             Requested size: 346.89731pt x 338.40097pt.
- [58] [59 <./Images/C4_Figure1_Final.png (PNG copy)>] <Images/C4_Figure2_Final.
-png, id=1648, 495.0495pt x 602.4909pt>
-File: Images/C4_Figure2_Final.png Graphic file (type png)
-
-<use Images/C4_Figure2_Final.png>
-Package pdftex.def Info: Images/C4_Figure2_Final.png used on input line 84.
-(pdftex.def)             Requested size: 476.98463pt x 580.51753pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[60] [61 <./Images/C4_Figure2_Final.png (PNG copy)>]
-<Images/C4_Figure3_Final.pdf, id=1692, 247.5388pt x 170.01418pt>
-File: Images/C4_Figure3_Final.pdf Graphic file (type pdf)
-
-<use Images/C4_Figure3_Final.pdf>
-Package pdftex.def Info: Images/C4_Figure3_Final.pdf used on input line 101.
-(pdftex.def)             Requested size: 346.89731pt x 238.26205pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[62] [63 <./Images/C4_Figure3_Final.pdf>]
-<Images/C4_Figure4_Final.pdf, id=1780, 247.5388pt x 262.1785pt>
-File: Images/C4_Figure4_Final.pdf Graphic file (type pdf)
-
-<use Images/C4_Figure4_Final.pdf>
-Package pdftex.def Info: Images/C4_Figure4_Final.pdf used on input line 115.
-(pdftex.def)             Requested size: 346.89731pt x 367.42345pt.
- [64] [65 <./Images/C4_Figure4_Final.pdf>])
-[66] [67]
-\openout2 = `chap5.aux'.
-
- (./chap5.tex [68
-
-
-
-]
-Chapter 5.
-) [69] [70]
-\openout2 = `chap6.aux'.
-
- (./chap6.tex
-Chapter 6.
-) [71
-
-
-
-]
-\openout2 = `appa.aux'.
-
- (./appa.tex [72
-
-
-
-]
-Appendix A.
-[73] <Images/C2_FigureS1_v6.pdf, id=1878, 521.95pt x 424.58624pt>
-File: Images/C2_FigureS1_v6.pdf Graphic file (type pdf)
-
-<use Images/C2_FigureS1_v6.pdf>
-Package pdftex.def Info: Images/C2_FigureS1_v6.pdf used on input line 17.
-(pdftex.def)             Requested size: 433.62pt x 352.73691pt.
- [74
-
- <./Images/C2_FigureS1_v6.pdf>]
-<Images/C2_FigureS2_v6.pdf, id=1912, 794.97pt x 466.74374pt>
-File: Images/C2_FigureS2_v6.pdf Graphic file (type pdf)
-
-<use Images/C2_FigureS2_v6.pdf>
-Package pdftex.def Info: Images/C2_FigureS2_v6.pdf used on input line 29.
-(pdftex.def)             Requested size: 433.62pt x 254.59464pt.
- [75
-
- <./Images/C2_FigureS2_v6.pdf>]
-\c@DS2i=\count144
-\enitdp@DS2=\count145
- [76
-
-
-]
-<Images/C3_SFigure1_CellCounts.png, id=1984, 700.0554pt x 463.0098pt>
-File: Images/C3_SFigure1_CellCounts.png Graphic file (type png)
-
-<use Images/C3_SFigure1_CellCounts.png>
-Package pdftex.def Info: Images/C3_SFigure1_CellCounts.png used on input line 6
-8.
-(pdftex.def)             Requested size: 433.62pt x 286.79463pt.
-
-<Images/C3_SFigure2_KEGGModuleGeneContent2.png, id=1986, 363.2772pt x 328.1058p
-t>
-File: Images/C3_SFigure2_KEGGModuleGeneContent2.png Graphic file (type png)
- <use Images/C3_SFigure2_KEGGModuleGeneContent2.png>
-Package pdftex.def Info: Images/C3_SFigure2_KEGGModuleGeneContent2.png used on 
-input line 77.
-(pdftex.def)             Requested size: 433.62pt x 391.66231pt.
-
-<Images/C3_SFigure3_Dendrogram.pdf, id=1987, 501.34804pt x 391.0319pt>
-File: Images/C3_SFigure3_Dendrogram.pdf Graphic file (type pdf)
-
-<use Images/C3_SFigure3_Dendrogram.pdf>
-Package pdftex.def Info: Images/C3_SFigure3_Dendrogram.pdf used on input line 8
-6.
-(pdftex.def)             Requested size: 433.62pt x 338.20811pt.
-
-<Images/C3_SFigure4_StableGenePlot_wActin.pdf, id=1988, 533.995pt x 389.455pt>
-File: Images/C3_SFigure4_StableGenePlot_wActin.pdf Graphic file (type pdf)
-
-<use Images/C3_SFigure4_StableGenePlot_wActin.pdf>
-Package pdftex.def Info: Images/C3_SFigure4_StableGenePlot_wActin.pdf used on i
-nput line 94.
-(pdftex.def)             Requested size: 433.62pt x 316.25906pt.
-
-<Images/C3_SFigure5_RR_All_Genes_Pie.pdf, id=1997, 558.085pt x 303.1325pt>
-File: Images/C3_SFigure5_RR_All_Genes_Pie.pdf Graphic file (type pdf)
-
-<use Images/C3_SFigure5_RR_All_Genes_Pie.pdf>
-Package pdftex.def Info: Images/C3_SFigure5_RR_All_Genes_Pie.pdf used on input 
-line 102.
-(pdftex.def)             Requested size: 433.62pt x 235.53581pt.
-
-<Images/C3_SFigure6_SGNC_NitrateReductase.pdf, id=1998, 343.26442pt x 248.41507
-pt>
-File: Images/C3_SFigure6_SGNC_NitrateReductase.pdf Graphic file (type pdf)
- <use Images/C3_SFigure6_SGNC_NitrateReductase.pdf>
-Package pdftex.def Info: Images/C3_SFigure6_SGNC_NitrateReductase.pdf used on i
-nput line 111.
-(pdftex.def)             Requested size: 433.62pt x 313.81581pt.
-
-<Images/C3_SFigure7_ClusterAnalysis_v5.pdf, id=1999, 614.295pt x 608.74025pt>
-File: Images/C3_SFigure7_ClusterAnalysis_v5.pdf Graphic file (type pdf)
-
-<use Images/C3_SFigure7_ClusterAnalysis_v5.pdf>
-Package pdftex.def Info: Images/C3_SFigure7_ClusterAnalysis_v5.pdf used on inpu
-t line 121.
-(pdftex.def)             Requested size: 433.62pt x 429.70067pt.
-
-<Images/C3_SFigure8_Schematic_Quadrants.pdf, id=2000, 344.77106pt x 305.62582pt
->
-File: Images/C3_SFigure8_Schematic_Quadrants.pdf Graphic file (type pdf)
- <use Images/C3_SFigure8_Schematic_Quadrants.pdf>
-Package pdftex.def Info: Images/C3_SFigure8_Schematic_Quadrants.pdf used on inp
-ut line 130.
-(pdftex.def)             Requested size: 433.62pt x 384.40503pt.
- [77 <./Images/C3_SFigure1_CellCounts.png>] [78 <./Images/C3_SFigure2_KEGGModul
-eGeneContent2.png>] [79 <./Images/C3_SFigure3_Dendrogram.pdf>] [80 <./Images/C3
-_SFigure4_StableGenePlot_wActin.pdf>] [81 <./Images/C3_SFigure5_RR_All_Genes_Pi
-e.pdf>] [82 <./Images/C3_SFigure6_SGNC_NitrateReductase.pdf>] [83 <./Images/C3_
-SFigure7_ClusterAnalysis_v5.pdf>] [84 <./Images/C3_SFigure8_Schematic_Quadrants
-.pdf>]
-<Images/C3_SFigure9_NISP_DNGenes.png, id=5585, 1097.09875pt x 264.99pt>
-File: Images/C3_SFigure9_NISP_DNGenes.png Graphic file (type png)
-
-<use Images/C3_SFigure9_NISP_DNGenes.png>
-Package pdftex.def Info: Images/C3_SFigure9_NISP_DNGenes.png used on input line
- 144.
-(pdftex.def)             Requested size: 563.7073pt x 136.158pt.
- [85
-
- <./Images/C3_SFigure9_NISP_DNGenes.png>]
-<Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf, id=5591, 538.01pt x 588.
-67027pt>
-File: Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf Graphic file (type p
-df)
- <use Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf>
-Package pdftex.def Info: Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf u
-sed on input line 155.
-(pdftex.def)             Requested size: 433.62pt x 474.45793pt.
-
-<Images/C3_SFigure11_Quadrant.pdf, id=5592, 559.08875pt x 525.965pt>
-File: Images/C3_SFigure11_Quadrant.pdf Graphic file (type pdf)
-
-<use Images/C3_SFigure11_Quadrant.pdf>
-Package pdftex.def Info: Images/C3_SFigure11_Quadrant.pdf used on input line 16
-4.
-(pdftex.def)             Requested size: 433.62pt x 407.9477pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
-[]\T1/cmr/m/n/10.95 Total li-brary
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
-\T1/cmr/m/n/10.95 size (paired
- []
-
-
-Overfull \vbox (10.27841pt too high) detected at line 184
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[86
-
- <./Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf>] [87 <./Images/C3_SFi
-gure11_Quadrant.pdf>] [88]
-\c@DS3i=\count146
-\enitdp@DS3=\count147
- [89
-
-]
-<Images/C4_FigureS1.pdf, id=5668, 433.62pt x 433.62pt>
-File: Images/C4_FigureS1.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS1.pdf>
-Package pdftex.def Info: Images/C4_FigureS1.pdf used on input line 269.
-(pdftex.def)             Requested size: 433.62pt x 433.63878pt.
- [90
-
- <./Images/C4_FigureS1.pdf>]
-<Images/C4_FigureS2.pdf, id=5688, 794.97pt x 578.959pt>
-File: Images/C4_FigureS2.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS2.pdf>
-Package pdftex.def Info: Images/C4_FigureS2.pdf used on input line 282.
-(pdftex.def)             Requested size: 433.62pt x 315.80469pt.
- [91 <./Images/C4_FigureS2.pdf>]
-<Images/C4_FigureS3.pdf, id=5727, 440.64626pt x 199.74625pt>
-File: Images/C4_FigureS3.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS3.pdf>
-Package pdftex.def Info: Images/C4_FigureS3.pdf used on input line 295.
-(pdftex.def)             Requested size: 433.62pt x 196.56985pt.
-
-<Images/C4_FigureS4.png, id=5728, 340.3917pt x 598.1547pt>
-File: Images/C4_FigureS4.png Graphic file (type png)
-
-<use Images/C4_FigureS4.png>
-Package pdftex.def Info: Images/C4_FigureS4.png used on input line 304.
-(pdftex.def)             Requested size: 325.215pt x 571.51123pt.
-
-<Images/C4_FigureS5.pdf, id=5729, 342.91011pt x 445.665pt>
-File: Images/C4_FigureS5.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS5.pdf>
-Package pdftex.def Info: Images/C4_FigureS5.pdf used on input line 314.
-(pdftex.def)             Requested size: 433.62pt x 563.56056pt.
-
-<Images/C4_FigureS6.pdf, id=5730, 421.55392pt x 722.66287pt>
-File: Images/C4_FigureS6.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS6.pdf>
-Package pdftex.def Info: Images/C4_FigureS6.pdf used on input line 324.
-(pdftex.def)             Requested size: 303.53267pt x 520.36098pt.
-
-<Images/C4_FigureS7.pdf, id=5731, 522.42578pt x 457.6869pt>
-File: Images/C4_FigureS7.pdf Graphic file (type pdf)
-
-<use Images/C4_FigureS7.pdf>
-Package pdftex.def Info: Images/C4_FigureS7.pdf used on input line 333.
-(pdftex.def)             Requested size: 433.62pt x 379.894pt.
- [92 <./Images/C4_FigureS3.pdf>] [93 <./Images/C4_FigureS4.png (PNG copy)>] [94
- <./Images/C4_FigureS5.pdf>] [95 <./Images/C4_FigureS6.pdf>] [96 <./Images/C4_F
-igureS7.pdf>]
-Overfull \hbox (25.33151pt too wide) in paragraph at lines 348--360
- [][] 
- []
-
-) [97
-
-
-
-]
-\openout2 = `biblio.aux'.
-
- (./biblio.tex (./main.bbl [98
-
-
-
-] [99] [100] [101] [102] [103] [104]
-[105] [106] [107] [108] [109] [110] [111] [112] [113] [114])) [115]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
- (./main.aux (./cover.aux) (./contents.aux) (./chap1.aux) (./chap2.aux) (./chap
-3.aux)
-(./chap4.aux) (./chap5.aux) (./chap6.aux) (./appa.aux) (./biblio.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+ [13]
+<Images/C1_ThesisDiagram.pdf, id=34, 386.44376pt x 436.63126pt>
+File: Images/C1_ThesisDiagram.pdf Graphic file (type pdf)
+
+<use Images/C1_ThesisDiagram.pdf>
+Package pdftex.def Info: Images/C1_ThesisDiagram.pdf used on input line 36.
+(pdftex.def)             Requested size: 303.53267pt x 342.95616pt.
+) [14 <./Images/C1_ThesisDiagram.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+
+(./main.aux (./cover.aux) (./contents.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./appa.aux)
+(./biblio.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3DC33A30739C31FFC7246237C58EC1DF;4258.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
+(rerunfilecheck)             Checksum: 801D62DD1A15D68C626BAEEC19C65BEA;47.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 28380 strings out of 493089
- 664866 string characters out of 6134842
- 943884 words of memory out of 5000000
- 30849 multiletter control sequences out of 15000+600000
- 19200 words of font info for 41 fonts, out of 8000000 for 9000
+ 27315 strings out of 493089
+ 644702 string characters out of 6134842
+ 925518 words of memory out of 5000000
+ 30268 multiletter control sequences out of 15000+600000
+ 14817 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,19n,79p,3267b,818s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,8n,79p,1936b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/cm-super/sfxc1200.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (115 pages, 9730558 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
+Output written on main.pdf (3 pages, 366514 bytes).
 PDF statistics:
- 6764 PDF objects out of 7423 (max. 8388607)
- 3969 compressed objects within 40 object streams
- 409 named destinations out of 1000 (max. 500000)
- 625 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 7 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
