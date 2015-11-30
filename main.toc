@@ -33,23 +33,26 @@
 \contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{51}{subsection.4.3.5}
 \contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{52}{subsection.4.3.6}
 \contentsline {section}{\numberline {4.4}Results and Discussion}{53}{section.4.4}
-\contentsline {chapter}{\numberline {5}Nutrient pulses uniquely drive physiological ecology of cosmopolitan phytoplankton strains}{61}{chapter.5}
+\contentsline {chapter}{\numberline {5}Physiological response and strain variation of the \textsl {\textsc {Emiliania huxleyi}} species complex under changing nutrient environments}{61}{chapter.5}
 \contentsline {section}{\numberline {5.1}Abstract}{62}{section.5.1}
 \contentsline {section}{\numberline {5.2}Introduction}{62}{section.5.2}
-\contentsline {section}{\numberline {5.3}Materials and Methods}{74}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results and Discussion}{74}{section.5.4}
-\contentsline {chapter}{\numberline {6}Summary and conclusions}{75}{chapter.6}
-\contentsline {section}{\numberline {6.1}Thesis summary}{75}{section.6.1}
-\contentsline {section}{\numberline {6.2}Conclusions and future directions}{75}{section.6.2}
-\contentsline {chapter}{\numberline {A}Chapter 2 Supplemental Information}{77}{appendix.A}
-\contentsline {section}{\numberline {A.1}Supplemental Figures}{78}{section.A.1}
-\contentsline {section}{\numberline {A.2}Supplemental Data}{80}{section.A.2}
-\contentsline {chapter}{\numberline {B}Chapter 3 Supplemental Information}{81}{appendix.B}
-\contentsline {section}{\numberline {B.1}Supplemental Figures}{82}{section.B.1}
-\contentsline {section}{\numberline {B.2}Supplemental Tables}{93}{section.B.2}
-\contentsline {section}{\numberline {B.3}Supplemental Data}{94}{section.B.3}
-\contentsline {chapter}{\numberline {C}Chapter 4 Supplemental Information}{95}{appendix.C}
-\contentsline {section}{\numberline {C.1}Supplemental Figures}{96}{section.C.1}
-\contentsline {section}{\numberline {C.2}Supplemental Tables}{103}{section.C.2}
-\contentsline {chapter}{\numberline {D}Chapter 5 Supplemental Information}{105}{appendix.D}
-\contentsline {section}{\numberline {D.1}Supplemental Figures}{106}{section.D.1}
+\contentsline {section}{\numberline {5.3}Materials and Methods}{62}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Sample collection and shipboard nutrient incubation experiments}{62}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}RNA extraction and sequencing}{63}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Community and strain specific mapping and expression analysis}{63}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Results and Discussion}{64}{section.5.4}
+\contentsline {chapter}{\numberline {6}Summary and conclusions}{65}{chapter.6}
+\contentsline {section}{\numberline {6.1}Thesis summary}{65}{section.6.1}
+\contentsline {section}{\numberline {6.2}Conclusions and future directions}{65}{section.6.2}
+\contentsline {chapter}{\numberline {A}Chapter 2 Supplemental Information}{67}{appendix.A}
+\contentsline {section}{\numberline {A.1}Supplemental Figures}{68}{section.A.1}
+\contentsline {section}{\numberline {A.2}Supplemental Data}{70}{section.A.2}
+\contentsline {chapter}{\numberline {B}Chapter 3 Supplemental Information}{71}{appendix.B}
+\contentsline {section}{\numberline {B.1}Supplemental Figures}{72}{section.B.1}
+\contentsline {section}{\numberline {B.2}Supplemental Tables}{83}{section.B.2}
+\contentsline {section}{\numberline {B.3}Supplemental Data}{84}{section.B.3}
+\contentsline {chapter}{\numberline {C}Chapter 4 Supplemental Information}{85}{appendix.C}
+\contentsline {section}{\numberline {C.1}Supplemental Figures}{86}{section.C.1}
+\contentsline {section}{\numberline {C.2}Supplemental Tables}{93}{section.C.2}
+\contentsline {chapter}{\numberline {D}Chapter 5 Supplemental Information}{95}{appendix.D}
+\contentsline {section}{\numberline {D.1}Supplemental Figures}{96}{section.D.1}

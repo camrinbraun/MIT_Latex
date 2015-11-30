@@ -1,0 +1,71 @@
+%% This is an example first chapter.  You should put chapter/appendix that you
+%% write into a separate file, and add a line \include{yourfilename} to
+%% main.tex, where `yourfilename.tex' is the name of the chapter/appendix file.
+%% You can process specific files by typing their names in at the 
+%% \files=
+%% prompt when you run the file main.tex through LaTeX.
+\chapter{Introduction}
+
+\section{Overview}
+
+A diverse community of marine microorganisms are at the heart of the global carbon cycle, creating and transforming dissolved organic matter. 
+
+
+Marine phytoplankton are central players in the global carbon cycle, responsible for nearly half of global primary production. The identification of the major factors controlling phytoplankton ecology, physiology, and, ultimately, bloom dynamics has been a central problem in the field of biological oceanography for the past century. From physical explanations (Sverdrup's critical depth hypothesis), to chemical rational (Redfield ratio), to ecological theory (Margalef's mandala), the field has been constantly reevaluating evidence to answer the question: What drives phytoplankton blooms? Molecular approaches enable the direct examination of species-specific metabolic profiles in mixed, natural communities, a task which was previously intractable. In this thesis, I developed and applied novel analytical tools and bioinformatic pipelines to characterize the intersection of functional (or physiological) and genetic diversity in phytoplankton and its role in ecosystem function.  \par
+
+
+Overview: 
+
+1. What is the point of this thesis? 
+
+2. Where does it sit in terms of work that has been done by others? 
+Previous work focused on prokaryotic (dominant) organisms in the marine system. Particularly oligotrophic waters. 
+3. What has been done thus far in the field? 
+SO MUCH! 
+
+Biological oceanography; Phytoplankton; Marine microbes; Ecophysiology; Biogeochemical function? 
+
+Gene expression in the field: Metatranscriptomics-- what does it show us? 
+Quantifying RNA in the field? What have we discovered? 
+
+Challenges: 
+
+Quantifying expression? Relative vs. absolute vs. internal standard? 
+
+Species specificity is defined by your dictionary. We are limited by what we know. --> MMETSP  = a good start but not complete. The importance of field isolates? 
+
+Assemble or not to assemble? That is the question. 
+
+Can you really link shifts in abundance to shifts in metabolism? How do you account for community dynamics? 
+
+
+In this thesis I presne
+
+
+
+ Traditionally, biological oceangraphy 
+
+
+ has been revolutionized by the advent of sequencing technologies.Microorganisms dominate the world's biogeochemical 
+%Microorganisms are the numerically 
+
+%A diverse community of marine microorganisms are at the heart of the global carbon cycle, creating and transforming dissolved organic matter, 
+
+%Appreciate for the 
+%Over the past two decades technological advances from the medical field have migrated to the field of biological oceanography. 
+
+%Despite the impressive advances that have been made in assessing the diversity of marine microorganisms, the mechanisms that underlie the participation of microorganisms in marine food webs and biogeochemical cycles are poorly understood. Here, we stress the need to examine the biochemical interactions of microorganisms with ocean systems at the nanometre to millimetre scale — a scale that is relevant to microbial activities. The local impact of microorganisms on biogeochemical cycles must then be scaled up to make useful predictions of how marine ecosystems in the whole ocean might respond to global change. This approach to microbial oceanography is not only helpful, but is in fact indispensable.
+%\section{}
+
+%\section{}
+
+%\section{}
+
+%Photosynthetic microbes dominate the primary production of the ocean and account for roughly half of all primary production on earth [Field]; The diversity 
+%Chapter two describes the architecture of the $\mu$FPU unit, and the
+%motivations for the design decisions made.
+
+
+
+
+

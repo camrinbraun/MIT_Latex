@@ -26,15 +26,18 @@
 %% above. 
 \documentclass[11pt,twoside,singlespace]{mitthesis}
 \usepackage{lgrind}
+%\usepackage[hidelinks]{hyperref}
 \usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
-\hypersetup{%
-    hidelinks=true
-  %colorlinks=true,% hyperlinks will be coloured
-  %linkcolor=black,% hyperlink text will be green
-  %linkbordercolor=white,% hyperlink border will be red
-  %citecolor=black
+\hypersetup{
+    %hidelinks=true
+  colorlinks=false,% hyperlinks will be coloured
+  linkcolor=black,% hyperlink text will be green
+  linkbordercolor=white,% hyperlink border will be red
+  citecolor=black, 
+  citebordercolor=white
 }
+\usepackage{slantsc}
 \usepackage{titlesec}
 \usepackage{lipsum}
 \titleformat{\chapter}[display]
