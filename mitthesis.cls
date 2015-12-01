@@ -489,9 +489,9 @@ and the
 % but we want people to also be able to get at the more
 % basic abstract environment
 \def\abstractpage{\cleardoublepage
-\begin{center}{\Large{\bfseries\scshape \@title} \\
-by \\
-\@author \\[\baselineskip]}
+\begin{center}{\singlespace\Large{\bfseries\scshape \@title} \\
+\large by \\
+\large\@author \\[\baselineskip]}
 \par
 \def\baselinestretch{1}\@normalsize
 \small Submitted to the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and

@@ -15,7 +15,7 @@ A level-1 auxiliary file: appc.aux
 A level-1 auxiliary file: appd.aux
 A level-1 auxiliary file: biblio.aux
 The style file: myplainnat.bst
-Reallocated field_info (elt_size=4) to 11664 items from 5000.
+Reallocated field_info (elt_size=4) to 11692 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "Rokitta2015"
@@ -23,46 +23,45 @@ Warning--empty year in Andrewsa
 Warning--empty journal in Baas-Becking1934
 Warning--empty journal in Perry1976
 Warning--empty publisher in Raven2005
-Warning--empty booktitle in Zehr2001
-You've used 237 entries,
+You've used 238 entries,
             2773 wiz_defined-function locations,
-            2332 strings with 74112 characters,
-and the built_in function-call counts, 159035 in all, are:
-= -- 13498
-> -- 13872
+            2347 strings with 74368 characters,
+and the built_in function-call counts, 160088 in all, are:
+= -- 13609
+> -- 13929
 < -- 72
-+ -- 4648
-- -- 4407
-* -- 16084
-:= -- 25524
-add.period$ -- 922
-call.type$ -- 237
-change.case$ -- 2176
-chr.to.int$ -- 233
-cite$ -- 479
-duplicate$ -- 4899
-empty$ -- 9508
-format.name$ -- 4724
-if$ -- 31690
++ -- 4667
+- -- 4425
+* -- 16207
+:= -- 25680
+add.period$ -- 928
+call.type$ -- 238
+change.case$ -- 2185
+chr.to.int$ -- 234
+cite$ -- 480
+duplicate$ -- 4929
+empty$ -- 9585
+format.name$ -- 4743
+if$ -- 31905
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 238
-newline$ -- 1403
-num.names$ -- 948
-pop$ -- 3757
+missing$ -- 240
+newline$ -- 1411
+num.names$ -- 952
+pop$ -- 3758
 preamble$ -- 1
-purify$ -- 1943
+purify$ -- 1951
 quote$ -- 0
-skip$ -- 4197
+skip$ -- 4213
 stack$ -- 0
-substring$ -- 5895
-swap$ -- 449
+substring$ -- 6016
+swap$ -- 452
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2587
-warning$ -- 5
-while$ -- 1134
+type$ -- 2598
+warning$ -- 4
+while$ -- 1147
 width$ -- 0
-write$ -- 3497
-(There were 6 warnings)
+write$ -- 3521
+(There were 5 warnings)

@@ -1,9 +1,19 @@
-\begin{thebibliography}{237}
+\begin{thebibliography}{238}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adib et~al.(2004)Adib, Henderson, Perrett, Hewitt, Bourmpoulia,
+  Ledermann, and Boshoff]{Adib2004}
+Adib, T.~R., Henderson, S., Perrett, C., Hewitt, D., Bourmpoulia, D.,
+  Ledermann, J., and Boshoff, C.
+\newblock {Predicting biomarkers for ovarian cancer using gene-expression
+  microarrays}.
+\newblock \emph{British Journal of Cancer}, 90\penalty0 (3):\penalty0 686--692,
+  February 2004.
+\newblock \doi{10.1038/sj.bjc.6601603}.
 
 \bibitem[Alcolombri et~al.(2015)Alcolombri, Ben-Dor, Feldmesser, Levin, Tawfik,
   and Vardi]{Alcolombri2015}
@@ -243,8 +253,8 @@ Bollmann, J. and Herrle, J.~O.
 
 \bibitem[Borkman and Smayda(2009)]{Borkman2009}
 Borkman, D.~G. and Smayda, T.
-\newblock {Multidecadal (1959--1997) changes in Skeletonema abundance and
-  seasonal bloom patterns in Narragansett Bay, Rhode Island, USA}.
+\newblock {Multidecadal (1959--1997) changes in \textit{Skeletonema} abundance
+  and seasonal bloom patterns in Narragansett Bay, Rhode Island, USA}.
 \newblock \emph{Journal of Sea Research}, 61\penalty0 (1-2):\penalty0 84--94,
   January 2009.
 \newblock \doi{10.1016/j.seares.2008.10.004}.
@@ -360,8 +370,8 @@ Cavender-Bares, K.~K., Karl, D.~M., and Chisholm, S.~W.
 \bibitem[Chung et~al.(2003)Chung, Hwang, and Chang]{Chung2003}
 Chung, C.-C., Hwang, S.-P.~L., and Chang, J.
 \newblock {Identification of a high-affinity phosphate transporter gene in a
-  prasinophyte alga, Tetraselmis chui, and its expression under nutrient
-  limitation.}
+  prasinophyte alga, \textit{Tetraselmis chui}, and its expression under
+  nutrient limitation.}
 \newblock \emph{Applied and environmental microbiology}, 69\penalty0
   (2):\penalty0 754--9, February 2003.
 
@@ -445,7 +455,7 @@ de~Vargas, C., Audic, S., Henry, N., Decelle, J., Mahe, F., Logares, R., Lara,
 
 \bibitem[de~Wit et~al.(2006)de~Wit, Bouvier, Wit, and Bouvier]{DeWit2006}
 de~Wit, R., Bouvier, T., Wit, R.~D., and Bouvier, T.
-\newblock {'Everything is everywhere, but, the environment selects'; what did
+\newblock {`Everything is everywhere, but, the environment selects'; what did
   Baas Becking and Beijerinck really say?}
 \newblock \emph{Environmental microbiology}, 8\penalty0 (4):\penalty0 755--8,
   April 2006.
@@ -469,7 +479,7 @@ Derelle, E., Ferraz, C., Rombauts, S., Rouz\'{e}, P., Worden, A.~Z., Robbens,
 \bibitem[D'haeseleer(2005)]{Dhaeseleer2005}
 D'haeseleer, P.
 \newblock {How does gene expression clustering work?}
-\newblock \emph{Nature biotechnology}, 23\penalty0 (12):\penalty0 1499--501,
+\newblock \emph{Nature Biotechnology}, 23\penalty0 (12):\penalty0 1499--501,
   December 2005.
 \newblock \doi{10.1038/nbt1205-1499}.
 
@@ -502,7 +512,7 @@ Dupont, C.~L., McCrow, J.~P., Valas, R., Moustafa, A., Walworth, N.,
   Palenik, B., Barbeau, K.~A., {Craig Venter}, J., and Allen, A.~E.
 \newblock {Genomes and gene expression across light and productivity gradients
   in eastern subtropical Pacific microbial communities.}
-\newblock \emph{The ISME journal}, 9\penalty0 (5):\penalty0 1076--92, May 2015.
+\newblock \emph{The ISME Journal}, 9\penalty0 (5):\penalty0 1076--92, May 2015.
 \newblock \doi{10.1038/ismej.2014.198}.
 
 \bibitem[Dyhrman and Anderson(2003)]{Dyhrman2003a}
@@ -564,7 +574,7 @@ Elton, C.~S.
 Feng, Y., Warner, M.~E., Zhang, Y., Sun, J., Fu, F.-X., Rose, J.~M., and
   Hutchins, D.~A.
 \newblock {Interactive effects of increased p{CO}\textsubscript{2}, temperature
-  and irradiance on the marine coccolithophore Emiliania huxleyi
+  and irradiance on the marine coccolithophore \textit{Emiliania huxleyi}
   (Prymnesiophyceae)}.
 \newblock \emph{European Journal of Phycology}, 43\penalty0 (1):\penalty0
   87--98, February 2008.
@@ -704,8 +714,8 @@ Guillard, R. R.~L.
 \bibitem[Guo and Ki(2012)]{Guo2012}
 Guo, R. and Ki, J.-S.
 \newblock {Evaluation and validation of internal control genes for studying
-  gene expression in the dinoflagellate Prorocentrum minimum using real-time
-  PCR.}
+  gene expression in the dinoflagellate \textit{Prorocentrum minimum} using
+  real-time PCR.}
 \newblock \emph{European journal of protistology}, 48\penalty0 (3):\penalty0
   199--206, August 2012.
 \newblock \doi{10.1016/j.ejop.2011.11.001}.
@@ -850,8 +860,8 @@ Jones, B.~M., Iglesias-Rodriguez, M.~D., Skipp, P.~J., Edwards, R.~J., Greaves,
 Kang, L.-K., Hwang, S.-P.~L., Lin, H.-J., Chen, P.-C., and Chang, J.
 \newblock {Establisment of minimal and maximal transcript levels for nitrate
   transporter genes genes for detecting nitrogen deficiency in the marine
-  phytoplankton Isochrysis glabana (Prymnesiophycae) and \textit{Thalassiosira
-  pseudonana} (Bacillariophycae)}.
+  phytoplankton \textit{Isochrysis glabana} (Prymnesiophycae) and Thalassiosira
+  pseudonana (Bacillariophycae)}.
 \newblock \emph{Journal of Phycology}, 45\penalty0 (4):\penalty0 864--872,
   August 2009.
 \newblock \doi{10.1111/j.1529-8817.2009.00698.x}.
@@ -900,7 +910,7 @@ Kashtan, N., Roggensack, S.~E., Rodrigue, S., Thompson, J.~W., Biller, S.~J.,
   Coe, A., Ding, H., Marttinen, P., Malmstrom, R.~R., Stocker, R., Follows,
   M.~J., Stepanauskas, R., and Chisholm, S.~W.
 \newblock {Single-cell genomics reveals hundreds of coexisting subpopulations
-  in wild Prochlorococcus.}
+  in wild \textit{Prochlorococcus}}.
 \newblock \emph{Science (New York, N.Y.)}, 344\penalty0 (6182):\penalty0
   416--20, May 2014.
 \newblock \doi{10.1126/science.1248575}.
@@ -1006,7 +1016,7 @@ Lee, F. W.-F., Morse, D., and Lo, S. C.-L.
 
 \bibitem[Leggat et~al.(2011)Leggat, Yellowlees, and Medina]{Leggat2011}
 Leggat, W., Yellowlees, D., and Medina, M.
-\newblock {Recent progress in Symbiodinium transcriptomics}.
+\newblock {Recent progress in \textit{Symbiodinium} transcriptomics}.
 \newblock \emph{Journal of Experimental Marine Biology and Ecology},
   408\penalty0 (1-2):\penalty0 120--125, November 2011.
 \newblock \doi{10.1016/j.jembe.2011.07.032}.
@@ -1056,7 +1066,7 @@ Li, H. and Durbin, R.
 \bibitem[Li et~al.(2003)Li, Stoeckert, and Roos]{Li2003}
 Li, L., Stoeckert, C.~J., and Roos, D.~S.
 \newblock {OrthoMCL: identification of ortholog groups for eukaryotic genomes.}
-\newblock \emph{Genome research}, 13\penalty0 (9):\penalty0 2178--89, September
+\newblock \emph{Genome Research}, 13\penalty0 (9):\penalty0 2178--89, September
   2003.
 \newblock \doi{10.1101/gr.1224503}.
 
@@ -1132,16 +1142,18 @@ L\'{o}pez-Urrutia, A., {San Martin}, E., Harris, R.~P., and Irigoien, X.
 \bibitem[Mackinder et~al.(2010)Mackinder, Wheeler, Schroeder, Riebesell, and
   Brownlee]{Mackinder2010}
 Mackinder, L., Wheeler, G., Schroeder, D., Riebesell, U., and Brownlee, C.
-\newblock {Molecular Mechanisms Underlying Calcification in Coccolithophores}.
-\newblock \emph{Geomicrobiology Journal}, September 2010.
+\newblock {Molecular mechanisms underlying calcification in coccolithophores}.
+\newblock \emph{Geomicrobiology Journal}, 27\penalty0 (6-7):\penalty0 585--595,
+  September 2010.
+\newblock \doi{10.1080/01490451003703014}.
 
 \bibitem[Mackinder et~al.(2011)Mackinder, Wheeler, Schroeder, von Dassow,
   Riebesell, and Brownlee]{Mackinder2011}
 Mackinder, L., Wheeler, G., Schroeder, D., von Dassow, P., Riebesell, U., and
   Brownlee, C.
 \newblock {Expression of biomineralization-related ion transport genes in
-  \textit{Emiliania huxleyi}}.
-\newblock \emph{Environmental microbiology}, 13\penalty0 (12):\penalty0
+  Emiliania huxleyi}.
+\newblock \emph{Environmental Microbiology}, 13\penalty0 (12):\penalty0
   3250--65, December 2011.
 \newblock \doi{10.1111/j.1462-2920.2011.02561.x}.
 
@@ -1183,7 +1195,8 @@ Marchetti, A., Schruth, D.~M., Durkin, C.~a., Parker, M.~S., Kodner, R.~B.,
 \bibitem[Margalef(1963)]{Margalef1963}
 Margalef, R.
 \newblock {On certain unifying principles in ecology}.
-\newblock \emph{American Naturalist}, 1963.
+\newblock \emph{American Naturalist}, 97\penalty0 (897):\penalty0 357--374,
+  1963.
 
 \bibitem[Margalef(1978)]{Margalef1978}
 Margalef, R.
@@ -1294,7 +1307,7 @@ Menden-Deuer, S. and Rowlett, J.
 Min, X.~J., Butler, G., Storms, R., and Tsang, A.
 \newblock {OrfPredictor: predicting protein-coding regions in EST-derived
   sequences.}
-\newblock \emph{Nucleic acids research}, 33\penalty0 (Web Server
+\newblock \emph{Nucleic Acids Research}, 33\penalty0 (Web Server
   issue):\penalty0 W677--80, July 2005.
 \newblock \doi{10.1093/nar/gki394}.
 
@@ -1409,7 +1422,7 @@ Ottesen, E.~A., Marin, R., Preston, C.~M., Young, C.~R., Ryan, J.~P., Scholin,
   C.~A., and DeLong, E.~F.
 \newblock {Metatranscriptomic analysis of autonomously collected and preserved
   marine bacterioplankton.}
-\newblock \emph{The ISME journal}, 5\penalty0 (12):\penalty0 1881--95, December
+\newblock \emph{The ISME Journal}, 5\penalty0 (12):\penalty0 1881--95, December
   2011.
 \newblock \doi{10.1038/ismej.2011.70}.
 
@@ -1581,7 +1594,7 @@ Redfield, A.~C.
   Goldman]{Richerson1970}
 Richerson, P., Armstrong, R., and Goldman, C.~R.
 \newblock {Contemporaneous Disequilibrium, a New Hypothesis to Explain the
-  "Paradox of the Plankton"}.
+  ``Paradox of the Plankton''}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 67\penalty0 (4):\penalty0 1710--1714, December 1970.
 \newblock \doi{10.1073/pnas.67.4.1710}.
@@ -1611,10 +1624,9 @@ Riegman, R. and Stolte, W.
   limitation in continuous}.
 \newblock \emph{Journal of Phycology}, 36:\penalty0 87--96, 2000.
 
-\bibitem[Rinta-Kanto et~al.(2012)Rinta-Kanto, Sun, Sharma, Kiene, Moran, and
-  Rinta‐Kanto]{Rinta-Kanto2012a}
-Rinta-Kanto, J.~M., Sun, S., Sharma, S., Kiene, R.~P., Moran, M.~A., and
-  Rinta‐Kanto, J.~M.
+\bibitem[Rinta-Kanto et~al.(2012)Rinta-Kanto, Sun, Sharma, Kiene, and
+  Moran]{Rinta-Kanto2012a}
+Rinta-Kanto, J.~M., Sun, S., Sharma, S., Kiene, R.~P., and Moran, M.~A.
 \newblock {Bacterial community transcription patterns during a marine
   phytoplankton bloom.}
 \newblock \emph{Environmental microbiology}, 14\penalty0 (1):\penalty0 228--39,
@@ -1665,7 +1677,7 @@ Rouco, M., Branson, O., Lebrato, M., and Iglesias-Rodr\'{\i}guez, M.~D.
 
 \bibitem[Roy and Chattopadhyay(2007)]{Roy2007}
 Roy, S. and Chattopadhyay, J.
-\newblock {Towards a resolution of ‘the paradox of the plankton’: A brief
+\newblock {Towards a resolution of `the paradox of the plankton': A brief
   overview of the proposed mechanisms}.
 \newblock \emph{Ecological Complexity}, 4\penalty0 (1-2):\penalty0 26--33,
   March 2007.
@@ -1715,7 +1727,7 @@ Saito, M.~A., McIlvin, M.~R., Moran, D.~M., Goepfert, T.~J., DiTullio, G.~R.,
 Saito, R., Smoot, M.~E., Ono, K., Ruscheinski, J., Wang, P.-L., Lotia, S.,
   Pico, A.~R., Bader, G.~D., and Ideker, T.
 \newblock {A travel guide to Cytoscape plugins.}
-\newblock \emph{Nature methods}, 9\penalty0 (11):\penalty0 1069--76, November
+\newblock \emph{Nature Methods}, 9\penalty0 (11):\penalty0 1069--76, November
   2012.
 \newblock \doi{10.1038/nmeth.2212}.
 
@@ -1774,7 +1786,7 @@ Serra, J.~L., Llama, M.~J., and Cadenas, E.
 Shi, Y., Tyson, G.~W., Eppley, J.~M., and DeLong, E.~F.
 \newblock {Integrated metatranscriptomic and metagenomic analyses of stratified
   microbial assemblages in the open ocean.}
-\newblock \emph{The ISME journal}, 5\penalty0 (6):\penalty0 999--1013, July
+\newblock \emph{The ISME Journal}, 5\penalty0 (6):\penalty0 999--1013, July
   2011.
 \newblock \doi{10.1038/ismej.2010.189}.
 
@@ -1782,7 +1794,7 @@ Shi, Y., Tyson, G.~W., Eppley, J.~M., and DeLong, E.~F.
 Shi, Y., McCarren, J., and DeLong, E.~F.
 \newblock {Transcriptional responses of surface water marine microbial
   assemblages to deep-sea water amendment.}
-\newblock \emph{Environmental microbiology}, 14\penalty0 (1):\penalty0
+\newblock \emph{Environmental Microbiology}, 14\penalty0 (1):\penalty0
   191--206, January 2012.
 \newblock \doi{10.1111/j.1462-2920.2011.02598.x}.
 
@@ -1872,7 +1884,9 @@ Steiner, C.~F., Long, Z.~T., Krumins, J.~A., and Morin, P.~J.
 \bibitem[Steinke et~al.(1998)Steinke, Wolfe, and Kirst]{Steinke1998}
 Steinke, M., Wolfe, G.~V., and Kirst, G.~O.
 \newblock {Partial characterisation of dimethylsulfoniopropionate (DMSP) lyase
-  isozymes in 6 strains of \textit{Emiliania huxleyi}}, March 1998.
+  isozymes in 6 strains of Emiliania huxleyi}.
+\newblock \emph{Marine Ecology Progress Series}, 175:\penalty0 215--225, March
+  1998.
 
 \bibitem[Strickland(1965)]{Strickland1965}
 Strickland, J.~D.
@@ -1964,7 +1978,7 @@ Vandesompele, J., {De Preter}, K., Pattyn, F., Poppe, B., {Van Roy}, N., {De
   Paepe}, A., and Speleman, F.
 \newblock {Accurate normalization of real-time quantitative RT-PCR data by
   geometric averaging of multiple internal control genes.}
-\newblock \emph{Genome biology}, 3\penalty0 (7):\penalty0 research0034, June
+\newblock \emph{Genome Biology}, 3\penalty0 (7):\penalty0 research0034, June
   2002.
 \newblock \doi{10.1186/gb-2002-3-7-research0034}.
 
@@ -2025,7 +2039,7 @@ Whitney, L.~P., Lins, J.~J., Hughes, M.~P., Wells, M.~L., Chappell, P.~D., and
   Jenkins, B.~D.
 \newblock {Characterization of putative iron responsive genes as
   species-specific indicators of iron stress in thalassiosiroid diatoms.}
-\newblock \emph{Frontiers in microbiology}, 2\penalty0 (November):\penalty0
+\newblock \emph{Frontiers in Microbiology}, 2\penalty0 (November):\penalty0
   234, January 2011.
 \newblock \doi{10.3389/fmicb.2011.00234}.
 
@@ -2083,7 +2097,8 @@ Yeung, K.~Y., Haynor, D.~R., and Ruzzo, W.~L.
 \bibitem[Zehr and Turner(2001)]{Zehr2001}
 Zehr, J. and Turner, P.
 \newblock {Nitrogen fixation: Nitrogenase genes and gene expression}.
-\newblock volume~30, pages 271--286. Elsevier, 2001.
+\newblock In \emph{Methods in Microbiology}, volume~30, pages 271--286.
+  Elsevier, 2001.
 \newblock ISBN 978-0-12-521530-5.
 
 \bibitem[Zhao et~al.(2009)Zhao, Wang, Bai, and Qi]{Zhao2009}
@@ -2106,13 +2121,14 @@ Zondervan, I., Rost, B., and Riebesell, U.
 \newblock {Effect of {CO}\textsubscript{2} concentration on the PIC/POC ratio
   in the coccolithophore Emiliania huxleyi grown under light-limiting
   conditions and different daylengths}.
-\newblock \emph{Journal of Experimental Marine Biology \ldots}, 2002.
+\newblock \emph{Journal of Experimental Marine Biology and Ecology},
+  272:\penalty0 55--70, 2002.
 
 \bibitem[Zondervan(2007)]{Zondervan2007}
 Zondervan, I.
 \newblock {The effects of light, macronutrients, trace metals and
   {CO}\textsubscript{2} on the production of calcium carbonate and organic
-  carbon in coccolithophores—A review}.
+  carbon in coccolithophores -- A review}.
 \newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
   54\penalty0 (5-7):\penalty0 521--537, March 2007.
 \newblock \doi{10.1016/j.dsr2.2006.12.004}.
