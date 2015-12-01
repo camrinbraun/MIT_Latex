@@ -496,7 +496,7 @@ by \\
 \def\baselinestretch{1}\@normalsize
 \small Submitted to the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and
 Engineering on \@thesisdate, in partial fulfillment of the
-requirements for the \@degreeword\ of Doctor of Philosophy in Biological Oceanography. \\
+requirements for the \@degreeword\ of Doctor of Philosophy in Biological Oceanography \\
 \end{center}
 \par
 \begin{abstract}}

@@ -1,53 +1,53 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Conceptual overview of the levels of diversity explored in chapters 3, 4, and 5 of this thesis.\relax }}{14}{figure.caption.4}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Conceptual overview of the levels of diversity explored in chapters 3, 4, and 5 of this thesis.\relax }}{17}{figure.caption.4}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Expression patterns of putative reference genes}}{21}{figure.caption.5}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Average deviation from the mean level of expression for putative reference genes}}{22}{figure.caption.6}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparison of putative reference genes identified through literature, $k$-means clustering, and ASC analysis}}{24}{figure.caption.8}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Expression patterns of putative reference genes}}{25}{figure.caption.5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Average deviation from the mean level of expression for putative reference genes}}{26}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparison of putative reference genes identified through literature, $k$-means clustering, and ASC analysis}}{28}{figure.caption.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Taxonomic classification of reads across five field samples}}{36}{figure.caption.9}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Quantitative metabolic fingerprint across Narragansett Bay \textit {in situ} samples}}{38}{figure.caption.10}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Modulation of nitrogen and phosphorus pathways in the field}}{40}{figure.caption.11}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Functional composition of resource-responsive gene set}}{43}{figure.caption.12}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Evolution of resource-responsive (RR) gene partitioning over time in Narragansett Bay}}{45}{figure.caption.13}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Taxonomic classification of reads across five field samples}}{40}{figure.caption.9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Quantitative metabolic fingerprint across Narragansett Bay \textit {in situ} samples}}{42}{figure.caption.10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Modulation of nitrogen and phosphorus pathways in the field}}{44}{figure.caption.11}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Functional composition of resource-responsive gene set}}{47}{figure.caption.12}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Evolution of resource-responsive (RR) gene partitioning over time in Narragansett Bay}}{49}{figure.caption.13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Taxonomic distribution in mRNA mapped reads consistent across time but altered by deep seawater (DSW) addition}}{54}{figure.caption.14}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Quantitative metabolic fingerprint (QMF) and patterns of differential expression across KEGG orthology following DSW addition underscore functional group traits}}{56}{figure.caption.15}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Shifts in transcript abundance of genes responsive to biogeochemical forcing}}{57}{figure.caption.17}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Variable transcript allocation space differentiates functional group strategies}}{59}{figure.caption.18}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Taxonomic distribution in mRNA mapped reads consistent across time but altered by deep seawater (DSW) addition}}{58}{figure.caption.14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Quantitative metabolic fingerprint (QMF) and patterns of differential expression across KEGG orthology following DSW addition underscore functional group traits}}{60}{figure.caption.15}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Shifts in transcript abundance of genes responsive to biogeochemical forcing}}{61}{figure.caption.17}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Variable transcript allocation space differentiates functional group strategies}}{63}{figure.caption.18}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Distribution of normalized tag counts across treatments}}{68}{figure.caption.19}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces $K$-means clustering of normalized genes}}{69}{figure.caption.20}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Distribution of normalized tag counts across treatments}}{82}{figure.caption.19}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces $K$-means clustering of normalized genes}}{83}{figure.caption.20}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Cell counts in Narragansett Bay during the spring of 2012}}{72}{figure.caption.21}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Comparison of KEGG module content between \textit {Skeletonema} spp. and \textit {T. rotula} }}{73}{figure.caption.22}
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Hierarchical clustering of QMF signatures across species and samples}}{74}{figure.caption.23}
-\contentsline {figure}{\numberline {B.4}{\ignorespaces Expression of stable reference genes in the field}}{75}{figure.caption.24}
-\contentsline {figure}{\numberline {B.5}{\ignorespaces Functional compoosition of the reference transcriptome and resource-responsive gene sets}}{76}{figure.caption.25}
-\contentsline {figure}{\numberline {B.6}{\ignorespaces Relative expression of nitrate reducatses across incubation experiments}}{77}{figure.caption.26}
-\contentsline {figure}{\numberline {B.7}{\ignorespaces Gene cluster analysis of nutrient-responsive genes}}{78}{figure.caption.27}
-\contentsline {figure}{\numberline {B.8}{\ignorespaces Conceptual schemiatic of $STD_N$ plotted against $STD_P$}}{79}{figure.caption.28}
-\contentsline {figure}{\numberline {B.9}{\ignorespaces Evolution of niche space indexing over for significantly down-regualted genes}}{80}{figure.caption.29}
-\contentsline {figure}{\numberline {B.10}{\ignorespaces The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs}}{81}{figure.caption.30}
-\contentsline {figure}{\numberline {B.11}{\ignorespaces The impact of stable gene selction of quadrant localization}}{82}{figure.caption.31}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Cell counts in Narragansett Bay during the spring of 2012}}{86}{figure.caption.21}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Comparison of KEGG module content between \textit {Skeletonema} spp. and \textit {T. rotula} }}{87}{figure.caption.22}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Hierarchical clustering of QMF signatures across species and samples}}{88}{figure.caption.23}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Expression of stable reference genes in the field}}{89}{figure.caption.24}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Functional compoosition of the reference transcriptome and resource-responsive gene sets}}{90}{figure.caption.25}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Relative expression of nitrate reducatses across incubation experiments}}{91}{figure.caption.26}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Gene cluster analysis of nutrient-responsive genes}}{92}{figure.caption.27}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Conceptual schemiatic of $STD_N$ plotted against $STD_P$}}{93}{figure.caption.28}
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Evolution of niche space indexing over for significantly down-regualted genes}}{94}{figure.caption.29}
+\contentsline {figure}{\numberline {B.10}{\ignorespaces The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs}}{95}{figure.caption.30}
+\contentsline {figure}{\numberline {B.11}{\ignorespaces The impact of stable gene selction of quadrant localization}}{96}{figure.caption.31}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Chlorophyll a of replicated experiments for \emph {in situ} samples, no addition control, and a 10\% deep seawater amendment}}{86}{figure.caption.35}
-\contentsline {figure}{\numberline {C.2}{\ignorespaces Rank abundance shifts in the species composition of diatoms, haptophytes and dinoflagellates}}{87}{figure.caption.36}
-\contentsline {figure}{\numberline {C.3}{\ignorespaces Comparison of the quantitative metabolic fingerprint (QMF) between the whole functional group and representative taxa}}{88}{figure.caption.37}
-\contentsline {figure}{\numberline {C.4}{\ignorespaces Distribution of log fold change following deep seawater (DSW) addition}}{89}{figure.caption.38}
-\contentsline {figure}{\numberline {C.5}{\ignorespaces Weighted Venn diagrams of genes with significantly different abundances following deep seawater (DSW) addition by functional group}}{90}{figure.caption.39}
-\contentsline {figure}{\numberline {C.6}{\ignorespaces Microbial Assemblage Normalized Transcript Analysis (MANTA) ratio-averaged plots for global shifts in expression of KEGG orthologs}}{91}{figure.caption.40}
-\contentsline {figure}{\numberline {C.7}{\ignorespaces Principal component analysis of the quantitative metabolic fingerprint (QMF) signals across \emph {in situ}, no addition control, and deep seawater amended samples}}{92}{figure.caption.41}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Chlorophyll a of replicated experiments for \emph {in situ} samples, no addition control, and a 10\% deep seawater amendment}}{100}{figure.caption.35}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Rank abundance shifts in the species composition of diatoms, haptophytes and dinoflagellates}}{101}{figure.caption.36}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Comparison of the quantitative metabolic fingerprint (QMF) between the whole functional group and representative taxa}}{102}{figure.caption.37}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces Distribution of log fold change following deep seawater (DSW) addition}}{103}{figure.caption.38}
+\contentsline {figure}{\numberline {C.5}{\ignorespaces Weighted Venn diagrams of genes with significantly different abundances following deep seawater (DSW) addition by functional group}}{104}{figure.caption.39}
+\contentsline {figure}{\numberline {C.6}{\ignorespaces Microbial Assemblage Normalized Transcript Analysis (MANTA) ratio-averaged plots for global shifts in expression of KEGG orthologs}}{105}{figure.caption.40}
+\contentsline {figure}{\numberline {C.7}{\ignorespaces Principal component analysis of the quantitative metabolic fingerprint (QMF) signals across \emph {in situ}, no addition control, and deep seawater amended samples}}{106}{figure.caption.41}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Inorganic nitrogen and phosphorus concentrations at the point of RNA sampling (7 days post-inoculation) for each of the six treatments in E1 and E2, averaged across triplicate bottles (n=3).\relax }}{96}{figure.caption.43}
-\contentsline {figure}{\numberline {D.2}{\ignorespaces The percent of genes falling into each of the KOG classes for each of the five strains.\relax }}{97}{figure.caption.44}
-\contentsline {figure}{\numberline {D.3}{\ignorespaces The number of orthologous groups falling into each of the possible strain sets across the five strains surveyed}}{98}{figure.caption.45}
-\contentsline {figure}{\numberline {D.4}{\ignorespaces Log normalized fold change plotted against log normalized average abundance for each of the five amended treatments compared to the no-addition control}}{99}{figure.caption.46}
-\contentsline {figure}{\numberline {D.5}{\ignorespaces Weighted Venn diagrams of significantly different, increased, and decreased orthologus groups and species-specific transcripts across each of the amendedments to which N was added. }}{100}{figure.caption.47}
-\contentsline {figure}{\numberline {D.6}{\ignorespaces Fold change of genes associated with carbon, nucleotide, and amino acid metabolism across each of the incubation amendments}}{101}{figure.caption.48}
-\contentsline {figure}{\numberline {D.7}{\ignorespaces Fold change of genes associated with photosynthesis, ATP synthesis, Calvin cycle, TCA cycle, and glycolysis across each of the incubation amendments}}{102}{figure.caption.49}
-\contentsline {figure}{\numberline {D.8}{\ignorespaces The relative expression of `core', shared, and CCMP1516-specific transcripts across time and in incubation experiments}}{103}{figure.caption.50}
-\contentsline {figure}{\numberline {D.9}{\ignorespaces Annotation of orthologous groups using KOG orthology for all \textit {E. huxleyi} orthologous groups and for shared orthologous groups}}{104}{figure.caption.51}
-\contentsline {figure}{\numberline {D.10}{\ignorespaces ****The RSEM estimated contribution of each strain to the abundance of the shared set of genes in the field and incubation experiments.\relax }}{105}{figure.caption.52}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Inorganic nitrogen and phosphorus concentrations at the point of RNA sampling (7 days post-inoculation) for each of the six treatments in E1 and E2, averaged across triplicate bottles (n=3).\relax }}{110}{figure.caption.43}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces The percent of genes falling into each of the KOG classes for each of the five strains.\relax }}{111}{figure.caption.44}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces The number of orthologous groups falling into each of the possible strain sets across the five strains surveyed}}{112}{figure.caption.45}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Log normalized fold change plotted against log normalized average abundance for each of the five amended treatments compared to the no-addition control}}{113}{figure.caption.46}
+\contentsline {figure}{\numberline {D.5}{\ignorespaces Weighted Venn diagrams of significantly different, increased, and decreased orthologus groups and species-specific transcripts across each of the amendedments to which N was added. }}{114}{figure.caption.47}
+\contentsline {figure}{\numberline {D.6}{\ignorespaces Fold change of genes associated with carbon, nucleotide, and amino acid metabolism across each of the incubation amendments}}{115}{figure.caption.48}
+\contentsline {figure}{\numberline {D.7}{\ignorespaces Fold change of genes associated with photosynthesis, ATP synthesis, Calvin cycle, TCA cycle, and glycolysis across each of the incubation amendments}}{116}{figure.caption.49}
+\contentsline {figure}{\numberline {D.8}{\ignorespaces The relative expression of `core', shared, and CCMP1516-specific transcripts across time and in incubation experiments}}{117}{figure.caption.50}
+\contentsline {figure}{\numberline {D.9}{\ignorespaces Annotation of orthologous groups using KOG orthology for all \textit {E. huxleyi} orthologous groups and for shared orthologous groups}}{118}{figure.caption.51}
+\contentsline {figure}{\numberline {D.10}{\ignorespaces ****The RSEM estimated contribution of each strain to the abundance of the shared set of genes in the field and incubation experiments.\relax }}{119}{figure.caption.52}

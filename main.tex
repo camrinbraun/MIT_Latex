@@ -26,17 +26,19 @@
 %% above. 
 \documentclass[11pt,twoside,singlespace]{mitthesis}
 \usepackage{lgrind}
-%\usepackage[hidelinks]{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
-\hypersetup{
+\usepackage[usestackEOL]{stackengine}
+\usepackage{fixltx2e}
+%\hypersetup{
     %hidelinks=true
-  colorlinks=false,% hyperlinks will be coloured
-  linkcolor=black,% hyperlink text will be green
-  linkbordercolor=white,% hyperlink border will be red
-  citecolor=black, 
-  citebordercolor=white
-}
+%  colorlinks=false,% hyperlinks will be coloured
+%  linkcolor=black,% hyperlink text will be green
+%  linkbordercolor=white,% hyperlink border will be red
+%%  citecolor=black, 
+%  citebordercolor=white
+%}
 \usepackage{slantsc}
 \usepackage{titlesec}
 \usepackage{lipsum}
@@ -71,9 +73,8 @@
 \newlist{DS3}{enumerate}{1}
 \setlist[DS3]{label=Data Sheet 3-\arabic*}
 
-%% This bit allows you to either specify only the files which you wish to
-%% process, or `all' to process all files which you \include.
-%% Krishna Sethuraman (1990).
+
+
 
 \typein [\files]{Enter file names to process, (chap1,chap2 ...), or `all' to
 process all files:}
@@ -83,10 +84,8 @@ process all files:}
 \begin{document}
 
 \include{cover}
-% Some departments (e.g. 5) require an additional signature page.  See
-% signature.tex for more information and uncomment the following line if
-% applicable.
-% \include{signature}
+
+
 \pagestyle{plain}
 \include{contents}
 \include{chap1}
@@ -103,7 +102,6 @@ process all files:}
 \include{appc}
 \include{appd}
 
-%%\include{appb}
 \include{biblio}
 \end{document}
 
