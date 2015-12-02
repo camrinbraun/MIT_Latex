@@ -1,4 +1,4 @@
-\begin{thebibliography}{238}
+\begin{thebibliography}{254}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -92,9 +92,10 @@ Anders, S., Pyl, P.~T., and Huber, W.
   166--9, September 2014.
 \newblock \doi{10.1093/bioinformatics/btu638}.
 
-\bibitem[Andrews()]{Andrewsa}
+\bibitem[Andrews(2010)]{Andrewsa}
 Andrews, S.
-\newblock {FastQC A Quality Control tool for High Throughput Sequence Data}.
+\newblock {FastQC: A quality control tool for high throughput sequence data},
+  2010.
 
 \bibitem[Antonov et~al.(2005)Antonov, Goldstein, Oberli, Baltzer, Pirotta,
   Fleischmann, Altermatt, and Jaggi]{Antonov2005}
@@ -143,7 +144,7 @@ Avonce, N., Leyman, B., Mascorro-Gallardo, J.~O., {Van Dijck}, P., Thevelein,
 \bibitem[Baas-Becking(1934)]{Baas-Becking1934}
 Baas-Becking, L.
 \newblock {Geobiologie; of inleiding tot de milieukunde}.
-\newblock 1934.
+\newblock \emph{The Hague, the Netherlands: W.P. Van Stoc- kum \& Zoon}, 1934.
 
 \bibitem[Balvanera et~al.(2006)Balvanera, Pfisterer, Buchmann, He, Nakashizuka,
   Raffaelli, and Schmid]{Balvanera2006}
@@ -305,6 +306,13 @@ Bruhn, A., LaRoche, J., and Richardson, K.
   April 2010.
 \newblock \doi{10.1111/j.1529-8817.2010.00809.x}.
 
+\bibitem[Bryant and Frigaard(2006)]{Bryant2006}
+Bryant, D.~A. and Frigaard, N.-U.
+\newblock {Prokaryotic photosynthesis and phototrophy illuminated.}
+\newblock \emph{Trends in microbiology}, 14\penalty0 (11):\penalty0 488--96,
+  November 2006.
+\newblock \doi{10.1016/j.tim.2006.09.001}.
+
 \bibitem[Bustin(2000)]{Bustin2000}
 Bustin, S.
 \newblock {Absolute quantification of mRNA using real-time reverse
@@ -366,6 +374,20 @@ Cavender-Bares, K.~K., Karl, D.~M., and Chisholm, S.~W.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   48\penalty0 (11):\penalty0 2373--2395, November 2001.
 \newblock \doi{10.1016/S0967-0637(01)00027-9}.
+
+\bibitem[Chapman(2009)]{Chapman2009}
+Chapman, A.
+\newblock {Numbers of living species in Australia and the world}.
+\newblock 2009.
+
+\bibitem[Chisholm et~al.(1988)Chisholm, Olson, Zettler, Goericke, Waterbury,
+  and Welschmeyer]{Chisholm1988}
+Chisholm, S.~W., Olson, R.~J., Zettler, E.~R., Goericke, R., Waterbury, J.~B.,
+  and Welschmeyer, N.~A.
+\newblock {A novel free-living prochlorophyte abundant in the oceanic euphotic
+  zone}.
+\newblock \emph{Nature}, 334\penalty0 (6180):\penalty0 340--343, July 1988.
+\newblock \doi{10.1038/334340a0}.
 
 \bibitem[Chung et~al.(2003)Chung, Hwang, and Chang]{Chung2003}
 Chung, C.-C., Hwang, S.-P.~L., and Chang, J.
@@ -648,6 +670,13 @@ Frischkorn, K.~R., Harke, M.~J., Gobler, C.~J., and Dyhrman, S.~T.
 \newblock \emph{Frontiers in Microbiology}, 5:\penalty0 375, July 2014.
 \newblock \doi{10.3389/fmicb.2014.00375}.
 
+\bibitem[Fuhrman et~al.(1993)Fuhrman, McCallum, and Davis]{Fuhrman1993}
+Fuhrman, J.~A., McCallum, K., and Davis, A.~A.
+\newblock {Phylogenetic diversity of subsurface marine microbial communities
+  from the Atlantic and Pacific Oceans.}
+\newblock \emph{Applied and Environmental Microbiology}, 59\penalty0
+  (5):\penalty0 1294--1302, May 1993.
+
 \bibitem[Furnas(1982)]{Furnas1982}
 Furnas, M.~J.
 \newblock {Growth rates of summer nanoplankton (<10 micrometers) populations in
@@ -785,6 +814,13 @@ Hothorn, M., Neumann, H., Lenherr, E.~D., Wehner, M., Rybin, V., Hassa, P.~O.,
   513--6, April 2009.
 \newblock \doi{10.1126/science.1168120}.
 
+\bibitem[Hou and Lin(2009)]{Hou2009}
+Hou, Y. and Lin, S.
+\newblock {Distinct gene number-genome size relationships for eukaryotes and
+  non-eukaryotes: gene content estimation for dinoflagellate genomes.}
+\newblock \emph{PloS one}, 4\penalty0 (9):\penalty0 e6978, January 2009.
+\newblock \doi{10.1371/journal.pone.0006978}.
+
 \bibitem[Huisman and Weissing(1999)]{Huisman1999}
 Huisman, J. and Weissing, F.
 \newblock {Biodiversity of plankton by species oscillations and chaos}.
@@ -880,6 +916,14 @@ Karl, D.~M.
   September 2002.
 \newblock \doi{10.1016/S0966-842X(02)02430-7}.
 
+\bibitem[Karl and Lukas(1996)]{Karl1996}
+Karl, D.~M. and Lukas, R.
+\newblock {The Hawaii Ocean Time-series (HOT) program: Background, rationale
+  and field implementation}.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  43\penalty0 (2-3):\penalty0 129--156, January 1996.
+\newblock \doi{10.1016/0967-0645(96)00005-7}.
+
 \bibitem[Karl et~al.(2001)Karl, Bj\"{o}rkman, Dore, Fujieki, Hebel, Houlihan,
   Letelier, and Tupas]{Karl2001}
 Karl, D.~M., Bj\"{o}rkman, K.~M., Dore, J.~E., Fujieki, L., Hebel, D.~V.,
@@ -914,6 +958,15 @@ Kashtan, N., Roggensack, S.~E., Rodrigue, S., Thompson, J.~W., Biller, S.~J.,
 \newblock \emph{Science (New York, N.Y.)}, 344\penalty0 (6182):\penalty0
   416--20, May 2014.
 \newblock \doi{10.1126/science.1248575}.
+
+\bibitem[Keeling et~al.(2005)Keeling, Burger, Durnford, Lang, Lee, Pearlman,
+  Roger, and Gray]{Keeling2005}
+Keeling, P.~J., Burger, G., Durnford, D.~G., Lang, B.~F., Lee, R.~W., Pearlman,
+  R.~E., Roger, A.~J., and Gray, M.~W.
+\newblock {The tree of eukaryotes}.
+\newblock \emph{Trends in Ecology \& Evolution}, 20\penalty0 (12):\penalty0
+  670--676, December 2005.
+\newblock \doi{10.1016/j.tree.2005.09.005}.
 
 \bibitem[Keeling et~al.(2014)Keeling, Burki, Wilcox, Allam, Allen,
   Amaral-Zettler, Armbrust, Archibald, Bharti, Bell, Beszteri, Bidle, Cameron,
@@ -955,6 +1008,15 @@ Kim, I.-N., Lee, K., Gruber, N., Karl, D.~M., Bullister, J.~L., Yang, S., and
 \newblock \emph{Science (New York, N.Y.)}, 346\penalty0 (6213):\penalty0
   1102--6, November 2014.
 \newblock \doi{10.1126/science.1258396}.
+
+\bibitem[K\"{o}nneke et~al.(2005)K\"{o}nneke, Bernhard, de~la Torre, Walker,
+  Waterbury, and Stahl]{Konneke2005}
+K\"{o}nneke, M., Bernhard, A.~E., de~la Torre, J.~R., Walker, C.~B., Waterbury,
+  J.~B., and Stahl, D.~A.
+\newblock {Isolation of an autotrophic ammonia-oxidizing marine archaeon}.
+\newblock \emph{Nature}, 437\penalty0 (7058):\penalty0 543--546, September
+  2005.
+\newblock \doi{10.1038/nature03911}.
 
 \bibitem[Krzywinski et~al.(2009)Krzywinski, Schein, Birol, Connors, Gascoyne,
   Horsman, Jones, and Marra]{Krzywinski2009}
@@ -1131,6 +1193,22 @@ Lohse, M., Bolger, A.~M., Nagel, A., Fernie, A.~R., Lunn, J.~E., Stitt, M., and
   June 2012.
 \newblock \doi{10.1093/nar/gks540}.
 
+\bibitem[Longhurst et~al.(1995)Longhurst, Sathyendranath, Platt, and
+  Caverhill]{Longhurst1995}
+Longhurst, A., Sathyendranath, S., Platt, T., and Caverhill, C.
+\newblock {An estimate of global primary production in the ocean from satellite
+  radiometer data}.
+\newblock \emph{Journal of Plankton Research}, 17\penalty0 (6):\penalty0
+  1245--1271, 1995.
+\newblock \doi{10.1093/plankt/17.6.1245}.
+
+\bibitem[Lopez-Garcia et~al.(2001)Lopez-Garcia, Rodriguez-Valera, Pedros-Alio,
+  and Moreira]{Lopez-Garcia2001}
+Lopez-Garcia, P., Rodriguez-Valera, F., Pedros-Alio, C., and Moreira, D.
+\newblock {No Title}.
+\newblock \emph{Nature}, 409\penalty0 (6820):\penalty0 603--607, February 2001.
+\newblock \doi{10.1038/35054537}.
+
 \bibitem[L\'{o}pez-Urrutia et~al.(2006)L\'{o}pez-Urrutia, {San Martin}, Harris,
   and Irigoien]{Lopez-Urrutia2006}
 L\'{o}pez-Urrutia, A., {San Martin}, E., Harris, R.~P., and Irigoien, X.
@@ -1247,6 +1325,13 @@ McCarren, J., Becker, J.~W., Repeta, D.~J., Shi, Y., Young, C.~R., Malmstrom,
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 107\penalty0 (38):\penalty0 16420--7, September 2010.
 \newblock \doi{10.1073/pnas.1010732107}.
+
+\bibitem[McClain(2009)]{McClain2009}
+McClain, C.~R.
+\newblock {A Decade of Satellite Ocean Color Observations*}.
+\newblock \emph{Annual Review of Marine Science}, 1\penalty0 (1):\penalty0
+  19--42, January 2009.
+\newblock \doi{10.1146/annurev.marine.010908.163650}.
 
 \bibitem[McDonald et~al.(2010)McDonald, Plant, and Worden]{McDonald2010}
 McDonald, S.~M., Plant, J.~N., and Worden, A.~Z.
@@ -1416,6 +1501,14 @@ Ogawa, N., DeRisi, J., and Brown, P.~O.
   4309--4321, December 2000.
 \newblock \doi{10.1091/mbc.11.12.4309}.
 
+\bibitem[Olson et~al.(2003)Olson, Shalapyonok, and Sosik]{Olson2003}
+Olson, R.~J., Shalapyonok, A., and Sosik, H.~M.
+\newblock {An automated submersible flow cytometer for analyzing pico- and
+  nanophytoplankton: FlowCytobot}.
+\newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
+  50\penalty0 (2):\penalty0 301--315, February 2003.
+\newblock \doi{10.1016/S0967-0637(03)00003-7}.
+
 \bibitem[Ottesen et~al.(2011)Ottesen, Marin, Preston, Young, Ryan, Scholin, and
   DeLong]{Ottesen2011}
 Ottesen, E.~A., Marin, R., Preston, C.~M., Young, C.~R., Ryan, J.~P., Scholin,
@@ -1504,7 +1597,8 @@ Perry, A. M.~J., Limnology, S., Jan, N., and Perry, M.~J.
 \newblock {Phosphate utilization by an oceanic diatom in phosphorus-limited
   chemostat culture and in the oligotrophic waters of the Central North
   Pacific}.
-\newblock 21\penalty0 (1):\penalty0 88--107, 1976.
+\newblock \emph{American Society of Limnology and Oceanography}, 21\penalty0
+  (1):\penalty0 88--107, 1976.
 
 \bibitem[Pfaffl(2001)]{Pfaffl2001}
 Pfaffl, M.~W.
@@ -1566,7 +1660,7 @@ Radonic, A., Thulke, S., Mackay, I.~M., Landt, O., Siegert, W., and Nitsche, A.
 Raven, J., Caldeira, K., and Elderfield, H.
 \newblock \emph{{Ocean acidification due to increasing atmospheric carbon
   dioxide}}.
-\newblock 2005.
+\newblock The Royal Society, 2005.
 
 \bibitem[Read et~al.(2013)Read, Kegel, Klute, Kuo, Lefebvre, Maumus, Mayer,
   Miller, Monier, Salamov, Young, Aguilar, Claverie, Frickenhaus, Gonzalez,
@@ -1589,6 +1683,16 @@ Read, B.~A., Kegel, J., Klute, M.~J., Kuo, A., Lefebvre, S.~C., Maumus, F.,
 Redfield, A.~C.
 \newblock {The biological control of chemical factors in the environment}.
 \newblock \emph{American Scientist}, 46:\penalty0 205--221, 1958.
+
+\bibitem[Ribalet et~al.(2015)Ribalet, Swalwell, Clayton, Jim\'{e}nez, Sudek,
+  Lin, Johnson, Worden, and Armbrust]{Ribalet2015}
+Ribalet, F., Swalwell, J., Clayton, S., Jim\'{e}nez, V., Sudek, S., Lin, Y.,
+  Johnson, Z.~I., Worden, A.~Z., and Armbrust, E.~V.
+\newblock {Light-driven synchrony of Prochlorococcus growth and mortality in
+  the subtropical Pacific gyre.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 112\penalty0 (26):\penalty0 8008--12, June 2015.
+\newblock \doi{10.1073/pnas.1424279112}.
 
 \bibitem[Richerson et~al.(1970)Richerson, Armstrong, and
   Goldman]{Richerson1970}
@@ -1841,6 +1945,13 @@ Smayda, T.~J.
   States of America}, 108\penalty0 (11):\penalty0 4269--70, March 2011.
 \newblock \doi{10.1073/pnas.1100997108}.
 
+\bibitem[Smith and Fraser(2003)]{Smith2003}
+Smith, R. and Fraser, W.
+\newblock {Palmer long-term ecological research on the Antarctic marine
+  ecosystem}.
+\newblock \emph{Antarctic Research Series}, 79, 2003.
+\newblock \doi{10.1029/079ARSO2}.
+
 \bibitem[Smoot et~al.(2011)Smoot, Ono, Ruscheinski, Wang, and
   Ideker]{Smoot2011}
 Smoot, M.~E., Ono, K., Ruscheinski, J., Wang, P.-L., and Ideker, T.
@@ -1872,6 +1983,16 @@ Sournia, A., Chrdtiennot-Dinet, M.-J., and Ricard, M.
 \newblock \emph{Journal of Plankton Research}, 13\penalty0 (5):\penalty0
   1093--1099, January 1991.
 \newblock \doi{10.1093/plankt/13.5.1093}.
+
+\bibitem[Steinberg et~al.(2001)Steinberg, Carlson, Bates, Johnson, Michaels,
+  and Knap]{Steinberg2001}
+Steinberg, D.~K., Carlson, C.~A., Bates, N.~R., Johnson, R.~J., Michaels,
+  A.~F., and Knap, A.~H.
+\newblock {Overview of the US JGOFS Bermuda Atlantic Time-series Study (BATS):
+  a decade-scale look at ocean biology and biogeochemistry}.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  48\penalty0 (8-9):\penalty0 1405--1447, January 2001.
+\newblock \doi{10.1016/S0967-0645(00)00148-X}.
 
 \bibitem[Steiner et~al.(2005)Steiner, Long, Krumins, and Morin]{Steiner2005}
 Steiner, C.~F., Long, Z.~T., Krumins, J.~A., and Morin, P.~J.
@@ -1923,6 +2044,14 @@ Stuart, R.~K., Dupont, C.~L., Johnson, D.~A., Paulsen, I.~T., and Palenik, B.
 Sverdrup, H.
 \newblock {On conditions for the vernal blooming of phytoplankton}.
 \newblock \emph{Journal du Conseil}, 18\penalty0 (3):\penalty0 287--295, 1953.
+
+\bibitem[Swalwell et~al.(2011)Swalwell, Ribalet, and Armbrust]{Swalwell2011}
+Swalwell, J.~E., Ribalet, F., and Armbrust, E.~V.
+\newblock {SeaFlow: A novel underway flow-cytometer for continuous observations
+  of phytoplankton in the ocean}.
+\newblock \emph{Limnology and Oceanography: Methods}, 9:\penalty0 466--477,
+  2011.
+\newblock \doi{10.4319/lom.2011.9.466}.
 
 \bibitem[Tavazoie et~al.(1999)Tavazoie, Hughes, Campbell, Cho, and
   Church]{Tavazoie1999}
