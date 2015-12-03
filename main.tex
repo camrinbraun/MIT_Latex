@@ -26,20 +26,20 @@
 %% above. 
 \documentclass[11pt,twoside]{mitthesis}
 \usepackage{lgrind}
-\usepackage[hidelinks]{hyperref}
+\usepackage{hyperref}
 \usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage[usestackEOL]{stackengine}
 \usepackage{fixltx2e}
 \usepackage{longtable}
-%\hypersetup{
-    %hidelinks=true
+\hypersetup{
+    hidelinks=true
 %  colorlinks=false,% hyperlinks will be coloured
-%  linkcolor=black,% hyperlink text will be green
-%  linkbordercolor=white,% hyperlink border will be red
-%%  citecolor=black, 
-%  citebordercolor=white
-%}
+ % linkcolor=black,% hyperlink text will be green
+  %linkbordercolor=white,% hyperlink border will be red
+  %citecolor=black, 
+  %citebordercolor=white
+}
 \usepackage{slantsc}
 \usepackage{titlesec}
 \usepackage{lipsum}
@@ -66,8 +66,8 @@
 \usepackage[authoryear,round,semicolon]{natbib}
 \usepackage{graphicx, pdflscape}
 \usepackage[font={small}, labelfont=bf, labelsep=colon]{caption}
-\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
-\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+%\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
+%\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
 
 \newlist{DS2}{enumerate}{1}
 \setlist[DS2]{label=Data Sheet 2-\arabic*}
@@ -98,8 +98,8 @@ process all files:}
 \include{chap5}
 \include{chap6}
 \appendix
-\renewcommand{\thefigure}{\Alph{chapter}.\arabic{figure}}
-\renewcommand{\thetable}{\Alph{chapter}.\arabic{table}}
+%\renewcommand{\thefigure}{\Alph{chapter}.\arabic{figure}}
+%\renewcommand{\thetable}{\Alph{chapter}.\arabic{table}}
 \include{appa}
 \include{appb}
 \include{appc}

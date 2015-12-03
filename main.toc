@@ -1,71 +1,72 @@
-\contentsline {chapter}{\numberline {1}Introduction}{15}{chapter.1}
-\contentsline {section}{\numberline {1.1}Background and Motivation}{16}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Diversity in the phytoplankton}{17}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Phytoplankton and their geochemical environment}{18}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Molecular tools in microbial ecology and oceanography}{19}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Overview}{20}{section.1.2}
-\contentsline {chapter}{\numberline {2}Identifying reference genes with stable expression from high throughput sequence data}{25}{chapter.2}
-\contentsline {section}{\numberline {2.1}Abstract}{26}{section.2.1}
-\contentsline {section}{\numberline {2.2}Introduction}{26}{section.2.2}
-\contentsline {section}{\numberline {2.3}Materials and Methods}{28}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Culturing and transcriptome data collection}{28}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Reference gene identification}{28}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Results}{29}{section.2.4}
-\contentsline {section}{\numberline {2.5}Discussion}{35}{section.2.5}
-\contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{41}{chapter.3}
-\contentsline {section}{\numberline {3.1}Abstract}{42}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{42}{section.3.2}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{44}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Experimental set up and sample collection}{44}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}RNA extraction and sequencing}{45}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Transcriptome and genome mapping}{45}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Transcriptome clustering}{46}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Identification of stable and nutrient-responsive genes}{47}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Normalization of metatranscriptome data}{47}{subsection.3.3.6}
-\contentsline {section}{\numberline {3.4}Results and Discussion}{48}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Samples and sequencing}{48}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{50}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{52}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{55}{subsection.3.4.4}
-\contentsline {chapter}{\numberline {4}Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean}{61}{chapter.4}
-\contentsline {section}{\numberline {4.1}Abstract}{62}{section.4.1}
-\contentsline {section}{\numberline {4.2}Introduction}{62}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materials and Methods}{64}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Sample collection}{64}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}RNA extraction and sequencing}{65}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Genome database creation and mapping}{65}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}MMETSP database creation and mapping}{65}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{66}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{66}{subsection.4.3.6}
-\contentsline {section}{\numberline {4.4}Results and Discussion}{67}{section.4.4}
-\contentsline {chapter}{\numberline {5}Physiological response and strain variation of the \textsl {Emiliania huxleyi} species complex under changing nutrient environments}{77}{chapter.5}
-\contentsline {section}{\numberline {5.1}Abstract}{78}{section.5.1}
-\contentsline {section}{\numberline {5.2}Introduction}{78}{section.5.2}
-\contentsline {section}{\numberline {5.3}Materials and Methods}{80}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Sample collection and shipboard nutrient incubation experiments}{80}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}RNA extraction and sequencing}{80}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Community- and strain-specific mapping and expression analysis}{81}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Results and Discussion}{82}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Diatom and haptophyte community structure}{83}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}\textit {E. huxleyi} species-complex physiological ecology}{83}{subsection.5.4.2}
-\contentsline {subsubsection}{Nitrogen scavenging and assimilation}{85}{figure.caption.21}
-\contentsline {subsubsection}{Phosphorus scavenging}{88}{figure.caption.21}
-\contentsline {subsubsection}{Shift in life stage and calcification state}{90}{figure.caption.22}
-\contentsline {subsection}{\numberline {5.4.3}Strain variability with altered geochemistry}{91}{subsection.5.4.3}
-\contentsline {section}{\numberline {5.5}Conclusion}{95}{section.5.5}
-\contentsline {chapter}{\numberline {6}Conclusion and Outlook}{97}{chapter.6}
-\contentsline {section}{\numberline {6.1}Thesis summary and next steps}{98}{section.6.1}
-\contentsline {section}{\numberline {6.2}A final thought}{101}{section.6.2}
-\contentsline {chapter}{\numberline {A}Chapter 2 Supplemental Information}{103}{appendix.A}
-\contentsline {section}{\numberline {A.1}Supplemental Figures}{104}{section.A.1}
-\contentsline {section}{\numberline {A.2}Supplemental Data}{106}{section.A.2}
-\contentsline {chapter}{\numberline {B}Chapter 3 Supplemental Information}{107}{appendix.B}
-\contentsline {section}{\numberline {B.1}Supplemental Figures}{108}{section.B.1}
-\contentsline {section}{\numberline {B.2}Supplemental Tables}{119}{section.B.2}
-\contentsline {section}{\numberline {B.3}Supplemental Data}{121}{section.B.3}
-\contentsline {chapter}{\numberline {C}Chapter 4 Supplemental Information}{123}{appendix.C}
-\contentsline {section}{\numberline {C.1}Supplemental Figures}{124}{section.C.1}
-\contentsline {section}{\numberline {C.2}Supplemental Tables}{131}{section.C.2}
-\contentsline {chapter}{\numberline {D}Chapter 5 Supplemental Information}{133}{appendix.D}
-\contentsline {section}{\numberline {D.1}Supplemental Figures}{134}{section.D.1}
-\contentsline {section}{\numberline {D.2}Supplemental Tables}{144}{section.D.2}
+\contentsline {chapter}{\numberline {1}Introduction}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background and Motivation}{20}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Diversity in the phytoplankton}{21}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Phytoplankton and their geochemical environment}{22}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Molecular tools in microbial ecology and oceanography}{24}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Thesis Overview}{25}{section.1.2}
+\contentsline {chapter}{\numberline {2}Identifying reference genes with stable expression from high throughput sequence data}{29}{chapter.2}
+\contentsline {section}{\numberline {2.1}Abstract}{30}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{30}{section.2.2}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{32}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Culturing and transcriptome data collection}{32}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Reference gene identification}{33}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Results}{34}{section.2.4}
+\contentsline {section}{\numberline {2.5}Discussion}{39}{section.2.5}
+\contentsline {chapter}{\numberline {3}Metatranscriptome analyses indicate resource partitioning between diatoms in the field}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}Abstract}{46}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{46}{section.3.2}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{48}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Experimental set up and sample collection}{48}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}RNA extraction and sequencing}{49}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Transcriptome and genome mapping}{49}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Transcriptome clustering}{50}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Identification of stable and nutrient-responsive genes}{51}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Normalization of metatranscriptome data}{51}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{52}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Samples and sequencing}{52}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{54}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{57}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{59}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean}{65}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{66}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{66}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and Methods}{68}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Sample collection}{68}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}RNA extraction and sequencing}{69}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Genome database creation and mapping}{69}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}MMETSP database creation and mapping}{70}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Differential expression analysis}{70}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Variable transcript allocation modeling}{71}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Results and Discussion}{72}{section.4.4}
+\contentsline {chapter}{\numberline {5}Physiological response and strain variation of the \textsl {Emiliania huxleyi} species complex under changing nutrient environments}{83}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{84}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{84}{section.5.2}
+\contentsline {section}{\numberline {5.3}Materials and Methods}{86}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Sample collection and shipboard nutrient incubation experiments}{86}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}RNA extraction and sequencing}{87}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Community- and strain-specific mapping and expression analysis}{87}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Results and Discussion}{88}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Diatom and haptophyte community structure}{89}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}\textit {E. huxleyi} species-complex physiological ecology}{91}{subsection.5.4.2}
+\contentsline {subsubsection}{Nitrogen scavenging and assimilation}{92}{figure.caption.21}
+\contentsline {subsubsection}{Phosphorus scavenging}{95}{figure.caption.21}
+\contentsline {subsubsection}{Shift in life stage and calcification state}{97}{figure.caption.22}
+\contentsline {subsection}{\numberline {5.4.3}Strain variability with altered geochemistry}{98}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Conclusion}{102}{section.5.5}
+\contentsline {chapter}{\numberline {6}Conclusion and Outlook}{105}{chapter.6}
+\contentsline {section}{\numberline {6.1}Thesis summary and next steps}{106}{section.6.1}
+\contentsline {section}{\numberline {6.2}A final thought}{109}{section.6.2}
+\contentsline {chapter}{\numberline {A}Chapter 2 Supplemental Information}{111}{appendix.A}
+\contentsline {section}{\numberline {A.1}Supplemental Figures}{112}{section.A.1}
+\contentsline {section}{\numberline {A.2}Supplemental Data}{114}{section.A.2}
+\contentsline {chapter}{\numberline {B}Chapter 3 Supplemental Information}{115}{appendix.B}
+\contentsline {section}{\numberline {B.1}Supplemental Figures}{116}{section.B.1}
+\contentsline {section}{\numberline {B.2}Supplemental Tables}{127}{section.B.2}
+\contentsline {section}{\numberline {B.3}Supplemental Data}{129}{section.B.3}
+\contentsline {chapter}{\numberline {C}Chapter 4 Supplemental Information}{131}{appendix.C}
+\contentsline {section}{\numberline {C.1}Supplemental Figures}{132}{section.C.1}
+\contentsline {section}{\numberline {C.2}Supplemental Tables}{139}{section.C.2}
+\contentsline {chapter}{\numberline {D}Chapter 5 Supplemental Information}{141}{appendix.D}
+\contentsline {section}{\numberline {D.1}Supplemental Figures}{142}{section.D.1}
+\contentsline {section}{\numberline {D.2}Supplemental Tables}{152}{section.D.2}
+\contentsline {section}{\numberline {D.3}Supplemental Data}{154}{section.D.3}
