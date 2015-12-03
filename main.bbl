@@ -1,4 +1,4 @@
-\begin{thebibliography}{277}
+\begin{thebibliography}{279}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -581,6 +581,14 @@ Dyhrman, S.~T. and Anderson, D.~M.
   647--655, March 2003.
 \newblock \doi{10.4319/lo.2003.48.2.0647}.
 
+\bibitem[Dyhrman and Palenik(1999)]{Dyhrman1999}
+Dyhrman, S.~T. and Palenik, B.
+\newblock {Phosphate stress in cultures and field populations of the
+  cinoflagellate \textit{Prorocentrum minimum} detected by a single-cell
+  alkaline phosphatase assay}.
+\newblock \emph{Appl. Envir. Microbiol.}, 65\penalty0 (7):\penalty0 3205--3212,
+  July 1999.
+
 \bibitem[Dyhrman and Palenik(2003)]{Dyhrman2003}
 Dyhrman, S.~T. and Palenik, B.
 \newblock {Characterization of ectoenzyme activity and phosphate-regulated
@@ -888,6 +896,13 @@ Holligan, P.~M., Fern\'{a}ndez, E., Aiken, J., Balch, W.~M., Boyd, P., Burkill,
 \newblock \emph{Global Biogeochemical Cycles}, 7\penalty0 (4):\penalty0
   879--900, December 1993.
 \newblock \doi{10.1029/93GB01731}.
+
+\bibitem[Hood et~al.(2007)Hood, Laws, Follows, and Siegel]{Hood2007}
+Hood, R., Laws, E., Follows, M., and Siegel, D.
+\newblock {Modeling and Prediction of Marine Microbial Populations in the
+  Genomic Era}.
+\newblock \emph{Oceanography}, 20\penalty0 (2):\penalty0 155--165, June 2007.
+\newblock \doi{10.5670/oceanog.2007.61}.
 
 \bibitem[Hothorn et~al.(2009)Hothorn, Neumann, Lenherr, Wehner, Rybin, Hassa,
   Uttenweiler, Reinhardt, Schmidt, Seiler, Ladurner, Herrmann, Scheffzek, and
