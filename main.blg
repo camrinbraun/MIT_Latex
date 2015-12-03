@@ -15,55 +15,49 @@ A level-1 auxiliary file: appc.aux
 A level-1 auxiliary file: appd.aux
 A level-1 auxiliary file: biblio.aux
 The style file: myplainnat.bst
-Reallocated field_info (elt_size=4) to 12280 items from 5000.
+Reallocated field_info (elt_size=4) to 12756 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Falkowski2004"
-Warning--I didn't find a database entry for "Costello2011"
-Warning--I didn't find a database entry for "Frias-Lopez2008"
-Warning--I didn't find a database entry for "Taft2007"
-Warning--I didn't find a database entry for "Hard1960"
 Warning--empty journal in Chapman2009
-You've used 254 entries,
+You've used 277 entries,
             2773 wiz_defined-function locations,
-            2464 strings with 77970 characters,
-and the built_in function-call counts, 168884 in all, are:
-= -- 14406
-> -- 14531
-< -- 78
-+ -- 4869
-- -- 4611
-* -- 17045
-:= -- 27064
-add.period$ -- 990
-call.type$ -- 254
-change.case$ -- 2295
-chr.to.int$ -- 250
-cite$ -- 509
-duplicate$ -- 5257
-empty$ -- 10215
-format.name$ -- 4953
-if$ -- 33696
+            2602 strings with 85449 characters,
+and the built_in function-call counts, 187776 in all, are:
+= -- 15913
+> -- 16522
+< -- 80
++ -- 5534
+- -- 5253
+* -- 19043
+:= -- 30171
+add.period$ -- 1079
+call.type$ -- 277
+change.case$ -- 2578
+chr.to.int$ -- 273
+cite$ -- 555
+duplicate$ -- 5736
+empty$ -- 11129
+format.name$ -- 5618
+if$ -- 37386
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 256
-newline$ -- 1505
-num.names$ -- 1016
-pop$ -- 3932
+missing$ -- 279
+newline$ -- 1640
+num.names$ -- 1108
+pop$ -- 4438
 preamble$ -- 1
-purify$ -- 2045
+purify$ -- 2305
 quote$ -- 0
-skip$ -- 4464
+skip$ -- 4935
 stack$ -- 0
-substring$ -- 6397
-swap$ -- 481
+substring$ -- 6938
+swap$ -- 523
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2774
+type$ -- 3027
 warning$ -- 1
-while$ -- 1222
+while$ -- 1330
 width$ -- 0
-write$ -- 3759
-(There were 7 warnings)
+write$ -- 4096
+(There was 1 warning)

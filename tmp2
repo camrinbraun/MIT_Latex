@@ -1,3 +1,151 @@
+@article{Durham2015,
+abstract = {About half the carbon fixed by phytoplankton in the ocean is taken up and metabolized by marine bacteria, a transfer that is mediated through the seawater dissolved organic carbon (DOC) pool. The chemical complexity of marine DOC, along with a poor understanding of which compounds form the basis of trophic interactions between bacteria and phytoplankton, have impeded efforts to identify key currencies of this carbon cycle link. Here, we used transcriptional patterns in a bacterial-diatom model system based on vitamin B12 auxotrophy as a sensitive assay for metabolite exchange between marine plankton. The most highly up-regulated genes (up to 374-fold) by a marine Roseobacter clade bacterium when cocultured with the diatom Thalassiosira pseudonana were those encoding the transport and catabolism of 2,3-dihydroxypropane-1-sulfonate (DHPS). This compound has no currently recognized role in the marine microbial food web. As the genes for DHPS catabolism have limited distribution among bacterial taxa, T. pseudonana may use this sulfonate for targeted feeding of beneficial associates. Indeed, DHPS was both a major component of the T. pseudonana cytosol and an abundant microbial metabolite in a diatom bloom in the eastern North Pacific Ocean. Moreover, transcript analysis of the North Pacific samples provided evidence of DHPS catabolism by Roseobacter populations. Other such biogeochemically important metabolites may be common in the ocean but difficult to discriminate against the complex chemical background of seawater. Bacterial transformation of this diatom-derived sulfonate represents a previously unidentified and likely sizeable link in both the marine carbon and sulfur cycles.},
+author = {Durham, Bryndan P and Sharma, Shalabh and Luo, Haiwei and Smith, Christa B and Amin, Shady A and Bender, Sara J and Dearth, Stephen P and {Van Mooy}, Benjamin A S and Campagna, Shawn R and Kujawinski, Elizabeth B and Armbrust, E Virginia and Moran, Mary Ann},
+doi = {10.1073/pnas.1413137112},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Durham et al. - 2015 - Cryptic carbon and sulfur cycling between surface ocean plankton.pdf:pdf},
+
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+keywords = {Alkanesulfonates,Alkanesulfonates: metabolism,Carbon Cycle,Diatoms,Diatoms: genetics,Diatoms: metabolism,Ecosystem,Gene Expression Profiling,Metabolic Networks and Pathways,Metabolic Networks and Pathways: genetics,Models, Biological,Phylogeny,Phytoplankton,Phytoplankton: genetics,Phytoplankton: metabolism,Plankton,Plankton: genetics,Plankton: metabolism,Roseobacter,Roseobacter: genetics,Roseobacter: metabolism,Seawater,Seawater: microbiology,Sulfur,Sulfur: metabolism,Vitamin B 12,Vitamin B 12: metabolism},
+month = jan,
+number = {2},
+pages = {453--7},
+pmid = {25548163},
+title = {{Cryptic carbon and sulfur cycling between surface ocean plankton.}},
+
+volume = {112},
+year = {2015}
+}
+@article{Marchetti2006,
+author = {Marchetti, Adrian and Maldonado, Maria T. and Lane, Erin S. and Harrison, Paul J.},
+doi = {10.4319/lo.2006.51.5.2092},
+
+journal = {Limnology and Oceanography},
+number = {5},
+pages = {2092--2101},
+title = {{Iron requirements of the pennate diatom \textit{Pseudo-nitzschia}: Comparison of oceanic (high-nitrate, low-chlorophyll waters) and coastal species}},
+
+volume = {51},
+year = {2006}
+}
+@article{Lakeman2009,
+abstract = {Laboratory cultures are important tools for investigating the biology of microalgae, allowing experimentation under controlled conditions. This control is critical for comparative studies, such as those often used to investigate intra-specific variation in properties of interest. By holding the environment constant, the experimentalist can gain insight into the genetic basis of phytoplankton phenotypes and by extension, into the adaptive history of those genotypes. In most cases the adaptations of interest are those that the algae have evolved in response to their natural environment. However, here it is argued that such experiments may instead reveal evolutionary adaptations to, and/or non-adaptive changes induced by, the culture conditions under which the alga is maintained. We present a review of the processes of evolution as they pertain to microalgal culture, and illustrate this discussion with examples of in-culture evolution from both within and outside the field of phycology. With these considerations in mind, recommendations are made for experimental practice focusing on comparative physiology, for which the effects of in-culture evolution are particularly confounding. Finally we argue that, although problematic in some contexts, the evolutionary propensities of phytoplankton cultures actually present an important opportunity for experimental evolutionary research with direct environmental significance.},
+author = {Lakeman, Michael Boyd and von Dassow, Peter and Cattolico, Rose Ann},
+doi = {10.1016/j.hal.2008.11.011},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Lakeman, von Dassow, Cattolico - 2009 - The strain concept in phytoplankton ecology.pdf:pdf},
+
+journal = {Harmful Algae},
+keywords = {Culturing,Drift,Evolution,Microalgae,Mutation,Selection},
+month = jun,
+number = {5},
+pages = {746--758},
+title = {{The strain concept in phytoplankton ecology}},
+
+volume = {8},
+year = {2009}
+}
+@article{Jeong2010,
+author = {Jeong, Hae Jin and Yoo, Yeong Du and Kim, Jae Seong and Seong, Kyeong Ah and Kang, Nam Seon and Kim, Tae Hoon},
+doi = {10.1007/s12601-010-0007-2},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Jeong et al. - 2010 - Growth, feeding and ecological roles of the mixotrophic and heterotrophic dinoflagellates in marine planktonic foo.pdf:pdf},
+
+journal = {Ocean Science Journal},
+month = jul,
+number = {2},
+pages = {65--91},
+title = {{Growth, feeding and ecological roles of the mixotrophic and heterotrophic dinoflagellates in marine planktonic food webs}},
+
+volume = {45},
+year = {2010}
+}
+@article{Worden2015,
+author = {Worden, AZ and Follows, MJ and Giovannoni, SJ},
+journal = {Science},
+title = {{Rethinking the marine carbon cycle: Factoring in the multifarious lifestyles of microbes}},
+
+year = {2015}
+}
+@article{Ward2011,
+author = {Ward, BA and Dutkiewicz, S and Barton, AD and Follows, MJ},
+journal = {The American Naturalist},
+title = {{Biophysical aspects of resource acquisition and competition in algal mixotrophs}},
+
+year = {2011}
+}
+@article{Unrein2014,
+abstract = {Grazing rate estimates indicate that approximately half of the bacterivory in oligotrophic oceans is due to mixotrophic flagellates (MFs). However, most estimations have considered algae as a single group. Here we aimed at opening the black-box of the phytoflagellates (PFs) <20 $\mu$m. Haptophytes, chlorophytes, cryptophytes and pigmented dinoflagellates were identified using fluorescent in situ hybridization or by standard 4',6-diamidino-2-phenylindole staining. Their fluctuations in abundance, cell size, biomass and bacterivory rates were measured through an annual cycle in an oligotrophic coastal system. On average, we were able to assign to these groups: 37\% of the total pico-PFs and 65\% of the nano-PFs composition. Chlorophytes were mostly picoplanktonic and they never ingested fluorescently labeled bacteria. About 50\% of the PF <20 $\mu$m biomass was represented by mixotrophic algae. Pigmented dinoflagellates were the least abundant group with little impact on bacterioplankton. Cryptophytes were quantitatively important during the coldest periods and explained about 4\% of total bacterivory. Haptophytes were the most important mixotrophic group: (i) they were mostly represented by cells 3-5 $\mu$m in size present year-round; (ii) cell-specific grazing rates were comparable to those of other bacterivorous non-photosynthetic organisms, regardless of the in situ nutrient availability conditions; (iii) these organisms could acquire a significant portion of their carbon by ingesting bacteria; and (iv) haptophytes explained on average 40\% of the bacterivory exerted by MFs and were responsible for 9-27\% of total bacterivory at this site. Our results, when considered alongside the widespread distribution of haptophytes in the ocean, indicate that they have a key role as bacterivores in marine ecosystems.},
+author = {Unrein, Fernando and Gasol, Josep M and Not, Fabrice and Forn, Irene and Massana, Ramon},
+doi = {10.1038/ismej.2013.132},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Unrein et al. - 2014 - Mixotrophic haptophytes are key bacterial grazers in oligotrophic coastal waters.pdf:pdf},
+
+journal = {The ISME journal},
+keywords = {Bacterial Physiological Phenomena,Biodiversity,Ecosystem,Haptophyta,Haptophyta: metabolism,Haptophyta: microbiology,In Situ Hybridization, Fluorescence,Oceans and Seas,Seawater,Seawater: microbiology,Water Microbiology},
+month = jan,
+number = {1},
+pages = {164--76},
+pmid = {23924785},
+publisher = {International Society for Microbial Ecology},
+shorttitle = {ISME J},
+title = {{Mixotrophic haptophytes are key bacterial grazers in oligotrophic coastal waters.}},
+
+volume = {8},
+year = {2014}
+}
+@article{Conley2002,
+author = {Conley, DJ},
+journal = {Global Biogeochemical Cycles},
+title = {{Terrestrial ecosystems and the global biogeochemical silica cycle}},
+
+year = {2002}
+}
+@article{Margulis1975,
+abstract = {The purpose of a scientific theory is to unite apparently disparate observations into a coherent set of generalizations with predictive power. Historical theories, which necessarily treat complex irreversible events, can  never be directly tested. However they certainly can lead to predictions. The 'extreme' version of the serial endosymbiotic theory argues that three classes of eukaryotic organelles had free-living ancestors: mitochondria, basal bodies/flagella/cilia [(9 + 2) homologues] and photosynthetic plastids. Many lines of evidence support this theory and can be interpreted in relation to one another on the basis of this theory. Even if this theory should eventually be proved wrong it has the real advantage of generating a large number of unique experimentally verifiable hypotheses.},
+author = {Margulis, L},
+isbn = {0081-1386 (Print)$\backslash$r0081-1386 (Linking)},
+
+journal = {Symposia of the Society for Experimental Biology},
+number = {29},
+pages = {21--38},
+pmid = {822529},
+title = {{Symbiotic theory of the origin of eukaryotic organelles; criteria for proof.}},
+year = {1975}
+}
+@article{Margulis1971,
+abstract = {The serial symbiosis view of the origin of higher cells suggests that the customary division of living things into two kingdoms should be reconsidered},
+author = {Margulis, L},
+doi = {10.2307/27829542},
+isbn = {0003-0996},
+
+journal = {American Scientist},
+number = {2},
+pages = {230--235},
+pmid = {5170543},
+title = {{The origin of plant and animal cells}},
+
+volume = {59},
+year = {1971}
+}
+@article{Finkel2010,
+author = {Finkel, Z. V. and Beardall, J. and Flynn, K. J. and Quigg, A. and Rees, T. A. V. and Raven, J. A.},
+doi = {10.1093/plankt/fbp098},
+
+journal = {Journal of Plankton Research},
+month = jan,
+number = {1},
+pages = {119--137},
+title = {{Phytoplankton in a changing world: cell size and elemental stoichiometry}},
+
+volume = {32},
+year = {2010}
+}
+@article{Katz2004,
+author = {Katz, ME and Finkel, ZV and Grzebyk, D},
+journal = {Annual Review of Ecology, Evolution, and Systematics},
+pages = {523--556},
+title = {{Evolutionary trajectories and biogeochemical impacts of marine eukaryotic phytoplankton}},
+
+volume = {35},
+year = {2004}
+}
 @article{Hou2009,
 abstract = {The ability to predict gene content is highly desirable for characterization of not-yet sequenced genomes like those of dinoflagellates. Using data from completely sequenced and annotated genomes from phylogenetically diverse lineages, we investigated the relationship between gene content and genome size using regression analyses. Distinct relationships between log(10)-transformed protein-coding gene number (Y') versus log(10)-transformed genome size (X', genome size in kbp) were found for eukaryotes and non-eukaryotes. Eukaryotes best fit a logarithmic model, Y' = ln(-46.200+22.678X', whereas non-eukaryotes a linear model, Y' = 0.045+0.977X', both with high significance (p<0.001, R(2)>0.91). Total gene number shows similar trends in both groups to their respective protein coding regressions. The distinct correlations reflect lower and decreasing gene-coding percentages as genome size increases in eukaryotes (82\%-1\%) compared to higher and relatively stable percentages in prokaryotes and viruses (97\%-47\%). The eukaryotic regression models project that the smallest dinoflagellate genome (3x10(6) kbp) contains 38,188 protein-coding (40,086 total) genes and the largest (245x10(6) kbp) 87,688 protein-coding (92,013 total) genes, corresponding to 1.8\% and 0.05\% gene-coding percentages. These estimates do not likely represent extraordinarily high functional diversity of the encoded proteome but rather highly redundant genomes as evidenced by high gene copy numbers documented for various dinoflagellate species.},
 author = {Hou, Yubo and Lin, Senjie},
@@ -301,6 +449,23 @@ title = {{Nutrient uptake and alkaline phosphatase (EC 3: 1: 3: 1) activity of \
 volume = {36},
 year = {2000}
 }
+@article{Martin2014,
+abstract = {Phytoplankton alter their biochemical composition according to nutrient availability, such that their bulk elemental composition varies across oceanic provinces. However, the links between plankton biochemical composition and variation in biogeochemical cycling of nutrients remain largely unknown. In a survey of phytoplankton phosphorus stress in the western North Atlantic, we found that phytoplankton in the phosphorus-depleted subtropical Sargasso Sea were enriched in the biochemical polyphosphate (polyP) compared with nutrient-rich temperate waters, contradicting the canonical oceanographic view of polyP as a luxury phosphorus storage molecule. The enrichment in polyP coincided with enhanced alkaline phosphatase activity and substitution of sulfolipids for phospholipids, which are both indicators of phosphorus stress. Further, polyP appeared to be liberated preferentially over bulk phosphorus from sinking particles in the Sargasso Sea, thereby retaining phosphorus in shallow waters. Thus, polyP cycling may form a feedback loop that attenuates the export of phosphorus when it becomes scarce, contributes bioavailable P for primary production, and supports the export of carbon and nitrogen via sinking particles.},
+author = {Martin, Patrick and Dyhrman, Sonya T and Lomas, Michael W and Poulton, Nicole J and {Van Mooy}, Benjamin A S},
+doi = {10.1073/pnas.1321719111},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Martin et al. - 2014 - Accumulation and enhanced cycling of polyphosphate by Sargasso Sea plankton in response to low phosphorus.pdf:pdf},
+
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+keywords = {Alkaline Phosphatase,Alkaline Phosphatase: metabolism,Atlantic Ocean,Carbon,Carbon Cycle,Carbon Cycle: physiology,Carbon: metabolism,Ecosystem,Lipids,Marine Biology,Marine Biology: methods,Nitrogen,Nitrogen Cycle,Nitrogen Cycle: physiology,Nitrogen: metabolism,Phosphorus,Phosphorus: metabolism,Physiological,Physiological: physiology,Plankton,Plankton: growth \& development,Plankton: metabolism,Polyphosphates,Polyphosphates: metabolism,Seawater,Seawater: chemistry,Seawater: microbiology,Stress,Synechococcus,Synechococcus: growth \& development,Synechococcus: metabolism},
+month = jun,
+number = {22},
+pages = {8089--94},
+pmid = {24753593},
+title = {{Accumulation and enhanced cycling of polyphosphate by Sargasso Sea plankton in response to low phosphorus.}},
+
+volume = {111},
+year = {2014}
+}
 @article{Dyhrman2011,
 abstract = {The biologically important constituents of the dissolved organic Phosphorus (DOP) pool, their bioavailability, and their cycling in coastal systems are still poorly understood. Here we use the enzyme alkaline phosphatase as a metric of DOP bioavailability and track the activity of this enzyme in a coastal system. We observed alkaline phosphatase activity (APA) in the > 0.2-mu m size fraction of all surface samples tested during an Oregon coast cruise in August 2001. Although there was not a significant trend between APA and phosphate concentration in the data set as a whole, chlorophyll a-normalized APA was elevated at the station with the lowest dissolved inorganic phosphate (DIP) concentration. Activity was also elevated in nutrient-addition experiments ill which nitrate amendments were Used to force community drawdown of DIP. These data are consistent with phosphate regulation of APA. A cell-specific APA assay revealed that the percentage of diatoms with APA mimicked the trend in the hydrolytic rate, but such a trend was not observed for the dinoflagellates. Further, the percentage of dinoflagellate cells with APA was routinely higher than the percentage of diatom cells with activity. In nutrient-addition experiments designed to evaluate the regulation of APA, diatom taxa expressed APA less frequently than dinoflagellates. but they displayed a tighter regulation of the activity by DIP than dinoflagellates. The variability observed in the presence and regulation of APA in these eukaryotic phytoplankton indicates that DOP bioavailability is a potential driver of phytoplankton nutrition and species composition in the coastal ocean.},
 author = {Dyhrman, Sonya T. and Ruttenberg, Kathleen C.},
@@ -348,23 +513,6 @@ title = {{Phytoplankton calcification in a high-CO2 world}},
 
 volume = {320},
 year = {2008}
-}
-@article{Martin2014,
-abstract = {Phytoplankton alter their biochemical composition according to nutrient availability, such that their bulk elemental composition varies across oceanic provinces. However, the links between plankton biochemical composition and variation in biogeochemical cycling of nutrients remain largely unknown. In a survey of phytoplankton phosphorus stress in the western North Atlantic, we found that phytoplankton in the phosphorus-depleted subtropical Sargasso Sea were enriched in the biochemical polyphosphate (polyP) compared with nutrient-rich temperate waters, contradicting the canonical oceanographic view of polyP as a luxury phosphorus storage molecule. The enrichment in polyP coincided with enhanced alkaline phosphatase activity and substitution of sulfolipids for phospholipids, which are both indicators of phosphorus stress. Further, polyP appeared to be liberated preferentially over bulk phosphorus from sinking particles in the Sargasso Sea, thereby retaining phosphorus in shallow waters. Thus, polyP cycling may form a feedback loop that attenuates the export of phosphorus when it becomes scarce, contributes bioavailable P for primary production, and supports the export of carbon and nitrogen via sinking particles.},
-author = {Martin, Patrick and Dyhrman, Sonya T and Lomas, Michael W and Poulton, Nicole J and {Van Mooy}, Benjamin A S},
-doi = {10.1073/pnas.1321719111},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Martin et al. - 2014 - Accumulation and enhanced cycling of polyphosphate by Sargasso Sea plankton in response to low phosphorus.pdf:pdf},
-
-journal = {Proceedings of the National Academy of Sciences of the United States of America},
-keywords = {Alkaline Phosphatase,Alkaline Phosphatase: metabolism,Atlantic Ocean,Carbon,Carbon Cycle,Carbon Cycle: physiology,Carbon: metabolism,Ecosystem,Lipids,Marine Biology,Marine Biology: methods,Nitrogen,Nitrogen Cycle,Nitrogen Cycle: physiology,Nitrogen: metabolism,Phosphorus,Phosphorus: metabolism,Physiological,Physiological: physiology,Plankton,Plankton: growth \& development,Plankton: metabolism,Polyphosphates,Polyphosphates: metabolism,Seawater,Seawater: chemistry,Seawater: microbiology,Stress,Synechococcus,Synechococcus: growth \& development,Synechococcus: metabolism},
-month = jun,
-number = {22},
-pages = {8089--94},
-pmid = {24753593},
-title = {{Accumulation and enhanced cycling of polyphosphate by Sargasso Sea plankton in response to low phosphorus.}},
-
-volume = {111},
-year = {2014}
 }
 @article{Menden-Deuer2014,
 abstract = {In apparent contradiction to competition theory, the number of known, coexisting plankton species far exceeds their explicable biodiversity-a discrepancy termed the Paradox of the Plankton. We introduce a new game-theoretic model for competing microorganisms in which one player consists of all organisms of one species. The stable points for the population dynamics in our model, known as strategic behaviour distributions (SBDs), are probability distributions of behaviours across all organisms which imply a stable population of the species as a whole. We find that intra-specific variability is the key characteristic that ultimately allows coexistence because the outcomes of competitions between individuals with variable competitive abilities are unpredictable. Our simulations based on the theoretical model show that up to 100 species can coexist for at least 10,000 generations, and that even small population sizes or species with inferior competitive ability can survive when there is intra-specific variability. In nature, this variability can be observed as niche differentiation, variability in environmental and ecological factors, and variability of individual behaviours or physiology. Therefore, previous specific explanations of the paradox are consistent with and provide specific examples of our suggestion that individual variability is the mechanism which solves the paradox.},
@@ -920,6 +1068,24 @@ title = {{Estimating Protistan Diversity Using High-Throughput Sequencing.}},
 volume = {62},
 year = {2015}
 }
+@article{Rouco2013,
+abstract = {Growth and calcification of the marine coccolithophorid Emiliania huxleyi is affected by ocean acidification and macronutrients limitation and its response varies between strains. Here we investigated the physiological performance of a highly calcified E. huxleyi strain, NZEH, in a multiparametric experiment. Cells were exposed to different CO2 levels (ranging from 250 to 1314 $\mu$atm) under three nutrient conditions [nutrient replete (R), nitrate limited (-N), and phosphate limited (-P)]. We focused on calcite and organic carbon quotas and on nitrate and phosphate utilization by analyzing the activity of nitrate reductase (NRase) and alkaline phosphatase (APase), respectively. Particulate inorganic (PIC) and organic (POC) carbon quotas increased with increasing CO2 under R conditions but a different pattern was observed under nutrient limitation. The PIC:POC ratio decreased with increasing CO2 in nutrient limited cultures. Coccolith length increased with CO2 under all nutrient conditions but the coccosphere volume varied depending on the nutrient treatment. Maximum APase activity was found at 561 $\mu$atm of CO2 (pH 7.92) in -P cultures and in R conditions, NRase activity increased linearly with CO2. These results suggest that E. huxleyi's competitive ability for nutrient uptake might be altered in future high-CO2 oceans. The combined dataset will be useful in model parameterizations of the carbon cycle and ocean acidification.},
+author = {Rouco, M\'{o}nica and Branson, Oscar and Lebrato, Mario and Iglesias-Rodr\'{\i}guez, M D\'{e}bora},
+doi = {10.3389/fmicb.2013.00155},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Rouco et al. - 2013 - The effect of nitrate and phosphate availability on Emiliania huxleyi (NZEH) physiology under different CO2 sce(3).pdf:pdf},
+
+journal = {Frontiers in Microbiology},
+keywords = {Alkaline Phosphatase,Emiliania huxleyi,Nitrate Reductase,Nutrients,calcification,ocean acidification,strain variability},
+language = {English},
+month = jan,
+pages = {155},
+pmid = {23785363},
+publisher = {Frontiers},
+title = {{The effect of nitrate and phosphate availability on \textit{Emiliania huxleyi} (NZEH) physiology under different CO2 scenarios}},
+
+volume = {4},
+year = {2013}
+}
 @article{Alcolombri2015,
 abstract = {Algal blooms produce large amounts of dimethyl sulfide (DMS), a volatile with a diverse signaling role in marine food webs that is emitted to the atmosphere, where it can affect cloud formation. The algal enzymes responsible for forming DMS from dimethylsulfoniopropionate (DMSP) remain unidentified despite their critical role in the global sulfur cycle. We identified and characterized Alma1, a DMSP lyase from the bloom-forming algae Emiliania huxleyi. Alma1 is a tetrameric, redox-sensitive enzyme of the aspartate racemase superfamily. Recombinant Alma1 exhibits biochemical features identical to the DMSP lyase in E. huxleyi, and DMS released by various E. huxleyi isolates correlates with their Alma1 levels. Sequence homology searches suggest that Alma1 represents a gene family present in major, globally distributed phytoplankton taxa and in other marine organisms.},
 author = {Alcolombri, U. and Ben-Dor, S. and Feldmesser, E. and Levin, Y. and Tawfik, D. S. and Vardi, a.},
@@ -934,24 +1100,6 @@ title = {{Identification of the algal dimethyl sulfide-releasing enzyme: A missi
 
 volume = {348},
 year = {2015}
-}
-@article{Rouco2013,
-abstract = {Growth and calcification of the marine coccolithophorid Emiliania huxleyi is affected by ocean acidification and macronutrients limitation and its response varies between strains. Here we investigated the physiological performance of a highly calcified E. huxleyi strain, NZEH, in a multiparametric experiment. Cells were exposed to different CO2 levels (ranging from 250 to 1314 $\mu$atm) under three nutrient conditions [nutrient replete (R), nitrate limited (-N), and phosphate limited (-P)]. We focused on calcite and organic carbon quotas and on nitrate and phosphate utilization by analyzing the activity of nitrate reductase (NRase) and alkaline phosphatase (APase), respectively. Particulate inorganic (PIC) and organic (POC) carbon quotas increased with increasing CO2 under R conditions but a different pattern was observed under nutrient limitation. The PIC:POC ratio decreased with increasing CO2 in nutrient limited cultures. Coccolith length increased with CO2 under all nutrient conditions but the coccosphere volume varied depending on the nutrient treatment. Maximum APase activity was found at 561 $\mu$atm of CO2 (pH 7.92) in -P cultures and in R conditions, NRase activity increased linearly with CO2. These results suggest that E. huxleyi's competitive ability for nutrient uptake might be altered in future high-CO2 oceans. The combined dataset will be useful in model parameterizations of the carbon cycle and ocean acidification.},
-author = {Rouco, M\'{o}nica and Branson, Oscar and Lebrato, Mario and Iglesias-Rodr\'{\i}guez, M D\'{e}bora},
-doi = {10.3389/fmicb.2013.00155},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Rouco et al. - 2013 - The effect of nitrate and phosphate availability on Emiliania huxleyi (NZEH) physiology under different CO2 sce(3).pdf:pdf},
-
-journal = {Frontiers in microbiology},
-keywords = {Alkaline Phosphatase,Emiliania huxleyi,Nitrate Reductase,Nutrients,calcification,ocean acidification,strain variability},
-language = {English},
-month = jan,
-pages = {155},
-pmid = {23785363},
-publisher = {Frontiers},
-title = {{The effect of nitrate and phosphate availability on Emiliania huxleyi (NZEH) physiology under different CO2 scenarios.}},
-
-volume = {4},
-year = {2013}
 }
 @article{Dyhrman2003,
 abstract = {Three phosphate-regulated proteins in the coccolithophorid Emiliania huxleyi were detected by the biotinylation of cell-surface proteins. Two of these phosphate-regulated proteins have reduced denatured molecular weights near 110 000 Da (118 078 and 110 541, respectively), while the third, and most abundant, is 69 087 Da. Induction of the three proteins and the common marker of phosphate stress, alkaline phosphatase activity, occur in the presence of <0.25 \{micro\}M inorganic phosphate in batch culture. Phosphate-regulated proteins and enzyme activity differed among E. huxleyi strains. Alkaline phosphatase is an enzyme commonly induced by phytoplankton in response to phosphate stress in order for cells to scavenge inorganic phosphate from organic sources. In E. huxleyi, this enzyme activity and the phosphate-regulated proteins are rapidly lost when phosphate is added back to phosphate-stressed cultures. This contrasts with the slower loss of alkaline phosphatase activity in the dinoflagellate Prorocentrum minimum. The presence of the three phosphate-regulated proteins and enzyme activity appear to differ somewhat among E. huxleyi strains. Based on these differences between strains, kinetic data, growth experiments and enzyme activities, the 69 087 Da protein may be a phosphatase with a high specificity for 5'-nucleotides.},
@@ -992,13 +1140,6 @@ title = {{Dissecting the impact of CO2 and pH on the mechanisms of photosynthesi
 volume = {199},
 year = {2013}
 }
-@article{Parsons1999,
-author = {Parsons, HL and Yip, JYH and Vanlerberghe, GC},
-journal = {Plant Physiology},
-title = {{Increased respiratory restriction during phosphate-limited growth in transgenic tobacco cells lacking alternative oxidase}},
-
-year = {1999}
-}
 @article{Arnholdt-Schmitt2006,
 author = {Arnholdt-Schmitt, B and Costa, JH and de Melo, DF},
 file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Arnholdt-Schmitt, Costa, Melo - 2006 - AOX–a functional marker for efficient cell reprogramming under stress.pdf:pdf},
@@ -1006,6 +1147,13 @@ journal = {Trends in plant science},
 title = {{AOX–a functional marker for efficient cell reprogramming under stress?}},
 
 year = {2006}
+}
+@article{Parsons1999,
+author = {Parsons, HL and Yip, JYH and Vanlerberghe, GC},
+journal = {Plant Physiology},
+title = {{Increased respiratory restriction during phosphate-limited growth in transgenic tobacco cells lacking alternative oxidase}},
+
+year = {1999}
 }
 @article{Schroeder2005b,
 author = {Schroeder, DC and Biggi, GF and Hall, M and Davy, J},
@@ -1522,49 +1670,6 @@ title = {{Strain-specific responses of \textit{Emiliania huxleyi} to changing se
 volume = {6},
 year = {2009}
 }
-@article{Cortes2001,
-author = {Cort\'{e}s, Mara Y MY and Bollmann, J\"{o}rg and Thierstein, HR Hans R},
-doi = {10.1016/S0967-0645(00)00165-X},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cort\'{e}s, Bollmann, Thierstein - 2001 - Coccolithophore ecology at the HOT station ALOHA, Hawaii(2).pdf:pdf},
-
-journal = {Deep Sea Research Part II: Topical Studies in Oceanography},
-month = jan,
-number = {8-9},
-pages = {1957--1981},
-title = {{Coccolithophore ecology at the HOT station ALOHA, Hawaii}},
-
-volume = {48},
-year = {2001}
-}
-@article{Karl2001a,
-abstract = {Oceanic productivity, fishery yields and the net marine sequestration of atmospheric greenhouse gases are all controlled by the structure and function of planktonic communities. Detailed paleoceanographic studies have documented abrupt changes in these processes over timescales ranging from centuries to millennia. Most of these major shifts in oceanic productivity and biodiversity are attributable to changes in Earth's climate, manifested through large-scale ocean–atmosphere interactions. By comparison, contemporary biodiversity and plankton community dynamics are generally considered to be “static”, in part due to the lack of a suitable time frame of reference, and the absence of oceanic data to document ecosystem change over relatively short timescales (decades to centuries). Here we show that the average concentrations of chlorophyll a (chl a) and the estimated rates of primary production in the surface waters of the North Pacific Subtropical Gyre (NPSG) off Hawaii have more than doubled while the concentrations of dissolved silicate and phosphate have decreased during the past three decades. These changes are accompanied by an increase in the concentration of chl b, suggesting a shift in phytoplankton community structure. We hypothesize that these observed ecosystem trends and other related biogeochemical processes in the upper portion of the NPSG are manifestations of plankton community succession in response to climate variations. The hypothesized photosynthetic population “domain shift” toward an ecosystem dominated by prokaryotes has altered nutrient flux pathways and affected food web structure, new and export production processes, and fishery yields. Further stratification of the surface ocean resulting from global warming could lead to even more enhanced selection pressures and additional changes in biogeochemical dynamics.},
-author = {Karl, D.M DM and Bidigare, R.R RR and Letelier, R.M RM R.M},
-doi = {10.1016/S0967-0645(00)00149-1},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl, Bidigare, Letelier - 2001 - Long-term changes in plankton community structure and productivity in the North Pacific Subtropical(3).pdf:pdf},
-
-journal = {Deep Sea Research Part II: Topical  \ldots},
-month = jan,
-number = {8-9},
-pages = {1449--1470},
-title = {{Long-term changes in plankton community structure and productivity in the North Pacific Subtropical Gyre: The domain shift hypothesis}},
-
-volume = {48},
-year = {2001}
-}
-@article{Xu2006,
-author = {Xu, Yan and Wahlund, Thomas M. and Feng, Liang and Shaked, Yeala and Morel, Fran\c{c}ois M. M.},
-doi = {10.1111/j.1529-8817.2006.00243.x},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Xu et al. - 2006 - a Novel Alkaline Phosphatase in the Coccolithophore Emiliania Huxleyi (Prymnesiophyceae) and Its Regulation By Phosph.pdf:pdf},
-
-journal = {Journal of Phycology},
-month = aug,
-number = {4},
-pages = {835--844},
-title = {{A novel alkaline phosphatase in the cocolithophore \textit{Emiliania huxleyi} (Prymnesiophyceae) and its regulation by phosphorus}},
-
-volume = {42},
-year = {2006}
-}
 @article{Bertrand2012a,
 abstract = {Diatoms are responsible for \~{}40\% of marine primary production and are key players in global carbon cycling. There is mounting evidence that diatom growth is influenced by cobalamin (vitamin B(12)) availability. This cobalt-containing micronutrient is only produced by some bacteria and archaea but is required by many diatoms and other eukaryotic phytoplankton. Despite its potential importance, little is known about mechanisms of cobalamin acquisition in diatoms or the impact of cobalamin scarcity on diatom molecular physiology. Proteomic profiling and RNA-sequencing transcriptomic analysis of the cultured diatoms Phaeodactylum tricornutum and Thalassiosira pseudonana revealed three distinct strategies used by diatoms to cope with low cobalamin: increased cobalamin acquisition machinery, decreased cobalamin demand, and management of reduced methionine synthase activity through changes in folate and S-adenosyl methionine metabolism. One previously uncharacterized protein, cobalamin acquisition protein 1 (CBA1), was up to 160-fold more abundant under low cobalamin availability in both diatoms. Autologous overexpression of CBA1 revealed association with the outside of the cell and likely endoplasmic reticulum localization. Cobalamin uptake rates were elevated in strains overexpressing CBA1, directly linking this protein to cobalamin acquisition. CBA1 is unlike characterized cobalamin acquisition proteins and is the only currently identified algal protein known to be implicated in cobalamin uptake. The abundance and widespread distribution of transcripts encoding CBA1 in environmental samples suggests that cobalamin is an important nutritional factor for phytoplankton. Future study of CBA1 and other molecular signatures of cobalamin scarcity identified here will yield insight into the evolution of cobalamin utilization and facilitate monitoring of cobalamin starvation in oceanic diatom communities.},
 annote = {From Duplicate 2 ( },
@@ -1582,6 +1687,49 @@ title = {{Influence of cobalamin scarcity on diatom molecular physiology and ide
 
 volume = {109},
 year = {2012}
+}
+@article{Xu2006,
+author = {Xu, Yan and Wahlund, Thomas M. and Feng, Liang and Shaked, Yeala and Morel, Fran\c{c}ois M. M.},
+doi = {10.1111/j.1529-8817.2006.00243.x},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Xu et al. - 2006 - a Novel Alkaline Phosphatase in the Coccolithophore Emiliania Huxleyi (Prymnesiophyceae) and Its Regulation By Phosph.pdf:pdf},
+
+journal = {Journal of Phycology},
+month = aug,
+number = {4},
+pages = {835--844},
+title = {{A novel alkaline phosphatase in the cocolithophore \textit{Emiliania huxleyi} (Prymnesiophyceae) and its regulation by phosphorus}},
+
+volume = {42},
+year = {2006}
+}
+@article{Karl2001a,
+abstract = {Oceanic productivity, fishery yields and the net marine sequestration of atmospheric greenhouse gases are all controlled by the structure and function of planktonic communities. Detailed paleoceanographic studies have documented abrupt changes in these processes over timescales ranging from centuries to millennia. Most of these major shifts in oceanic productivity and biodiversity are attributable to changes in Earth's climate, manifested through large-scale ocean–atmosphere interactions. By comparison, contemporary biodiversity and plankton community dynamics are generally considered to be “static”, in part due to the lack of a suitable time frame of reference, and the absence of oceanic data to document ecosystem change over relatively short timescales (decades to centuries). Here we show that the average concentrations of chlorophyll a (chl a) and the estimated rates of primary production in the surface waters of the North Pacific Subtropical Gyre (NPSG) off Hawaii have more than doubled while the concentrations of dissolved silicate and phosphate have decreased during the past three decades. These changes are accompanied by an increase in the concentration of chl b, suggesting a shift in phytoplankton community structure. We hypothesize that these observed ecosystem trends and other related biogeochemical processes in the upper portion of the NPSG are manifestations of plankton community succession in response to climate variations. The hypothesized photosynthetic population “domain shift” toward an ecosystem dominated by prokaryotes has altered nutrient flux pathways and affected food web structure, new and export production processes, and fishery yields. Further stratification of the surface ocean resulting from global warming could lead to even more enhanced selection pressures and additional changes in biogeochemical dynamics.},
+author = {Karl, D.M DM and Bidigare, R.R RR and Letelier, R.M RM R.M},
+doi = {10.1016/S0967-0645(00)00149-1},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Karl, Bidigare, Letelier - 2001 - Long-term changes in plankton community structure and productivity in the North Pacific Subtropical(3).pdf:pdf},
+
+journal = {Deep Sea Research Part II: Topical  \ldots},
+month = jan,
+number = {8-9},
+pages = {1449--1470},
+title = {{Long-term changes in plankton community structure and productivity in the North Pacific Subtropical Gyre: The domain shift hypothesis}},
+
+volume = {48},
+year = {2001}
+}
+@article{Cortes2001,
+author = {Cort\'{e}s, Mara Y MY and Bollmann, J\"{o}rg and Thierstein, HR Hans R},
+doi = {10.1016/S0967-0645(00)00165-X},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Cort\'{e}s, Bollmann, Thierstein - 2001 - Coccolithophore ecology at the HOT station ALOHA, Hawaii(2).pdf:pdf},
+
+journal = {Deep Sea Research Part II: Topical Studies in Oceanography},
+month = jan,
+number = {8-9},
+pages = {1957--1981},
+title = {{Coccolithophore ecology at the HOT station ALOHA, Hawaii}},
+
+volume = {48},
+year = {2001}
 }
 @article{Villareal2011,
 author = {Villareal, Tracy A. and Adornato, Lori and Wilson, Cara and Schoenbaechler, Caimee A.},
@@ -2134,6 +2282,25 @@ title = {{Nitrate : phosphate ratios and \textit{Emiliania huxleyi} blooms}},
 volume = {50},
 year = {2005}
 }
+@article{Nunn2013,
+abstract = {Phytoplankton growth rates are limited by the supply of iron (Fe) in approximately one third of the open ocean, with major implications for carbon dioxide sequestration and carbon (C) biogeochemistry. To date, understanding how alteration of Fe supply changes phytoplankton physiology has focused on traditional metrics such as growth rate, elemental composition, and biophysical measurements such as photosynthetic competence (Fv/Fm). Researchers have subsequently employed transcriptomics to probe relationships between changes in Fe supply and phytoplankton physiology. Recently, studies have investigated longer-term (i.e. following acclimation) responses of phytoplankton to various Fe conditions. In the present study, the coastal diatom, Thalassiosira pseudonana, was acclimated (10 generations) to either low or high Fe conditions, i.e. Fe-limiting and Fe-replete. Quantitative proteomics and a newly developed proteomic profiling technique that identifies low abundance proteins were employed to examine the full complement of expressed proteins and consequently the metabolic pathways utilized by the diatom under the two Fe conditions. A total of 1850 proteins were confidently identified, nearly tripling previous identifications made from differential expression in diatoms. Given sufficient time to acclimate to Fe limitation, T. pseudonana up-regulates proteins involved in pathways associated with intracellular protein recycling, thereby decreasing dependence on extracellular nitrogen (N), C and Fe. The relative increase in the abundance of photorespiration and pentose phosphate pathway proteins reveal novel metabolic shifts, which create substrates that could support other well-established physiological responses, such as heavily silicified frustules observed for Fe-limited diatoms. Here, we discovered that proteins and hence pathways observed to be down-regulated in short-term Fe starvation studies are constitutively expressed when T. pseudonana is acclimated (i.e., nitrate and nitrite transporters, Photosystem II and Photosystem I complexes). Acclimation of the diatom to the desired Fe conditions and the comprehensive proteomic approach provides a more robust interpretation of this dynamic proteome than previous studies.},
+author = {Nunn, Brook L and Faux, Jessica F and Hippmann, Anna A and Maldonado, Maria T and Harvey, H Rodger and Goodlett, David R and Boyd, Philip W and Strzepek, Robert F},
+doi = {10.1371/journal.pone.0075653},
+editor = {Appanna, Vasu D.},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Nunn et al. - 2013 - Diatom proteomics reveals unique acclimation strategies to mitigate Fe limitation(2).pdf:pdf},
+
+journal = {PloS one},
+keywords = {Acclimatization,Acclimatization: genetics,Carbon Dioxide,Carbon Dioxide: metabolism,Diatoms,Diatoms: genetics,Diatoms: metabolism,Feedback, Physiological,Gene Expression Profiling,Gene Expression Regulation,Iron,Iron: metabolism,Metabolic Networks and Pathways,Molecular Sequence Annotation,Phytoplankton,Phytoplankton: genetics,Phytoplankton: metabolism,Proteins,Proteins: genetics,Proteins: metabolism,Proteomics},
+month = jan,
+number = {10},
+pages = {e75653},
+pmid = {24146769},
+publisher = {Public Library of Science},
+title = {{Diatom proteomics reveals unique acclimation strategies to mitigate Fe limitation.}},
+
+volume = {8},
+year = {2013}
+}
 @article{Martin1970,
 author = {Martin, John H.},
 doi = {10.4319/lo.1970.15.3.0413},
@@ -2392,6 +2559,26 @@ title = {{Amino acid transport in \textit{Nitzschia ovalis arnott}}},
 
 volume = {8},
 year = {1972}
+}
+@article{Allen2011,
+abstract = {Diatoms dominate the biomass of phytoplankton in nutrient-rich conditions and form the basis of some of the world's most productive marine food webs. The diatom nuclear genome contains genes with bacterial and plastid origins as well as genes of the secondary endosymbiotic host (the exosymbiont), yet little is known about the relative contribution of each gene group to diatom metabolism. Here we show that the exosymbiont-derived ornithine-urea cycle, which is similar to that of metazoans but is absent in green algae and plants, facilitates rapid recovery from prolonged nitrogen limitation. RNA-interference-mediated knockdown of a mitochondrial carbamoyl phosphate synthase impairs the response of nitrogen-limited diatoms to nitrogen addition. Metabolomic analyses indicate that intermediates in the ornithine-urea cycle are particularly depleted and that both the tricarboxylic acid cycle and the glutamine synthetase/glutamate synthase cycles are linked directly with the ornithine-urea cycle. Several other depleted metabolites are generated from ornithine-urea cycle intermediates by the products of genes laterally acquired from bacteria. This metabolic coupling of bacterial- and exosymbiont-derived proteins seems to be fundamental to diatom physiology because the compounds affected include the major diatom osmolyte proline and the precursors for long-chain polyamines required for silica precipitation during cell wall formation. So far, the ornithine-urea cycle is only known for its essential role in the removal of fixed nitrogen in metazoans. In diatoms, this cycle serves as a distribution and repackaging hub for inorganic carbon and nitrogen and contributes significantly to the metabolic response of diatoms to episodic nitrogen availability. The diatom ornithine-urea cycle therefore represents a key pathway for anaplerotic carbon fixation into nitrogenous compounds that are essential for diatom growth and for the contribution of diatoms to marine productivity.},
+annote = {From Duplicate 2 ( },
+author = {Allen, Andrew E and Dupont, Christopher L and Oborn\'{\i}k, Miroslav and Hor\'{a}k, Ale\v{s} and Nunes-Nesi, Adriano and McCrow, John P and Zheng, Hong and Johnson, Daniel A and Hu, Hanhua and Fernie, Alisdair R and Bowler, Chris},
+doi = {10.1038/nature10074},
+isbn = {1476-4687 (Electronic)$\backslash$r0028-0836 (Linking)},
+
+journal = {Nature},
+keywords = {Carbamoyl-Phosphate Synthase (Ammonia),Carbamoyl-Phosphate Synthase (Ammonia): metabolism,Diatoms,Diatoms: classification,Diatoms: enzymology,Diatoms: genetics,Diatoms: growth \& development,Diatoms: metabolism,Gene Expression Regulation,Gene Knockdown Techniques,Nitrates,Nitrates: metabolism,Photosynthesis,Phylogeny,RNA Interference,Urea,Urea: metabolism},
+month = may,
+number = {7346},
+pages = {203--7},
+pmid = {21562560},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+shorttitle = {Nature},
+title = {{Evolution and metabolic significance of the urea cycle in photosynthetic diatoms.}},
+
+volume = {473},
+year = {2011}
 }
 @article{Keeling2014,
 abstract = {Current sampling of genomic sequence data from eukaryotes is relatively poor, biased, and inadequate to address important questions about their biology, evolution, and ecology; this Community Page describes a resource of 700 transcriptomes from marine microbial eukaryotes to help understand their role in the world's oceans.},
@@ -2704,6 +2891,23 @@ title = {{Sixty Years of Sverdrup: A Retrospective of Progress in the Study of P
 volume = {27},
 year = {2014}
 }
+@article{Thamatrakoln2013,
+abstract = {Diatoms, unicellular phytoplankton that account for ∼40\% of marine primary productivity, often dominate coastal and open-ocean upwelling zones. Limitation of growth and productivity by iron at low light is attributed to an elevated cellular Fe requirement for the synthesis of Fe-rich photosynthetic proteins. In the dynamic coastal environment, Fe concentrations and daily surface irradiance levels can vary by two to three orders of magnitude on short spatial and temporal scales. Although genome-wide studies are beginning to provide insight into the molecular mechanisms used by diatoms to rapidly respond to such fluxes, their functional role in mediating the Fe stress response remains uncharacterized. Here, we show, using reverse genetics, that a death-specific protein (DSP; previously named for its apparent association with cell death) in the coastal diatom Thalassiosira pseudonana (TpDSP1) localizes to the plastid and enhances growth during acute Fe limitation at subsaturating light by increasing the photosynthetic efficiency of carbon fixation. Clone lines overexpressing TpDSP1 had a lower quantum requirement for growth, increased levels of photosynthetic and carbon fixation proteins, and increased cyclic electron flow around photosystem I. Cyclic electron flow is an ATP-producing pathway essential in higher plants and chlorophytes with a heretofore unappreciated role in diatoms. However, cells under replete conditions were characterized as having markedly reduced growth and photosynthetic rates at saturating light, thereby constraining the benefits afforded by overexpression. Widespread distribution of DSP-like sequences in environmental metagenomic and metatranscriptomic datasets highlights the presence and relevance of this protein in natural phytoplankton populations in diverse oceanic regimes.},
+author = {Thamatrakoln, Kimberlee and Bailleul, Benjamin and Brown, Christopher M and Gorbunov, Maxim Y and Kustka, Adam B and Frada, Miguel and Joliot, Pierre A and Falkowski, Paul G and Bidle, Kay D},
+doi = {10.1073/pnas.1304727110},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Thamatrakoln et al. - 2013 - Death-specific protein in a marine diatom regulates photosynthetic responses to iron and light availabil(2).pdf:pdf},
+
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+keywords = {Biophysics,Carbon,Carbon: analysis,Cloning, Molecular,Diatoms,Diatoms: genetics,Diatoms: growth \& development,Immunoblotting,Iron,Iron: analysis,Light,Microscopy, Fluorescence,Nitrogen,Nitrogen: analysis,Photosynthesis,Photosynthesis: genetics,Photosynthesis: physiology,Photosystem I Protein Complex,Photosystem I Protein Complex: metabolism,Proteins,Proteins: genetics,Proteins: physiology},
+month = dec,
+number = {50},
+pages = {20123--8},
+pmid = {24277817},
+title = {{Death-specific protein in a marine diatom regulates photosynthetic responses to iron and light availability.}},
+
+volume = {110},
+year = {2013}
+}
 @article{Follows2007,
 abstract = {A marine ecosystem model seeded with many phytoplankton types, whose physiological traits were randomly assigned from ranges defined by field and laboratory data, generated an emergent community structure and biogeography consistent with observed global phytoplankton distributions. The modeled organisms included types analogous to the marine cyanobacterium Prochlorococcus. Their emergent global distributions and physiological properties simultaneously correspond to observations. This flexible representation of community structure can be used to explore relations between ecosystems, biogeochemical cycles, and climate change.},
 author = {Follows, Michael J and Dutkiewicz, Stephanie and Grant, Scott and Chisholm, Sallie W},
@@ -2767,6 +2971,19 @@ title = {{An estimate of global primary production in the ocean from satellite r
 volume = {17},
 year = {1995}
 }
+@article{Margalef1978,
+annote = {From Duplicate 2 ( },
+author = {Margalef, R},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Margalef - 1978 - Life-forms of phytoplankton as survival alternatives in an unstable environment(2).pdf:pdf},
+
+journal = {Oceanologica Acta},
+number = {4},
+pages = {493--509},
+title = {{Life-forms of phytoplankton as survival alternatives in an unstable environment}},
+
+volume = {1},
+year = {1978}
+}
 @article{Strickland1965,
 annote = {PT: J; TC: 19; UT: WOS:A19656898300006},
 author = {Strickland, J D},
@@ -2781,19 +2998,6 @@ title = {{Phytoplankton and marine primary production.}},
 
 volume = {19},
 year = {1965}
-}
-@article{Margalef1978,
-annote = {From Duplicate 2 ( },
-author = {Margalef, R},
-file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Margalef - 1978 - Life-forms of phytoplankton as survival alternatives in an unstable environment(2).pdf:pdf},
-
-journal = {Oceanologica Acta},
-number = {4},
-pages = {493--509},
-title = {{Life-forms of phytoplankton as survival alternatives in an unstable environment}},
-
-volume = {1},
-year = {1978}
 }
 @article{Tilman1977,
 author = {Tilman, David},
@@ -2819,6 +3023,22 @@ pages = {39--52},
 title = {{Drivers of protistan grazing pressure: seasonal signals of plankton community composition and environmental conditions}},
 
 volume = {459},
+year = {2012}
+}
+@article{Lommer2012,
+abstract = {ABSTRACT: BACKGROUND: Biogeochemical elemental cycling is driven by primary production of biomass via phototrophic phytoplankton growth, with 40\% of marine productivity being assigned to diatoms. Phytoplankton growth is widely limited by the availability of iron, an essential component of the photosynthetic apparatus. The oceanic diatom Thalassiosira oceanica shows a remarkable tolerance to low-iron conditions and was chosen as a model for deciphering the cellular response upon shortage of this essential micronutrient. RESULTS: The combined efforts in genomics, transcriptomics and proteomics reveal an unexpected metabolic flexibility in response to iron availability for T. oceanica CCMP1005. The complex response comprises cellular retrenchment as well as remodeling of bioenergetic pathways, where the abundance of iron-rich photosynthetic proteins is lowered, whereas iron-rich mitochondrial proteins are preserved. As a consequence of iron deprivation, the photosynthetic machinery undergoes a remodeling to adjust the light energy utilization with the overall decrease in photosynthetic electron transfer complexes. CONCLUSIONS: Beneficial adaptations to low-iron environments include strategies to lower the cellular iron requirements and to enhance iron uptake. A novel contribution enhancing iron economy of phototrophic growth is observed with the iron-regulated substitution of three metal-containing fructose-bisphosphate aldolases involved in metabolic conversion of carbohydrates for enzymes that do not contain metals. Further, our data identify candidate components of a high-affinity iron-uptake system, with several of the involved genes and domains originating from duplication events. A high genomic plasticity, as seen from the fraction of genes acquired through horizontal gene transfer, provides the platform for these complex adaptations to a low-iron world.},
+author = {Lommer, Markus and Specht, Michael and Roy, Alexandra-Sophie and Kraemer, Lars and Andreson, Reidar and Gutowska, Magdalena A and Wolf, Juliane and Bergner, Sonja V and Schilhabel, Markus B and Klostermeier, Ulrich C and Beiko, Robert G and Rosenstiel, Philip and Hippler, Michael and Laroche, Julie},
+doi = {10.1186/gb-2012-13-7-r66},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Lommer et al. - 2012 - Genome and low-iron response of an oceanic diatom adapted to chronic iron limitation(2).pdf:pdf},
+
+journal = {Genome biology},
+month = jul,
+number = {7},
+pages = {R66},
+pmid = {22835381},
+title = {{Genome and low-iron response of an oceanic diatom adapted to chronic iron limitation.}},
+
+volume = {13},
 year = {2012}
 }
 @article{Sverdrup1953,
@@ -2899,6 +3119,19 @@ title = {{Towards a resolution of `the paradox of the plankton': A brief overvie
 volume = {4},
 year = {2007}
 }
+@article{Hardin1960,
+author = {Hardin, G.},
+doi = {10.1126/science.131.3409.1292},
+
+journal = {Science},
+month = apr,
+number = {3409},
+pages = {1292--1297},
+title = {{The competitive exclusion principle}},
+
+volume = {131},
+year = {1960}
+}
 @article{Langmead2012,
 abstract = {As the rate of sequencing increases, greater throughput is demanded from read aligners. The full-text minute index is often used to make alignment very fast and memory-efficient, but the approach is ill-suited to finding longer, gapped alignments. Bowtie 2 combines the strengths of the full-text minute index with the flexibility and speed of hardware-accelerated dynamic programming algorithms to achieve a combination of high speed, sensitivity and accuracy.},
 author = {Langmead, Ben and Salzberg, Steven L},
@@ -2968,6 +3201,17 @@ title = {{Phytoplankton in the ocean use non-phosphorus lipids in response to ph
 
 volume = {458},
 year = {2009}
+}
+@article{Block1997,
+author = {Sunda, WG and Huntsman, SA},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Sunda, Huntsman - 1997 - Interrelated influence of iron, light and cell size on marine phytoplankton growth.pdf:pdf},
+journal = {Nature},
+number = {1977},
+pages = {1193--1197},
+title = {{Interrelated influence of iron, light and cell size on marine phytoplankton growth}},
+
+volume = {2051},
+year = {1997}
 }
 @article{Perry1976,
 author = {Perry, Author M J and Limnology, Source and Jan, No and Perry, M J},
@@ -3097,6 +3341,22 @@ title = {{Identifying reference genes with stable expression from high throughpu
 
 volume = {3},
 year = {2012}
+}
+@article{Taft2007,
+abstract = {There are two intriguing paradoxes in molecular biology--the inconsistent relationship between organismal complexity and (1) cellular DNA content and (2) the number of protein-coding genes--referred to as the C-value and G-value paradoxes, respectively. The C-value paradox may be largely explained by varying ploidy. The G-value paradox is more problematic, as the extent of protein coding sequence remains relatively static over a wide range of developmental complexity. We show by analysis of sequenced genomes that the relative amount of non-protein-coding sequence increases consistently with complexity. We also show that the distribution of introns in complex organisms is non-random. Genes composed of large amounts of intronic sequence are significantly overrepresented amongst genes that are highly expressed in the nervous system, and amongst genes downregulated in embryonic stem cells and cancers. We suggest that the informational paradox in complex organisms may be explained by the expansion of cis-acting regulatory elements and genes specifying trans-acting non-protein-coding RNAs.},
+author = {Taft, Ryan J and Pheasant, Michael and Mattick, John S},
+doi = {10.1002/bies.20544},
+
+journal = {BioEssays : news and reviews in molecular, cellular and developmental biology},
+keywords = {Animals,DNA, Intergenic,DNA, Intergenic: genetics,Eukaryotic Cells,Evolution, Molecular,Genes,Genome,Humans,Introns,Proteins,Proteins: genetics,RNA,RNA: genetics,Regulatory Sequences, Nucleic Acid},
+month = mar,
+number = {3},
+pages = {288--99},
+pmid = {17295292},
+title = {{The relationship between non-protein-coding DNA and eukaryotic complexity.}},
+
+volume = {29},
+year = {2007}
 }
 @book{Guillard1975,
 address = {Boston, MA},
@@ -3251,12 +3511,13 @@ volume = {53},
 year = {2008}
 }
 @article{Moore2004,
-author = {Moore, J Keith},
+author = {Moore, J Keith and Doney, Scott C. and Lindsay, Keith},
 doi = {10.1029/2004GB002220},
 
 journal = {Global Biogeochemical Cycles},
+month = dec,
 number = {4},
-pages = {1--21},
+pages = {n/a--n/a},
 title = {{Upper ocean ecosystem dynamics and iron cycling in a global three-dimensional model}},
 
 volume = {18},
@@ -3280,6 +3541,25 @@ title = {{Quantitative PCR pitfalls: the case of the human placenta.}},
 
 volume = {52},
 year = {2012}
+}
+@article{Gobler2011a,
+abstract = {Harmful algal blooms (HABs) cause significant economic and ecological damage worldwide. Despite considerable efforts, a comprehensive understanding of the factors that promote these blooms has been lacking, because the biochemical pathways that facilitate their dominance relative to other phytoplankton within specific environments have not been identified. Here, biogeochemical measurements showed that the harmful alga Aureococcus anophagefferens outcompeted co-occurring phytoplankton in estuaries with elevated levels of dissolved organic matter and turbidity and low levels of dissolved inorganic nitrogen. We subsequently sequenced the genome of A. anophagefferens and compared its gene complement with those of six competing phytoplankton species identified through metaproteomics. Using an ecogenomic approach, we specifically focused on gene sets that may facilitate dominance within the environmental conditions present during blooms. A. anophagefferens possesses a larger genome (56 Mbp) and has more genes involved in light harvesting, organic carbon and nitrogen use, and encoding selenium- and metal-requiring enzymes than competing phytoplankton. Genes for the synthesis of microbial deterrents likely permit the proliferation of this species, with reduced mortality losses during blooms. Collectively, these findings suggest that anthropogenic activities resulting in elevated levels of turbidity, organic matter, and metals have opened a niche within coastal ecosystems that ideally suits the unique genetic capacity of A. anophagefferens and thus, has facilitated the proliferation of this and potentially other HABs.},
+author = {Gobler, Christopher J and Berry, Dianna L and Dyhrman, Sonya T and Wilhelm, Steven W and Salamov, Asaf and Lobanov, Alexei V and Zhang, Yan and Collier, Jackie L and Wurch, Louie L and Kustka, Adam B and Dill, Brian D and Shah, Manesh and VerBerkmoes, Nathan C and Kuo, Alan and Terry, Astrid and Pangilinan, Jasmyn and Lindquist, Erika a and Lucas, Susan and Paulsen, Ian T and Hattenrath-Lehmann, Theresa K and Talmage, Stephanie C and Walker, Elyse A and Koch, Florian and Burson, Amanda M and Marcoval, Maria Alejandra and Tang, Ying-Zhong and Lecleir, Gary R and Coyne, Kathryn J and Berg, Gry M and Bertrand, Erin M and Saito, Mak A and Gladyshev, Vadim N and Grigoriev, Igor V},
+doi = {10.1073/pnas.1016106108},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Gobler et al. - 2011 - Niche of Harmful Alga Aureococcus Anophagefferens Revealed Through Ecogenomics(3).pdf:pdf;:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Gobler et al. - 2011 - Niche of harmful alga Aureococcus anophagefferens revealed through ecogenomics(4).pdf:pdf},
+
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+keywords = {Amino Acid Sequence,Bacteria,Bacteria: metabolism,Bacteria: radiation effects,Biodegradation,Ecosystem,Environmental,Environmental: radiation effects,Enzymes,Enzymes: metabolism,Eukaryota,Eukaryota: enzymology,Eukaryota: genetics,Eutrophication,Genome,Genome: genetics,Genomics,Genomics: methods,Light,Phylogeny,Phytoplankton,Phytoplankton: genetics,Phytoplankton: radiation effects,Proteins,Proteins: chemistry,Species Specificity,comparative genomics,proteome},
+language = {en},
+mendeley-tags = {Eutrophication,Genomics,comparative genomics,proteome},
+month = mar,
+number = {11},
+pages = {4352--7},
+pmid = {21368207},
+title = {{Niche of harmful alga \textit{Aureococcus anophagefferens }revealed through ecogenomics.}},
+
+volume = {108},
+year = {2011}
 }
 @article{Villareal2007a,
 abstract = {The giant diatom Ethmodiscus was examined along an east–west transect at 28–30°N during 2002 and 2003 to determine if abundance, chemical composition or physiological status of this largest of diatoms varied on the scale of 100's–1000's of km in North Pacific gyre. Abundance ranged from \&lt;0.1–\&gt;2.0\&\#xa0;cells\&\#xa0;m−3 and supported the notion of an abundance mosaic reported previously. However, there was only minimal support for the relationship between abundance and nutrient concentration at 125\&\#xa0;m reported previously. Cellular chlorophyll varied little along the transect (7.3–10.9\&\#xa0;ng\&\#xa0;chl\&\#xa0;cell−1) except at the westernmost station. Cellular N and P quotas co-varied 3–4.5 fold (mean=50.8±3.7 and 3.7±0.8\&\#xa0;nmol N and P\&\#xa0;cell−1) and yielded N:P ratios that closely clustered around the Redfield ratio (average=14.6±1.1). Only low levels of chlorophyll-normalized alkaline phosphatase (APase) activity were observed (0.4–2.5\&\#xa0;nmol\&\#xa0;P\&\#xa0;$\mu$g\&\#xa0;chl−1\&\#xa0;h−1) with APase activity lower than that in either the bulk water, or co-occurring Trichodesmium spp. and Pyrocystis noctiluca. The active fluorescence parameter Fv:Fm, a property sensitive to Fe stress, was uniformly high at all stations (average=0.73±0.04 for 2003, and 0.69±0.05 for 2002), indicating sufficient Fe for optimum photosynthetic competence. These results contrasted sharply with results from Rhizosolenia mats reported along the same transect where there was a significant decline westward in Fv:Fm. Both ferredoxin (Fd) and flavodoxin accumulated in cells of Ethmodiscus, resulting in Fd Index values of\&lt;0.6. Iron cell quotas ranged from 0.7–5.1\&\#xa0;pmol\&\#xa0;Fe\&\#xa0;cell−1. When normalized to cytoplasmic volume, the Fe\&\#xa0;$\mu$m−3 was comparable to that of Escherichia coli. We note that the disproportionate contribution of the vacuole (with its high organic content) to total volume typical of large diatoms is a potentially significant source of error in Fe:C ratios and suggest that Fe should be normalized to cytoplasmic volume whenever possible to permit valid intercomparisons between studies. The composition, Fv:Fm data and Fe:C ratio suggest a relatively uniform population experiencing little N, P or Fe stress. The uncoupling of the Fd Index from these measures is consistent with previous findings showing that the expression of flavodoxin can be characterized as an early stress response and that its accumulation is not necessarily correlated with physiological deficit. Ethmodiscus appears to be well adapted to some of the most oligotrophic waters in the ocean. Because it is an important sedimentary marker, the biology of living Ethmodiscus provides insights into the source of extensive Ethmodiscus oozes. Mass sedimentation after frontal accumulation has been suggested as a source for these oozes. Our data contain no evidence that the flux is linked directly to Fe, N or P stress.},
@@ -3331,6 +3611,19 @@ title = {{Vitamin B12 and iron colimitation of phytoplankton growth in the Ross 
 
 volume = {52},
 year = {2007}
+}
+@article{Martin1994,
+author = {Martin, J. H. and Coale, K. H. and Johnson, K. S. and Fitzwater, S. E. and Gordon, R. M. and Tanner, S. J. and Hunter, C. N. and Elrod, V. A. and Nowicki, J. L. and Coley, T. L. and Barber, R. T. and Lindley, S. and Watson, A. J. and {Van Scoy}, K. and Law, C. S. and Liddicoat, M. I. and Ling, R. and Stanton, T. and Stockel, J. and Collins, C. and Anderson, A. and Bidigare, R. and Ondrusek, M. and Latasa, M. and Millero, F. J. and Lee, K. and Yao, W. and Zhang, J. Z. and Friederich, G. and Sakamoto, C. and Chavez, F. and Buck, K. and Kolber, Z. and Greene, R. and Falkowski, P. and Chisholm, S. W. and Hoge, F. and Swift, R. and Yungel, J. and Turner, S. and Nightingale, P. and Hatton, A. and Liss, P. and Tindale, N. W.},
+doi = {10.1038/371123a0},
+
+journal = {Nature},
+month = sep,
+number = {6493},
+pages = {123--129},
+title = {{Testing the iron hypothesis in ecosystems of the equatorial Pacific Ocean}},
+
+volume = {371},
+year = {1994}
 }
 @article{Smayda1974,
 abstract = {The surface waters of unpolluted lor Narragansett Bay were bioassayed over an annual cycle (n=36) with Thalassiosira pseudonana (13-1) at 16 different nutrient enrichments replicated three times. Omission of nitrogen usually markedly inhibited growth. This effect was followed in importance by adverse "water quality" properties associated with phytoplankton growth, which could be overcome by addition of the chelator EDTA in the presence of nitrogen and other elements. Silicon omission also limited growth. Limitation by omission of other nutrients was less pronounced. The following findings challenge the traditional view that phytoplankton growth is regulated by a specific limiting nutrient: seasonal variations in growth or yield limitation by a given nutrient occurred; the intensity of limitation by nutrients varied seasonally; several nutrients were usually limiting simultaneously, and with a different intensity; the combinations of limiting nutrients varied seasonally; a seasonal succession in type of nutrient limitation occurred. The results suggest that chemical changes in situ important to the occurrence, growth, and succession of phytoplankton species would not be detected by the routinely used nutrient and biological analyses.},
@@ -3806,6 +4099,24 @@ title = {{The implications of using an inappropriate reference gene for real-tim
 volume = {344},
 year = {2005}
 }
+@article{Marchetti2009,
+abstract = {Diatoms are a major group of phytoplankton that account for approximately 40\% of the ocean carbon fixation and the vast majority of biogenic silica production through the construction of their cell walls (termed frustules). These frustules accumulate and are partially preserved in the ocean sediments. Diatom growth and nutrient utilization in high-nitrate, low-chlorophyll regions of the world’s oceans are mostly regulated by iron availability. Diatoms acclimate to iron limitation by decreasing cell size. The associated increase in surface area-to-volume ratio and decrease in diffusive boundary layer thickness may improve nutrient uptake kinetics. In parallel, cellular silicon (Si) contents are elevated in iron-limited diatoms relative to nitrogen (N) and carbon (C). Variations in degree of silicification and nutritional requirements of iron-limited diatoms have been hypothesized to account for higher cellular Si and/or lower cellular N and C, respectively. However, in some diatoms, frustule silicification does not significantly change when cells are iron-limited. Instead, changes in the Si-containing valve surface area relative to volume within these diatoms is hypothesized to be responsible for the variations in the cellular Si : N and Si : C ratios. In particular, some examined iron-limited pennate diatoms have reduced widths relative to their lengths (i.e. lower length-normalized widths, LNW) compared to iron-replete cells. In the pennate diatom Fragilariopsis kerguelensis, the mean LNWs of valves preserved in sediments throughout the Southern Ocean (a well-characterized iron-limited region) is positively correlated with satellite-derived, climatological net primary productivity in the overlying waters. Because of the specific morphological changes in pennate diatom frustules in response to iron availability, the valve morphometerics (e.g. LNWs) can potentially be used as a diagnostic tool for iron-limited diatom growth and relative changes in the Si : N (and Si : C) ratios in extant diatom assemblages as well as those preserved in the sediments.},
+author = {Marchetti, A. and Cassar, N.},
+doi = {10.1111/j.1472-4669.2009.00207.x},
+
+journal = {Geobiology},
+keywords = {Folder - Studies with RT-PCR},
+language = {en},
+mendeley-tags = {Folder - Studies with RT-PCR},
+month = sep,
+number = {4},
+pages = {419--431},
+shorttitle = {Diatom elemental and morphological changes in resp},
+title = {{Diatom elemental and morphological changes in response to iron limitation: a brief review with potential paleoceanographic applications}},
+
+volume = {7},
+year = {2009}
+}
 @article{Flatt2008,
 abstract = {Ablation of germ-line precursor cells in Caenorhabditis elegans extends lifespan by activating DAF-16, a forkhead transcription factor (FOXO) repressed by insulin/insulin-like growth factor (IGF) signaling (IIS). Signals from the gonad might thus regulate whole-organism aging by modulating IIS. To date, the details of this systemic regulation of aging by the reproductive system are not understood, and it is unknown whether such effects are evolutionarily conserved. Here we report that eliminating germ cells (GCs) in Drosophila melanogaster increases lifespan and modulates insulin signaling. Long-lived germ-line-less flies show increased production of Drosophila insulin-like peptides (dilps) and hypoglycemia but simultaneously exhibit several characteristics of IIS impedance, as indicated by up-regulation of the Drosophila FOXO (dFOXO) target genes 4E-BP and l (2)efl and the insulin/IGF-binding protein IMP-L2. These results suggest that signals from the gonad regulate lifespan and modulate insulin sensitivity in the fly and that the gonadal regulation of aging is evolutionarily conserved.},
 author = {Flatt, Thomas and Min, Kyung-Jin and D'Alterio, Cecilia and Villa-Cuesta, Eugenia and Cumbers, John and Lehmann, Ruth and Jones, D. Leanne and Tatar, Marc},
@@ -3941,6 +4252,23 @@ number = {2},
 pages = {195--207},
 title = {{Characterization of a modular, cell-surface, protein and identification of a new gene family in the diatom \textit{Thalassiosira pseudonana}}},
 volume = {159},
+year = {2008}
+}
+@article{Marchetti2009a,
+abstract = {Primary productivity in 30–40\% of the world's oceans is limited by availability of the micronutrient iron. Regions with chronically low iron concentrations are sporadically pulsed with new iron inputs by way of dust or lateral advection from continental margins. Addition of iron to surface waters in these areas induces massive phytoplankton blooms dominated primarily by pennate diatoms. Here we provide evidence that the bloom-forming pennate diatoms Pseudo-nitzschia and Fragilariopsis use the iron-concentrating protein, ferritin, to safely store iron. Ferritin has not been reported previously in any member of the Stramenopiles, a diverse eukaryotic lineage that includes unicellular algae, macroalgae and plant parasites. Phylogenetic analyses suggest that ferritin may have arisen in this small subset of diatoms through a lateral gene transfer. The crystal structure and functional assays of recombinant ferritin derived from Pseudo-nitzschia multiseries reveal a maxi-ferritin that exhibits ferroxidase activity and binds iron. The protein is predicted to be targeted to the chloroplast to control the distribution and storage of iron for proper functioning of the photosynthetic machinery. Abundance of Pseudo-nitzschia ferritin transcripts is regulated by iron nutritional status, and is closely tied to the loss and recovery of photosynthetic competence. Enhanced iron storage with ferritin allows the oceanic diatom Pseudo-nitzschia granii to undergo several more cell divisions in the absence of iron than the comparably sized, oceanic centric diatom Thalassiosira oceanica. Ferritin in pennate diatoms probably contributes to their success in chronically low-iron regions that receive intermittent iron inputs, and provides an explanation for the importance of these organisms in regulating oceanic CO2 over geological timescales.},
+author = {Marchetti, Adrian and Parker, Micaela S. and Moccia, Lauren P. and Lin, Ellen O. and Arrieta, Angele L. and Ribalet, Francois and Murphy, Michael E. P. and Maldonado, Maria T. and Armbrust, E. Virginia},
+doi = {10.1038/nature07539},
+
+journal = {Nature},
+keywords = {Climate change,DNA,Evolution,Folder - Studies with RT-PCR,Genomics,Marine Biology,Nature,RNA,Signal Transduction,astronomy,astrophysics,biochemistry,bioinformatics,biology,biotechnology,cancer,cell cycle,cell signalling,computational biology,development,developmental biology,drug discovery,earth science,ecology,environmental science,evolutionary biology,functional genomics,genetics,geophysics,immunology,interdisciplinary science,life,materials science,medical research,medicine,metabolomics,molecular biology,molecular interactions,nanotechnology,neurobiology,neuroscience,palaeobiology,pharmacology,physics,proteomics,quantum physics,science,science news,science policy,structural biology,systems biology,transcriptomics},
+language = {en},
+mendeley-tags = {Climate change,DNA,Evolution,Folder - Studies with RT-PCR,Genomics,Marine Biology,Nature,RNA,Signal Transduction,astronomy,astrophysics,biochemistry,bioinformatics,biology,biotechnology,cancer,cell cycle,cell signalling,computational biology,development,developmental biology,drug discovery,earth science,ecology,environmental science,evolutionary biology,functional genomics,genetics,geophysics,immunology,interdisciplinary science,life,materials science,medical research,medicine,metabolomics,molecular biology,molecular interactions,nanotechnology,neurobiology,neuroscience,palaeobiology,pharmacology,physics,proteomics,quantum physics,science,science news,science policy,structural biology,systems biology,transcriptomics},
+month = nov,
+number = {7228},
+pages = {467--470},
+title = {{Ferritin is used for iron storage in bloom-forming marine pennate diatoms}},
+
+volume = {457},
 year = {2008}
 }
 @article{Marchetti2005,
@@ -4601,6 +4929,23 @@ title = {{Analysis of relative gene expression using real-time quantitative PCR 
 volume = {25},
 year = {2001}
 }
+@article{Frias-Lopez2008,
+abstract = {Metagenomics is expanding our knowledge of the gene content, functional significance, and genetic variability in natural microbial communities. Still, there exists limited information concerning the regulation and dynamics of genes in the environment. We report here global analysis of expressed genes in a naturally occurring microbial community. We first adapted RNA amplification technologies to produce large amounts of cDNA from small quantities of total microbial community RNA. The fidelity of the RNA amplification procedure was validated with Prochlorococcus cultures and then applied to a microbial assemblage collected in the oligotrophic Pacific Ocean. Microbial community cDNAs were analyzed by pyrosequencing and compared with microbial community genomic DNA sequences determined from the same sample. Pyrosequencing-based estimates of microbial community gene expression compared favorably to independent assessments of individual gene expression using quantitative PCR. Genes associated with key metabolic pathways in open ocean microbial species—including genes involved in photosynthesis, carbon fixation, and nitrogen acquisition—and a number of genes encoding hypothetical proteins were highly represented in the cDNA pool. Genes present in the variable regions of Prochlorococcus genomes were among the most highly expressed, suggesting these encode proteins central to cellular processes in specific genotypes. Although many transcripts detected were highly similar to genes previously detected in ocean metagenomic surveys, a significant fraction (≈50\%) were unique. Thus, microbial community transcriptomic analyses revealed not only indigenous gene- and taxon-specific expression patterns but also gene categories undetected in previous DNA-based metagenomic surveys.},
+author = {Frias-Lopez, Jorge and Shi, Yanmei and Tyson, Gene W. and Coleman, Maureen L. and Schuster, Stephan C. and Chisholm, Sallie W. and DeLong, Edward F.},
+doi = {10.1073/pnas.0708897105},
+file = {:Users/harrietalexander/Library/Application Support/Mendeley Desktop/Downloaded/Frias-Lopez et al. - 2008 - Microbial community gene expression in ocean surface waters(2).pdf:pdf},
+
+journal = {Proceedings of the National Academy of Sciences},
+keywords = {Folder - Proposal},
+mendeley-tags = {Folder - Proposal},
+month = mar,
+number = {10},
+pages = {3805--3810},
+title = {{Microbial community gene expression in ocean surface waters}},
+
+volume = {105},
+year = {2008}
+}
 @article{McCarren2010,
 abstract = {Marine dissolved organic matter (DOM) contains as much carbon as the Earth's atmosphere, and represents a critical component of the global carbon cycle. To better define microbial processes and activities associated with marine DOM cycling, we analyzed genomic and transcriptional responses of microbial communities to high-molecular-weight DOM (HMWDOM) addition. The cell density in the unamended control remained constant, with very few transcript categories exhibiting significant differences over time. In contrast, the DOM-amended microcosm doubled in cell numbers over 27 h, and a variety of HMWDOM-stimulated transcripts from different taxa were observed at all time points measured relative to the control. Transcripts significantly enriched in the HMWDOM treatment included those associated with two-component sensor systems, phosphate and nitrogen assimilation, chemotaxis, and motility. Transcripts from Idiomarina and Alteromonas spp., the most highly represented taxa at the early time points, included those encoding TonB-associated transporters, nitrogen assimilation genes, fatty acid catabolism genes, and TCA cycle enzymes. At the final time point, Methylophaga rRNA and non-rRNA transcripts dominated the HMWDOM-amended microcosm, and included gene transcripts associated with both assimilatory and dissimilatory single-carbon compound utilization. The data indicated specific resource partitioning of DOM by different bacterial species, which results in a temporal succession of taxa, metabolic pathways, and chemical transformations associated with HMWDOM turnover. These findings suggest that coordinated, cooperative activities of a variety of bacterial "specialists" may be critical in the cycling of marine DOM, emphasizing the importance of microbial community dynamics in the global carbon cycle.},
 author = {McCarren, Jay and Becker, Jamie W. and Repeta, Daniel J. and Shi, Yanmei and Young, Curtis R. and Malmstrom, Rex R. and Chisholm, Sallie W. and DeLong, Edward F.},
@@ -4632,6 +4977,19 @@ title = {{Temporal variability of phytoplankton community structure based on pig
 volume = {38},
 year = {1993}
 }
+@article{Falkowski2004,
+abstract = {The community structure and ecological function of contemporary marine ecosystems are critically dependent on eukaryotic phytoplankton. Although numerically inferior to cyanobacteria, these organisms are responsible for the majority of the flux of organic matter to higher trophic levels and the ocean interior. Photosynthetic eukaryotes evolved more than 1.5 billion years ago in the Proterozoic oceans. However, it was not until the Mesozoic Era (251 to 65 million years ago) that the three principal phytoplankton clades that would come to dominate the modern seas rose to ecological prominence. In contrast to their pioneering predecessors, the dinoflagellates, coccolithophores, and diatoms all contain plastids derived from an ancestral red alga by secondary symbiosis. Here we examine the geological, geochemical, and biological processes that contributed to the rise of these three, distantly related, phytoplankton groups.},
+author = {Falkowski, Paul G. and Katz, Miriam E. and Knoll, Andrew H. and Quigg, Antonietta and Raven, John A. and Schofield, Oscar and Taylor, F. J. R.},
+doi = {10.1126/science.1095964},
+journal = {Science},
+month = jul,
+number = {5682},
+pages = {354--360},
+title = {{The evolution of modern eukaryotic phytoplankton}},
+
+volume = {305},
+year = {2004}
+}
 @article{Hutchinson1961,
 author = {Hutchinson, G. E.},
 doi = {10.1086/282171},
@@ -4644,6 +5002,21 @@ title = {{The Paradox of the Plankton}},
 
 volume = {95},
 year = {1961}
+}
+@article{Worden2009,
+abstract = {Picoeukaryotes are a taxonomically diverse group of organisms less than 2 micrometers in diameter. Photosynthetic marine picoeukaryotes in the genus Micromonas thrive in ecosystems ranging from tropical to polar and could serve as sentinel organisms for biogeochemical fluxes of modern oceans during climate change. These broadly distributed primary producers belong to an anciently diverged sister clade to land plants. Although Micromonas isolates have high 18S ribosomal RNA gene identity, we found that genomes from two isolates shared only 90\% of their predicted genes. Their independent evolutionary paths were emphasized by distinct riboswitch arrangements as well as the discovery of intronic repeat elements in one isolate, and in metagenomic data, but not in other genomes. Divergence appears to have been facilitated by selection and acquisition processes that actively shape the repertoire of genes that are mutually exclusive between the two isolates differently than the core genes. Analyses of the Micromonas genomes offer valuable insights into ecological differentiation and the dynamic nature of early plant evolution.},
+author = {Worden, Alexandra Z. and Lee, Jae-Hyeok and Mock, Thomas and Rouze, Pierre and Simmons, Melinda P. and Aerts, Andrea L. and Allen, Andrew E. and Cuvelier, Marie L. and Derelle, Evelyne and Everett, Meredith V. and Foulon, Elodie and Grimwood, Jane and Gundlach, Heidrun and Henrissat, Bernard and Napoli, Carolyn and McDonald, Sarah M. and Parker, Micaela S. and Rombauts, Stephane and Salamov, Aasf and {Von Dassow}, Peter and Badger, Jonathan H. and Coutinho, Pedro M. and Demir, Elif and Dubchak, Inna and Gentemann, Chelle and Eikrem, Wenche and Gready, Jill E. and John, Uwe and Lanier, William and Lindquist, Erika A. and Lucas, Susan and Mayer, Klaus F. X. and Moreau, Herve and Not, Fabrice and Otillar, Robert and Panaud, Olivier and Pangilinan, Jasmyn and Paulsen, Ian and Piegu, Benoit and Poliakov, Aaron and Robbens, Steven and Schmutz, Jeremy and Toulza, Eve and Wyss, Tania and Zelensky, Alexander and Zhou, Kemin and Armbrust, E. Virginia and Bhattacharya, Debashish and Goodenough, Ursula W. and {Van de Peer}, Yves and Grigoriev, Igor V.},
+doi = {10.1126/science.1167222},
+journal = {Science},
+keywords = {Folder - Literature\_Review},
+mendeley-tags = {Folder - Literature\_Review},
+month = apr,
+number = {5924},
+pages = {268--272},
+title = {{Green evolution and dynamic adaptations revealed by genomes of the marine picoeukaryotes \textit{Micromonas }}},
+
+volume = {324},
+year = {2009}
 }
 @article{Huisman1999,
 author = {Huisman, Jef and Weissing, FJ},

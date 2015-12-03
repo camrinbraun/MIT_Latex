@@ -1,4 +1,4 @@
-\begin{thebibliography}{254}
+\begin{thebibliography}{277}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -63,6 +63,16 @@ Allen, A.~E., Laroche, J., Maheswari, U., Lommer, M., Schauer, N., Lopez,
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 105\penalty0 (30):\penalty0 10438--43, July 2008.
 \newblock \doi{10.1073/pnas.0711370105}.
+
+\bibitem[Allen et~al.(2011)Allen, Dupont, Oborn\'{\i}k, Hor\'{a}k, Nunes-Nesi,
+  McCrow, Zheng, Johnson, Hu, Fernie, and Bowler]{Allen2011}
+Allen, A.~E., Dupont, C.~L., Oborn\'{\i}k, M., Hor\'{a}k, A., Nunes-Nesi, A.,
+  McCrow, J.~P., Zheng, H., Johnson, D.~A., Hu, H., Fernie, A.~R., and Bowler,
+  C.
+\newblock {Evolution and metabolic significance of the urea cycle in
+  photosynthetic diatoms.}
+\newblock \emph{Nature}, 473\penalty0 (7346):\penalty0 203--7, May 2011.
+\newblock \doi{10.1038/nature10074}.
 
 \bibitem[Altschul et~al.(1997)Altschul, Madden, Sch\"{a}ffer, Zhang, Zhang,
   Miller, and Lipman]{Altschul1997}
@@ -404,6 +414,11 @@ Coker, J.~S. and Davies, E.
 \newblock \emph{BioTechniques}, 35\penalty0 (4):\penalty0 740--742, 744, 746
   passim, October 2003.
 
+\bibitem[Conley(2002)]{Conley2002}
+Conley, D.
+\newblock {Terrestrial ecosystems and the global biogeochemical silica cycle}.
+\newblock \emph{Global Biogeochemical Cycles}, 2002.
+
 \bibitem[Connel and Connell(1980)]{Connel1980}
 Connel, J. and Connell, J.
 \newblock {Diversity and the coevolution of competitors, or the ghost of
@@ -417,6 +432,17 @@ Cort\'{e}s, M. Y.~M., Bollmann, J., and Thierstein, H. H.~R.
 \newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
   48\penalty0 (8-9):\penalty0 1957--1981, January 2001.
 \newblock \doi{10.1016/S0967-0645(00)00165-X}.
+
+\bibitem[Costello et~al.(2013)Costello, Bouchet, Boxshall, Fauchald, Gordon,
+  Hoeksema, Poore, van Soest, St\"{o}hr, Walter, Vanhoorne, Decock, and
+  Appeltans]{Costello2013}
+Costello, M.~J., Bouchet, P., Boxshall, G., Fauchald, K., Gordon, D., Hoeksema,
+  B.~W., Poore, G. C.~B., van Soest, R. W.~M., St\"{o}hr, S., Walter, T.~C.,
+  Vanhoorne, B., Decock, W., and Appeltans, W.
+\newblock {Global coordination and standardisation in marine biodiversity
+  through the World Register of Marine Species (WoRMS) and related databases.}
+\newblock \emph{PloS one}, 8\penalty0 (1):\penalty0 e51629, January 2013.
+\newblock \doi{10.1371/journal.pone.0051629}.
 
 \bibitem[Czechowski et~al.(2005)Czechowski, Stitt, Altmann, Udvardi, and
   Scheible]{Czechowski2005}
@@ -537,6 +563,16 @@ Dupont, C.~L., McCrow, J.~P., Valas, R., Moustafa, A., Walworth, N.,
 \newblock \emph{The ISME Journal}, 9\penalty0 (5):\penalty0 1076--92, May 2015.
 \newblock \doi{10.1038/ismej.2014.198}.
 
+\bibitem[Durham et~al.(2015)Durham, Sharma, Luo, Smith, Amin, Bender, Dearth,
+  {Van Mooy}, Campagna, Kujawinski, Armbrust, and Moran]{Durham2015}
+Durham, B.~P., Sharma, S., Luo, H., Smith, C.~B., Amin, S.~A., Bender, S.~J.,
+  Dearth, S.~P., {Van Mooy}, B. A.~S., Campagna, S.~R., Kujawinski, E.~B.,
+  Armbrust, E.~V., and Moran, M.~A.
+\newblock {Cryptic carbon and sulfur cycling between surface ocean plankton.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 112\penalty0 (2):\penalty0 453--7, January 2015.
+\newblock \doi{10.1073/pnas.1413137112}.
+
 \bibitem[Dyhrman and Anderson(2003)]{Dyhrman2003a}
 Dyhrman, S.~T. and Anderson, D.~M.
 \newblock {Urease activity in cultures and field populations of the toxic
@@ -591,6 +627,14 @@ Elton, C.~S.
 \newblock ISBN 978-0-412-11430-4.
 \newblock \doi{10.1007/978-1-4899-7214-9}.
 
+\bibitem[Falkowski et~al.(2004)Falkowski, Katz, Knoll, Quigg, Raven, Schofield,
+  and Taylor]{Falkowski2004}
+Falkowski, P.~G., Katz, M.~E., Knoll, A.~H., Quigg, A., Raven, J.~A.,
+  Schofield, O., and Taylor, F. J.~R.
+\newblock {The evolution of modern eukaryotic phytoplankton}.
+\newblock \emph{Science}, 305\penalty0 (5682):\penalty0 354--360, July 2004.
+\newblock \doi{10.1126/science.1095964}.
+
 \bibitem[Feng et~al.(2008)Feng, Warner, Zhang, Sun, Fu, Rose, and
   Hutchins]{Feng2008}
 Feng, Y., Warner, M.~E., Zhang, Y., Sun, J., Fu, F.-X., Rose, J.~M., and
@@ -610,6 +654,16 @@ Field, C.~B., Behrenfeld, M.~J., Randerson, J.~T., and Falkowski, P.~G.
 \newblock \emph{Science (New York, N.Y.)}, 281\penalty0 (5374):\penalty0
   237--240, July 1998.
 \newblock \doi{10.1126/science.281.5374.237}.
+
+\bibitem[Finkel et~al.(2010)Finkel, Beardall, Flynn, Quigg, Rees, and
+  Raven]{Finkel2010}
+Finkel, Z.~V., Beardall, J., Flynn, K.~J., Quigg, A., Rees, T. A.~V., and
+  Raven, J.~A.
+\newblock {Phytoplankton in a changing world: cell size and elemental
+  stoichiometry}.
+\newblock \emph{Journal of Plankton Research}, 32\penalty0 (1):\penalty0
+  119--137, January 2010.
+\newblock \doi{10.1093/plankt/fbp098}.
 
 \bibitem[Flatt et~al.(2008)Flatt, Min, D'Alterio, Villa-Cuesta, Cumbers,
   Lehmann, Jones, and Tatar]{Flatt2008}
@@ -660,6 +714,15 @@ Frada, M.~J., Bidle, K.~D., Probert, I., and de~Vargas, C.
 \newblock \emph{Environmental microbiology}, 14\penalty0 (6):\penalty0
   1558--69, June 2012.
 \newblock \doi{10.1111/j.1462-2920.2012.02745.x}.
+
+\bibitem[Frias-Lopez et~al.(2008)Frias-Lopez, Shi, Tyson, Coleman, Schuster,
+  Chisholm, and DeLong]{Frias-Lopez2008}
+Frias-Lopez, J., Shi, Y., Tyson, G.~W., Coleman, M.~L., Schuster, S.~C.,
+  Chisholm, S.~W., and DeLong, E.~F.
+\newblock {Microbial community gene expression in ocean surface waters}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 105\penalty0
+  (10):\penalty0 3805--3810, March 2008.
+\newblock \doi{10.1073/pnas.0708897105}.
 
 \bibitem[Frischkorn et~al.(2014)Frischkorn, Harke, Gobler, and
   Dyhrman]{Frischkorn2014}
@@ -725,6 +788,24 @@ Gifford, S.~M., Sharma, S., Booth, M., and Moran, M.~A.
   2013.
 \newblock \doi{10.1038/ismej.2012.96}.
 
+\bibitem[Gobler et~al.(2011)Gobler, Berry, Dyhrman, Wilhelm, Salamov, Lobanov,
+  Zhang, Collier, Wurch, Kustka, Dill, Shah, VerBerkmoes, Kuo, Terry,
+  Pangilinan, Lindquist, Lucas, Paulsen, Hattenrath-Lehmann, Talmage, Walker,
+  Koch, Burson, Marcoval, Tang, Lecleir, Coyne, Berg, Bertrand, Saito,
+  Gladyshev, and Grigoriev]{Gobler2011a}
+Gobler, C.~J., Berry, D.~L., Dyhrman, S.~T., Wilhelm, S.~W., Salamov, A.,
+  Lobanov, A.~V., Zhang, Y., Collier, J.~L., Wurch, L.~L., Kustka, A.~B., Dill,
+  B.~D., Shah, M., VerBerkmoes, N.~C., Kuo, A., Terry, A., Pangilinan, J.,
+  Lindquist, E.~a., Lucas, S., Paulsen, I.~T., Hattenrath-Lehmann, T.~K.,
+  Talmage, S.~C., Walker, E.~A., Koch, F., Burson, A.~M., Marcoval, M.~A.,
+  Tang, Y.-Z., Lecleir, G.~R., Coyne, K.~J., Berg, G.~M., Bertrand, E.~M.,
+  Saito, M.~A., Gladyshev, V.~N., and Grigoriev, I.~V.
+\newblock {Niche of harmful alga \textit{Aureococcus anophagefferens }revealed
+  through ecogenomics.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 108\penalty0 (11):\penalty0 4352--7, March 2011.
+\newblock \doi{10.1073/pnas.1016106108}.
+
 \bibitem[Green et~al.(1996)Green, Course, and Tarran]{Green1996}
 Green, J., Course, P., and Tarran, G.
 \newblock {The life-cycle of \textit{Emiliania huxleyi}: A brief review and a
@@ -772,6 +853,12 @@ Halary, S., McInerney, J.~O., Lopez, P., and Bapteste, E.
 \newblock \emph{BMC evolutionary biology}, 13\penalty0 (1):\penalty0 146,
   January 2013.
 \newblock \doi{10.1186/1471-2148-13-146}.
+
+\bibitem[Hardin(1960)]{Hardin1960}
+Hardin, G.
+\newblock {The competitive exclusion principle}.
+\newblock \emph{Science}, 131\penalty0 (3409):\penalty0 1292--1297, April 1960.
+\newblock \doi{10.1126/science.131.3409.1292}.
 
 \bibitem[Hartigan and Wong(1979)]{Hartigan1979}
 Hartigan, J.~A. and Wong, M.~A.
@@ -873,6 +960,14 @@ Iglesias-Rodriguez, M.~D., Halloran, P.~R., Rickaby, R. E.~M., Hall, I.~R.,
   336--40, April 2008.
 \newblock \doi{10.1126/science.1154122}.
 
+\bibitem[Jeong et~al.(2010)Jeong, Yoo, Kim, Seong, Kang, and Kim]{Jeong2010}
+Jeong, H.~J., Yoo, Y.~D., Kim, J.~S., Seong, K.~A., Kang, N.~S., and Kim, T.~H.
+\newblock {Growth, feeding and ecological roles of the mixotrophic and
+  heterotrophic dinoflagellates in marine planktonic food webs}.
+\newblock \emph{Ocean Science Journal}, 45\penalty0 (2):\penalty0 65--91, July
+  2010.
+\newblock \doi{10.1007/s12601-010-0007-2}.
+
 \bibitem[Johnson et~al.(2006)Johnson, Zinser, Coe, McNulty, Woodward, and
   Chisholm]{Johnson2006b}
 Johnson, Z.~I., Zinser, E.~R., Coe, A., McNulty, N.~P., Woodward, E. M.~S., and
@@ -959,6 +1054,13 @@ Kashtan, N., Roggensack, S.~E., Rodrigue, S., Thompson, J.~W., Biller, S.~J.,
   416--20, May 2014.
 \newblock \doi{10.1126/science.1248575}.
 
+\bibitem[Katz et~al.(2004)Katz, Finkel, and Grzebyk]{Katz2004}
+Katz, M., Finkel, Z., and Grzebyk, D.
+\newblock {Evolutionary trajectories and biogeochemical impacts of marine
+  eukaryotic phytoplankton}.
+\newblock \emph{Annual Review of Ecology, Evolution, and Systematics},
+  35:\penalty0 523--556, 2004.
+
 \bibitem[Keeling et~al.(2005)Keeling, Burger, Durnford, Lang, Lee, Pearlman,
   Roger, and Gray]{Keeling2005}
 Keeling, P.~J., Burger, G., Durnford, D.~G., Lang, B.~F., Lee, R.~W., Pearlman,
@@ -1034,6 +1136,12 @@ Kustka, A.~B., Allen, A.~E., and Morel, F. M.~M.
 \newblock \emph{Journal of Phycology}, 43\penalty0 (4):\penalty0 715--729,
   August 2007.
 \newblock \doi{10.1111/j.1529-8817.2007.00359.x}.
+
+\bibitem[Lakeman et~al.(2009)Lakeman, von Dassow, and Cattolico]{Lakeman2009}
+Lakeman, M.~B., von Dassow, P., and Cattolico, R.~A.
+\newblock {The strain concept in phytoplankton ecology}.
+\newblock \emph{Harmful Algae}, 8\penalty0 (5):\penalty0 746--758, June 2009.
+\newblock \doi{10.1016/j.hal.2008.11.011}.
 
 \bibitem[Langer et~al.(2009)Langer, Nehrke, Probert, Ly, and
   Ziveri]{Langer2009}
@@ -1176,6 +1284,15 @@ Litchman, E. and Klausmeier, C.~A.
   39\penalty0 (1):\penalty0 615--639, 2008.
 \newblock \doi{10.1146/annurev.ecolsys.39.110707.173549}.
 
+\bibitem[Litchman et~al.(2007)Litchman, Klausmeier, Schofield, and
+  Falkowski]{Litchman2007}
+Litchman, E., Klausmeier, C.~a., Schofield, O.~M., and Falkowski, P.~G.
+\newblock {The role of functional traits and trade-offs in structuring
+  phytoplankton communities: scaling from cellular to ecosystem level.}
+\newblock \emph{Ecology letters}, 10\penalty0 (12):\penalty0 1170--81, December
+  2007.
+\newblock \doi{10.1111/j.1461-0248.2007.01117.x}.
+
 \bibitem[Livak and Schmittgen(2001)]{Livak2001}
 Livak, K.~J. and Schmittgen, T.~D.
 \newblock {Analysis of relative gene expression using real-time quantitative
@@ -1192,6 +1309,17 @@ Lohse, M., Bolger, A.~M., Nagel, A., Fernie, A.~R., Lunn, J.~E., Stitt, M., and
 \newblock \emph{Nucleic Acids Research}, 40\penalty0 (W1):\penalty0 W622--W627,
   June 2012.
 \newblock \doi{10.1093/nar/gks540}.
+
+\bibitem[Lommer et~al.(2012)Lommer, Specht, Roy, Kraemer, Andreson, Gutowska,
+  Wolf, Bergner, Schilhabel, Klostermeier, Beiko, Rosenstiel, Hippler, and
+  Laroche]{Lommer2012}
+Lommer, M., Specht, M., Roy, A.-S., Kraemer, L., Andreson, R., Gutowska, M.~A.,
+  Wolf, J., Bergner, S.~V., Schilhabel, M.~B., Klostermeier, U.~C., Beiko,
+  R.~G., Rosenstiel, P., Hippler, M., and Laroche, J.
+\newblock {Genome and low-iron response of an oceanic diatom adapted to chronic
+  iron limitation.}
+\newblock \emph{Genome biology}, 13\penalty0 (7):\penalty0 R66, July 2012.
+\newblock \doi{10.1186/gb-2012-13-7-r66}.
 
 \bibitem[Longhurst et~al.(1995)Longhurst, Sathyendranath, Platt, and
   Caverhill]{Longhurst1995}
@@ -1260,6 +1388,25 @@ Marchetti, A., Varela, D.~E., Lance, V.~P., Johnson, Z., Palmucci, M., Giordan,
 \newblock \emph{Limnology and Oceanography}, 55\penalty0 (1):\penalty0 11--29,
   2005.
 
+\bibitem[Marchetti et~al.(2006)Marchetti, Maldonado, Lane, and
+  Harrison]{Marchetti2006}
+Marchetti, A., Maldonado, M.~T., Lane, E.~S., and Harrison, P.~J.
+\newblock {Iron requirements of the pennate diatom \textit{Pseudo-nitzschia}:
+  Comparison of oceanic (high-nitrate, low-chlorophyll waters) and coastal
+  species}.
+\newblock \emph{Limnology and Oceanography}, 51\penalty0 (5):\penalty0
+  2092--2101, 2006.
+\newblock \doi{10.4319/lo.2006.51.5.2092}.
+
+\bibitem[Marchetti et~al.(2008)Marchetti, Parker, Moccia, Lin, Arrieta,
+  Ribalet, Murphy, Maldonado, and Armbrust]{Marchetti2009a}
+Marchetti, A., Parker, M.~S., Moccia, L.~P., Lin, E.~O., Arrieta, A.~L.,
+  Ribalet, F., Murphy, M. E.~P., Maldonado, M.~T., and Armbrust, E.~V.
+\newblock {Ferritin is used for iron storage in bloom-forming marine pennate
+  diatoms}.
+\newblock \emph{Nature}, 457\penalty0 (7228):\penalty0 467--470, November 2008.
+\newblock \doi{10.1038/nature07539}.
+
 \bibitem[Marchetti et~al.(2012)Marchetti, Schruth, Durkin, Parker, Kodner,
   Berthiaume, Morales, Allen, and Armbrust]{Marchetti2012a}
 Marchetti, A., Schruth, D.~M., Durkin, C.~a., Parker, M.~S., Kodner, R.~B.,
@@ -1281,6 +1428,12 @@ Margalef, R.
 \newblock {Life-forms of phytoplankton as survival alternatives in an unstable
   environment}.
 \newblock \emph{Oceanologica Acta}, 1\penalty0 (4):\penalty0 493--509, 1978.
+
+\bibitem[Margulis(1971)]{Margulis1971}
+Margulis, L.
+\newblock {The origin of plant and animal cells}.
+\newblock \emph{American Scientist}, 59\penalty0 (2):\penalty0 230--235, 1971.
+\newblock \doi{10.2307/27829542}.
 
 \bibitem[Marionneau et~al.(2005)Marionneau, Couette, Liu, Li, Mangoni, Nargeot,
   Lei, Escande, and Demolombe]{Marionneau2005}
@@ -1409,12 +1562,12 @@ Mock, T., Samanta, M.~P., Iverson, V., Berthiaume, C., Robison, M., Holtermann,
   States of America}, 105\penalty0 (5):\penalty0 1579--84, February 2008.
 \newblock \doi{10.1073/pnas.0707946105}.
 
-\bibitem[Moore(2004)]{Moore2004}
-Moore, J.~K.
+\bibitem[Moore et~al.(2004)Moore, Doney, and Lindsay]{Moore2004}
+Moore, J.~K., Doney, S.~C., and Lindsay, K.
 \newblock {Upper ocean ecosystem dynamics and iron cycling in a global
   three-dimensional model}.
-\newblock \emph{Global Biogeochemical Cycles}, 18\penalty0 (4):\penalty0 1--21,
-  2004.
+\newblock \emph{Global Biogeochemical Cycles}, 18\penalty0 (4):\penalty0
+  n/a--n/a, December 2004.
 \newblock \doi{10.1029/2004GB002220}.
 
 \bibitem[Moriya et~al.(2007)Moriya, Itoh, Okuda, Yoshizawa, and
@@ -1492,6 +1645,15 @@ North, B.~B. and Stephens, G.~C.
   1972.
 \newblock \doi{10.1111/j.1529-8817.1972.tb04003.x}.
 
+\bibitem[Nunn et~al.(2013)Nunn, Faux, Hippmann, Maldonado, Harvey, Goodlett,
+  Boyd, and Strzepek]{Nunn2013}
+Nunn, B.~L., Faux, J.~F., Hippmann, A.~A., Maldonado, M.~T., Harvey, H.~R.,
+  Goodlett, D.~R., Boyd, P.~W., and Strzepek, R.~F.
+\newblock {Diatom proteomics reveals unique acclimation strategies to mitigate
+  Fe limitation.}
+\newblock \emph{PloS one}, 8\penalty0 (10):\penalty0 e75653, January 2013.
+\newblock \doi{10.1371/journal.pone.0075653}.
+
 \bibitem[Ogawa et~al.(2000)Ogawa, DeRisi, and Brown]{Ogawa2000}
 Ogawa, N., DeRisi, J., and Brown, P.~O.
 \newblock {New components of a system for phosphate accumulation and
@@ -1518,6 +1680,16 @@ Ottesen, E.~A., Marin, R., Preston, C.~M., Young, C.~R., Ryan, J.~P., Scholin,
 \newblock \emph{The ISME Journal}, 5\penalty0 (12):\penalty0 1881--95, December
   2011.
 \newblock \doi{10.1038/ismej.2011.70}.
+
+\bibitem[Ottesen et~al.(2013)Ottesen, Young, Eppley, Ryan, Chavez, Scholin, and
+  DeLong]{Ottesen2013}
+Ottesen, E.~A., Young, C.~R., Eppley, J.~M., Ryan, J.~P., Chavez, F.~P.,
+  Scholin, C.~A., and DeLong, E.~F.
+\newblock {Pattern and synchrony of gene expression among sympatric marine
+  microbial populations.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 110\penalty0 (6):\penalty0 E488--97, February 2013.
+\newblock \doi{10.1073/pnas.1222099110}.
 
 \bibitem[Ottesen et~al.(2014)Ottesen, Young, Gifford, Eppley, Marin, Schuster,
   Scholin, and DeLong]{Ottesen2014}
@@ -1774,9 +1946,10 @@ Rosic, N.~N., Pernice, M., Rodriguez-Lanetty, M., and Hoegh-Guldberg, O.
 \bibitem[Rouco et~al.(2013)Rouco, Branson, Lebrato, and
   Iglesias-Rodr\'{\i}guez]{Rouco2013}
 Rouco, M., Branson, O., Lebrato, M., and Iglesias-Rodr\'{\i}guez, M.~D.
-\newblock {The effect of nitrate and phosphate availability on Emiliania
-  huxleyi (NZEH) physiology under different {CO}\textsubscript{2} scenarios.}
-\newblock \emph{Frontiers in microbiology}, 4:\penalty0 155, January 2013.
+\newblock {The effect of nitrate and phosphate availability on
+  \textit{Emiliania huxleyi} (NZEH) physiology under different
+  {CO}\textsubscript{2} scenarios}.
+\newblock \emph{Frontiers in Microbiology}, 4:\penalty0 155, January 2013.
 \newblock \doi{10.3389/fmicb.2013.00155}.
 
 \bibitem[Roy and Chattopadhyay(2007)]{Roy2007}
@@ -2053,6 +2226,14 @@ Swalwell, J.~E., Ribalet, F., and Armbrust, E.~V.
   2011.
 \newblock \doi{10.4319/lom.2011.9.466}.
 
+\bibitem[Taft et~al.(2007)Taft, Pheasant, and Mattick]{Taft2007}
+Taft, R.~J., Pheasant, M., and Mattick, J.~S.
+\newblock {The relationship between non-protein-coding DNA and eukaryotic
+  complexity.}
+\newblock \emph{BioEssays : news and reviews in molecular, cellular and
+  developmental biology}, 29\penalty0 (3):\penalty0 288--99, March 2007.
+\newblock \doi{10.1002/bies.20544}.
+
 \bibitem[Tavazoie et~al.(1999)Tavazoie, Hughes, Campbell, Cho, and
   Church]{Tavazoie1999}
 Tavazoie, S., Hughes, J.~D., Campbell, M.~J., Cho, R.~J., and Church, G.~M.
@@ -2089,6 +2270,14 @@ Tilman, D., Wedin, D., and Knops, J.
   grassland ecosystems}.
 \newblock \emph{Nature}, 379\penalty0 (6567):\penalty0 718--720, February 1996.
 \newblock \doi{10.1038/379718a0}.
+
+\bibitem[Unrein et~al.(2014)Unrein, Gasol, Not, Forn, and Massana]{Unrein2014}
+Unrein, F., Gasol, J.~M., Not, F., Forn, I., and Massana, R.
+\newblock {Mixotrophic haptophytes are key bacterial grazers in oligotrophic
+  coastal waters.}
+\newblock \emph{The ISME journal}, 8\penalty0 (1):\penalty0 164--76, January
+  2014.
+\newblock \doi{10.1038/ismej.2013.132}.
 
 \bibitem[{Van Mooy} et~al.(2009){Van Mooy}, Fredricks, Pedler, Dyhrman, Karl,
   Kobl\'{\i}zek, Lomas, Mincer, Moore, Moutin, Rapp\'{e}, and
@@ -2178,6 +2367,34 @@ Winn, C.~D. and Karl, D.~M.
   rates of RNA and DNA synthesis in marine microorganisms}.
 \newblock \emph{Applied and Environmental Microbiology}, 47\penalty0
   (4):\penalty0 835--842, 1984.
+
+\bibitem[Worden et~al.(2009)Worden, Lee, Mock, Rouze, Simmons, Aerts, Allen,
+  Cuvelier, Derelle, Everett, Foulon, Grimwood, Gundlach, Henrissat, Napoli,
+  McDonald, Parker, Rombauts, Salamov, {Von Dassow}, Badger, Coutinho, Demir,
+  Dubchak, Gentemann, Eikrem, Gready, John, Lanier, Lindquist, Lucas, Mayer,
+  Moreau, Not, Otillar, Panaud, Pangilinan, Paulsen, Piegu, Poliakov, Robbens,
+  Schmutz, Toulza, Wyss, Zelensky, Zhou, Armbrust, Bhattacharya, Goodenough,
+  {Van de Peer}, and Grigoriev]{Worden2009}
+Worden, A.~Z., Lee, J.-H., Mock, T., Rouze, P., Simmons, M.~P., Aerts, A.~L.,
+  Allen, A.~E., Cuvelier, M.~L., Derelle, E., Everett, M.~V., Foulon, E.,
+  Grimwood, J., Gundlach, H., Henrissat, B., Napoli, C., McDonald, S.~M.,
+  Parker, M.~S., Rombauts, S., Salamov, A., {Von Dassow}, P., Badger, J.~H.,
+  Coutinho, P.~M., Demir, E., Dubchak, I., Gentemann, C., Eikrem, W., Gready,
+  J.~E., John, U., Lanier, W., Lindquist, E.~A., Lucas, S., Mayer, K. F.~X.,
+  Moreau, H., Not, F., Otillar, R., Panaud, O., Pangilinan, J., Paulsen, I.,
+  Piegu, B., Poliakov, A., Robbens, S., Schmutz, J., Toulza, E., Wyss, T.,
+  Zelensky, A., Zhou, K., Armbrust, E.~V., Bhattacharya, D., Goodenough, U.~W.,
+  {Van de Peer}, Y., and Grigoriev, I.~V.
+\newblock {Green evolution and dynamic adaptations revealed by genomes of the
+  marine picoeukaryotes \textit{Micromonas }}.
+\newblock \emph{Science}, 324\penalty0 (5924):\penalty0 268--272, April 2009.
+\newblock \doi{10.1126/science.1167222}.
+
+\bibitem[Worden et~al.(2015)Worden, Follows, and Giovannoni]{Worden2015}
+Worden, A., Follows, M., and Giovannoni, S.
+\newblock {Rethinking the marine carbon cycle: Factoring in the multifarious
+  lifestyles of microbes}.
+\newblock \emph{Science}, 2015.
 
 \bibitem[Wu et~al.(2010)Wu, Jenkins, Rynearson, Dyhrman, Saito, Mercier, and
   Whitney]{Wu2010}
