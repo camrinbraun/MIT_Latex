@@ -24,7 +24,7 @@
 \contentsline {subsection}{\numberline {3.3.6}Normalization of metatranscriptome data}{51}{subsection.3.3.6}
 \contentsline {section}{\numberline {3.4}Results and Discussion}{52}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Samples and sequencing}{52}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{54}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.2}Temporal plasticity in expressed metabolic capacity}{53}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Species-specific resource utilization underpins physiological ecology}{57}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Identification and modulation of resource responsive genes \textit {in situ} highlights species-specific differences}{59}{subsection.3.4.4}
 \contentsline {chapter}{\numberline {4}Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean}{65}{chapter.4}
