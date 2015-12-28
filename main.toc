@@ -45,9 +45,9 @@
 \contentsline {subsection}{\numberline {5.3.1}Sample collection and shipboard nutrient incubation experiments}{86}{subsection.5.3.1}
 \contentsline {subsection}{\numberline {5.3.2}RNA extraction and sequencing}{87}{subsection.5.3.2}
 \contentsline {subsection}{\numberline {5.3.3}Community- and strain-specific mapping and expression analysis}{87}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Results and Discussion}{88}{section.5.4}
+\contentsline {section}{\numberline {5.4}Results and Discussion}{89}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Diatom and haptophyte community structure}{89}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}\textit {E. huxleyi} species-complex physiological ecology}{91}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.2}\textit {E. huxleyi} species-complex physiological ecology}{90}{subsection.5.4.2}
 \contentsline {subsubsection}{Nitrogen scavenging and assimilation}{92}{figure.caption.21}
 \contentsline {subsubsection}{Phosphorus scavenging}{95}{figure.caption.21}
 \contentsline {subsubsection}{Shift in life stage and calcification state}{97}{figure.caption.22}

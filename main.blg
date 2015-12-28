@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2010)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
@@ -15,49 +15,49 @@ A level-1 auxiliary file: appc.aux
 A level-1 auxiliary file: appd.aux
 A level-1 auxiliary file: biblio.aux
 The style file: myplainnat.bst
-Reallocated field_info (elt_size=4) to 12812 items from 5000.
+Reallocated field_info (elt_size=4) to 12756 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty journal in Chapman2009
-You've used 279 entries,
+You've used 277 entries,
             2773 wiz_defined-function locations,
-            2615 strings with 85867 characters,
-and the built_in function-call counts, 188824 in all, are:
-= -- 16011
-> -- 16582
+            2602 strings with 85482 characters,
+and the built_in function-call counts, 187646 in all, are:
+= -- 15907
+> -- 16495
 < -- 81
-+ -- 5554
-- -- 5271
-* -- 19142
-:= -- 30330
-add.period$ -- 1086
-call.type$ -- 279
-change.case$ -- 2590
-chr.to.int$ -- 275
-cite$ -- 559
-duplicate$ -- 5777
-empty$ -- 11212
-format.name$ -- 5640
-if$ -- 37602
++ -- 5525
+- -- 5244
+* -- 19024
+:= -- 30146
+add.period$ -- 1079
+call.type$ -- 277
+change.case$ -- 2575
+chr.to.int$ -- 273
+cite$ -- 555
+duplicate$ -- 5735
+empty$ -- 11130
+format.name$ -- 5611
+if$ -- 37364
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 281
-newline$ -- 1651
-num.names$ -- 1116
-pop$ -- 4457
+missing$ -- 279
+newline$ -- 1640
+num.names$ -- 1108
+pop$ -- 4432
 preamble$ -- 1
-purify$ -- 2315
+purify$ -- 2302
 quote$ -- 0
-skip$ -- 4965
+skip$ -- 4933
 stack$ -- 0
-substring$ -- 6998
-swap$ -- 527
+substring$ -- 6944
+swap$ -- 524
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3049
+type$ -- 3027
 warning$ -- 1
-while$ -- 1340
+while$ -- 1330
 width$ -- 0
-write$ -- 4124
+write$ -- 4096
 (There was 1 warning)

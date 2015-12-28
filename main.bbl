@@ -1,4 +1,4 @@
-\begin{thebibliography}{279}
+\begin{thebibliography}{277}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1012,13 +1012,6 @@ Kang, L.-K., Hwang, S.-P.~L., Lin, H.-J., Chen, P.-C., and Chang, J.
   August 2009.
 \newblock \doi{10.1111/j.1529-8817.2009.00698.x}.
 
-\bibitem[Karl et~al.(1997)Karl, Letelier, Tupas, Dore, Christian, and
-  Hebel]{Karl1997}
-Karl, D., Letelier, R., Tupas, L., Dore, J., Christian, J., and Hebel, D.
-\newblock {The role of nitrogen fixation in biogeochemical cycling in the
-  subtropical North Pacific Ocean}.
-\newblock \emph{Nature}, 388\penalty0 (6642):\penalty0 533--538, August 1997.
-
 \bibitem[Karl(2002)]{Karl2002}
 Karl, D.~M.
 \newblock {Nutrient dynamics in the deep blue sea}.
@@ -1467,12 +1460,6 @@ Martin, J.~H.
 \newblock \emph{Limnology and Oceanography}, 15\penalty0 (3):\penalty0
   413--418, 1970.
 \newblock \doi{10.4319/lo.1970.15.3.0413}.
-
-\bibitem[Martiny et~al.(2013)Martiny, Treseder, and Pusch]{Martiny2013}
-Martiny, A.~C., Treseder, K., and Pusch, G.
-\newblock {Phylogenetic conservatism of functional traits in microorganisms}.
-\newblock \emph{The ISME Journal}, 7\penalty0 (4):\penalty0 830--838, 2013.
-\newblock \doi{10.1038/ismej.2012.160}.
 
 \bibitem[McAndrew et~al.(2007)McAndrew, Bj\"{o}rkman, Church, Morris,
   Jachowski, leB {Williams PJ}, and Karl]{McAndrew2007}
