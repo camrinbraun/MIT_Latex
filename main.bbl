@@ -1,4 +1,4 @@
-\begin{thebibliography}{277}
+\begin{thebibliography}{279}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -184,6 +184,14 @@ Behl, S., Donval, A., and Stibor, H.
 \newblock \emph{Limnology and Oceanography}, 56\penalty0 (2):\penalty0
   683--694, 2011.
 \newblock \doi{10.4319/lo.2011.56.2.0683}.
+
+\bibitem[Behrenfeld et~al.(2005)Behrenfeld, Boss, Siegel, and
+  Shea]{Behrenfeld2005}
+Behrenfeld, M.~J., Boss, E., Siegel, D.~A., and Shea, D.~M.
+\newblock {Carbon-based ocean productivity and phytoplankton physiology from
+  space}.
+\newblock \emph{Global Biogeochemical Cycles}, 19\penalty0 (1), March 2005.
+\newblock \doi{10.1029/2004GB002299}.
 
 \bibitem[Bender et~al.(2012)Bender, Parker, and Armbrust]{Bender2012}
 Bender, S.~J., Parker, M.~S., and Armbrust, E.~V.
@@ -899,8 +907,8 @@ Holligan, P.~M., Fern\'{a}ndez, E., Aiken, J., Balch, W.~M., Boyd, P., Burkill,
 
 \bibitem[Hood et~al.(2007)Hood, Laws, Follows, and Siegel]{Hood2007}
 Hood, R., Laws, E., Follows, M., and Siegel, D.
-\newblock {Modeling and Prediction of Marine Microbial Populations in the
-  Genomic Era}.
+\newblock {Modeling and prediction of marine microbial populations in the
+  genomic era}.
 \newblock \emph{Oceanography}, 20\penalty0 (2):\penalty0 155--165, June 2007.
 \newblock \doi{10.5670/oceanog.2007.61}.
 
@@ -2352,6 +2360,14 @@ von Dassow, P., Ogata, H., Probert, I., Wincker, P., {Da Silva}, C., Audic, S.,
   photosynthetic calcifying cell.}
 \newblock \emph{Genome biology}, 10\penalty0 (10):\penalty0 R114, January 2009.
 \newblock \doi{10.1186/gb-2009-10-10-r114}.
+
+\bibitem[Westberry et~al.(2008)Westberry, Behrenfeld, Siegel, and
+  Boss]{Westberry2008}
+Westberry, T., Behrenfeld, M.~J., Siegel, D.~A., and Boss, E.
+\newblock {Carbon-based primary productivity modeling with vertically resolved
+  photoacclimation}.
+\newblock \emph{Global Biogeochemical Cycles}, 22\penalty0 (2), June 2008.
+\newblock \doi{10.1029/2007GB003078}.
 
 \bibitem[Whitney et~al.(2011)Whitney, Lins, Hughes, Wells, Chappell, and
   Jenkins]{Whitney2011a}

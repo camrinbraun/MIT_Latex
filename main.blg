@@ -15,49 +15,49 @@ A level-1 auxiliary file: appc.aux
 A level-1 auxiliary file: appd.aux
 A level-1 auxiliary file: biblio.aux
 The style file: myplainnat.bst
-Reallocated field_info (elt_size=4) to 12756 items from 5000.
+Reallocated field_info (elt_size=4) to 12812 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty journal in Chapman2009
-You've used 277 entries,
+You've used 279 entries,
             2773 wiz_defined-function locations,
-            2602 strings with 85482 characters,
-and the built_in function-call counts, 187646 in all, are:
-= -- 15907
-> -- 16495
+            2612 strings with 85883 characters,
+and the built_in function-call counts, 188622 in all, are:
+= -- 15989
+> -- 16573
 < -- 81
-+ -- 5525
-- -- 5244
-* -- 19024
-:= -- 30146
-add.period$ -- 1079
-call.type$ -- 277
-change.case$ -- 2575
-chr.to.int$ -- 273
-cite$ -- 555
-duplicate$ -- 5735
-empty$ -- 11130
-format.name$ -- 5611
-if$ -- 37364
++ -- 5551
+- -- 5268
+* -- 19120
+:= -- 30306
+add.period$ -- 1087
+call.type$ -- 279
+change.case$ -- 2589
+chr.to.int$ -- 275
+cite$ -- 559
+duplicate$ -- 5775
+empty$ -- 11194
+format.name$ -- 5637
+if$ -- 37560
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 279
-newline$ -- 1640
-num.names$ -- 1108
-pop$ -- 4432
+missing$ -- 281
+newline$ -- 1652
+num.names$ -- 1116
+pop$ -- 4454
 preamble$ -- 1
-purify$ -- 2302
+purify$ -- 2314
 quote$ -- 0
-skip$ -- 4933
+skip$ -- 4965
 stack$ -- 0
-substring$ -- 6944
-swap$ -- 524
+substring$ -- 6948
+swap$ -- 528
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3027
+type$ -- 3049
 warning$ -- 1
-while$ -- 1330
+while$ -- 1336
 width$ -- 0
-write$ -- 4096
+write$ -- 4126
 (There was 1 warning)
