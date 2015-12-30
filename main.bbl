@@ -1,4 +1,4 @@
-\begin{thebibliography}{279}
+\begin{thebibliography}{281}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -2222,6 +2222,21 @@ Stuart, R.~K., Dupont, C.~L., Johnson, D.~A., Paulsen, I.~T., and Palenik, B.
 \newblock \emph{Applied and Environmental Microbiology}, 75\penalty0
   (15):\penalty0 5047 --5057, August 2009.
 \newblock \doi{10.1128/AEM.00271-09}.
+
+\bibitem[Sunda and Huntsman(1992)]{Sunda1992}
+Sunda, W.~G. and Huntsman, S.~a.
+\newblock {Feedback interactions between zinc and phytoplankton in seawater}.
+\newblock \emph{Limnology and Oceanography}, 37\penalty0 (1):\penalty0 25--40,
+  1992.
+\newblock \doi{10.4319/lo.1992.37.1.0025}.
+
+\bibitem[Sunda and Huntsman(1995)]{Sunda1995}
+Sunda, W.~G. and Huntsman, S.~A.
+\newblock {Iron uptake and growth limitation in oceanic and coastal
+  phytoplankton}.
+\newblock \emph{Marine Chemistry}, 50\penalty0 (1-4):\penalty0 189--206, August
+  1995.
+\newblock \doi{10.1016/0304-4203(95)00035-P}.
 
 \bibitem[Sverdrup(1953)]{Sverdrup1953}
 Sverdrup, H.

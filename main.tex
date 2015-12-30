@@ -89,6 +89,7 @@ process all files:}
 \ifx\files\all \typeout{Including all files.} \else \typeout{Including only \files.} \includeonly{\files} \fi
 
 \begin{document}
+\renewcommand{\thetable}{\arabic{chapter}-\arabic{table}}
 
 \include{cover}
 
