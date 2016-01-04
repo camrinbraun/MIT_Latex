@@ -5,7 +5,7 @@ A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: contents.aux
 A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
-A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap3_2.aux
 A level-1 auxiliary file: chap4.aux
 A level-1 auxiliary file: chap5.aux
 A level-1 auxiliary file: chap6.aux
@@ -15,49 +15,49 @@ A level-1 auxiliary file: appc.aux
 A level-1 auxiliary file: appd.aux
 A level-1 auxiliary file: biblio.aux
 The style file: myplainnat.bst
-Reallocated field_info (elt_size=4) to 12868 items from 5000.
+Reallocated field_info (elt_size=4) to 12896 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty journal in Chapman2009
-You've used 281 entries,
+You've used 282 entries,
             2773 wiz_defined-function locations,
-            2628 strings with 86229 characters,
-and the built_in function-call counts, 189546 in all, are:
-= -- 16081
-> -- 16615
+            2627 strings with 86663 characters,
+and the built_in function-call counts, 190684 in all, are:
+= -- 16161
+> -- 16771
 < -- 83
-+ -- 5565
-- -- 5280
-* -- 19198
-:= -- 30446
-add.period$ -- 1095
-call.type$ -- 281
-change.case$ -- 2599
-chr.to.int$ -- 277
-cite$ -- 563
-duplicate$ -- 5815
-empty$ -- 11272
-format.name$ -- 5655
-if$ -- 37754
++ -- 5617
+- -- 5331
+* -- 19324
+:= -- 30643
+add.period$ -- 1099
+call.type$ -- 282
+change.case$ -- 2619
+chr.to.int$ -- 278
+cite$ -- 565
+duplicate$ -- 5835
+empty$ -- 11304
+format.name$ -- 5707
+if$ -- 37969
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 283
-newline$ -- 1664
-num.names$ -- 1124
-pop$ -- 4468
+missing$ -- 284
+newline$ -- 1670
+num.names$ -- 1128
+pop$ -- 4505
 preamble$ -- 1
-purify$ -- 2322
+purify$ -- 2341
 quote$ -- 0
-skip$ -- 4996
+skip$ -- 5025
 stack$ -- 0
-substring$ -- 6996
-swap$ -- 531
+substring$ -- 6998
+swap$ -- 533
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3071
+type$ -- 3082
 warning$ -- 1
-while$ -- 1346
+while$ -- 1349
 width$ -- 0
-write$ -- 4156
+write$ -- 4171
 (There was 1 warning)
