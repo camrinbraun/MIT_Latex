@@ -47,7 +47,7 @@
 \begin{figure}[p!]
   \centering
     \includegraphics[width=1\textwidth]{Images/C3_SFigure5_RR_All_Genes_Pie.pdf}
-    \caption[Functional compoosition of the reference transcriptome and resource-responsive gene sets]{Functional composition of the reference transcriptome and resource-responsive (RR) gene subset for \textit{T. rotula} and \textit{Skeletonema} spp. (A) RR gene sets were identified through cross comparison of like-nutrient incubations (i.e. +N vs. -N and +P vs. -P), using ASC (fold change = 2, post-$p > 0.95$). The relative functional categorization of the reference transcriptomes and RR gene set for \textit{T. rotula} and \textit{Skeletonema} spp. based on KEGG ontology as assigned by KAAS is depicted at the module-level.}
+    \caption[Functional composition of the reference transcriptome and resource-responsive gene sets]{Functional composition of the reference transcriptome and resource-responsive (RR) gene subset for \textit{T. rotula} and \textit{Skeletonema} spp. (A) RR gene sets were identified through cross comparison of like-nutrient incubations (i.e. +N vs. -N and +P vs. -P), using ASC (fold change = 2, post-$p > 0.95$). The relative functional categorization of the reference transcriptomes and RR gene set for \textit{T. rotula} and \textit{Skeletonema} spp. based on KEGG ontology as assigned by KAAS is depicted at the module-level.}
   \label{fig:a3f5}
 \end{figure}
 
@@ -70,12 +70,20 @@
   \label{fig:a3f7}
 \end{figure}
 
+
+
+
+
+%%%% OLD FIGURES %%%%
+
+
+
 %Supplemental Figure 8: Conceptual schematic of STD niche space
 
 \begin{figure}[p!]
   \centering
-    \includegraphics[width=1\textwidth]{Images/C3_SFigure8_Schematic_Quadrants.pdf}
-    \caption[Conceptual schemiatic of $STD_N$ plotted against $STD_P$]{A conceptual schematic of $STD_N$ plotted against $STD_P$ hypothesized regions of N:P > Redfield physiology and N:P < Redfield physiology highlighted.}
+    \includegraphics[width=.8\textwidth]{Images/C3_STDP_Steps_NaPi.pdf}
+    \caption[Expression of sodium phosphate cotransporter as measured in $TPM$, $SGNC$, and $STD_P$]{The expression of a sodium phosphate cotransporter (NPT) gene family for \textit{Skeletonema} spp. and \textit{T. rotula} as measured in tags per million ($TPM$), stable gene normalized count ($SGNC$), and standardized transcriptional differentiation score for P ($STD_P$). The $TPM$ (A, B) and $SGNC$ (C,D) of the NPT gene family is plotted for \textit{Skeletonema} spp., light blue circles, and \textit{T. rotula}, dark blue squares, both in the \textit{in situ} samples S1-5 (A, C) and the incubation treatments (B, D). The $STD_P$, which contextualizes the expression of a gene in the field relative to expression in the +P and -P treatments, is shown for the five \textit{in situ} samples (E).  
   \label{fig:a3f8}
 \end{figure}
 
@@ -88,8 +96,8 @@
 
 	\begin{figure}
   	\centering
-    	\includegraphics[width=1.3\textwidth]{Images/C3_SFigure9_NISP_DNGenes.png}
-    	\caption[Evolution of niche space indexing over for significantly down-regualted genes]{Evolution of niche space indexing over time in Narragansett Bay for \textit{T. rotula} and \textit{Skeletonema} spp.. The stable gene normalized field signal from genes identified as significantly (2-fold change, post$-p > 0.95$) down-regulated in -P vs +P for Skeletonema spp. (yellow) and \textit{T. rotula} (orange) and in -N vs +N for for \textit{Skeletonema} spp. (cyan) and \textit{T. rotula} (dark blue) was proportionalized relative to the expression for those genes in nutrient incubations, yielding the $STD_N$ and $STD_P$. These data are plotted for Sample 1 through Sample 5.}
+    	\includegraphics[width=1.3\textwidth]{Images/C3_STD_Histograms.pdf}
+    	\caption[Distribution of $STD$ scores for N- and P-responsive genes]{The distribution of the standardized transcriptional differentiation scores for nitrogen and phosphorus, $STD_N$ and $STD_P$ was assessed for the N- and P-responsive genes, respectively for \textit{T. rotula}, dark blue, and \textit{Skeletonema} spp., light blue, across the five samples. The stable gene normalized counts ($SGNC$) of the N- and P-responsive genes (2-fold change, post$-p > 0.95$) was normalized to their expression in the like incubation experiments. A semi-log plot is used to show the distribution of gene counts between -10 and 10 for both of the organisms across the five samples.}
   	\label{fig:a3f9}
 	\end{figure}
     \vfill        %%<----- and here
@@ -97,21 +105,21 @@
 
 %Supplemental Figure 10: Percentage of RR genes by quadrant
 
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=1\textwidth]{Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf}
-    \caption[The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs]{The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp.. The total number of genes falling into the N:P > Redfield quadrant ($STD_P > C$; $STD_N < C$, for $0.25 < C < 0.75$) and the N:P < Redfield quadrant ($STD_P$ < C; $STD_N > C$, for $0.25 < C < 0.75$). The value of C was varied over 10 different values and the average percentages of genes falling into each of the quadrants is depicted above based on the size of the circle at the median $STD_N$ and $STD_P$ for the genes in the quadrant. Similarity of data between species by quadrant was assessed using an analysis of variance (ANOVA) with a generalized linear model. The results from a post hoc Tukey test show the divergence of species across time ($p < 0.05$).}
-  \label{fig:a3f10}
-\end{figure}
+%\begin{figure}[h!]
+%  \centering
+    %\includegraphics[width=1\textwidth]{Images/C3_SFigure10_BarGraph_Quadrant_2575_stats.pdf}
+    %\caption[The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants with varried cutoffs]{The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp.. The total number of genes falling into the N:P > Redfield quadrant ($STD_P > C$; $STD_N < C$, for $0.25 < C < 0.75$) and the N:P < Redfield quadrant ($STD_P$ < C; $STD_N > C$, for $0.25 < C < 0.75$). The value of C was varied over 10 different values and the average percentages of genes falling into each of the quadrants is depicted above based on the size of the circle at the median $STD_N$ and $STD_P$ for the genes in the quadrant. Similarity of data between species by quadrant was assessed using an analysis of variance (ANOVA) with a generalized linear model. The results from a post hoc Tukey test show the divergence of species across time ($p < 0.05$).}
+ % \label{fig:a3f10}
+%\end{figure}
 
 %Supplemental Figure 11: Quadrant localization with varying stable reference genes
 
-\begin{figure}[p!]
-  \centering
-    \includegraphics[width=1\textwidth]{Images/C3_SFigure11_Quadrant.pdf}
-    \caption[The impact of stable gene selction of quadrant localization]{The impact of stable gene selection on the quadrant localization of the resource responsive gene sets. The posterior probability cutoff used in the selection of stable genes was varied from 0.1 to 0.5 for a fold change of 1.25. The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp. across the five sample points and five posterior probability values is depicted.}
-  \label{fig:a3f11}
-\end{figure}
+%\begin{figure}[p!]
+%  \centering
+%    \includegraphics[width=1\textwidth]{Images/C3_SFigure11_Quadrant.pdf}
+%    \caption[The impact of stable gene selction of quadrant localization]{The impact of stable gene selection on the quadrant localization of the resource responsive gene sets. The posterior probability cutoff used in the selection of stable genes was varied from 0.1 to 0.5 for a fold change of 1.25. The percentage of identified nutrient responsive genes falling into the N:P > Redfield and N:P < Redfield quadrants for \textit{T. rotula} and \textit{Skeletonema} spp. across the five sample points and five posterior probability values is depicted.}
+%  \label{fig:a3f11}
+%\end{figure}
 
 
 
