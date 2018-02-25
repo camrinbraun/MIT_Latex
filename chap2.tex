@@ -20,7 +20,7 @@
 {\let\thefootnote\relax\footnotetext{This chapter was originally published as Braun, C.D., Galuardi, B., and Thorrold S.R. (2018). \href{http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12959/full}{HMMoce: An R package for improved geolocation of archival-tagged fishes using a hidden Markov method.} \emph{Methods Ecol. Evol.} x, xxx. }}
 %\end{singlespace}
 {\let\thefootnote\relax\footnotetext{C.D.B and B.G. conceived the project and developed the package; C.D.B and S.R.T. collected the data; C.D.B. wrote the paper; B.G. and S.R.T. contributed to the writing of the paper.}}
-{\let\thefootnote\relax\footnotetext{The supplemental figures, tables, and data sheets for this chapter can be found in \cref{sec:app2}.}}
+{\let\thefootnote\relax\footnotetext{The supplemental methods, figures, and tables for this chapter can be found in \cref{sec:app2}.}}
 
 \clearpage
 
@@ -43,9 +43,9 @@ movements of wide-ranging species that are difficult to monitor using
 other techniques. In ocean environments, implanted archival and pop-up
 satellite archival transmitting (PSAT) tags have proved particularly
 valuable in the study of life history patterns
-\citep[e.g.][]{Thorrold2014a}, biophysical interactions and habitat use
-\citep[e.g.][]{Braun2015a, Lam2014}, horizontal and vertical movements
-\citep[e.g.][]{Braun2014, Lam2016, Werry2014}, and the spatial structure
+\citep[\emph{e.g.}][]{Thorrold2014a}, biophysical interactions and habitat use
+\citep[\emph{e.g.}][]{Braun2015a, Lam2014}, horizontal and vertical movements
+\citep[\emph{e.g.}][]{Braun2014, Lam2016, Werry2014}, and the spatial structure
 of populations \citep{Skomal2009, Galuardi2010, Galuardi2014} in a
 number of commercially important fishes \citep{Block2011} and species of
 conservation concern \citep{Braun2015}. Yet, tracks provided by
@@ -86,9 +86,9 @@ behavioral state of the animal, mobilization of oceanographic data in a
 spatial likelihood framework \citep{Nielsen2006}, and later incorporated
 formal treatment of barriers to movement \citep{Pedersen2011}.
 Generally, the Bayesian HMM approach uses a model of animal movements
-(e.g.~Brownian motion) and a model or observations of the environment
-(e.g.~in situ oceanography) to estimate the posterior distribution of
-the state (e.g.~animal position and behavior). Several \texttt{R}
+(\emph{e.g.}~Brownian motion) and a model or observations of the environment
+(\emph{e.g.}~in situ oceanography) to estimate the posterior distribution of
+the state (\emph{e.g.}~animal position and behavior). Several \texttt{R}
 packages exist for analyzing movement data with HMMs, including
 \texttt{ctmm} \citep{Calabrese2016} and \texttt{moveHMM}
 \citep{Michelot2016}, but none are designed for geolocating marine
@@ -134,14 +134,14 @@ state-space model, estimating model parameters and model selection and
 interpretation. The application of grids to explicitly resolve space is
 a key component that allows state estimation (location and behavior, in
 this case) to be supplemented by or based entirely on environmental data
-(e.g.~temperature at depth). The details of the discretized grid HMM
+(\emph{e.g.}~temperature at depth). The details of the discretized grid HMM
 approach are thoroughly explained elsewhere
-\citep[e.g.][]{Thygesen2009a, Pedersen2011}. A detailed methodology for
+\citep[\emph{e.g.}][]{Thygesen2009a, Pedersen2011}. A detailed methodology for
 our approach can be found in the supplement.
 
 \begin{table}[b] % tag summary
 \centering
-\caption[Satellite tagging summary for model data]{Tagging summary for double-tagged blue (BSH) and shortfin mako (MKO) sharks used in this study. PDT, Light, SST and SPOT = percent of deployment period with depth-temperature profile (PDT), light and sea surface temperature (SST) data from the PSAT tag and percent of deployment period with Argos-based positions (SPOT), respectively.}
+\caption[Satellite tagging summary for model data]{Tagging summary for double-tagged blue (BSH) and shortfin mako (MKO) sharks used in this study.}
 \label{tab:c2t1}
 \small
 %\begin{tabular}[t]{lrllrrrrr}
@@ -155,6 +155,7 @@ BSH & 141259 & 2015-10-13 & 2016-04-10 & 180 & 53 & 94 & 82 & 85\\
 MKO & 141257 & 2015-10-15 & 2016-04-12 & 180 & 58 & 96 & 69 & 72\\
 \bottomrule
 \end{tabular}
+\caption*{PDT, Light, SST and SPOT = percent of deployment period with depth-temperature profile (PDT), light and sea surface temperature (SST) data from the PSAT tag and percent of deployment period with Argos-based positions (SPOT), respectively.}
 \end{table}
 
 %Figure 1: example PDT data
@@ -171,7 +172,7 @@ HMM. Full [F] and removal [R] datasets for light and SST are shown
 
 Briefly, observation-based likelihoods (\cref{eq:a1e1}) were derived from in
 situ SST (\cref{eq:a1e2}), light-based longitude and depth-temperature profile
-data (\cref{eq:a1e3, eq:a1e4, eq:a1e5}) collected by the tags using five separate
+data (\cref{eq:a1e3}, \cref{eq:a1e4}, \cref{eq:a1e5}) collected by the tags using five separate
 likelihood calculations: \emph{1)} An SST likelihood (\cref{eq:a1e2}) was
 generated for tag-based SST values integrated according to an error term
 ($\pm$ 1\%, based on tag sensor accuracy) and compared to
@@ -202,7 +203,7 @@ time and data updates of the current state estimate using a HMM filter
 \citep[for a detailed methodology of the HMM filter see Appendix 2
 in][]{Pedersen2011}. The filter recursions also returned a likelihood
 measure indicating how well the model fit the data, which facilitated
-calculating model parameters (e.g.~behavior state-switching
+calculating model parameters (\emph{e.g.}~behavior state-switching
 probabilities). In Bayesian statistics, the maximum a priori (MAP)
 estimate of the model parameters is typically used to calculate the
 posteriors; however, in practice, ample a priori information is rarely
@@ -278,15 +279,7 @@ user-provided tag data.
 \begin{table}[h!] % error metrics
 \caption[Validation metrics for geolocation methods]{Validation metrics for double-tagged
 blue (BSH) and shortfin mako (MKO) shark tracks estimated using HMMoce,
-GPE3, Trackit (TI) and Ukfsst. Reported error values (mean, sd, median,
-range) are pointwise distance calculations (mean great circle distance)
-from known positions (km). Root-mean-square errors (RMSE) are Lat, Long
-(degrees). HMMoce.r and GPE3.r indicate fit metrics for data removal
-experiments in which 75\% of daily light and 50\% of daily SST data was
-randomly removed. Input indicates input data type: light (L), SST (S),
-ocean heat content (O), World Ocean Atlas profiles (W) and HYCOM
-profiles (H). All runs were performed on a 0.08$^{\circ}$ grid with fixed
-migratory speed of 2 m/s (except 141259 used 4 m/s).}
+GPE3, Trackit (TI) and Ukfsst.}
 \label{tab:c2t2}
 \centering
 \begin{tabular}[t]{lrllrlll}
@@ -322,6 +315,8 @@ MKO & 141257 & HMMoce & 99.8(90.7) & 66.8 & 3.8-426.9 & 0.92, 0.99 & LSH\\
  &  & GPE3.r & 182.3(171.8) & 136.4 & 0.3-711.2 & 0.88, 2.62 & LS\\
 \bottomrule
 \end{tabular}
+\caption*{Reported error values (mean, sd, median, range) are pointwise distance calculations (mean great circle distance) from known positions (km). Root-mean-square errors (RMSE) are Lat, Lon (degrees). HMMoce.r and GPE3.r indicate fit metrics for data removal experiments in which 75\% of daily light and 50\% of daily SST data was randomly removed. Input indicates input data type: light (L), SST (S), ocean heat content (O), World Ocean Atlas profiles (W) and HYCOM profiles (H). All runs were performed on a 0.08$^{\circ}$ grid with fixed
+migratory speed of 2 $m \cdot s^{-1}$ (except 141259 used 4 $m \cdot s^{-1}$).}
 \end{table}
 
 \section{Case study: pelagic shark
@@ -343,7 +338,7 @@ liberty and SPOT locations were recorded for 72-96\% of deployment days
 (\cref{tab:c2t1})
 
 Blue sharks made frequent dives to the mesopelagic zone
-($\sim$600-800m, max 680-1688m) but also frequented the
+($\sim$600-800 m, max 680-1688 m) but also frequented the
 surface-air interface where the PSAT tags collected good quality light
 and SST data (94-100\% deployment days with light, 82-92\% SST)(\cref{fig:c2f1}). The mako occupied a restricted area
 ($\sim$200 km latitudinal distance) near Cape Hatteras during
@@ -351,18 +346,18 @@ the winter months and spent relatively little far from the edge of the
 continental shelf compared to the more nomadic blue sharks. The mako
 also had high quality light and SST data (96\% and 69\%, respectively)
 while regularly diving shallower than the blue sharks
-($\sim$400m). Consistent exposure of the dorsal fin allowed
+($\sim$400 m). Consistent exposure of the dorsal fin allowed
 the SPOT tag to acquire Argos positions throughout the duration of each
 deployment (\cref{tab:c2t1}).
 
 We calculated movements of the sharks from PSAT tag data using three
 modeling approaches that are currently available (Ukfsst, Trackit, GPE3)
-and \texttt{HMMoce} \textbf{(Supp. 1.6)}. Results for the mako are shown in the
-main text (Fig. 2), and blue shark figures are
-provided in the supplement (\cref{fig:a1f2, fig:a1f3, fig:a1f4}). In general,
+and \texttt{HMMoce} (\cref{sec:app2}). Results for the mako are shown in the
+main text (\cref{fig:c2f2}), and blue shark figures are
+provided in the supplement (\cref{fig:a1f2}, \cref{fig:a1f3}, \cref{fig:a1f4}). In general,
 \texttt{HMMoce} and GPE3 produced the most accurate tracks while those
 from Ukfsst and Trackit were often unrealistic with errors as high as
-\textgreater{}1300 km (\cref{tab:c2t2}). For 3 of 4 individuals, \texttt{HMMoce}
+> 1300 km (\cref{tab:c2t2}). For 3 of 4 individuals, \texttt{HMMoce}
 tracks had the lowest pointwise error and correspondingly lowest
 root-mean-square error (RMSE) values. For the fourth individual (blue
 shark 141259), the mean error and RMSE in latitude for GPE3 ouput was
@@ -380,7 +375,7 @@ time in both dynamic Gulf Stream water and the more homogenous Sargasso
 Sea. It proved difficult in both areas to match water column profiles
 recorded by the tag (or integrated OHC) with an accurate and constrained
 position in the climatological (WOA) or model-based (HYCOM)
-oceanographic data (\cref{tab:a1f5}).
+oceanographic data (\cref{fig:a1f5}).
 
 While \texttt{HMMoce} was designed to improve geolocation estimates for
 all tagged marine organisms, the main impetus for the work was to
@@ -457,7 +452,7 @@ light-level data or other measurements.
 For further development, we anticipate several improvements to the
 \texttt{HMMoce} package. Current priorities include support for other
 tag types, direct versus derived use of light data, and additional
-algorithms (e.g.Viterbi) to calculate the most probable track
+algorithms (\emph{e.g.} Viterbi) to calculate the most probable track
 \citep{Pedersen2011}. Behavior state estimation could be expanded to
 include advection or modified to update probability with respect to
 environmental data \citep{Patterson2009}.
