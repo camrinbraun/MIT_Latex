@@ -79,14 +79,15 @@
 \setlist[DS3]{label=Data Sheet 3-\arabic*}
 \newlist{DS5}{enumerate}{1}
 \setlist[DS5]{label=Data Sheet 5-\arabic*}
+\pgfplotsset{compat=1.15}
 
+% so we can use rules for table like \toprule
+\usepackage{booktabs}
 
-
-
-\typein [\files]{Enter file names to process, (chap1,chap2 ...), or `all' to
-process all files:}
-\def\all{all}
-\ifx\files\all \typeout{Including all files.} \else \typeout{Including only \files.} \includeonly{\files} \fi
+%\typein [\files]{Enter file names to process, (chap1,chap2 %...), or `all' to
+%process all files:}
+%\def\all{all}
+%\ifx\files\all \typeout{Including all files.} \else %\typeout{Including only \files.} \includeonly{\files} \fi
 
 \begin{document}
 \renewcommand{\thetable}{\arabic{chapter}-\arabic{table}}
@@ -98,17 +99,17 @@ process all files:}
 \include{contents}
 \include{chap1}
 \include{chap2}
-%\include{chap3_2}
-%\include{chap4}
-%\include{chap5}
-%\include{chap6}
+\include{chap3}
+\include{chap4}
+\include{chap5}
+\include{chap6}
 \appendix
 %\renewcommand{\thefigure}{\Alph{chapter}.\arabic{figure}}
 \renewcommand{\thetable}{\Alph{chapter}-\arabic{table}}
-%\include{appa}
-%\include{appb}
-%\include{appc}
-%\include{appd}
+\include{appa}
+\include{appb}
+\include{appc}
+\include{appd}
 
 \include{biblio}
 \end{document}

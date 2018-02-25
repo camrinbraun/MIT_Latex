@@ -5,7 +5,7 @@
 %% \files=
 %% prompt when you run the file main.tex through LaTeX.
 
-\chapter{Identifying reference genes with stable expression from high throughput sequence data}
+\chapter{An improved hidden Markov method for geolocating archival-tagged fishes}
 \label{chap:2}
 \raggedbottom
 %\begin{singlespace}
@@ -17,104 +17,456 @@
 %$^4$ Department of Cell and Molecular Biology, University of Rhode Island, Kingston, RI 02881, USA\\
 %$^5$ Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA\\
 %\\
-{\let\thefootnote\relax\footnotetext{This chapter was originally published as Alexander, H., Jenkins, B.D., Rynearson, T.A., Saito, M.A., Mercier, M.L., and Dyhrman, S.T. (2012). \href{http://journal.frontiersin.org/article/10.3389/fmicb.2012.00385/abstract}{Identifying reference genes with stable expression from high throughput sequence data.} \emph{Front. Microbiol.} 3, 385. }}
+{\let\thefootnote\relax\footnotetext{This chapter was originally published as Braun, C.D., Galuardi, B., and Thorrold S.R. (2018). \href{http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12959/full}{HMMoce: An R package for improved geolocation of archival-tagged fishes using a hidden Markov method.} \emph{Methods Ecol. Evol.} x, xxx. }}
 %\end{singlespace}
-{\let\thefootnote\relax\footnotetext{H.A., B.D.J., T.A.R., M.L.M., M.A.S., and S.T.D. performed research; H.A. and S.T.D. analyzed data; H.A. and S.T.D. wrote the paper; and B.D.J., T.A.R., M.L.M., M.A.S contributed to the writing of the paper.}}
+{\let\thefootnote\relax\footnotetext{C.D.B and B.G. conceived the project and developed the package; C.D.B and S.R.T. collected the data; C.D.B. wrote the paper; B.G. and S.R.T. contributed to the writing of the paper.}}
 {\let\thefootnote\relax\footnotetext{The supplemental figures, tables, and data sheets for this chapter can be found in \cref{sec:app2}.}}
-
 
 \clearpage
 
-\section{Abstract}
-Genes that are constitutively expressed across multiple environmental stimuli are crucial to quantifying differentially expressed genes, particularly when employing quantitative reverse transcriptase polymerase chain reaction (RT-qPCR) assays. However, the identification of these potential reference genes in non-model organisms is challenging and is often guided by expression patterns in distantly related organisms. Here, transcriptome datasets from the diatom \textit{Thalassiosira pseudonana} grown under replete, phosphorus-limited, iron-limited, and phosphorus and iron co-limited nutrient regimes were analyzed through literature-based searches for homologous reference genes, $k$-means clustering, and Analysis of Sequence Counts (ASC) to identify putative reference genes. A total of 9759 genes were identified and screened for stable expression. Literature-based searches surveyed 18 generally accepted reference genes, revealing 101 homologs in \textit{T. pseudonana} with variable expression and a wide range of mean tags per million. $K$-means analysis parsed the whole transcriptome into 15 clusters. The two most stable clusters contained 709 genes but still had distinct patterns in expression. ASC analyses identified 179 genes that were stably expressed (posterior probability, post-$p<0.1$, for 1.25 fold change). Genes known to have a stable expression pattern across the test treatments, like actin, were identified in this pool of 179 candidate genes. ASC can be employed on data without biological replicates and was more robust than the $k$-means approach in isolating genes with stable expression. The intersection of the genes identified through ASC with commonly used reference genes from the literature suggests that actin and ubiquitin ligase may be useful reference genes for \textit{T. pseudonana} and potentially other diatoms. With the wealth of transcriptome sequence data becoming available, ASC can be easily applied to transcriptome datasets from other phytoplankton to identify reference genes.
+\section{Summary}\label{summary}
+
+\begin{enumerate}[itemsep=0.1mm]
+\def\labelenumi{\arabic{enumi}.}
+\item Electronic tagging of marine fishes is commonly achieved with archival tags that rely on light levels and sea surface temperatures to retrospectively estimate movements. However, methodological issues associated with light-level geolocation have constrained meaningful inference to species where it is possible to accurately estimate time of sunrise and sunset. Most studies have largely ignored the oceanographic profiles collected by the tag as a potential way to refine light-level geolocation estimates.
+
+\item Open-source oceanographic measurements and outputs from high-resolution models are increasingly available and accessible. Temperature and depth profiles recorded by electronic tags can be integrated with these empirical data and model outputs to construct likelihoods and improve geolocation estimates.
+
+\item The \texttt{R} package \texttt{HMMoce} leverages available tag and oceanographic data to improve position estimates derived from electronic tags using a hidden Markov approach. We illustrate the use of the model and test its performance using example blue and mako shark archival tag data. Model results were validated using independent, known tracks and compared to results from other geolocation approaches.
+
+\item \texttt{HMMoce} exhibited as much as 6-fold improvement in pointwise error as compared to traditional light-level geolocation approaches. The results demonstrated the general applicability of \texttt{HMMoce} to marine animals, particularly those that do not frequent surface waters during crepuscular periods.
+\end{enumerate}
  
 \section{Introduction}
-Quantitative reverse transcriptase polymerase chain reaction (RT-qPCR) facilitates rapid, accurate, high-throughput analyses of gene expression, greatly enhancing and expanding molecular biological studies in a variety of organisms. This method has moved beyond the realm of model organisms \citep{Adib2004,Antonov2005, Caldwell2005, Marionneau2005, Flatt2008} to be employed for the examination of ecological and physiological characteristics of marine microbes in both culture and the environment \citep{Zehr2001, Nicot2005, Maldonado2006, Mock2008, Zhao2009, Whitney2011a, Wurch2011, Allen2008, Kustka2007, Lin2009}. There are two primary methods of gene expression analysis for single genes: 1) absolute quantification, whereby the copy number of a gene is determined through comparison of the PCR signal to a standard curve, and 2) relative gene expression, in which the expression of the gene of interest is determined through comparison to a reference gene (or internal control gene), often employing the $2^{- \Delta \Delta CT}$ method. The $2^{- \Delta \Delta CT}$ method used the expression of the target gene and reference gene in both a treatment and control treatment to estimate the fold change of the target gene \citep{Livak2001, Pfaffl2001, Schmittgen2008}. \par
-Inherent in the $2^{- \Delta \Delta CT}$ method is the selection of a reference, or ``housekeeping,'' gene to act as an endogenous control. Ideally, the expression levels of the selected reference gene should remain stable across the treatments being examined. Genes like GAPDH, actin, and rRNA are often targeted as possible reference genes and tested for consistency in expression across treatments \citep{Vandesompele2002, Pfaffl2004, Radonic2004}. However, both \citet{Czechowski2005} and \citet{DeJonge2007a} demonstrated that canonical reference genes were often widely differentially regulated. In fact, \citet{DeJonge2007a} noted that commonly used reference genes were not represented in the fifty most stably expressed genes in the human genome. Results from RT-qPCR studies using improper reference genes (e.g. genes that are not constitutively expressed) can be significantly different from results obtained with a proper reference gene \citep{Dheda2005, Lanoix2012a}. Considering that previously established reference genes were not among the mostly stably expressed genes in model organisms, basing the selection of candidate genes for non-model organisms solely upon known reference genes may not prove the best method \citep{DeJonge2007a, Czechowski2005}. \par
-	Application of RT-qPCR has proven particularly fruitful in the study of marine phytoplankton, illuminating transcriptional responses to physical stressors \citep{Rosic2010, Rosic2010}, nutrient limitation \citep{Davis2006, Moseley2006, Davis2008, Stuart2009, Whitney2011a, Wurch2011, Bender2012, Berg2008}, and the diel cycle \citep{Whitney2011a, Bender2012}, as well as highlighting the modulation and activity of many metabolic pathways \citep{Moseley2006, McGinn2008, Mock2008, Bender2012}. The success of these studies hinged upon the selection of a stably expressed reference gene. While there is often extensive literature characterizing the dynamics of suites of genes expressed under different conditions in studies of model organisms, similar breadth is lacking for non-model organisms, such as marine phytoplankton. With few genome sequences available, the selection of reference genes for eukaryotic phytoplankton is a challenge, and researchers must often choose candidate genes (e.g. actin \citep{Nicot2005}, GAPDH \citep{Czechowski2005}) based on the literature from model organisms that are distantly related to the study organism. Selecting and validating potential reference genes is a difficult task that consequently slows the development and application of targeted gene expression studies for phytoplankton. \par
-	Screening the wealth of sequence data produced by modern ultra high-throughput sequencing technologies may advance and broaden the search for candidate reference genes in non-model organisms. This is particularly true of transcriptome datasets whereby genes with stable expression can be identified between treatment conditions. Two statistical techniques, $k$-means clustering \citep{Hartigan1979} and analysis of sequence counts (ASC) \citep{Wu2010}, usually used to investigate patterns of differential expression in transcriptome datasets, show promise in this regard. The $k$-means algorithm is a partition-based, non-hierarchical clustering method, which divides sequence tags into the specified $k$-number of clusters, while minimizing the intra-cluster spread based on the specified distance metric \citep{Hartigan1979, Tavazoie1999, Gerstein2000, Quackenbush2001, Dhaeseleer2005}. ASC is a novel empirical Bayes method (estimating the prior distribution from the data, itself) to detect differential gene expression generated from quantifiable gene expression counts (as generated by Illumina Digital Gene Expression tag profiling, RNA-seq or similar high-throughput sequencing technologies) \citep{Wu2010}. When applied to transcriptome data these tools cannot only be used to identify genes with differential expression, they can be used to identify genes with highly stable expression patterns.\par 
-	Here, literature-based searches, $k$-means clustering, and ASC are compared as tools for reference gene selection using a transcript sequence dataset collected from the centric diatom \textit{Thalassiosira pseudonana}, grown under nutrient replete, phosphorus-limited (P-limited), iron-limited (Fe-limited), and phosphorus and iron co-limited (co-limited) treatments.
+Electronic archival tags have been widely adopted by ecologists to track
+movements of wide-ranging species that are difficult to monitor using
+other techniques. In ocean environments, implanted archival and pop-up
+satellite archival transmitting (PSAT) tags have proved particularly
+valuable in the study of life history patterns
+\citep[e.g.][]{Thorrold2014a}, biophysical interactions and habitat use
+\citep[e.g.][]{Braun2015a, Lam2014}, horizontal and vertical movements
+\citep[e.g.][]{Braun2014, Lam2016, Werry2014}, and the spatial structure
+of populations \citep{Skomal2009, Galuardi2010, Galuardi2014} in a
+number of commercially important fishes \citep{Block2011} and species of
+conservation concern \citep{Braun2015}. Yet, tracks provided by
+electronic tags that rely on light-level geolocation often exhibit large
+error in daily position estimates \citep{Musyl2011a, Braun2015a} that
+may hinder inferences drawn from the tag data. Approaches that provide
+more certainty in movement estimates derived from light level data
+\citep{Galuardi2014, Luo2015} would increase the power of ecological
+hypotheses tested using tag data.
 
-\section{Materials and Methods}
-\subsection{Culturing and transcriptome data collection} 
-Axenic \textit{T. pseudonana} CCMP1335 was grown at $14^{\circ}$C under 24 hour light (120 $\mu$mol photons $m^{-2} s^{-1}$) after \citet{Dyhrman2012} in f/2 plus silica chelated media made from surface Sargasso Sea water. Nitrate, silica, vitamins, and trace metals were at f/2 concentrations (Guillard and Ryther 1962), while iron and phosphate were modified across treatments. In brief, triplicate cultures of replete (36 $\mu$M PO$_{4}^{3-}$, 400 nM Fe), P-limited (0.4 $\mu$M PO$_{4}^{3-}$, 400 nM Fe), Fe-limited (36 $\mu$M PO$_{4}^{3-}$, 40 nM Fe), and co-limited (0.4 $\mu$M PO$_{4}^{3-}$, 40 nM Fe) treatments were harvested when growth deviated from the replete control. Growth was monitored by cell counts. Biomass was harvested onto 0.2 $\mu$m filters and flash frozen in liquid nitrogen and total RNA was extracted as described in \citep{Dyhrman2012}. Tag-seq sequencing of the transcriptome was performed by Illumina with a polyA selection and NlaIII digestion, resulting in $21$ base pair sequence reads or tags \citep{Dyhrman2012}. Libraries were of varied sizes as follows: replete ($\sim$12 million), P-limited ($\sim$13 million), Fe-limited ($\sim$23 million), and co-limited ($\sim$26 million). Tags were mapped to gene models (predicted protein coding regions) with a pipeline designed by Genesifter Inc., requiring 100\% identity and covering 9759 genes. Tag counts within a gene were pooled and normalized to the size of the library, with resulting data expressed in tags per million (TPM). Genes with normalized tag counts less than 2.5 TPM for each of the four treatments were excluded (\cref{fig:a1f1}), leaving 7380 genes in the analysis. The data discussed in this publication have been deposited in NCBI Gene Expression Omnibus (GEO) (Edgar, 2002) and are accessible through GEO Series accession number \href{http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE40509}{GSE40509}.  
-\subsection{Reference gene identification}
-\par The current, relevant literature from algae and plant-based studies was queried for reference genes used as endogenous controls for relative gene expression assays. Stably expressed genes reported in the literature were compared using BLASTn \citep{Altschul1997} against the \textit{T. pseudonana} genome in NCBI (AAFD00000000.2) to find homologs (e-value $< 1.0$e-1). A loose e-value cutoff was used to be inclusive and enhance our collection of all potential reference gene candidates. In addition, the Eukaryotic Orthologous Group (KOG) definitions for the genes found via BLAST were identified, and subsequent genes located in the KOG definition families were included in the analysis.\par 
-For the $k$-means analysis, tag counts from the four treatments corresponding to the 7380 genes with reads greater than 2.5 TPM were clustered using the $k$-means algorithm under the Pearson correlation coefficient. The distance was measured with a Pearson correlation as it has been found to perform as well or better than other similar distance measures for non-ratio or count-based data \citep{Gibbons2002}, such as the \textit{T. pseudonana} transcriptome dataset. The number of clusters ($k$) was determined via a figure of merit (FOM) estimation, which is an approximation of the predictive power of the clustering method \citep{Yeung2001}. FOM analysis was performed by predicting the FOM value for values of $k$ ranging from $k=1$ (one cluster) to $k=50$ (fifty clusters). The FOM value decreases as the within-cluster similarity increases, thus the FOM value was minimized to determine the optimal $k$-value. All clustering analyses were performed using the MultiExperiment Viewer (MeV) version 4.7 \citep{Saeed2003, Saeed2006}. Possible reference gene targets were identified by isolating clusters of genes that exhibited similarly stable expression patterns across the four treatments. \par
-Using ASC \citep{Wu2010}, the statistical significance of an observed fold change was determined in pairwise comparisons between each of the limited treatments and the replete control. The posterior probability (post-$p$) was calculated by computing the posterior mean of the log ratio of proportions over each of the P-limited, Fe-limited, and co-limited treatments relative to the replete treatment for a fold change of 1.10, 1.25, and 1.50. Possible constitutively expressed genes were identified by selecting genes for which the post-p of each of the nutrient-limited treatments relative to the replete treatment for each of the fold change values was less than a specified cutoff. Posterior probability cutoffs between 0.01 and 0.20 were assessed across each of the fold changes (\cref{tab:c2t1}). Ultimately, a post-$p$ of 0.10 was selected for further analyses (meaning that genes selected had less than a 10\% chance of having the specified fold change between treatments), for it yielded genes across all of the fold change bins examined and demonstrated a broader range of mean normalized tag counts than seen for a post-$p$ of 0.05 or 0.01. All ASC analyses were made using ASC $0.1.5$ in \href{http://R-project.org}{R}. \par
+Electronic archival tags typically use light levels to estimate position
+when it is not possible for the tag to interrogate geo-location
+satellites \citep{Sibert2003, Nielsen2007}. Accuracy of geolocation
+using light levels, however, is limited ($\pm$ 100-200 km;
+$\sim$10,000 km$^2$) even for surface-oriented
+species where good light data is available
+\citep{Wilson2007, Braun2015a}. While several studies have incorporated
+ancillary data, including sea surface temperature
+\citep{Smith1986, Lam2010}, tidal fluctuation \citep{Pedersen2008} or
+ocean heat content \citep{Luo2015} to help improve geolocation
+estimates, only one used all data collected from archival tags within a
+rigorous statistical framework to improve geolocation estimates
+\citep{Sumner2009}. Although excursions from the photic zone, including
+diel vertical migration \citep{Neilson2009} and extended mesopelagic
+occupation \citep{Skomal2009} may render light geolocation impossible,
+the depth-temperature profiles recorded by the tags provide diagnostic
+oceanographic signatures that can be leveraged to help constrain
+position \citep{Skomal2009, Aarestrup2009}.
 
-\section{Results}
-Transcript sequence data was generated from \textit{T. pseudonana} CCMP1335, grown in four different treatments (replete, P-limited, Fe-limited, and co-limited). Potential reference genes were identified through 1) querying the data to identify expression of common reference genes based on literature searches, 2) a pattern-driven analysis using $k$-means clustering \citep{Hartigan1979} and 3) a quantitative analysis based the probability of fold change using ASC. \par
-Selection of reference genes often falls upon those used in previous relative expression studies. The literature was surveyed for RT-qPCR expression studies employing the $2^{- \Delta \Delta CT}$ method for the following algae and plants: \textit{T. pseudonana} \citep{Maldonado2006, McGinn2008, McGinn2008a, Mock2008, Park2008, Carvalho2011, Whitney2011a}, \textit{Thalassiosira weissflogii} \citep{Davis2006, McGinn2008, Park2008, Whitney2011a}, \textit{Phaeodactylum tricornutum} \citep{Siaut2007, McGinn2008}, \textit{Emiliana huxleyi} \citep{Bruhn2010, Richier2011}, \textit{Micromonas pusilla} \citep{McDonald2010}, \textit{Chlamydomonas reinhardtii} \citep{Moseley2006, Zhao2009}, \textit{Alexandrium} spp. \citep{Lee2009, Moustafa2010}, \textit{Symbiodinium} sp. \citep{Rosic2010, Rosic2010a, Leggat2011}, \textit{Prorocentrum minimum} \citep{Guo2012}, \textit{Aureococcus anophagefferens} \citep{Berg2008, Wurch2011}, \textit{Solanum tuberosum} \citep{Nicot2005}, and \textit{Arabidopsis thaliana} \citep{Avonce2004}. Results from the current literature survey yielded a list of 18 key reference genes frequently employed in the study of gene expression for eukaryotic phytoplankton and plants: actin, calmodulin, cyclin dependent kinase, cyclophilin, cytochrome c, G-protein beta subunit, ferric enterobactin binding periplasmic protein precursor, histones, elongation factors, GAPDH, heat shock protein 90, poly(A) polymerase, ribosomal protein large subunit, ribosomal protein small subunit, SAM, $\alpha$-, $\beta$-, $\gamma$-tubulin, and ubiquitin conjugating enzymes (\ref{DS21}). It is important to note that as more reference genes are validated as stable, the selection of putative reference genes may expand. The 101 genes identified as homologous to these reference genes across the four treatments in \textit{T. pseudonana} had variable expression patterns and a wide range of mean normalized counts (0.08 to 1087.8 TPM) (\cref{fig:c2f1}). Genes within a specific gene family (e.g. the five actin genes) had different mean counts as well as variable coefficients of variation (CV), which is indicative of variable expression (\ref{DS21}). For example, ACT 1 (NCBI: 7449411) had a mean expression of 1024.1 TPM and a CV of only 12.3\%, where as ACT 5 (NCBI: 7445819) had a lower mean expression of 23.95 and a higher CV of 35.5\% (\ref{DS21}). \par
+Hidden Markov Models (HMMs) have gained popularity in recent years as a
+tool for analyzing animal movement data and have been applied to
+understand movements of a number of organisms
+\citep{Holzmann2006, Thygesen2009a, Pedersen2011}. Much of the progress
+in ocean environments stems from a HMM used to track cod in the North
+Sea using tidal information \citep{Pedersen2008}. The approach combined
+a number of desirable features, including inference about the underlying
+behavioral state of the animal, mobilization of oceanographic data in a
+spatial likelihood framework \citep{Nielsen2006}, and later incorporated
+formal treatment of barriers to movement \citep{Pedersen2011}.
+Generally, the Bayesian HMM approach uses a model of animal movements
+(e.g.~Brownian motion) and a model or observations of the environment
+(e.g.~in situ oceanography) to estimate the posterior distribution of
+the state (e.g.~animal position and behavior). Several \texttt{R}
+packages exist for analyzing movement data with HMMs, including
+\texttt{ctmm} \citep{Calabrese2016} and \texttt{moveHMM}
+\citep{Michelot2016}, but none are designed for geolocating marine
+fishes with archival tag data. An electronic tag manufacturer (Wildlife
+Computers, Inc.) recently updated their proprietary software (GPE3) to
+geolocate archival tag data based on light levels and sea surface
+temperature (SST) in a HMM framework following \citet{Pedersen2008}.
+However, GPE3 is limited by a lack of behavior state-switching dynamics
+and does not include functionality for non-surface oriented species.
+GPE3 is also proprietary software that cannot be modified by the user
+and is limited to tags built by Wildlife Computers.
 
-%Figure 1: Expression across treamtments
-\begin{figure}[p!]
-  \centering
-    \includegraphics[width=1\textwidth]{Images/C2_Figure1_v6.pdf}
-    \caption[Expression patterns of putative reference genes]{Expression patterns of putative reference genes identified through literature-based searches, $k$-means clustering, and ASC analysis. Through literature-based searches, a total of 101 genes homologous to reference genes from previous studies on plants and algae were identified in \textit{T. pseudonana} and plotted to indicate deviation and mean TPM (Literature). $K$-means clustering was applied to the 7380 genes and Cluster 9 (243 genes) and Cluster 14 (466 genes) possessed the genes with the most stable expression pattern across the four treatments. Genes from these clusters are plotted to indicate deviation and mean TPM ($k$-means: Cluster 9; $k-$means: Cluster 14). ASC was used to assess statistical significance (post-$p < 0.1$) of fold changes of 1.10, 1.25, and 1.50 for each treatment relative to the replete control. Genes from these fold change bins are plotted to indicate deviation and mean TPM (ASC: 1.50 fold change; ASC: 1.25 fold change; ASC 1.10 fold change). For a fold change of 1.10, two genes, both hypothetical proteins, (NCBI: 7446346 and 7452192) passed the post-$p < 0.1$ cutoff, and represent the most stable genes based on the ASC analysis (\ref{DS23}). For each of the six classes of putative reference genes, tag counts were normalized to total library size (in TPM) and are plotted relative to the mean for each of the four treatments: Replete (Rep), P-limited (P-lim), Fe-limited (Fe-lim), and co-limited (Co-lim). The color of the line correlates to the mean normalized tag count. A star marks a gene (NCBI: 7451632) in Cluster 14 that is not on the scale of expression for P-limited (1104.7 TPM) and co-limited (-1664.9 TPM) treatments. }
-  \label{fig:c2f1}
-\end{figure}
+Our primary objective was to build an analysis toolkit to improve
+geolocation estimates from electronic archival tags deployed on marine
+animals that alleviates many of the limitations imposed by previous
+approaches. The new \texttt{R} package \texttt{HMMoce} uses available
+electronic tag data and oceanographic data mined from ocean observing
+system portals to estimate animal movements, behavior, and residency
+from uncertain and temporally correlated movement data. We modify and
+expand a hidden Markov approach
+\citep{Thygesen2009a, Pedersen2008, Pedersen2011} that, in addition to
+estimating animal movements, allows behavior state estimation and
+provides information about the posterior distribution of the modeled
+states that can be used as a residency metric \citep{Pedersen2011}. The
+modeling framework we developed is sufficiently flexible to accommodate
+other tag types and animal movement questions, can be applied in any
+geographic location, and benefits from the transparency of a widely-used
+open source platform. Here we describe the model framework and
+demonstrate its applicability using example data. For specific details
+on package use and functions and a full tutorial with an example
+dataset, please refer to the package and its accompanying vignette,
+available on CRAN.
 
-The high-throughput transcript dataset was analyzed with $k$-means clustering. Prior to performing $k$-means cluster analysis, FOM optimization was run and found to be minimized at $k=1$5. Thus, $k$-means analysis was run under the Pearson correlation coefficient for $k=15$, yielding 15 clusters, for which the intra-cluster variation was minimized (\cref{fig:a1f2}). Of the 15 clusters produced (ranging in size from 162 to 954 genes), Cluster 4 (433 genes), Cluster 9 (243 genes), and Cluster 14 (466 genes) had candidate reference genes based on a low magnitude of change associated with the expression patterns in those clusters (\cref{fig:a1f2}). However, Cluster 4 showed a clear pattern of differential regulation (downregulated in the replete and upregulated in the co-limited), and as such it was not considered to be an optimal candidate cluster and was excluded from additional analyses. Both Cluster 9 and Cluster 14 consisted of genes with a wide range in mean TPM values (1.74 to 4191.91 TPM), with relatively small deviations from the mean value (\cref{fig:c2f1}; \ref{DS22}), which stands in contrast to other clusters that had definite treatment driven expression patterns (\cref{fig:a1f2}). Despite the relatively small deviations from the mean value, genes in Clusters 9 and 14 displayed both clear patterns of regulation, as demonstrated by the average change in tag count relative to the mean (\cref{fig:c2f2}) and the presence of ``outlier'' genes with differential expression such as NCBI: 7451632, which was downregulated in the co-limited treatment for Cluster 14 (\cref{fig:c2f1}; \ref{DS22}). \par
+\section{Overview of HMMoce}
 
-%Figure 2: Deviation from the mean
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.65\textwidth]{Images/C2_Figure2_v6.pdf}
-    \caption[Average deviation from the mean level of expression for putative reference genes]{Average deviation from the mean level of expression for all genes found with literature-based searches, $k$-means clustering, and ASC analysis of 1.25 fold change. The average change in tag count from the mean expression (TPM) for all the genes identified through literature-based searches for genes homologous to known reference genes from the literature $(n = 101)$, $k$-means clustering from Cluster 9 $(n = 243)$ and Cluster 14 (n = 466), and ASC analysis identifying genes demonstrating a 1.25 fold change with a post-$p < 0.1$ $(n = 179)$. The mean standard deviations for the four cases are as follows: Literature (92.62 TPM), Cluster 9 (41.66 TPM), Cluster 14 (43.12 TPM), and ASC (14.24 TPM). The mean TPM is plotted for the four treatments: Replete (Rep), P-limited (P-lim), Fe-limited (Fe-lim), and co-limited (Co-lim).}
-  \label{fig:c2f2}
-\end{figure}
+\subsection{Model formulation}
 
-Adapting ASC to examine stable expression patterns, genes for which the post-$p$ was less than 0.1 (e.g. had less than a 10\% chance of equaling or exceeding the fold change cutoff) were plotted in three low fold change bins: 1.10, 1.25, and 1.50. A post-$p$ of 0.1 was selected as it optimized the dataset for a wide range of mean gene expression values and provided coverage for each of the fold change bins examined (\cref{tab:c2t1}). The number of genes in each of the fold change bins increased with increasing value of fold change. For example, two genes passed the 1.10 cutoff, 179 genes passed the 1.25 cutoff, and 1375 genes passed the 1.50 cutoff. With the increase in the number of genes came an increase in the variation from the mean of the normalized tag counts (\cref{fig:c2f1}; \ref{DS23}). \par
-The bin with the 1.10 cutoff had two genes (NCBI: 7446346 and 7452192), which are both hypothetical proteins (\cref{fig:c2f1}). A BLASTn search of 7446346 against the nr NCBI database yielded 69\% identity over 251 base pairs (e-value, 1e-13) to a hypothetical protein (NCBI: CP000544.1) from \textit{Halorhodospira halophila}, a salt-tolerant purple bacterium, and 69\% identity over 232 base pairs (e-value, 1e-12) to a hypothetical protein (NCBI: CP001905.1) from \textit{Thioalkalivibrio} sp. K90mix, also a salt-tolerant chemolithoautotrophic bacteria. BLASTp searches of 7452192 showed the highest identity hits to hypothetical proteins from \textit{Aureococcus anophagefferens} (NCBI: EGB11506.1; 31\% identity; e-value, 2e-21) and from \textit{Chlorella variablis} (NCBI: EFN56803.1; 24\% identity; e-value, 7e-11).\par
+We present a process-based approach to estimate residency and behavior
+from movement data collected with electronic archival tags. The logic of
+this approach involves calculating gridded observation likelihoods at
+each time point based on tag and environmental data, forming the
+state-space model, estimating model parameters and model selection and
+interpretation. The application of grids to explicitly resolve space is
+a key component that allows state estimation (location and behavior, in
+this case) to be supplemented by or based entirely on environmental data
+(e.g.~temperature at depth). The details of the discretized grid HMM
+approach are thoroughly explained elsewhere
+\citep[e.g.][]{Thygesen2009a, Pedersen2011}. A detailed methodology for
+our approach can be found in the supplement.
 
-
-
-
-The 1.25 fold change bin was used for the identification of candidate reference genes as it offered a larger selection than the 1.10 fold change bin without including genes with increased deviations from the mean, as was the case with the 1.50 fold change bin. Thus, the 1.25 fold change category was the focus of the rest of the analyses (\ref{DS23}). Genes in the 1.25 fold change bin showed a broad range of mean normalized tag counts ranging from 7 to over 1200 TPM with a median of 41.94 TPM, providing for the selection of genes with different levels of constitutive expression in the cell (\cref{fig:c2f1}). Notably, the median of the average tag counts of the genes in the ASC 1.25 fold change bin was 41.94 TPM, which is much higher than that of both Cluster 9 and Cluster 14 with median values of 14.18 TPM and 21.93 TPM, respectively. \par
-
-\begin{landscape}
-\begin{table}[h!]
+\begin{table}[b] % tag summary
 \centering
-\caption{Gene counts for the fold change bins of 1.50, 1.25, and 1.10 across posterior probability cutoffs ranging from 0.01 to 0.20.}
+\caption[Satellite tagging summary for model data]{Tagging summary for double-tagged blue (BSH) and shortfin mako (MKO) sharks used in this study. PDT, Light, SST and SPOT = percent of deployment period with depth-temperature profile (PDT), light and sea surface temperature (SST) data from the PSAT tag and percent of deployment period with Argos-based positions (SPOT), respectively.}
 \label{tab:c2t1}
 \small
-\begin{tabular}{|p{2.2cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|p{1.25cm}|}
-\hline
-Fold change & \multicolumn{3}{c|}{1.50}                   & \multicolumn{3}{c|}{1.25}                   & \multicolumn{3}{c|}{1.10}                   \\ \cline{1-10} 
-Posterior probability                             & Number of genes & Min. TPM & Max. TPM & Number of genes & Min. TPM & Max. TPM & Number of genes & Min. TPM & Max. TPM \\ \hline
-post-$p < 0.2$        & 1649            & 2.11        & 1802.38     & 312             & 2.83        & 1281.15     & 8               & 20          & 176.63      \\ \hline
-post-$p < 0.1$         & 1375            & 2.22        & 1802.38     & 179             & 7.06        & 1281.15     & 2               & 51.81       & 105.73      \\ \hline
-post-$p < 0.05$       & 1127            & 2.83        & 1802.38     & 122             & 20          & 1281.15     & 1               & 105.73      & 105.73      \\ \hline
-post-$p < 0.01$        & 801             & 5.69        & 1802.38     & 62              & 20          & 1281.15     & 0               & NA          & NA          \\ \hline
+%\begin{tabular}[t]{lrllrrrrr}
+\begin{tabular}{p{1.25cm} p{1.25cm} p{2cm} p{2cm} p{1.5cm} p{1.25cm} p{1cm} p{1cm} p{1cm}}
+\toprule
+\textbf{Species} & \textbf{Tag ID} & \textbf{Start Date} & \textbf{End Date} & \textbf{Duration (d)} & \textbf{PDT (\%)} & \textbf{Light (\%)} & \textbf{SST (\%)} & \textbf{SPOT (\%)}\\
+\midrule
+BSH & 141254 & 2015-10-21 & 2016-02-05 & 107 & 72 & 100 & 92 & 96\\
+BSH & 141256 & 2015-10-13 & 2016-02-24 & 134 & 66 & 94 & 88 & 87\\
+BSH & 141259 & 2015-10-13 & 2016-04-10 & 180 & 53 & 94 & 82 & 85\\
+MKO & 141257 & 2015-10-15 & 2016-04-12 & 180 & 58 & 96 & 69 & 72\\
+\bottomrule
 \end{tabular}
 \end{table}
-\end{landscape}
+
+%Figure 1: example PDT data
+\begin{figure}[p]
+\centering
+\includegraphics[width=1\textwidth]{images/C2_Fig1.pdf}
+\caption[Example pop-up satellite archival tag data]{Example blue shark data demonstrating the deployment days with
+(A) light, (B) sea surface temperature and (C)
+depth-temperature profile data used as the observation portion of the
+HMM. Full [F] and removal [R] datasets for light and SST are shown
+(A,B).}
+\label{fig:c2f1}
+\end{figure}
+
+Briefly, observation-based likelihoods (\cref{eq:a1e1}) were derived from in
+situ SST (\cref{eq:a1e2}), light-based longitude and depth-temperature profile
+data (\cref{eq:a1e3, eq:a1e4, eq:a1e5}) collected by the tags using five separate
+likelihood calculations: \emph{1)} An SST likelihood (\cref{eq:a1e2}) was
+generated for tag-based SST values integrated according to an error term
+($\pm$ 1\%, based on tag sensor accuracy) and compared to
+remotely-sensed SST from daily, optimally-interpolated SST fields
+\citep[OI-SST, 0.25$^{\circ}$ resolution;][]{Banzon2016}. \emph{2)} Light-based
+longitude likelihood was derived using estimates of longitude from GPE2
+software (Wildlife Computers, Inc.), which facilitated visual checking
+of light curves. Depth-temperature profiles recorded by the tag were
+compared to \emph{3)} monthly climatological mean depth-temperature data
+from the World Ocean Atlas 2013 \citep[WOA, 0.25$^{\circ}$
+resolution;][]{Locarnini2013} and \emph{4)} daily reanalysis model
+depth-temperature products from the HYbrid Coordinate Ocean Model
+\citep[HYCOM, 0.08$^{\circ}$ resolution;][]{Chassignet2007} at standard depth
+levels available in these products (\cref{eq:a1e5}). Individual likelihood
+surfaces for each depth level were then combined for an overall profile
+likelihood at that time point (\cref{eq:a1e6}). \emph{5)} Ocean Heat Content
+(OHC)(\cref{eq:a1e5}) was obtained by integrating the heat content of the water
+column above the minimum daily temperature recorded by the tag for both
+the tag profiles and HYCOM fields \citep[\cref{eq:a1e4};][]{Luo2015}. Start and
+end locations were considered known in all cases and model runs.
+
+The resulting observation likelihoods (in various combinations; \cref{eq:a1e1})
+were used in a two-step Bayesian state-space approach to estimate the
+posterior distribution of the state (in this case, a joint probability
+distribution of location and behavior at each time point). Probability
+distributions were first calculated forward in time using alternating
+time and data updates of the current state estimate using a HMM filter
+\citep[for a detailed methodology of the HMM filter see Appendix 2
+in][]{Pedersen2011}. The filter recursions also returned a likelihood
+measure indicating how well the model fit the data, which facilitated
+calculating model parameters (e.g.~behavior state-switching
+probabilities). In Bayesian statistics, the maximum a priori (MAP)
+estimate of the model parameters is typically used to calculate the
+posteriors; however, in practice, ample a priori information is rarely
+available and maximum likelihood (ML) estimates are often very similar
+to MAP estimates \citep{Jonsen2005}. Thus, we implemented recent
+advances by \citet{Woillez2016} that further exploited the
+discretization of space in this model by employing a joint ML estimation
+of all model parameters using an iterative Expectation-Maximization
+framework.
+
+Model selection in this context would typically use Bayesian Information
+criterion (BIC), but this approach requires approximation that imposes
+restrictions on the priors. Instead, we used Akaike's Information
+criterion (AIC) for model selection following \citet{Pedersen2011}. The
+HMM smoother recursion was the final step that worked backwards in time
+using filtered state estimates and all available observation data to
+determine smoothed state estimates. This step provided the time marginal
+of the probability distributions based on observations (posterior
+distributions).
+
+Results from the final smoothing step represent the posterior
+distribution of each state over time. Distributions are summed for each
+behavior state and time step to determine the most likely behavior state
+through time. \texttt{HMMoce} can calculate the mean or mode of the
+posterior distribution grid, at each time step, to estimate the animal's
+position. The posteriors can be further analyzed for additional
+inference including uncertainty and residency. A residency distribution
+(RD) is conceptually similar to the utilization distribution (UD), but
+the concept of UD (and other space-use metrics) is often vaguely defined
+\citep{Royle2008}. In this case, RD is interpreted as the estimate of
+the time spent in a given space within a time interval \citep[see Eq. 5
+in][]{Pedersen2011}.
+
+%Figure 2: All track comparison
+\begin{figure}[p!]
+\centering
+\includegraphics[width=1\textwidth]{images/C2_Fig2.pdf}
+\caption[Comparison of results from various geolocation approaches]{Calculated tracks for mako shark 141257 using the 4 different
+geolocation approaches (Ukfsst, purple; Trackit, blue; GPE3, green;
+\texttt{HMMoce}, yellow) compared to the "known" Argos-based track
+(red, black crosses). Latitudinal and longitudinal estimates through
+time are shown in panels B and C, respectively. Lines appear broken when
+a resulting track is missing daily data.}
+\label{fig:c2f2}
+\end{figure}
+
+\subsection{Computational improvements and
+requirements}
+
+While the basic framework of \texttt{HMMoce} was based on previous work
+\citep{Pedersen2008, Thygesen2009a, Pedersen2011}, several improvements
+were made to accommodate user needs. We focused several enhancements on
+improving computation efficiency, which was a limitation of previous
+techniques \citep[\texttt{SPHMM} code for \texttt{R};][]{Pedersen2011}.
+Image processing routines replaced sparse matrix convolution yielding
+orders of magnitude improvements in computation time, particularly for
+large, high-resolution grids that characterize geolocation approaches
+for highly migratory species. In addition, all likelihood routines
+(except simple light-based likelihood calculations) were parallelized,
+yielding marked performance improvements, particularly for likelihoods
+comparing 3D depth-temperature profiles to high-resolution 3D HYCOM
+grids.
+
+Despite these improvements, \texttt{HMMoce} remains relatively
+computationally intensive; however, cloud computing is becoming more
+inexpensive and accessible to a broad user group. The \texttt{HMMoce}
+package includes a vignette demonstrating simple plug and play
+functionality for the model using Amazon Web Services's computational
+resources and an associated machine image containing RStudio Server and
+all the required dependencies for running \texttt{HMMoce} with
+user-provided tag data.
+
+\begin{table}[h!] % error metrics
+\caption[Validation metrics for geolocation methods]{Validation metrics for double-tagged
+blue (BSH) and shortfin mako (MKO) shark tracks estimated using HMMoce,
+GPE3, Trackit (TI) and Ukfsst. Reported error values (mean, sd, median,
+range) are pointwise distance calculations (mean great circle distance)
+from known positions (km). Root-mean-square errors (RMSE) are Lat, Long
+(degrees). HMMoce.r and GPE3.r indicate fit metrics for data removal
+experiments in which 75\% of daily light and 50\% of daily SST data was
+randomly removed. Input indicates input data type: light (L), SST (S),
+ocean heat content (O), World Ocean Atlas profiles (W) and HYCOM
+profiles (H). All runs were performed on a 0.08$^{\circ}$ grid with fixed
+migratory speed of 2 m/s (except 141259 used 4 m/s).}
+\label{tab:c2t2}
+\centering
+\begin{tabular}[t]{lrllrlll}
+\toprule
+\textbf{Species} & \textbf{Tag ID} & \textbf{Type} & \textbf{Mean (SD)} & \textbf{Median} & \textbf{Range} & \textbf{RMSE} & \textbf{Input}\\
+\midrule
+BSH & 141254 & HMMoce & 117.4(96.7) & 92.4 & 0.5-443.6 & 1.21, 0.81 & LSO\\
+ &  & GPE3 & 175.8(117.1) & 164.3 & 3.2-424.7 & 1.4, 1.64 & LS\\
+ &  & TI & 162.3(71.6) & 158.2 & 1-328.2 & 0.97, 1.65 & L\\
+ &  & KF & 179.5(99.5) & 178.5 & 1-435.2 & 1.29, 1.24 & L\\
+ &  & HMMoce.r & 131.2(96.2) & 101.9 & 0.5-440.5 & 1.23, 1.01 & LS\\
+ &  & GPE3.r & 157.6(100.6) & 143.5 & 1.4-408.9 & 1.25, 1.44 & LS\\
+\addlinespace
+BSH & 141256 & HMMoce & 83.8(63) & 63.7 & 4.9-297.4 & 0.52, 0.93 & LSH\\
+ &  & GPE3 & 84.9(68.8) & 66.9 & 5.9-345 & 0.66, 0.89 & LS\\
+ &  & TI & 474.2(244.1) & 459.9 & 0-854.3 & 1.98, 4.84 & L\\
+ &  & KF & 192.7(152.4) & 172.6 & 0-699.8 & 1.35, 0.65 & L\\
+ &  & HMMoce.r & 93.4(57.8) & 79.1 & 4.2-286 & 0.59, 0.92 & LSH\\
+ &  & GPE3.r & 423.5(432) & 197.8 & 2.1-1394 & 4.25, 3.96 & LS\\
+\addlinespace
+BSH & 141259 & HMMoce & 179.4(126) & 150.3 & 4.4-575.2 & 1.79, 1 & LS\\
+ &  & GPE3 & 158.1(109.6) & 139.5 & 4.9-434.5 & 1.44, 1.17 & LS\\
+ &  & TI & 367.5(239.1) & 291.4 & 2.4-861.5 & 3.3, 2.36 & L\\
+ &  & KF & 245.8(225.5) & 194.5 & 1.7-1078.7 & 2.31, 0.88 & L\\
+ &  & HMMoce.r & 183.3(132.2) & 140.5 & 4.4-560.5 & 1.9, 0.88 & LS\\
+ &  & GPE3.r & 198(129.5) & 162.0 & 6.1-625.8 & 1.61, 1.77 & LS\\
+\addlinespace
+MKO & 141257 & HMMoce & 99.8(90.7) & 66.8 & 3.8-426.9 & 0.92, 0.99 & LSH\\
+ &  & GPE3 & 151.1(161.1) & 93.0 & 6.8-675.2 & 0.65, 2.38 & LS\\
+ &  & TI & 462.6(347.7) & 320.5 & 0-1332.7 & 4.6, 2.79 & L\\
+ &  & KF & 220.4(151.2) & 173.7 & 0-614.6 & 1.3, 1.32 & L\\
+ &  & HMMoce.r & 157.9(128.2) & 119.1 & 3.8-494.4 & 1.05, 1.92 & LSH\\
+ &  & GPE3.r & 182.3(171.8) & 136.4 & 0.3-711.2 & 0.88, 2.62 & LS\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Case study: pelagic shark
+movements}
+
+To illustrate the application of \texttt{HMMoce}, we analyzed tag data
+from three blue sharks (\emph{Prionace glauca}) and one shortfin mako
+(\emph{Isurus oxyrinchus}) that were double-tagged with satellite-linked
+radio telemetry tags (Wildlife Computers finmount SPOT5 tags) and PSAT
+tags (\cref{tab:c2t1}). Full tagging methods are provided in the
+supplement. We considered the resulting Argos-based tracks as "known"
+because errors on geolocation estimates from the SPOT tags are much
+lower \citep[typically \textless{} 10 km;][]{Witt2010, Patterson2010}
+than PSAT-based outputs \citep[\textgreater{} 50 km;][]{Winship2012}.
+The PSAT tags were deployed for an average of 150 days (range 107-180)
+in the northwest Atlantic with overall movements of 5403-12122 km. The
+PSAT data contained depth-temperature profiles for 53-72\% of days at
+liberty and SPOT locations were recorded for 72-96\% of deployment days
+(\cref{tab:c2t1})
+
+Blue sharks made frequent dives to the mesopelagic zone
+($\sim$600-800m, max 680-1688m) but also frequented the
+surface-air interface where the PSAT tags collected good quality light
+and SST data (94-100\% deployment days with light, 82-92\% SST)(\cref{fig:c2f1}). The mako occupied a restricted area
+($\sim$200 km latitudinal distance) near Cape Hatteras during
+the winter months and spent relatively little far from the edge of the
+continental shelf compared to the more nomadic blue sharks. The mako
+also had high quality light and SST data (96\% and 69\%, respectively)
+while regularly diving shallower than the blue sharks
+($\sim$400m). Consistent exposure of the dorsal fin allowed
+the SPOT tag to acquire Argos positions throughout the duration of each
+deployment (\cref{tab:c2t1}).
+
+We calculated movements of the sharks from PSAT tag data using three
+modeling approaches that are currently available (Ukfsst, Trackit, GPE3)
+and \texttt{HMMoce} \textbf{(Supp. 1.6)}. Results for the mako are shown in the
+main text (Fig. 2), and blue shark figures are
+provided in the supplement (\cref{fig:a1f2, fig:a1f3, fig:a1f4}). In general,
+\texttt{HMMoce} and GPE3 produced the most accurate tracks while those
+from Ukfsst and Trackit were often unrealistic with errors as high as
+\textgreater{}1300 km (\cref{tab:c2t2}). For 3 of 4 individuals, \texttt{HMMoce}
+tracks had the lowest pointwise error and correspondingly lowest
+root-mean-square error (RMSE) values. For the fourth individual (blue
+shark 141259), the mean error and RMSE in latitude for GPE3 ouput was
+lower than \texttt{HMMoce}, which had a lower RMSE in longitude. The
+traditional approaches (light only, Trackit; light and SST, Ukfsst)
+yielded much larger error than \texttt{HMMoce} in all cases and only one
+Trackit output (blue shark 141254 without SST) exhibited marginally
+smaller error than GPE3 (with SST). In 3 of 4 cases, \texttt{HMMoce}
+demonstrated the best fitting model by leveraging either OHC (n=1) or
+HYCOM profiles (n=2) (\cref{tab:c2t2}) in addition to light-based longitude and
+SST data used in the other geolocation approaches. The movements of blue
+shark 141259, in which the \texttt{HMMoce} model did not use
+profile-based observations to build the final estimated track, included
+time in both dynamic Gulf Stream water and the more homogenous Sargasso
+Sea. It proved difficult in both areas to match water column profiles
+recorded by the tag (or integrated OHC) with an accurate and constrained
+position in the climatological (WOA) or model-based (HYCOM)
+oceanographic data (\cref{tab:a1f5}).
+
+While \texttt{HMMoce} was designed to improve geolocation estimates for
+all tagged marine organisms, the main impetus for the work was to
+fulfill a need for improving track estimates in cases where light and
+SST data were lacking due to minimal surface occupation. We tested the
+ability of \texttt{HMMoce} to recover accurate tracks with only limited
+light-level data by randomly removing (using \texttt{sample} in base
+\texttt{R}, without replacement) 75\% and 50\% of deployment days with
+adequate light and SST data, respectively, from the shark PSAT data
+while keeping the depth-temperature profile data for these days. The
+removals approximated PSAT data quality typical of swordfish tag
+deployments in the Atlantic Ocean due to crepuscular diving behavior and
+light avoidance \citep{Braun2015, Neilson2009}. The data removal
+experiment (\cref{fig:c2f1}) demonstrated the power of incorporating
+the depth dimension in likelihood calculations when light and/or SST
+data is poor. In all 4 cases, \texttt{HMMoce} estimated tracks with
+lower mean error than corresponding GPE3 results (\cref{tab:c2t2}), but model
+selection favored including depth-temperature profile information in
+only 2 of 4 final models. Error in the removal experiment for
+\texttt{HMMoce} was only marginally higher as compared to the full
+dataset for 3 of 4 individuals (\cref{tab:c2t2}).
+
+%Figure 3: hmmoce results
+\begin{figure}[p!]
+\centering
+\includegraphics[width=.85\textwidth]{images/C2_Fig3.pdf}
+\caption[Movement and behavior results from HMMoce]{Movements (A) and behavior (B) calculated using
+\texttt{HMMoce} for mako 141257. The tagged individual is considered
+resident where probability of residency is greater than 0.5 (grey points
+and bars in panels A and B, respectively). Green and red points indicate
+tag and pop-up location respectively. Black line follows predicted daily
+locations of tagged shark.}
+\label{fig:c2f3}
+\end{figure}
+
+%Figure 4: residency distributions
+\begin{figure}[p!]
+\centering
+\includegraphics[width=.8\textwidth]{images/C2_Fig4.pdf}
+\caption[Residency distribution results from HMMoce]{Residency distributions for the overall \texttt{HMMoce}
+modeled movements (A) and for individual behavior states (B, C). Shaded
+circles indicate residency behavior, white circles indicate migratory
+behavior, green triangle is tagging location and red triangle is pop-up
+location. Residency distributions show the expected proportion of time
+spent in various grid cells over the course of tag deployment.}
+\label{fig:c2f4}
+\end{figure}
 
 
+Both GPE3 and \texttt{HMMoce} provide estimated residency distributions
+(RD; a form of utilization distribution) \citep{Pedersen2011}. However,
+only \texttt{HMMoce} incorporates a state-switching component that
+facilitates explicit modeling of distinct animal behaviors (\cref{fig:c2f3}). The state-switching is governed by movement kernels
+(based on speed) and probability of switching between states is
+calculated by the EM algorithm (\cref{tab:a1t1}). For the mako, the RDs
+indicated areas of core use focused largely where resident behavior was
+most probable. The RD for the migratory state showed the offshore
+movement to the SE into the Gulf Stream region before the fish returned
+to the shelf break and moved SW toward Cape Hatteras. The most notable
+features of the migratory RD are the overlap areas where the fish
+transitioned from migratory to resident behaviors (\cref{fig:c2f4}).
 
-	Underlying differences in the magnitude and pattern of expression variation across treatments were identified by examining the average tag count change for each reference gene detection method (\cref{fig:c2f2}). If all genes in a group were perfectly constitutively expressed, the average change in tag count relative to the mean observed would be 0 TPM (e.g. the TPM values across all treatments for each of the genes within a group were the same). The average variation from the mean observed in the literature (ranging from -25.34 to 23.84 TPM) highlighted the differential expression across treatments. The average change in tag count relative to the mean in both Cluster 9 (ranging from -16.56 to 8.47) and Cluster 14 (ranging from -18.72 to 11.11 TPM) clearly demonstrated patterns of regulation across treatments (e.g. the upregulation under P-limitation and downregulation under co-limited observed in Cluster 14). In contrast, the average change in tag count relative to the mean observed in the genes identified through ASC (1.25 fold change with post-$p$ < 0.1), which showed a low magnitude of variation (ranging from -1.732 to 1.613 TPM) and a small mean standard deviation across the four treatments (14.24 TPM). Ultimately, the expression patterns of the majority of the genes identified through literature-based searches and $k$-means clustering were more variable across the \textit{T. pseudonana} test treatments, than those genes identified with ASC.\par	
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.75\textwidth]{Images/C2_Figure3_v6_bw.pdf}
-    \caption[Comparison of putative reference genes identified through literature, $k$-means clustering, and ASC analysis]{Comparison of possible reference genes found with literature-based searches, $k$-means clustering, and ASC analysis of 1.25 fold change. Venn diagram analysis was used to compare genes identified as candidate reference genes through literature-based homolog searches (totaling 101 genes), with the $k$-means clustering method (genes in Cluster 9 and 14, totaling 709 genes), and with quantitative exclusion by ASC (based on genes demonstrating a 1.25 fold change with a post-$p < 0.1$, totaling 179 genes). The number of genes in each region is reported. The intersection of all ASC and literature-based searches yielded six total genes representing three different gene families: actin (NCBI: 7449411), cyclophilin (NCBI: 7445376), and ubiquitin ligase (NCBI: 7448637, 7450639, 7446724, and 7451971). }
-  \label{fig:c2f3}
-\end{figure} 
-A comparison of the three techniques: literature-based searches, $k$-means cluster selection, and ASC cutoff at 1.25 fold change revealed comparatively few genes in common between the techniques (\cref{fig:c2f3}). Of the 709 genes identified through $k$-means clustering and the 179 genes found through ASC analysis (genes which pass the 1.25 fold change cutoff for post-$p$ < 0.1), 21 genes are shared (\cref{fig:c2f3}), of which six lacked GO annotations or KOG definitions (\ref{DS22}). Between the genes identified through literature and ASC analysis, six genes were held in common; these genes were representative of the general gene classifications: actin (NCBI: 7449411), cyclophilin (NCBI: 7445376), and ubiquitin ligases (NCBI: 7448637, 7450639, 7446724, and 7451971). Only two genes (NCBI: 7448637 and 7446724) were found in common amongst all three methods of reference gene selection, both of which were annotated as putative ubiquitin ligases (\ref{DS21}). \par
+\section{Conclusions}
 
+We present a flexible, customizable and transparent HMM framework that
+may be applied to nearly any marine species utilizing electronic
+archival tags through a novel use of oceanographic data. Tests of the
+model demonstrated that \texttt{HMMoce} is a valuable tool for
+estimating movements from low quality PSAT data through consideration of
+the vertical structure of the water column in the state estimation. This
+can be especially beneficial for tag data that is lacking adequate
+light-level data or other measurements.
 
+For further development, we anticipate several improvements to the
+\texttt{HMMoce} package. Current priorities include support for other
+tag types, direct versus derived use of light data, and additional
+algorithms (e.g.Viterbi) to calculate the most probable track
+\citep{Pedersen2011}. Behavior state estimation could be expanded to
+include advection or modified to update probability with respect to
+environmental data \citep{Patterson2009}.
 
-\section{Discussion}
-	Prior to the availability of high-throughput molecular datasets, reference genes for non-model organisms were selected based on literature reports of stably expressed genes in model organisms. With non-model organisms such as eukaryotic phytoplankton this task is particularly difficult, as stably expressed genes are not readily apparent in the relatively limited molecular literature specific to these organisms. Often the selection of a reference gene relies on information from distantly related organisms under dissimilar conditions, leading to extensive validation work \citep{McDonald2010, Whitney2011a}. Herein, we compared the efficacy of reference gene selection based on the literature as compared to verifiable selection through $k$-means clustering and ASC analysis of high-throughput transcriptome data in \textit{T. pseudonana} across four nutrient treatments (replete, P-limited, Fe-limited, and co-limited). These treatments are of environmental relevance as both P and Fe are major drivers of diatom physiological ecology and consequently carbon fixation \citep{Moore2004}. Additionally, P and Fe often occur concurrently at very low concentrations in marine systems and have been found to be independently co-limited, or mutually exclusive biochemically \citep{Saito2008}.\par
-    Our literature-based search of relative gene expression studies from 12 algae and plants yielded 18 general reference gene categories, for which 101 homologs in the \textit{T. pseudonana} genome were identified (\ref{DS21}). While some of these genes demonstrated stable expression (e.g. actin, cyclophilin, and ubiquitin conjugating enzymes), the vast majority displayed some form of differential expression in the treatments examined herein. Furthermore, there was considerable heterogeneity of expression among the different gene copies of actin, cyclophilin, and ubiquitin conjugating enzymes, demonstrating that not all genes within a gene family are stably expressed. These data underscore that a literature-based selection of reference genes necessitates validation across all treatments of interest \citep{Vandesompele2002, Pfaffl2004}. \par
-	Differential expression patterns in high-throughput datasets are often analyzed with clustering methods, such as hierarchical or $k$-means clustering \citep{Dhaeseleer2005}. Rather than using a clustering method for the identification of differential expression patterns, here it is applied to identify constitutively expressed genes. The $k$-means clustering algorithm was chosen as it is a top-down or partition-based approach to gene clustering that is not hierarchical and requires few assumptions about the data \citep{Hartigan1979}. Several of the 709 putative reference genes identified by $k$-means analysis (from Clusters 9 and 14) were clearly differentially regulated, with large deviations from the mean expression level. The presence of outliers is to be expected using the $k$-means method, for it is a pattern-based method and all genes must be placed into one of the partitioned $k = 15$ clusters. Thus, optimal placement of a gene is not always guaranteed. As with a finite number of clusters, the assignment of a gene is often forced. For example, even genes in Cluster 9 and 14 were subject to strong patterns of regulation, with both clusters demonstrating large average changes in tag count relative to the mean tag count. Arguably, it is better to select a reference gene from a pool of genes that do not share the same pattern of regulation. Therefore, genes uncovered via $k$-means clustering must be manually surveyed to exclude genes with large deviation prior to the selection of a candidate reference gene.\par
-	In lieu of clustering approaches, other studies have used statistical parsing of ESTs in tomato plants \citep{Coker2003} and Affymetrix whole-genome GeneChip data from \textit{A. thaliana} \citep{Czechowski2005} and humans \citep{DeJonge2007a} to identify reference genes that have small deviations from the mean of replicated treatments. In contrast to these and other statistical methodologies typically applied to high-throughput sequence data with replication, the Bayesian approach to gene expression analysis, ASC, allowed for selection of candidate genes based on a statistical cutoff rather than cardinality. Though typically used for the identification of differentially expressed genes, the function of ASC was reversed in this study by lowering the post-$p$ cutoff. Genes for which post-$p < 0.1$ for a specified fold change were targeted, meaning that genes that were unlikely to have made that fold change were selected. The 1.25 fold change bin yielded the most options for candidate reference genes without sacrificing stability of expression (as was seen in the 1.50 fold change bin). \par
-	ASC provides a method of identifying reference genes with expression levels similar to those of target genes. For example, the mean normalized tag counts of genes identified using ASC were broad (from 7 to over 1200 TPM), providing the opportunity for reference gene expression to be generally matched with target gene expression. Current studies frequently employ reference genes for endogenous control that have very high levels of expression across all treatments, such as ACT1 (NCBI: 7449411) in \textit{T. pseudonana} (which has a mean expression value of 1024.1 TPM in this data set), yet these highly expressed genes might not be optimal for studies of genes with low levels of expression or when multiplexing targets in probe-based RT-qPCR analysis. \par
-	High-throughput transcript datasets also allow the selection of reference genes to move beyond the confines of gene annotation and previously identified reference genes. In fact, the two genes with the most stable expression in the 1.10 fold change bin are hypothetical, with no clear annotation. Of the 179 genes that passed the 1.25 fold change cutoff with ASC, 44 lacked both GO and KOG annotations. A large percentage of the 11,390 genes in the \textit{T. pseudonana} genome are annotated as hypothetical proteins \citep{Armbrust2004, Mock2008}, and here we show a number of them are stably expressed across the target conditions. This has been seen with model organisms, where a good majority of constitutively expressed genes fall outside the bounds of preconceived ``housekeeping'' genes \citep{Czechowski2005, DeJonge2007a}. By using a Bayesian approach such as ASC, hypothetical proteins can be chosen as reference genes. \par
-    Comparison of the putative reference genes recovered using ASC to previous studies served to cross-validate the ASC approach. Actin (ACT1, NCBI: 7449411) has been validated in the literature as a suitable reference gene for relative expression studies of \textit{T. pseudonana} under Fe-limitation \citep{Whitney2011a}, a treatment considered in this study, and was one of the 179 genes passing the ASC 1.25 fold change cutoff. Additionally, only five of the 179 genes with stable expression found with ASC were identified as differentially expressed in a study of \textit{T. pseudonana} under additional treatments to those described here (e.g. nitrogen limitation, silica limitation, etc.) \citep{Mock2008} (\ref{DS24}). Of the five, only one gene (NCBI: 7451974) was identified as differentially expressed under Fe-limitation, a condition examined in this study. Taken together, this validates the genes identified with ASC using alternative data and methods, and suggests that the ASC-detected genes are globally stable across many different conditions for \textit{T. pseudonana}. However, one of the two genes identified in the 1.10 fold change bin (NCBI: 7446346) was identified as significantly down-regulated under nitrogen limitation by \citet{Mock2008}. This highlights the importance of validating genes across all treatments of interest prior to their use as reference genes. \par
-	Notably, the $k$-means and ASC dataset revealed only 21 genes in common. The 179 genes found through ASC were, in fact, distributed fairly evenly across all of the 15 clusters. The lack of intersection observed between the two datasets is likely related to the parsing ability inherent in $k$-means clustering. The $k$-means approach is highly driven by patterns of differential regulation, but does not consider the significance of that regulation (e.g. genes that are not significantly upregulated are placed in a cluster with genes that are significantly upregulated). Thus, the stably expressed genes that were identified by ASC, though not displaying major patterns of regulation, were clustered based on minor patterns in variation of gene expression. Therefore, while $k$-means clustering provides a global view of commonalities in gene expression patterns, ASC is more robust at identifying reference genes.\par
-	Eight genes were common between the ASC and literature-based searches, which were distributed across three general gene classes: actin (NCBI: 7449411), cyclophilin (NCBI: 7445376), and ubiquitin ligases (NCBI: 7448637, 7450639, 7446724, and 7451971). For those interested in identifying suitable reference genes for studies in \textit{T. pseudonana} but lack transcriptome datasets across the treatments of interest, these eight genes may serve as good tentative reference genes as they are verified in this study and have been identified as stable in many other organisms under many conditions. In particular, ubiquitin ligases/conjugating enzymes have been used as reference genes in several studies involving other algae, namely, \textit{Aureococcus anophagefferens}, \textit{Phaeodactylum tricornutum}, and \textit{Prorocentrum minimum} \citep{Siaut2007, McGinn2008, Guo2012, Wurch2011, Berg2008}, and with further analysis may represent particularly good reference genes in the phytoplankton. \par
-	Sequence-based transcriptome profiling has become an increasingly useful method for gene discovery and differential expression analysis. Yet, RT-qPCR is still valuable for the examination of detailed trends in expression in both culture and field studies. Here we show that the application of ASC and, to a lesser extent, $k$-means clustering can be used to successfully screen transcriptome data for potential reference genes. The isolation of candidate reference genes using ASC with the 1.25 fold change cutoff for post-$p < 0.1$ was more robust and stringent at excluding differentially expressed genes than both the literature-based searches and $k$-means clustering. Based on these data for \textit{T. pseudonana}, it was shown that ACT 1 and ubiquitin ligase may be useful reference genes. Yet, in addition to these common reference genes, the data demonstrate that there are many more stably expressed genes (both annotated and hypothetical) to choose from for expression studies in this and potentially other diatoms. Notably, this survey focused only on variation in P and Fe supply, so these genes may not transfer to studies of other nutritional drivers or other physical forces, such as light intensity or temperature. As more transcriptome data are generated for phytoplankton, ASC can be employed without sequence replicates, to identify reference genes for other phytoplankton under various conditions. Additionally, the suite of genes identified through these analyses might allow for better multi-gene normalization analysis that would provide for the detection of smaller fold changes with certainty \citep{Vandesompele2002, Czechowski2005}.\par
-
-
-
+We anticipate user feedback will help prioritize further improvements,
+and we welcome bug reports, feedback, and suggestions for the
+development of \texttt{HMMoce} via our Github repository
+\texttt{https://github.com/camrinbraun/HMMoce}. Additional usage
+information, including an example dataset and a tutorial for using
+\texttt{HMMoce} on Amazon Web Services, can be found by installing
+\texttt{HMMoce} in \texttt{R} (\texttt{install.packages("HMMoce")}) and
+accessing the package vignette.
