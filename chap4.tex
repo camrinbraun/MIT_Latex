@@ -19,7 +19,48 @@
 
 
 %\end{singlespace}
+
+
 \clearpage
+\begin{landscape}
+\begin{table}
+\scriptsize
+\caption{Sat data}
+\label{tab:c1t1}
+\centering
+%\begin{tabular}[t]{llllll}
+\begin{tabular}{p{1.5cm} p{.8cm} p{.8cm} p{1.65cm} p{1.25cm} p{10cm} p{5cm}}
+\toprule
+\textbf{Variable} & \textbf{Resolution} &  & \textbf{Units} & \textbf{Source} & \textbf{Description} & \textbf{URL}\\
+\midrule
+SST & Daily & 1 km & $^{\circ}$C & R & Blended sea-surface temperature ($^{\circ}C$) using multiple sensors and \textit{in-situ} sources & http://mur.jpl.nasa.gov\\
+
+CHL & Weekly & 4 km & log(mg m$^3$) & R & Blended chlorophyll-a (mg m$^3$) from MODIS / Aqua-VIIRS & http://globcolour.info\\
+
+FSLE & 4 days & 4 km & day$^{-1}$ & R,D & Finite-scale Lyapunov exponent (FSLE) highlights transport barriers to horizontal exchange and is commonly used as a front metric. & ftp.aviso.altimetry.fr/lyapunov\\
+
+BATHY &  &  & m & ?? & Seafloor depth from ETOPO & url\\
+
+EDDY & Daily &  & km & R,D & descr & url\\
+
+FMAG & Daily & 1 km & $^{\circ}$C km$^{-1}$ & R,D & Fronts detected using a threshold algorithm from MUR SST data. & https://github.com/galuardi/boaR\\
+
+FDIST & Daily & 1 km & km & R,D & Distance to nearest front of magnitude > 0.1$^{\circ}$C in FMAG. & \\
+
+HSST & Daily & 9 km & $^{\circ}$C & M & Modelled sea surface temperature (SST) from HYbrid Coordinate Ocean Model (HYCOM). & http://hycom.org\\
+
+ILD & Daily & 9 km & m & M,D & Model-derived isothermal layer depth (ILD) in which $\Delta T$ from SST is 0.5 $^{\circ}$C. & http://hycom.org\\
+
+HSSH & Daily & 9 km & cm & M & Modelled sea surface height (SSH) from HYbrid Coordinate Ocean Model (HYCOM). & http://hycom.org\\
+
+EKE & Daily & 9 km & log(m$^2$ s$^{-3}$) & M,D & Model-derived eddy kinetic energy (EKE) from HYbrid Coordinate Ocean Model (HYCOM). & http://hycom.org\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{landscape}
+\clearpage
+
 
 \section{Abstract} 
 A diverse microbial assemblage in the ocean is responsible for nearly half of global primary production. It has been hypothesized and experimentally demonstrated that nutrient loading can stimulate blooms of large eukaryotic phytoplankton in oligotrophic systems. Although central to better balancing biogeochemical models, knowledge of the metabolic traits that govern the dynamics of these bloom-forming phytoplankton is limited. We employed eukaryotic metatranscriptomic techniques to identify the metabolic basis of functional group-specific traits that may drive the shift between net heterotrophy and autotrophy in the oligotrophic ocean. Replicated blooms were simulated by deep seawater (DSW) addition to mimic nutrient loading in the North Pacific Subtropical Gyre and the transcriptional responses of phytoplankton functional groups were assayed. Responses of the diatom, haptophyte, and dinoflagellate functional groups in simulated blooms were unique, with diatoms and haptophytes significantly (95\% confidence) shifting their quantitative metabolic fingerprint from the \textit{in situ} condition, while dinoflagellates showed little response. Significantly differentially abundant genes identified the importance of co-limitation by nutrients, metals, and vitamins in eukaryotic phytoplankton metabolism and bloom formation in this system. The variable transcript allocation ratio, used to quantify transcript reallocation following DSW amendment, differed for diatoms and haptophytes, reflecting the long-standing paradigm of phytoplankton r- and K-type growth strategies. While the underlying metabolic potential of the large eukaryotic phytoplankton was consistently present, the lack of a bloom during the study period suggests a crucial dependence on physical and biogeochemical forcing, which are susceptible to alteration with changing climate. 
