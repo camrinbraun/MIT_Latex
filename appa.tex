@@ -13,7 +13,7 @@
 
 \section{Supplemental Methods}
 
-\subsection*{The Approach}
+\subsection{The Approach}
 
 We present a state-space model to estimate movements and behavior from
 uncertain and temporally correlated oceanographic data collected with
@@ -37,7 +37,7 @@ The logic and use of \texttt{HMMoce} is as follows:
     \item finalize track and space use metrics
 \end{enumerate}
 
-\subsection*{Data preprocessing}%\label{sec:prep}
+\subsection{Data preprocessing}%\label{sec:prep}
 
 The \texttt{HMMoce} package contains several custom routines for reading
 and formatting Wildlife Computers tag data that can then be leveraged in
@@ -57,7 +57,7 @@ resolution) are acquired using \texttt{get.env} and the appropriate
 (\texttt{?get.env}) for more details on environmental data and for
 options to use additional input datasets.
 
-\subsection*{Calculating likelihoods}%\label{sec:lik}
+\subsection{Calculating likelihoods}%\label{sec:lik}
 
 Likelihoods are calculated using light-based longitude estimates, SST
 and depth-temperature profiles (collected by the archival tag). For each
@@ -76,7 +76,7 @@ $\leq$ 3 because no combination of light, SST and depth-temperature
 profiles can sensibly be combined for n $>$ 3 (\emph{i.e.} cannot use both
 WOA and HYCOM likelihood at the same time).
 
-\subsubsection*{Light-based longitudinal
+\subsubsection{Light-based longitudinal
 likelihoods}%\label{light-based-longitudinal-likelihoods}
 
 Tags record light levels from which sunrise and sunset times can be
@@ -88,7 +88,7 @@ likelihood surface for this data. \texttt{HMMoce} also includes
 functionality for using latitude estimates (resulting in elliptical
 likelihood surfaces), but the default is longitude only.
 
-\subsubsection*{SST likelihoods}
+\subsubsection{SST likelihoods}
 
 For daily SST likelihoods, we construct a probability density function
 integrated between calculated limits \citep{LeBris2013a} to incorporate
@@ -110,7 +110,7 @@ are calculated using a "moving window" mean from
 \texttt{raster::focal} in \texttt{R} to incorporate approximately 0.25$^{\circ}$
 of SST data around each cell.
 
-\subsubsection*{Profile-based
+\subsubsection{Profile-based
 likelihoods}
 
 Archival tags collect summaries of depth-temperature profiles at
@@ -197,7 +197,7 @@ The same process is repeated to calculate depth-temperature profile
 likelihoods using HYCOM as the environmental grid to formulate
 $L_{HYCOM}(x_{(t)})$.
 
-\subsection*{Model formulation}%\label{sec:model}
+\subsection{Model formulation}%\label{sec:model}
 
 Details of model formulation, estimation and selection for
 \texttt{HMMoce} are derived from \citet{Pedersen2011} and are discussed
@@ -249,7 +249,7 @@ This approach is still experimental but may help constrain position
 estimates by weighting regions of the observation likelihood more highly
 if they are closer to the previous days filter probability.
 
-\subsubsection*{Parameter Estimation}%\label{sec:param}
+\subsubsection{Parameter Estimation}%\label{sec:param}
 
 The filtering process above returns a likelihood measure which indicates
 how well the model fits the data. Thus, this likelihood function of the
@@ -280,7 +280,7 @@ calculated in an EM framework following \citet{Woillez2016} (see
 \texttt{expmax} function in \texttt{HMMoce}) with a change threshold
 that defaults to 1\%.
 
-\subsubsection*{Model results}%\label{sec:track}
+\subsubsection{Model results}%\label{sec:track}
 
 There are a number of ways the posterior distribution of the state can
 be used to represent animal movements. Approaches in the literature have
@@ -302,9 +302,9 @@ being in each behavioral state through time and across the recorded
 movements and can be used to detect differential space use (\emph{e.g.} \cref{fig:c2f4}
 in the main text).
 
-\subsection*{Case study methods}%\label{case-study-methods}
+\subsection{Case study methods}%\label{case-study-methods}
 
-\subsubsection*{Tagging methodology}%\label{tagging-methodology}
+\subsubsection{Tagging methodology}%\label{tagging-methodology}
 
 Three blue sharks and one shortfin mako were tagged near Cape Cod, MA
 during Fall 2015 with both pop-up satellite archival transmitting (PSAT)
@@ -337,7 +337,7 @@ the main text) are shown in Table S1. One complete blue shark dataset is
 included as example data in the package, and its analysis is described
 in full detail in the package vignette.
 
-\subsubsection*{Grid resolution and time
+\subsubsection{Grid resolution and time
 trials}%\label{grid-resolution-and-time-trials}
 
 Our method uses grid-based computations as they afford both flexibility
@@ -358,7 +358,7 @@ significantly increasing computation time (approx. 3-fold increase)
 metrics (10-fold increase in error), likely as a result of the loss of
 mesoscale variability in oceanographic data at this resolution.
 
-\subsubsection*{Data removal experiment}%\label{data-removal-experiment}
+\subsubsection{Data removal experiment}%\label{data-removal-experiment}
 
 While \texttt{HMMoce} was designed to improve geolocation estimates for
 all tagged marine organisms, the main impetus for the work was to
@@ -376,7 +376,7 @@ resulting tracks were treated as independent from track model runs
 performed on the complete datasets, and \texttt{HMMoce} likelihood
 routines and GPE3 track construction methods were unchanged.
 
-\subsection*{Other geolocation models}%\label{other-geolocation-models}
+\subsection{Other geolocation models}%\label{other-geolocation-models}
 
 Almost all of the available geolocation approaches for archival tag data
 rely on light or a combination of light, SST and a bathymetric mask that

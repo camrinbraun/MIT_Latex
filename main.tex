@@ -32,13 +32,15 @@
 \usepackage[usestackEOL]{stackengine}
 \usepackage{fixltx2e}
 \usepackage{longtable}
-%\hypersetup{hidelinks=true}
+\hypersetup{%hidelinks=true,
+            colorlinks=false,% hyperlinks will be coloured
+            linkcolor=black,% hyperlink text will be green
+            linkbordercolor=white,% hyperlink border will be red
+            citecolor=black, 
+            citebordercolor=white,
+            urlcolor=black
+}
 \usepackage{ textcomp }
-%  colorlinks=false,% hyperlinks will be coloured
- % linkcolor=black,% hyperlink text will be green
-  %linkbordercolor=white,% hyperlink border will be red
-  %citecolor=black, 
-  %citebordercolor=white
 
 \usepackage{slantsc}
 \usepackage[capitalise,noabbrev]{cleveref}
@@ -60,6 +62,7 @@
 \usepackage{pgfplotstable,filecontents}
 \usepackage{multirow}
 \usepackage{array}
+\usepackage{comment}
 \usepackage{ccaption}% http://ctan.org/pkg/ccaption
 \usepackage{makecell}
 %% These have been added at the request of the MIT Libraries, because
@@ -83,6 +86,11 @@
 
 % so we can use rules for table like \toprule
 \usepackage{booktabs}
+
+%%% the eg ie and in situ shortcuts
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\ie}{\textit{i.e.}}
+\newcommand{\is}{\textit{in situ}}
 
 % so our long table can wrap pages
 %\usepackage{longtable}
@@ -112,7 +120,7 @@
 \include{appa}
 %\include{appb}
 %\include{appc}
-%\include{appd}
+\include{app4}
 
 \include{biblio}
 \end{document}
