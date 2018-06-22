@@ -429,21 +429,31 @@ surface using the \texttt{rdist.earth.vec} function in the
 root-mean-square error (RMSE) between daily model output and Argos
 locations \citep{Galuardi2008, Wilson2007, Braun2015a}.
 
+\clearpage
+
+%--------------------
+%--------------------
 \section{Supplemental Figures}
+%--------------------
+%--------------------
+
 %Figure a1f1:
-\begin{figure}[p]
+\begin{figure}[htbp]
 \centering
-\includegraphics[width=.5\textwidth]{images/A1_Fig1.pdf}
+\includegraphics[width=.7\textwidth]{images/A1_Fig1.pdf}
 \caption{Density of speeds among Argos-based positions for
 tagged individuals.}
 \label{fig:a1f1}
 \end{figure}
 
+\clearpage
+
+%--------------------
 %Figure a1f2:
-\begin{figure}[p]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=1\textwidth]{images/A1_Fig2.pdf}
-\caption{Calculated tracks for blue shark 141254
+\caption[Comparison of track methods for blue shark 141254]{Calculated tracks for blue shark 141254
 using the 4 different geolocation approaches (Ukfsst, purple; Trackit,
 blue; GPE3, green; \texttt{HMMoce}, yellow) compared to the ``known''
 Argos-based track (red, black crosses). Latitudinal and longitudinal
@@ -452,11 +462,14 @@ appear broken when a resulting track is missing daily data.}
 \label{fig:a1f2}
 \end{figure}
 
+\clearpage
+
+%--------------------
 %Figure a1f3:
 \begin{figure}[p]
 \centering
 \includegraphics[width=1\textwidth]{images/A1_Fig3.pdf}
-\caption{Calculated tracks for blue shark 141256
+\caption[Comparison of track methods for blue shark 141256]{Calculated tracks for blue shark 141256
 using the 4 different geolocation approaches (Ukfsst, purple; Trackit,
 blue; GPE3, green; \texttt{HMMoce}, yellow) compared to the ``known''
 Argos-based track (red, black crosses). Latitudinal and longitudinal
@@ -466,11 +479,14 @@ daily data.}
 \label{fig:a1f3}
 \end{figure}
 
+\clearpage
+
+%--------------------
 %Figure a1f4:
 \begin{figure}[p]
 \centering
 \includegraphics[width=1\textwidth]{images/A1_Fig4.pdf}
-\caption{Calculated tracks for blue shark 141259
+\caption[Comparison of track methods for blue shark 141259]{Calculated tracks for blue shark 141259
 using the 4 different geolocation approaches (Ukfsst, purple; Trackit,
 blue; GPE3, green; \texttt{HMMoce}, yellow) compared to the ``known''
 Argos-based track (red, black crosses). Latitudinal and longitudinal
@@ -481,77 +497,65 @@ daily data.}
 \end{figure}
 
 \clearpage
+
+%--------------------
+
 \begin{landscape}
 %Figure a1f5:
 \begin{figure}[p]
 \centering
 \includegraphics[width=8in]{images/A1_Fig5.pdf}
-\caption{Example depth-temperature profile-based
-likelihoods for ocean heat content (OHC), HYCOM and World Ocean Atlas
-(WOA)(panels A-C) for a given day of observation. Numbers correspond to
-the location where each depth-temperature profile (panel D) was taken.
-Purple diamond indicates known position for this example day. Profiles 2
-and 4 correspond to profiles extracted from HYCOM and WOA, respectively,
-at the known location of the tag. In comparison, profiles 1, 3 and 5
-indicate profiles taken from the grid cell containing the maximum
-likelihood, as calculated by HMMoce, for OHC, HYCOM and WOA,
-respectively. Grey shaded region in right panel indicates
-depth-temperature envelope measured by PSAT tag. This figure
-demonstrates an example day in which the measured PSAT tag data was
-compared to environmental grids to generate maximum likelihoods, but the
-resulting likelihoods exhibited significant error when compared to
-independent, known positions and profiles extracted at those locations.}
+\caption[Example depth-temperature profile-based likelihoods]{Example depth-temperature profile-based likelihoods for ocean heat content (OHC), HYCOM and World Ocean Atlas (WOA)(panels A-C) for a given day of observation. Numbers correspond to the location where each depth-temperature profile (panel D) was taken. Purple diamond indicates known position for this example day. Profiles 2 and 4 correspond to profiles extracted from HYCOM and WOA, respectively, at the known location of the tag. In comparison, profiles 1, 3 and 5 indicate profiles taken from the grid cell containing the maximum likelihood, as calculated by HMMoce, for OHC, HYCOM and WOA, respectively. Grey shaded region in right panel indicates depth-temperature envelope measured by PSAT tag. This figure demonstrates an example day in which the measured PSAT tag data was compared to environmental grids to generate maximum likelihoods, but the resulting likelihoods exhibited significant error when compared to independent, known positions and profiles extracted at those locations.}
 \label{fig:a1f5}
 \end{figure}
 \end{landscape}
 \clearpage
 
+%--------------------
 %Figure a1f6:
 \begin{figure}[p]
 \centering
 \includegraphics[width=.85\textwidth]{images/A1_Fig6.pdf}
-\caption{Movements (A) and behavior (B) calculated
-using \texttt{HMMoce} for blue shark 141254. The tagged individual is
-considered resident where probability of residency is greather than 0.5
-(grey points and bars in panels A and B, respectively). Green and red
-points indicate tag and pop-up location respectively. Black line follows
-predicted daily locations of tagged shark.}
+\caption[Calculated \texttt{HMMoce} tracks and behavior for blue shark 141254]{Movements (A) and behavior (B) calculated using \texttt{HMMoce} for blue shark 141254. The tagged individual is considered resident where probability of residency is greather than 0.5 (grey points and bars in panels A and B, respectively). Green and red points indicate tag and pop-up location respectively. Black line follows predicted daily locations of tagged shark.}
 \label{fig:a1f6}
 \end{figure}
+\clearpage
 
+%--------------------
 %Figure a1f7:
 \begin{figure}[p]
 \centering
 \includegraphics[width=.85\textwidth]{images/A1_Fig7.pdf}
-\caption{Movements (A) and behavior (B) calculated
-using \texttt{HMMoce} for blue shark 141256. The tagged individual is
-considered resident where probability of residency is greather than 0.5
-(grey points and bars in panels A and B, respectively). Green and red
-points indicate tag and pop-up location respectively. Black line follows
-predicted daily locations of tagged shark.}
+\caption[Calculated \texttt{HMMoce} tracks and behavior for blue shark 141256]{Movements (A) and behavior (B) calculated using \texttt{HMMoce} for blue shark 141256. The tagged individual is considered resident where probability of residency is greather than 0.5 (grey points and bars in panels A and B, respectively). Green and red points indicate tag and pop-up location respectively. Black line follows predicted daily locations of tagged shark.}
 \label{fig:a1f7}
 \end{figure}
+\clearpage
 
+%--------------------
 %Figure a1f8:
 \begin{figure}[p]
 \centering
 \includegraphics[width=.85\textwidth]{images/A1_Fig8.pdf}
-\caption{Movements (A) and behavior (B) calculated
-using \texttt{HMMoce} for blue shark 141259. The tagged individual is
-considered resident where probability of residency is greather than 0.5
-(grey points and bars in panels A and B, respectively). Green and red
-points indicate tag and pop-up location respectively. Black line follows
-predicted daily locations of tagged shark.}
+\caption[Calculated \texttt{HMMoce} tracks and behavior for blue shark 141259]{Movements (A) and behavior (B) calculated using \texttt{HMMoce} for blue shark 141259. The tagged individual is considered resident where probability of residency is greather than 0.5 (grey points and bars in panels A and B, respectively). Green and red points indicate tag and pop-up location respectively. Black line follows predicted daily locations of tagged shark.}
 \label{fig:a1f8}
 \end{figure}
+\clearpage
 
+%--------------------
+%--------------------
 \section{Supplemental Tables}
+%--------------------
+%--------------------
+%\vspace{-40mm}
 
 % Table a1t1
-\begin{table}
-\caption{Example error metrics for a HMMoce model run of each observation likelihood input: light (L), SST (S), ocean heat content (O), World Ocean Atlas profiles (W) and HYCOM profiles (H). Root-mean-square error (RMSE) is shown for Latitude, Longitude in degrees. Reported mean and standard deviation values are based on pointwise distance calculations from known positions (km). P1 and P2 indicate the calculated probability of state-switching from the Expectation-Maximization algorithm where, in this case, P1 is the probability of remaining in a migratory state (implemented in a migratory movement kernel for the convolution). P2 represents a resident behavior state. Migratory speeds were fixed at 2 m/s on a 0.08$^{\circ}$ grid for the example run.}
+
+
+\begin{table}[htbp]
+\caption[Example error metrics for \texttt{HMMoce} model runs using different observation likelihoods]{Example error metrics for a HMMoce model run of each observation likelihood input: light (L), SST (S), ocean heat content (O), World Ocean Atlas profiles (W) and HYCOM profiles (H). Root-mean-square error (RMSE) is shown for Latitude, Longitude in degrees. Reported mean and standard deviation values are based on pointwise distance calculations from known positions (km). P1 and P2 indicate the calculated probability of state-switching from the Expectation-Maximization algorithm where, in this case, P1 is the probability of remaining in a migratory state (implemented in a migratory movement kernel for the convolution). P2 represents a resident behavior state. Migratory speeds were fixed at 2 m/s on a 0.08$^{\circ}$ grid for the example run.}
 \label{tab:a1t1}
 \centering
+\resizebox{.7\textwidth}{!}{% <------ Don't forget this %
 \begin{tabular}[t]{llllrrrr}
 \toprule
 \textbf{Species} & \textbf{PTT} & \textbf{Input} & \textbf{RMSE} & \textbf{Mean} & \textbf{SD} & \textbf{P1} & \textbf{P2}\\
@@ -588,17 +592,20 @@ MKO & 141257 & LS & 0.79, 1.77 & 132.4 & 119.5 & 0.93 & 0.94\\
  &  & LSW & 1.72, 2.29 & 231.5 & 158.6 & 0.95 & 0.85\\
  &  & LSH & 1.08, 2.03 & 147.8 & 158.8 & 0.93 & 0.93\\
 \bottomrule
-\end{tabular}
+  \end{tabular}% <------ Don't forget this %
+  }
 \end{table}
 
 % Table a1t2
 \begin{table}
-\caption{Fit metrics and computation time (in mins) using an Amazon EC2 instance with 2.3GHz processors and 64 CPUs (High-performance computing; HPC) and a consumer-grade desktop computer with 2.53GHz processors and 4 CPUs (personal computer; PC) for blue shark 141256. The L row indicates total run time for calculating individual likelihoods from light (0.25$^{\circ}$ resolution), sea surface temperature (0.25$^{\circ}$), ocean heat content (0.08$^{\circ}$) and HYCOM 3D profiles (0.08$^{\circ}$) in the native resolution for each input environmental dataset. Environmental grids spanned 43$^{\circ}$ of longitude and 45$^{\circ}$ of latitude for this individual, resulting in a 539x564 matrix for daily OHC grids and daily HYCOM grids at each depth level (up to 35 depth levels to 1500m depth) and 173x181 matrix for daily SST and light grids. The following rows indicate computation time for one complete iteration of the HMM (including filtering, smoothing and parameter estimation) computed at each resolution listed. The HMM computations are performed after the observation likelihoods have been calculated. Resolution is the grid resolution in degrees. Reported metrics are based on pointwise distance calculations from known positions. Mean and standard deviation (SD) are in kilometers and root-mean-square error is for Latitude, Longitude in degrees.}
+\caption[Model fit metrics, grid resolution and computation time]{Fit metrics and computation time (in mins) using an Amazon EC2 instance with 2.3GHz processors and 64 CPUs (High-performance computing; HPC) and a consumer-grade desktop computer with 2.53GHz processors and 4 CPUs (personal computer; PC) for blue shark 141256. The L row indicates total run time for calculating individual likelihoods from light (0.25$^{\circ}$ resolution), sea surface temperature (0.25$^{\circ}$), ocean heat content (0.08$^{\circ}$) and HYCOM 3D profiles (0.08$^{\circ}$) in the native resolution for each input environmental dataset. Environmental grids spanned 43$^{\circ}$ of longitude and 45$^{\circ}$ of latitude for this individual, resulting in a 539x564 matrix for daily OHC grids and daily HYCOM grids at each depth level (up to 35 depth levels to 1500m depth) and 173x181 matrix for daily SST and light grids. The following rows indicate computation time for one complete iteration of the HMM (including filtering, smoothing and parameter estimation) computed at each resolution listed. The HMM computations are performed after the observation likelihoods have been calculated. Resolution is the grid resolution in degrees. Reported metrics are based on pointwise distance calculations from known positions. Mean and standard deviation (SD) are in kilometers and root-mean-square error is for Latitude, Longitude in degrees.}
+
 \label{tab:a1t2}
 \centering
 \begin{tabular}[t]{lrrrrrr}
 \toprule
-\textbf{Resolution} & \textbf{HPC Time} & \textbf{PC Time} & \textbf{Mean} & \textbf{SD} & \textbf{RMSElat} & \textbf{RMSElon}\\
+\textbf{Resolution} & \textbf{HPC Time} & \textbf{PC Time} & \textbf{Mean} & \textbf{SD} & \textbf{\texorpdfstring{RMSE\textsubscript{lat}}{RMSElat}
+} & \textbf{\texorpdfstring{RMSE\textsubscript{lon}}{RMSElon}}\\
 \midrule
 L & 34.80 & 158.7 &  &  &  & \\
 \addlinespace

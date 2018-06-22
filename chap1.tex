@@ -2,16 +2,86 @@
 \chapter{Introduction}
 \raggedbottom
 \clearpage
-\section{Background and Motivation}
+
+the issue of scale in the ocean
+
+AND
+
+animal movements at basin-scale and long time periods, relatively well understood and revealed fascinating migrations. enter history stuff like original basker paper and carey's work
+
+BUT
+
+scales below hundreds/thousands of kms and months are poorly understood. yet, this is where the interesting stuff happens. this stems from issues with opaque medium and geolocation.
+
+THEREFORE
+
+due to tech and methodological improvements, i can probably do better. In this thesis, i seek to:
+
+\begin{enumerate}
+    \item improve on existing methods of geolocation
+    \item apply improved methods for enhanced inference of historical data
+    \item apply knowledge from 1st questions to design a study in which many of the original constraints are alleviated
+\end{enumerate}
+
+\section{Background}
+
+\subsection{Biophysical interactions in the ocean}
+% biophysical interactions in the ocean & drivers of animal movements
+
+
+\subsection{Aquatic telemetry}
+% progress to date but what remains to be done. bit of history is good here
+
+
+\subsection{Pelagic fish ecology}
+% importance of these species. why care about HMS? finish with large-scale looming question
+% impressive movements (horiz and vert). commercially relevant.
+
+
+\subsection{Practical considerations}
+Over the past century, human exploitation of natural systems has propagated throughout the ocean, subjecting large marine predators to intense exploitation \citep{Byrne2017} and eliciting disproportionate effects on large vertebrates \citep{Jackson2001, Baum2003}. As a result of intense anthropogenic impact, many predatory fish populations, including billfish, tuna and sharks, have joined the ranks of immediate conservation concern, and their populations are routinely depleted by 50-70\% \citep{Hilborn2003} and up to 90\% \citep{Myers2005}. Many of these species spend most of their life in the open ocean and traverse vast expanses of water in search of food, reproductive opportunities and suitable habitat. Their behavioral tendencies subject them to fishing pressure by an array of different gear types and exploitation levels under different national jurisdictions and throughout the high seas. In addition, the current lack of information about key life history traits, population size, movements and habitat use of these fishes amplifies the problem of managing these populations as anthropogenic pressures on fishes continue to rise \citep{Dulvy2008, Ferretti2010}.
+
+dynamic ocean management
+
+Relatively simple time series of continuous geolocation data and information on individual diving and ambient temperature from satellite tags can facilitate robust analyses and interpretation of individual movements. These data, in combinatoin with auxiliary enviornmental data and advanced analysis techniques, provide a unique opportunity to answer many unresolved questions regarding behavior and ecology of large pelagic fishes. Filling these gaps will be essential for formulating effective management plans \citep{Cullis-Suzuki2010}, understanding the potential effects of climate change \citep{Hazen2012} and ensuring continued harvest of these resources \citep{pauly1998, Watson2013}. Additionally, an improved understanding of the behaviors of large pelagic fishes will not only inform us about the ecology of the taxa themselves, but may also facilitate broader understanding of biogeochemical processes in the ocean \citep{Lavery2010, Roman2010}.
+
+\section{Thesis Overview}
+% overarching goal
+This thesis quantifies the oceanographic drivers of pelagic fish movements. 
+
+
+% chapter-specific list-like paragraph
+In chapter \cref{chap:2}, I developed significant methodological improvements for geolocating fishes equipped with traditional archival tags. Blue and mako sharks were instrumented both with PSATs and an independent Doppler-based satellite tag from which "known" locations were used to quantify error in the resulting PSAT geolocation model. Leveraging three-dimensional data from tags in conjunction with high-resolution oceanographic models facilitated significant improvements in error estimates relative to existing model frameworks. In chapters \cref{chap:3} and \cref{chap:4}, I applied this modeling technique to basking shark and swordfish datasets, respectively. These two species have proven particularly difficult to track due to significant occupation of the aphotic regions of the ocean resulting in little to no light data available for geolocation. In Chapter \cref{chap:3} I used the more accurate locations to quantify large-scale movements, seasonality and vertical habitat use of > 50 basking sharks in the western Atlantic. Improved swordfish tracks were also used to investigate movements and, in some cases, were accurate enough to describe mesoscale feature use. I also mined fisheries-dependent data for swordfish in the North Atlantic in Chapter \cref{chap:4} that I synthesized with fishery-independent electronic data to quantify oceanographic influences on swordfish. Finally, chapter \cref{chap:5} focused on building a robust dataset with which I could test interactions between pelagic predators and mesoscale eddies. I double-tagged 15 blue sharks (as above) in order to reconstruct 3-d movements in the Gulf Stream eddy field and collocated these data to remotely-sensed and modeled oceanographic data to quantify shark-eddy interactions.
+
+
+%----------------------
 
 % animal movement in general and why its historically been difficult to follow things in the ocean
+The study of animal movements in the ocean remains a formidable challenge due to the difficulty of making observations in an opaque medium, only a fraction of which can we directly observe. We understand relatively little about the ecology of marine fishes when compared to terrestrial taxa. Information on large pelagic fishes that occur in the open ocean is particularly lacking, despite lucrative fisheries and intense fishing effort for a number of these species. Basin-scale movements \citep{Skomal2009} and deep forays into the meso- and bathypelagic layers of the open ocean \citep{Thorrold2014a} further complicate this research by making individuals even less available for direct observations than coastal fish species. As a result, we understand little about the biophysical factors influencing the ecology of large pelagic fishes.
 
 % aquatic telemetry, focus on sat telemetry
+Historically, insights into pelagic fish ecology were limited to those obtained visually and at the surface. These constraints allowed access to only a small portion of any species' lifetime movements and behavior, and it has long been recognized that novel approaches are needed to better understand the ecology of these fishes. Mark-recapture techniques employing external tags have been used extensively sincet he early twentieth century, but this approach only provides deployment and retrieval locations iwth no data on a fish's behavior in the interim \citep{Kohler2001}.
+
+The development of electronic tags has enabled researchers to gather a more holistic view of the behaviors of large pelagic organisms. Acoustic techniques proliferated starting in the 1960s and have since made many significant contributions to the field \citep[\eg][]{Carey1981}. Satellite-linked archival tags followed in the late 1980s and have enabled further important advances. Since their inception, these tags have become increasingly relevant \citep{Hussey2015} for studying horizontal and vertical movements \citep{Block2011, Thorrold2014a, Berumen2014}, residency \citep{Domeier2006}, mortality \citep{Musyl2011a}, aggregative and feeding behaviors \citep{Jorgensen2012}, and other aspects of the biology and ecology of marine organisms.
+
+Pop-up satellite archival transmitting (PSAT) tags, specifically, have been used with great success on a number of taxa \citep{Hussey2015}. These devices are attached externally to a study animal and are programmed to pop-up from the animal after a predetermined deployment period. While active on the animal, these tags typically collect an \is time series of depth, temperature and light levels. Miniaturization and ever-improving sensors, batteries and storage capabilities make this a rapidly advancing field that has already demonstrated vast improvements over previous techniques. As such, this technology has been deployed on thousands of study animals encompassing nearly all marine taxa large enough to carry a tag \citep{Hussey2015}. These studies have now consequently described the broad-scale horizontal and vertical movements for many marine species. However, fewer studies attempt to perform quantitative analyis of how species interact with and choose to occupy the surrounding oceanographic environment \citep[except see, for example, ][]{Lawson2010}.
+
+Few studies have gone beyond describing time-at-depth, occupied temperature and other basic behavioral metrics derived directly from PSAT tag data to fully mine these datasets in order to quantify habitat use and the physical environment individuals occupy while tagged. Basic ecological research describing animal movements is clearly necessary adn informative, but an understanding of physical processes driving movements is critical for a more in-depth understanding of species' ecology.
+
+PSATs excel at providing high-resolution dive data and are thus deployed extensively on many marine species. An informal synthesis of this 
+ubiquity of deep diving
+
+biomass in the deep ocean
+
+Part of the paucity of information governing our understanding of deep-water occupation by large pelagic fishes is due to the analytical limitations associated with PSAT tag data. While they provide high-resolution information on vertical behaviors, accurate horizontal positions require frequent surface occupation. This presents a significant constraint on studying marine species, many of which leave the surface for months at a time \citep{Skomal2009}.
+
+
+
 
 % what this technique has taught us about movements of fish.
     % while impressive movements (horiz and vert), lot of work to be done to, for example, undertsand mechanisms driving movements.
 
-% the singlemost important barrier to this has been error in fihs geolocation. here's why this is an issue.
+% the single most important barrier to this has been error in fihs geolocation. here's why this is an issue.
 
 % brings us to the questions? 
     % 1) how to better geolocate animals using oceanographic data? 
@@ -20,23 +90,35 @@
 
     % ?? 2) how can improved geolocation techniques inform species ecology? fisheries oceanography? biophysical interactions? 
 
-%Using a combination of field and experimental approaches and harnessing new molecular tools, this thesis aims to address these questions at a detailed, molecular-level. In this chapter I will set the stage for the coming data chapters, briefly discussing phytoplankton diversity, their functioning in biogeochemical cycles, and the implementation and utility of molecular tools in environmental microbiology and oceanography. 
 
 
 
-% practical considerations
 
 
-% importance of these species. why care about HMS? finish with large-scale looming question
+\subsection{geolocation approaches and tag types}
 
-% impressive movements (horiz and vert). commercially relevant.
+
+
+% history of biophysical interactions, focus on HMS. demonstrate how this is traditionally done w/ catch data which is inherently flawed.
+\subsection{Biophysical interactions}
+
+% Of particular interest to this study is the role that (sub)mesoscale oceanography plays in the structuring of pelagic ecosystems and the movement ecology of large pelagic fishes. Historically, anecdotal evidence and fisheries statistics have supported the association of pelagic fishes with mesoscale structures like fronts and eddies \citep[e.g.,][]{hobday2014derived}, but scientists currently understand very little about the biology of these important oceanographic features. Furthermore, little data is available on fish communities that inhabit these structures. Electronic tag technologies now permit quantitative, fisheries-independent analyses of the use of these features by pelagic predators. Recent work has shown that obligate surface-dwelling marine organisms (e.g. turtles, seals, and birds) associate with persistent mesoscale fronts (reviewed in \cite{scales2014review}), and limited research on fishes has shown the importance of seasonally persistent fronts for basking sharks \citep{miller2015}. Technological limitations inherent in light-level geolocation \citep{braun2015movements} have, however, largely precluded robust analyses of the associations between (sub)mesoscale oceanographic structures and pelagic fishes. Conventional light-level geolocation from analysis of archival tag data is generally insufficiently accurate to match fish movements with specific mesoscale features detected from satellite observations. However, fin-mounted tags capable of generating positions by interrogating ARGOS satellites provide sufficiently accurate positions for (sub)mesoscale collocation analyses. In addition, this technology can be paired with conventional PSAT tags that provide detailed information on the vertical movements and water column properties. Together, the tags can provide high-resolution $(\sim 60\ sec)$ measurements of vertical movements with a spatial accuracy appropriate for matching resulting tracks to concurrent (sub)mesoscale oceanographic structures.
+
+
+%Mesoscale eddies and submesoscale fronts make up the internal weather of the ocean, exciting vertical fluxes and transporting pelagic communities hundreds to thousands of kilometers. Yet, while the application of satellite technology now allows us to view these features in almost real time, the influence of these structures on pelagic predators remains largely unknown. With the latest satellite tagging technologies, we now have the ability to observe the movement of large oceanic predators in high-resolution, three-dimensional space. Here, we propose to investigate the use of mesoscale eddies and meanders and submesoscale fronts by pelagic predators in the North Atlantic by collocating trajectories obtained from satellite-tagged sharks with (sub)mesoscale structures, defined here as features with spatial scales of $O(1 - 100\ km)$, identified and tracked in maps of sea level anomalies and sea surface temperature. The collocation of individual sharks, as model apex predators, with (sub)mesoscale ocean features will allow us to understand how these predators use these ubiquitous structures. Furthermore, by comparing observed patterns of feature use by the predators to satellite observations of ocean currents, surface temperature, and ocean color, I link observed behavior to known (sub)mesoscale physical/biological processes. Thus, the goal of the research proposed here is to determine the influence of (sub)mesoscale oceanographic features on the movements of pelagic predators, allowing us to link predator behavior to (sub)mesoscale physical/biological mechanisms, through the synergistic analysis of individual fish movement and concurrent satellite observations of (sub)mesoscale eddies, meanders and fronts.
+
+
+
+
+%========================
+%% END
+
+\begin{comment}
 
 The upper, sunlight region of the pelagic ocean, or ``euphotic'' zone, is home to microscopic plants, phytoplankton, which thrive and photosynthesize in this well-lit environment. Though individually quite small, the combined net primary production (NPP) of this diverse consortium in the marine system is estimated to be between $\sim 44$ to 67 Pg of carbon (C) per year, nearly 50\% of global NPP \citep{Longhurst1995, Field1998, Behrenfeld2005,Westberry2008}. Due to this significant role in the carbon cycle, the identification of the major factors controlling phytoplankton ecology, physiology, and, ultimately, bloom dynamics has been a central problem in the field of biological oceanography for the past century. From physical explanations (Sverdrup's critical depth hypothesis \citeyearpar{Sverdrup1953}), to chemical rationale (Redfield ratio \citeyearpar{Redfield1958}), to ecological theory (Margalef's mandala \citeyearpar{Margalef1978}), the field has been constantly reevaluating evidence to answer the question: What drives phytoplankton production?\par
 
-% progress to date but what remains to be done. bit of history is good here
 Since these foundational hypotheses were put forth, significant advancements in the study of ocean primary production have been made both through the continued collection of traditional biological oceanographic datasets (e.g. chlorophyll, nutrients, taxonomic counts) particularly at long-term sampling sites \citep{Karl1996, Steinberg2001,Smith2003, Li1998}, and through technological advancements. Remote sensing from satellites, starting with the Coastal Zone Color Scanner (CZCS) in 1978, enabled global-scale estimates of chlorophyll \textit{a} and spawned a new generation of missions to measure ocean color (e.g. SeaWiFs, MODIS Aqua) \citep{McClain2009}. High-throughput approaches such as flow cytometry, the early use of which led to the discovery of the most abundant photosynthetic organism on Earth \citep{Chisholm1988}, have now been expanded to enable automated measurements along oceanic transects \citep{Swalwell2011, Ribalet2015} and over time series \citep{Olson2003}. Finally, the integration of molecular techniques into the study of marine microbes has provided a window into this previously muddled and complex world. With these tools we have discovered previously unknown diversity in the plankton \citep{Lopez-Garcia2001}, clarified the evolutionary histories of protists \citep{Keeling2005}, characterized previously invisible microbial communities \citep{Fuhrman1993}, and tracked the molecular metabolism underlying biogeochemical cycles \citep{Konneke2005}. Despite the impressive advances that have been made in the study of phytoplankton, the mechanisms that underlie the participation of these microorganisms in marine food webs and biogeochemical cycles remains poorly understood. \par
 
-% the role of (sub)mesoscale oceanography
 The macronutrients nitrogen (N) and phosphorus (P) are widely recognized to be major drivers of phytoplankton growth and activities in marine systems \citep{Moore2004}. In many regards, however, we lack a fundamental understanding of how nutrients are metabolized by different phytoplankton species and functional groups, processes that may directly dictate their distributions and activities. Characterizing the interplay between individual phytoplankton taxa and their N and P environment in a natural setting remains a major on-going challenge, as many metrics such as elemental composition or enzymatic activity lack specificity and can largely only be assessed for the bulk community. These studies may be taken in to the lab, but doing so limits the ability to compare between species as you can in a natural setting, and comes with a set of biases such as ease of culturing \citep{Lakeman2009}.  This thesis will focus on the following questions: \par
 
 
@@ -98,3 +180,4 @@ The vast diversity of phytoplankton has long perplexed biological oceanographers
 Both \cref{chap:4,,chap:5} focus on characterizing physiological constraints on the oligotrophic eukaryotic phytoplankton, though at different levels of taxonomic resolution. It has been postulated that the net oxygen state of oligotrophic systems is controlled by aperiodic bursts of production by the large eukaryotic phytoplankton in response to nutrient pulses \citep{Karl2003}. Long-term monitoring at Station ALOHA suggests seasonality in ecosystem productivity, as evidenced by increased carbon and biogenic Si export during summer. Currently, however, very little is known about the nutritional constraints and metabolic capabilities of the three major phytoplankton functional groups in the oligotrophic ocean: diatoms, haptophytes, and dinoflagellates. By sampling and comparing the global gene expression of eukaryotic community both in situ and in simulated deep water upwelling incubations (\cref{chap:4}), I was able to identify 1) specific drivers of production for taxonomic groups and 2) transcriptional patterns consistent with the previously defined ecological traits and strategies of different functional groups \citep{Margalef1978}. \par
 
 As can be seen from \cref{chap:3,,chap:4} as well as other published works \citep{Dyhrman2006, Dyhrman2012, Wurch2011, Bertrand2012a, Jones2013, Bender2014, Frischkorn2014}, metabolic plasticity as measured through proteomic- and transcriptomic-approache in response to environmental change is currently a standard means of examining and characterizing physiological responses to perturbation. Another way that communities respond to perturbation is through succession of species, or, in some cases, strains. Genomic surveys of cultured isolates of \textit{E. huxleyi} have shown a high level of variability amongst the genomes (Read et al., 2013). This mirrors the physiological variability observed in the field and laboratory, as well as in its cosmopolitan distribution across oceanic biomes. Using a metatranscriptomic approach, the relative strain composition and metabolic response of \textit{E. huxleyi} was tracked across field observations and in microcosm studies, which shifted the nutrient environment (\cref{chap:5}). Results demonstrated that the population was constrained by N-limitation. The addition of N produced a shift in metabolism that was highly conserved across these replicated experiments and, more surprisingly, across previous culture-based studies. Additionally, changes in strain-specific gene sets point to a shift in the strain composition of the \textit{E. huxleyi} species complex. 
+\end{comment}

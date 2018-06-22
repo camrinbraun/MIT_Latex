@@ -25,23 +25,23 @@
 \begin{landscape}
 \begin{table}
 \scriptsize
-\caption{Sat data}
-\label{tab:c1t1}
+\caption{Environmental data used in this study. Variables refer to names used in the BRT models. The source column indicates whether the data was remotely-sensed (R), modeled (M) or a derived (D) product.}
+\label{tab:satdata}
 \centering
 %\begin{tabular}[t]{llllll}
 \begin{tabular}{p{1.5cm} p{.8cm} p{.8cm} p{1.65cm} p{1.25cm} p{10cm} p{5cm}}
 \toprule
 \textbf{Variable} & \textbf{Resolution} &  & \textbf{Units} & \textbf{Source} & \textbf{Description} & \textbf{URL}\\
 \midrule
-SST & Daily & 1 km & $^{\circ}$C & R & Blended sea-surface temperature ($^{\circ}C$) using multiple sensors and \textit{in-situ} sources & http://mur.jpl.nasa.gov\\
+SST & Daily & 1 km & $^{\circ}$C & R & Blended sea-surface temperature ($^{\circ}$C) using multiple sensors and \textit{in-situ} sources & http://mur.jpl.nasa.gov\\
 
 CHL & Weekly & 4 km & log(mg m$^3$) & R & Blended chlorophyll-a (mg m$^3$) from MODIS / Aqua-VIIRS & http://globcolour.info\\
 
 FSLE & 4 days & 4 km & day$^{-1}$ & R,D & Finite-scale Lyapunov exponent (FSLE) highlights transport barriers to horizontal exchange and is commonly used as a front metric. & ftp.aviso.altimetry.fr/lyapunov\\
 
-BATHY &  &  & m & ?? & Seafloor depth from ETOPO & url\\
+BATHY &  & 1 km & m & D & Seafloor depth from SRTM30+, v.1.0 & ftp.topex.ucsd.edu/pub/srtm30-plus\\
 
-EDDY & Daily &  & km & R,D & descr & url\\
+EDDY & Daily &  & km & R,D & Eddies detected from multimission altimetry datasets & ftp.aviso.altimetry.fr/global/delayed-time/value-added/eddy-trajectory\\
 
 FMAG & Daily & 1 km & $^{\circ}$C km$^{-1}$ & R,D & Fronts detected using a threshold algorithm from MUR SST data. & https://github.com/galuardi/boaR\\
 
@@ -57,10 +57,116 @@ EKE & Daily & 9 km & log(m$^2$ s$^{-3}$) & M,D & Model-derived eddy kinetic ener
 \bottomrule
 \end{tabular}
 \end{table}
-
 \end{landscape}
 \clearpage
 
+\begin{landscape}
+\begin{table}
+
+\caption{\label{tab:tagtable}Tagging summary for SPOT and PSAT-tagged blue sharks in this study. SPOT TAL indicates time-at-liberty (in days) of the Argos-based SPOT tag data and SPOT per Day the average number of SPOT positions per day over the deployment. PSAT TAL indicates time-at-liberty for the PSAT tag. Track distance is total trajectory distance (in km). Abbreviations in deployment results indicate data deficient (DD), did not report (DNR) and mortality (FTL).}
+\centering
+%\begin{tabular}[t]{rllrrrlrlr}
+\begin{tabular}{p{1.5cm} p{.8cm} p{2cm} p{1.5cm} p{1.5cm} p{1cm} p{1cm} p{1cm} p{1cm} p{2cm}}
+\toprule
+ID & Type & Tag Date & Tag Lat & Tag Lon & FL (cm) & SPOT TAL & SPOT per Day & PSAT TAL & Track Distance (km)\\
+\midrule
+106744 & SP & 2016-08-27 & 41.40 & 69.30 & 277.0 & 132 & 3.3 & 180 & 5676\\
+106745 & SP & 2016-08-28 & 41.52 & 69.43 & 270.0 & 131 & 4.5 & 180 & 5587\\
+106746 & SP & 2016-08-28 & 41.54 & 69.42 & 262.0 & 127 & 3.3 & 180 & 3531\\
+106747 & SP & 2016-10-18 & 41.47 & 69.33 & 295.0 & 74 & 4.3 & 172 & 3501\\
+106748 & SP & 2016-08-27 & 41.09 & 69.38 & 245.0 & 78 & 1.7 & DNR & 2589\\
+106749 & SP & 2016-08-25 & 41.49 & 69.33 & 230.0 & DD & 3.3 &  & \\
+132346 & S & 2013-07-28 &  &  & 274.0 & 207 & 4.6 &  & 8205\\
+141195 & S & 2014-07-12 &  &  & 295.0 & 64 & 6.3 &  & 2280\\
+141261 & SP & 2015-10-13 & 41.32 & 69.28 & 254.0 & 259 & 3.4 & 180 & 12428\\
+141262 & SP & 2016-08-28 & 41.54 & 69.42 & 220.5 & 131 & 3.0 & 121 & 5686\\
+141263 & SP & 2016-08-25 & 41.49 & 69.33 & 248.0 & 70 & 2.8 & 39 & 3083\\
+141264 & SP & 2015-10-21 & 41.59 & 69.45 & 254.0 & 158 & 4.8 & DNR & 6253\\
+141265 & SP & 2016-08-27 & 41.09 & 69.38 & 241.0 & 67 & 3.1 & 16 & 2536\\
+141266 & SP & 2016-09-10 & 41.75 & 69.83 & 254.0 & 77 & 3.4 & 112 & 4221\\
+141268 & SP & 2015-10-13 & 41.58 & 69.42 & 267.0 & 120 & 5.6 & 134 & 5731\\
+141269 & SP & 2015-10-21 & 41.44 & 69.36 & 254.0 & FTL & 3.3 &  & \\
+141270 & SP & 2015-10-21 & 41.60 & 69.44 & 274.0 & 288 & 6.7 & 107 & 14485\\
+165927 & SP & 2016-10-18 & 41.47 & 69.33 & 313.0 & 80 & 4.7 & DNR & 3885\\
+165928 & SP & 2016-10-18 & 41.47 & 69.33 & 290.0 & 54 & 3.8 & 127 & 3034\\
+\bottomrule
+\end{tabular}
+\end{table}
+\end{landscape}
+
+\clearpage
+
+
+\begin{table}
+\caption{\label{tab:eddytable}Summary of anticyclonic and cyclonic eddy use by blue sharks in the Gulf Stream. Values represent frequency (Freq) and number (N) of positions in eddies of each polarity relative to total number of SPOT positions within the study area for each individual. Correlated random walk (CRW) values show frequency of eddy use as mean (confidence interval). Asterisks (*) and crosses ($^{\dagger}$) indicate the observed eddy use by sharks is greater than and less than the confidence interval calculated from CRW simulations, respectively.}
+\centering
+\begin{tabular}[t]{ccccccc}
+\toprule
+ & \multicolumn{3}{c}{Anticyclonic Eddies} & \multicolumn{3}{c}{Cyclonic Eddies} \\
+Tag ID & Freq & N & CRW & Freq & N & CRW\\
+\midrule
+106744 & 0.24* & 93 & 0.17 (0.15-0.19) & 0.28* & 108 & 0.23 (0.20-0.25)\\
+106745 & 0.19* & 68 & 0.13 (0.12-0.15) &  & 0 & 0.20 (0.17-0.22)\\
+106746 &  & 0 & 0.18 (0.15-0.22) & 0.28* & 33 & 0.11 (0.09-0.13)\\
+106747 &  & 1 & 0.14 (0.12-0.16) & 0.07$^{\dagger}$ & 18 & 0.18 (0.16-0.21)\\
+106748 & 0.33* & 36 & 0.15 (0.13-0.18) &  & 0 & 0.19 (0.15-0.22)\\
+132346 & 0.20 & 21 & 0.20 (0.17-0.22) & 0.14$^{\dagger}$ & 15 & 0.19 (0.17-0.21)\\
+141195 & 0.12$^{\dagger}$ & 20 & 0.15 (0.13-0.18) &  & 0 & 0.15 (0.13-0.18)\\
+141261 & 0.21 & 160 & 0.23 (0.21-0.25) & 0.40* & 308 & 0.28 (0.26-0.3)\\
+141262 & 0.20* & 93 & 0.14 (0.12-0.15) & 0.12$^{\dagger}$ & 55 & 0.21 (0.19-0.24)\\
+141263 & 0.39* & 63 & 0.15 (0.12-0.18) & 0.17 & 28 & 0.17 (0.14-0.19)\\
+141264 & 0.37* & 207 & 0.24 (0.21-0.26) & 0.24* & 138 & 0.21 (0.19-0.23)\\
+141265 & 0.10$^{\dagger}$ & 16 & 0.15 (0.11-0.18) & 0.04$^{\dagger}$ & 7 & 0.17 (0.14-0.19)\\
+141266 &  & 3 & 0.14 (0.12-0.16) & 0.20 & 18 & 0.21 (0.18-0.24)\\
+141268 & 0.28* & 45 & 0.24 (0.21-0.26) & 0.18 & 30 & 0.18 (0.16-0.21)\\
+141270 & 0.20 & 212 & 0.21 (0.19-0.23) & 0.25$^{\dagger}$ & 259 & 0.28 (0.27-0.3)\\
+165927 & 0.02 & 6 & 0.16 (0.14-0.19) & 0.14$^{\dagger}$ & 35 & 0.23 (0.20-0.26)\\
+165928 & 0.15 & 23 & 0.16 (0.14-0.19) & 0.08$^{\dagger}$ & 12 & 0.16 (0.12-0.20)\\
+ALL & 0.19* & 67 & 0.18 (0.17-0.18) & 0.19$^{\dagger}$ & 76 & 0.20 (0.20-0.21)\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\clearpage
+
+\begin{table}
+
+\caption{\label{tab:brttable}Model characteristics, evaluation criteria and predictive performance as developed on 8,200 training locations for the Gulf Stream presence-absence model and 3,000 for the behavior state model. Both were evaluated on an independent set of 8,200 and 2,000 locations for the presence-absence and behavior models, respectively. The presence-absence datasets were comprised of equal numbers of presence and absence locations and were modeled with a learning rate of 0.05 and tree complexity of 5. Variable names correspond to the relative contribution (\%) of predictor variables. Model evaluation metrics are reported for area under the Receiver Operating Characteristic (AUC) curve and deviance explained (D$^2$, \%). K-fold cross validation (KFCV) metrics are reported as mean (standard error).}
+\centering
+\begin{tabular}[t]{llll}
+\toprule
+ & Presence & Behavior\\
+\midrule
+Trees & 1300 & 1550\\
+Predictors & 14 & 14\\
+\hspace{12mm} HSST & 19.7 & 8.9\\
+\hspace{12mm} HSSH & 14.1 & 7.7\\
+\hspace{12mm} BATHY & 13.3 & 13\\
+\hspace{12mm} ILD & 7.6 & 8.1\\
+\hspace{12mm} HSST.SD & 6.4 & 6.8\\
+\hspace{12mm} HSSH.SD & 6.3 & 6.7\\
+\hspace{12mm} EKE & 5.9 & 7.3\\
+\hspace{12mm} CHL & 5.2 & 7.6\\
+\hspace{12mm} FMAG & 5.1 & 7.6\\
+\hspace{12mm} FSLE & 4.8 & 6.2\\
+\hspace{12mm} BATHY.SD & 4.6 & 7.4\\
+\hspace{12mm} FDIST & 2.4 & 4.9\\
+\hspace{12mm} DIST TO ACE & 2.3 & 4.8\\
+\hspace{12mm} DIST TO CE & 2.3 & 3.2\\
+\addlinespace
+Model AUC & & \\
+\hspace{24mm} train & 0.98 & 0.98\\
+\hspace{24mm} KFCV & 0.82 (0.01) & 0.70 (0.01)\\
+\hspace{24mm} indep & 0.83 & 0.81\\
+Deviance explained (\%) & & \\
+\hspace{24mm} train & 74.9 & 73.8\\
+\hspace{24mm} KFCV & 25.6 (1.0) & 10 (0.9)\\
+\hspace{24mm} indep & 27.6 & 22.3\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\clearpage
 
 \section{Abstract} 
 A diverse microbial assemblage in the ocean is responsible for nearly half of global primary production. It has been hypothesized and experimentally demonstrated that nutrient loading can stimulate blooms of large eukaryotic phytoplankton in oligotrophic systems. Although central to better balancing biogeochemical models, knowledge of the metabolic traits that govern the dynamics of these bloom-forming phytoplankton is limited. We employed eukaryotic metatranscriptomic techniques to identify the metabolic basis of functional group-specific traits that may drive the shift between net heterotrophy and autotrophy in the oligotrophic ocean. Replicated blooms were simulated by deep seawater (DSW) addition to mimic nutrient loading in the North Pacific Subtropical Gyre and the transcriptional responses of phytoplankton functional groups were assayed. Responses of the diatom, haptophyte, and dinoflagellate functional groups in simulated blooms were unique, with diatoms and haptophytes significantly (95\% confidence) shifting their quantitative metabolic fingerprint from the \textit{in situ} condition, while dinoflagellates showed little response. Significantly differentially abundant genes identified the importance of co-limitation by nutrients, metals, and vitamins in eukaryotic phytoplankton metabolism and bloom formation in this system. The variable transcript allocation ratio, used to quantify transcript reallocation following DSW amendment, differed for diatoms and haptophytes, reflecting the long-standing paradigm of phytoplankton r- and K-type growth strategies. While the underlying metabolic potential of the large eukaryotic phytoplankton was consistently present, the lack of a bloom during the study period suggests a crucial dependence on physical and biogeochemical forcing, which are susceptible to alteration with changing climate. 
