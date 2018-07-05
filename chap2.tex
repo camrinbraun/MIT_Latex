@@ -17,7 +17,7 @@
 %$^4$ Department of Cell and Molecular Biology, University of Rhode Island, Kingston, RI 02881, USA\\
 %$^5$ Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA\\
 %\\
-{\let\thefootnote\relax\footnotetext{This chapter was originally published as Braun, C.D., Galuardi, B., and Thorrold S.R. (2018). \href{http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12959/full}{HMMoce: An R package for improved geolocation of archival-tagged fishes using a hidden Markov method.} \emph{Methods Ecol. Evol.} 9, 1212-1220. }}
+{\let\thefootnote\relax\footnotetext{This chapter was originally published as Braun, C.D., Galuardi, B., and Thorrold S.R. (2018). \href{http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12959/full}{HMMoce: An R package for improved geolocation of archival-tagged fishes using a hidden Markov method.} \emph{Methods in Ecology and Evolution} 9, 1212-1220. }}
 %\end{singlespace}
 {\let\thefootnote\relax\footnotetext{C.D.B and B.G. conceived the project and developed the package; C.D.B and S.R.T. collected the data; C.D.B. wrote the paper; B.G. and S.R.T. contributed to the writing of the paper.}}
 {\let\thefootnote\relax\footnotetext{The supplemental methods, figures, and tables for this chapter can be found in \cref{sec:app2}.}}
@@ -170,10 +170,9 @@ HMM. Full [F] and removal [R] datasets for light and SST are shown
 \label{fig:c2f1}
 \end{figure}
 
-Briefly, observation-based likelihoods (\cref{eq:a1e1}) were derived from in
-situ SST (\cref{eq:a1e2}), light-based longitude and depth-temperature profile
-data (\cref{eq:a1e3}, \cref{eq:a1e4}, \cref{eq:a1e5}) collected by the tags using five separate
-likelihood calculations: \emph{1)} An SST likelihood (\cref{eq:a1e2}) was
+Briefly, observation-based likelihoods (Eq. \ref{eq:a1e1}) were derived from \is SST (Eq. \ref{eq:a1e2}), light-based longitude and depth-temperature profile
+data (Eq. \ref{eq:a1e3}, \ref{eq:a1e4}, \ref{eq:a1e5}) collected by the tags using five separate
+likelihood calculations: \emph{1)} An SST likelihood (Eq. \ref{eq:a1e2}) was
 generated for tag-based SST values integrated according to an error term
 ($\pm$ 1\%, based on tag sensor accuracy) and compared to
 remotely-sensed SST from daily, optimally-interpolated SST fields
@@ -186,15 +185,15 @@ from the World Ocean Atlas 2013 \citep[WOA, 0.25$^{\circ}$
 resolution;][]{Locarnini2013} and \emph{4)} daily reanalysis model
 depth-temperature products from the HYbrid Coordinate Ocean Model
 \citep[HYCOM, 0.08$^{\circ}$ resolution;][]{Chassignet2007} at standard depth
-levels available in these products (\cref{eq:a1e5}). Individual likelihood
+levels available in these products (Eq. \ref{eq:a1e5}). Individual likelihood
 surfaces for each depth level were then combined for an overall profile
-likelihood at that time point (\cref{eq:a1e6}). \emph{5)} Ocean Heat Content
-(OHC)(\cref{eq:a1e5}) was obtained by integrating the heat content of the water
+likelihood at that time point (Eq. \ref{eq:a1e6}). \emph{5)} Ocean Heat Content
+(OHC)(Eq. \ref{eq:a1e5}) was obtained by integrating the heat content of the water
 column above the minimum daily temperature recorded by the tag for both
-the tag profiles and HYCOM fields \citep[\cref{eq:a1e4};][]{Luo2015}. Start and
+the tag profiles and HYCOM fields \citep[Eq. \ref{eq:a1e4};][]{Luo2015}. Start and
 end locations were considered known in all cases and model runs.
 
-The resulting observation likelihoods (in various combinations; \cref{eq:a1e1})
+The resulting observation likelihoods (in various combinations; Eq. \ref{eq:a1e1})
 were used in a two-step Bayesian state-space approach to estimate the
 posterior distribution of the state (in this case, a joint probability
 distribution of location and behavior at each time point). Probability
