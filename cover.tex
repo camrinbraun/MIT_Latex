@@ -61,9 +61,16 @@ in whole or in part in any medium now known or hereafter created.}
 %% You can either \input (*not* \include) your abstract file, or you can put
 %% the text of the abstract directly between the \begin{abstractpage} and
 %% \end{abstractpage} commands.
-
+\clearpage
+   \hbox{}\par\vfill\centerline%
+   {THIS PAGE INTENTIONALLY LEFT BLANK}%
+   \vfill\newpage\fi
+   \thispagestyle{plain}	% Page style of chapter page is 'plain'
+   %\global\@topnum\z@		% Prevents figures from going at top of page.
+   %\@afterindentfalse
+   
 % First copy: start a new page, and save the page number.
-\cleardoublepage
+\clearpage
 % Uncomment the next line if you do NOT want a page number on your
 % abstract and acknowledgments pages.
 % \pagestyle{empty}
@@ -112,19 +119,19 @@ in whole or in part in any medium now known or hereafter created.}
 {\parindent15pt
 
 \singlespace
-During my time in the MIT-WHOI Joint Program, I have been supported by the NASA Earth and Space Science Fellowship, the MIT John S. Hennessy Fellowship, the MIT Martin Family Society of Fellows for Sustainability Fellowship, the WHOI Ocean Venture, Grassle, and James Stratton Fellowships and the WHOI Academic Programs Office. This research and its dissemination was supported by funds from National Geographic, Amazon Web Services, the Explorers Club, Rolex, Sigma Xi, the MIT Center for International Studies, WHOI Access to the Sea and Coastal Ocean Institute Funds, MIT Graduate Student Council, MIT Student Assistance Fund, WHOI Biology Department, the American Fisheries Society, the WHOI Academic Programs Office and many individual donors of time and resources. For all of your support, large and small, I am eternally grateful. \par\bigskip
+During my time in the MIT-WHOI Joint Program, I have been supported by the NASA Earth and Space Science Fellowship, the MIT John S. Hennessy Fellowship, the MIT Martin Family Society of Fellows for Sustainability Fellowship, the WHOI Ocean Venture, Grassle, and James Stratton Fellowships and the WHOI Academic Programs Office. This research and its dissemination was supported by funds from National Geographic, Amazon Web Services, the Explorers Club, Rolex, Sigma Xi, the MIT Center for International Studies, WHOI Access to the Sea and Coastal Ocean Institute Funds, MIT Graduate Student Council, MIT Student Assistance Fund, WHOI Biology Department, American Fisheries Society, WHOI Academic Programs Office and many individual donors of time and resources. For all of your support, large and small, I am eternally grateful. \par\bigskip
 
 This thesis is a product of a significant amount of time spent on boats. I especially thank Willy Hatch and the M/V Machaca, fishermen in the Shark's Eye Tournament in Montauk, New York, Chris Fischer and the M/V OCEARCH, Eric Savetsky, Tom Burns, Wayne Davis and the M/V Endurance, the R/V Pelican and the many other men, women and vessels for assistance in field tagging operations including Jason Jaacks, Max Kaplan, Ben Galuardi, Jesse Cochran, Tane Sinclair-Taylor, Will Oestreich, Ben Jones, Julie Cavin, Big Al, and Don Braun. Without your tireless support and strong grip on the tail rope, this work would not have been possible.
 
 Thank you to the WHOI Academic Programs and MIT Joint Program staff for your support and dedication to making things run smoothly. Also a major thank you to Drew Brown for his never-ending patience, Becky Gast for her support as education coordinator throughout my time in the JP and the WHOI Biology Department and greater WHOI community for letting me call this place home.
 
-I am grateful to my thesis committee, Glenn Flierl, Gareth Lawson, Dennis McGillicuddy and Greg Skomal, for graciously volunteering their time and knowledge to this endeavor and for their valuable feedback along the way. I would also like to thank my co-authors: Peter Gaube, Ben Galuardi, Greg Skomal, Pedro Afonso, Jorge Fontes and Tane Sinclair-Taylor. Chi Hin Lam contributed code to several pieces of my work. Thank you, all, for your help.
+I am grateful to my thesis committee, Glenn Flierl, Gareth Lawson, Dennis McGillicuddy and Greg Skomal, for graciously volunteering their time and knowledge to this endeavor and for their valuable feedback along the way. Many thanks to Michael Moore for serving as my thesis chair. I would also like to thank my co-authors: Peter Gaube, Ben Galuardi, Greg Skomal, Pedro Afonso, Jorge Fontes and Tane Sinclair-Taylor. Chi Hin Lam contributed code to several pieces of my work. Thank you, all, for your help.
 
-My advisor, Simon Thorrold, has taught me a great deal about being a scientist and a person. He had the patience and drive to teach and support me from my early days as a summer student through to the culmination of my PhD. Without Simon’s guidance, I would certainly not be where I am today. He has gone above and beyond his "duty" as an advisor, and I won't soon forget the many fond memories with the Thorrolds.
+My advisor, Simon Thorrold, has taught me a great deal about being a scientist and a person. He had the patience and drive to teach and support me from my early days as a summer student to the culmination of my PhD. Without Simon's guidance, I would certainly not be where I am today. He has gone above and beyond his "duty" as an advisor, and I won't soon forget the many fond memories with the Thorrolds.
 
-After nearly eight years of living on the Cape I’ve been fortunate to cross paths with many amazing people. To my friends, fellow JP students, and many others who I’ve gotten to know during my time as a student, an enormous thank you for your support and for the memories we shared. Lobster fishing in blizzards, tagging sharks from inflatable boats, eating more amazing meals with incredible people than I can count, scaling the Swiss Alps, skiing post-Soviet Georgia, diving remote tropical atolls and many other memories will stick with me forever.
+After nearly eight years of living on the Cape I've been fortunate to cross paths with many amazing people. To my friends, fellow JP students, and many others who I've gotten to know during my time as a student, an enormous thank you for your support and for the memories we shared. Lobster fishing in blizzards, tagging sharks from inflatable boats, eating more amazing meals with incredible people than I can count, scaling the Swiss Alps, skiing post-Soviet Georgia, diving remote tropical atolls and many other memories will stick with me forever.
 
-I am especially grateful for the support from my family who instilled in me a love for being outside and the work ethic that keeps me going. You taught me to be curious about the world around me, didn’t blink (much) when that curiosity led me to the Red Sea or took me off the grid for months at a time, and have stuck with me despite my love for a seemingly fiscally-irresponsible career.
+I am especially grateful for the support from my family who instilled in me a love for being outside and the work ethic that keeps me going. You taught me to be curious about the world around me, didn't blink (much) when that curiosity led me to the Red Sea or took me off the grid for months at a time, and have stuck with me despite my love for an incredibly rewarding but seemingly fiscally-irresponsible career.
 
 
 }
